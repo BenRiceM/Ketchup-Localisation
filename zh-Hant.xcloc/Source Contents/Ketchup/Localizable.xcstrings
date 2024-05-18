@@ -110,15 +110,7 @@
       "comment" : "high happiness evolution requirement"
     },
     " if its attack is equal to its defence" : {
-      "comment" : "equal attack and defense evolution requirement",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " if its attack is equal to its defense"
-          }
-        }
-      }
+      "comment" : "equal attack and defense evolution requirement"
     },
     " if its attack is greater than its defense" : {
       "comment" : "higher attack evolution requirement"
@@ -140,9 +132,6 @@
     },
     " in " : {
 
-    },
-    " in the DS’s second slot." : {
-      "comment" : "Encounter Condition"
     },
     " is in the player’s party" : {
       "comment" : "creature in players party evolution requirement"
@@ -258,71 +247,11 @@
     "Adds grass to the target’s types." : {
       "comment" : "Move Effect Description"
     },
-    "Afer defeating the Elite Four a second time." : {
-      "comment" : "Encounter Condition"
-    },
-    "After curing Sailor Eldritch’s son’s nightmares." : {
-      "comment" : "Encounter Condition"
-    },
-    "After defeating Jupiter." : {
-      "comment" : "Encounter Condition"
-    },
-    "After defeating Mars." : {
-      "comment" : "Encounter Condition"
-    },
-    "After defeating Red." : {
-      "comment" : "Encounter Condition"
-    },
-    "After defeating Team Galactic at Iron Island." : {
-      "comment" : "Encounter Condition"
-    },
-    "After encountering Tornadus and Thunderus." : {
-      "comment" : "Encounter Condition"
-    },
-    "After entering the correct password." : {
-      "comment" : "Encounter Condition"
-    },
-    "After Entering the Hall of Fame" : {
-      "comment" : "Encounter Condition"
-    },
-    "After having awakened the beasts." : {
-      "comment" : "Encounter Condition"
-    },
     "After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn." : {
       "comment" : "Move Effect Description"
     },
-    "After receiving a Kanto starter." : {
-      "comment" : "Encounter Condition"
-    },
-    "After receiving the National Dex." : {
-      "comment" : "Encounter Condition"
-    },
-    "After receiving the Zephyr Badge." : {
-      "comment" : "Encounter Condition"
-    },
-    "After receiving TM59 from Claire." : {
-      "comment" : "Encounter Condition"
-    },
-    "After returning Copycat’s doll to the Pokémon Fan Club." : {
-      "comment" : "Encounter Condition"
-    },
-    "After Returning the Machine Part to the Power Plant." : {
-      "comment" : "Encounter Condition"
-    },
-    "After talking to at least 32 people in the Underground." : {
-      "comment" : "Encounter Condition"
-    },
-    "After talking to Cynthias Grandmother." : {
-      "comment" : "Encounter Condition"
-    },
-    "After talking to Professor Oak in Eterna City." : {
-      "comment" : "Encounter Condition"
-    },
     "after using Agile Style Psyshield Bash at least 20 times" : {
       "comment" : "Wydeer evolution Text"
-    },
-    "After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" : {
-      "comment" : "Encounter Condition"
     },
     "All" : {
       "comment" : "Filter Option for All Creatures"
@@ -354,9 +283,6 @@
     "Ally’s next move inflicts half more damage." : {
       "comment" : "Move Effect Description"
     },
-    "Alpha Sapphire" : {
-      "comment" : "Pokémon Alpha Sapphire"
-    },
     "Alphabetical" : {
       "comment" : "Alphabetical Sorting option"
     },
@@ -374,12 +300,6 @@
     },
     "Appearance" : {
 
-    },
-    "Armor" : {
-      "comment" : "Creature Shape"
-    },
-    "Arms" : {
-      "comment" : "Creature Shape"
     },
     "at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" : {
       "comment" : "Maushold evolution text"
@@ -402,9 +322,6 @@
     "Badly poisons the target, inflicting more damage every turn." : {
       "comment" : "Move Effect Description"
     },
-    "Ball" : {
-      "comment" : "Creature Shape"
-    },
     "Ballistics" : {
 
     },
@@ -414,39 +331,17 @@
     "Bite" : {
 
     },
-    "Black" : {
-      "comment" : "Pokémon Black"
-    },
-    "Black 2" : {
-      "comment" : "Pokémon Black 2"
-    },
-    "Blob" : {
-      "comment" : "Creature Shape"
-    },
     "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." : {
       "comment" : "Move Effect Description"
     },
     "Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." : {
       "comment" : "Move Effect Description"
     },
-    "Blog" : {
-      "comment" : "Creature Shape",
-      "extractionState" : "stale"
-    },
-    "Blue" : {
-      "comment" : "Pokémon Blue"
-    },
     "Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row." : {
       "comment" : "Move Effect Description"
     },
-    "Brilliant Diamond" : {
-      "comment" : "Pokémon Brilliant Diamond"
-    },
     "Bug" : {
-      "comment" : "Creature Egg Group\nPokémon Type Bug"
-    },
-    "Bug Wings" : {
-      "comment" : "Creature Shape"
+      "comment" : "Pokémon Type Bug"
     },
     "Burns the target." : {
       "comment" : "Move Effect Description"
@@ -554,24 +449,10 @@
 
     },
     "Check Type Defence" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Check Type Defense"
-          }
-        }
-      }
-    },
-    "Check Type Defense" : {
 
     },
     "Check your internet connection and make sure you’re signed into the App Store." : {
       "comment" : "A help message displayed when In-App-Purchase is unavailable."
-    },
-    "Checking Berry piles" : {
-      "comment" : "Encounter Method"
     },
     "Cleanses the user of a burn, paralysis, or poison." : {
       "comment" : "Move Effect Description"
@@ -581,9 +462,6 @@
     },
     "Clear Filters" : {
 
-    },
-    "Colosseum" : {
-      "comment" : "Pokémon Colosseum"
     },
     "Confuses the target." : {
       "comment" : "Move Effect Description"
@@ -611,12 +489,6 @@
     },
     "Creatures" : {
       "comment" : "Navigation item for creatures"
-    },
-    "Creatures with " : {
-      "comment" : "String preceding ability name"
-    },
-    "Crystal" : {
-      "comment" : "Pokémon Crystal"
     },
     "Cures the entire party of major status effects after inflicting damage." : {
       "comment" : "Move Effect Description"
@@ -678,9 +550,6 @@
     "Destroys the target’s held berry." : {
       "comment" : "Move Effect Description"
     },
-    "Diamond" : {
-      "comment" : "Pokémon Diamond"
-    },
     "Disables moves and immunities that involve flying or levitating for five turns." : {
       "comment" : "Move Effect Description"
     },
@@ -696,12 +565,6 @@
     "Distance" : {
 
     },
-    "Ditto" : {
-      "comment" : "Creature Egg Group"
-    },
-    "Diving on seaweed" : {
-      "comment" : "Encounter Method"
-    },
     "Does nothing." : {
       "comment" : "Move Effect Description"
     },
@@ -712,7 +575,7 @@
 
     },
     "Dragon" : {
-      "comment" : "Creature Egg Group\nPokémon Type Dragon"
+      "comment" : "Pokémon Type Dragon"
     },
     "Drains 75% of the damage inflicted to heal the user." : {
       "comment" : "Move Effect Description"
@@ -722,36 +585,6 @@
     },
     "Dual Type" : {
       "comment" : "Represents the type calculator mode for picking two defensive types"
-    },
-    "During a Mass outbreak." : {
-      "comment" : "Encounter Condition"
-    },
-    "During autumn." : {
-      "comment" : "Encounter Condition"
-    },
-    "During Daytime." : {
-      "comment" : "Encounter Condition"
-    },
-    "During Morning." : {
-      "comment" : "Encounter Condition"
-    },
-    "During Night." : {
-      "comment" : "Encounter Condition"
-    },
-    "During SOS battle while fishing at a bubbling spot" : {
-      "comment" : "Encounter Method"
-    },
-    "During SOS battles" : {
-      "comment" : "Encounter Method"
-    },
-    "During spring." : {
-      "comment" : "Encounter Condition"
-    },
-    "During summer." : {
-      "comment" : "Encounter Condition"
-    },
-    "During winter." : {
-      "comment" : "Encounter Condition"
     },
     "Effect" : {
 
@@ -776,9 +609,6 @@
     },
     "Email Support" : {
 
-    },
-    "Emerald" : {
-      "comment" : "Pokémon Emerald"
     },
     "Ends wild battles. Forces trainers to switch Pokémon." : {
       "comment" : "Move Effect Description"
@@ -805,7 +635,7 @@
 
     },
     "Fairy" : {
-      "comment" : "Creature Egg Group\nPokémon Type Fairy"
+      "comment" : "Pokémon Type Fairy"
     },
     "Fast" : {
       "comment" : "Creature Growth Rate - Fast"
@@ -837,30 +667,6 @@
     "Fire" : {
       "comment" : "Pokémon Type Fire"
     },
-    "Fire Red" : {
-      "comment" : "Pokémon Fire Red"
-    },
-    "Fish" : {
-      "comment" : "Creature Shape"
-    },
-    "Fishing at a bubbling spot" : {
-      "comment" : "Encounter Method"
-    },
-    "Fishing in a Feebas Tile" : {
-      "comment" : "Encounter Method"
-    },
-    "Fishing in dark spots" : {
-      "comment" : "Encounter Method"
-    },
-    "Fishing with a Good Rod" : {
-      "comment" : "Encounter Method"
-    },
-    "Fishing with a Super Rod" : {
-      "comment" : "Encounter Method"
-    },
-    "Fishing with an Old Rod" : {
-      "comment" : "Encounter Method"
-    },
     "Fling Effect" : {
 
     },
@@ -871,7 +677,7 @@
       "comment" : "Creature Growth Rate - Fluctuating"
     },
     "Flying" : {
-      "comment" : "Creature Egg Group\nPokémon Type Flying"
+      "comment" : "Pokémon Type Flying"
     },
     "for all features" : {
 
@@ -948,9 +754,6 @@
     "Gives the user’s held item to the target." : {
       "comment" : "Move Effect Description"
     },
-    "Gold" : {
-      "comment" : "Pokémon Gold"
-    },
     "Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it." : {
       "comment" : "Move Effect Description"
     },
@@ -961,7 +764,7 @@
 
     },
     "Ground" : {
-      "comment" : "Creature Egg Group\nPokémon Type Ground"
+      "comment" : "Pokémon Type Ground"
     },
     "Grounds the target, and hits even Flying-type or levitating Pokémon." : {
 
@@ -1113,21 +916,6 @@
     "Hatch Counter" : {
 
     },
-    "Headbutting a high encounter rate tree" : {
-      "comment" : "Encounter Method"
-    },
-    "Headbutting a low encounter rate tree" : {
-      "comment" : "Encounter Method"
-    },
-    "Headbutting a normal encounter rate tree" : {
-      "comment" : "Encounter Method"
-    },
-    "Headbutting trees" : {
-      "comment" : "Encounter Method"
-    },
-    "Heads" : {
-      "comment" : "Creature Shape"
-    },
     "Heal" : {
 
     },
@@ -1151,9 +939,6 @@
     },
     "Heals the user for half the total damage dealt to all targets." : {
       "comment" : "Move Effect Description"
-    },
-    "Heart Gold" : {
-      "comment" : "Pokémon Heart Gold"
     },
     "Height" : {
 
@@ -1212,12 +997,6 @@
     "How to Add Skins to Delta" : {
 
     },
-    "Human Shape" : {
-      "comment" : "Creature Egg Group"
-    },
-    "Humanoid" : {
-      "comment" : "Creature Shape"
-    },
     "I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. \n— Ben" : {
 
     },
@@ -1269,30 +1048,6 @@
     "If there be weather, this move has doubled power and the weather’s type." : {
       "comment" : "Move Effect Description"
     },
-    "If you chose Blue during the TV interview." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Bulbasaur as your starter." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Charmander as your starter." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Chespin as your starter." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Fennekin as your starter." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Froakie as your starter." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Red during the TV interview." : {
-      "comment" : "Encounter Condition"
-    },
-    "If you chose Squirtle as your starter." : {
-      "comment" : "Encounter Condition"
-    },
     "If you don’t have a default email app configured, you can email me directly at support@obscura.studio" : {
 
     },
@@ -1328,9 +1083,6 @@
     },
     "Increases the user’s chance to score a critical hit." : {
       "comment" : "Move Effect Description"
-    },
-    "Indeterminate" : {
-      "comment" : "Creature Egg Group"
     },
     "Inflicts 20 points of damage." : {
       "comment" : "Move Effect Description"
@@ -1455,9 +1207,6 @@
     "Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness" : {
       "comment" : "Kubfu Single evolution text"
     },
-    "Leaf Green" : {
-      "comment" : "Pokémon Leaf Green"
-    },
     "Learn more about Delta" : {
 
     },
@@ -1469,18 +1218,6 @@
     },
     "Legacy Move" : {
 
-    },
-    "Legends: Arceus" : {
-      "comment" : "Pokémon Legends: Arceus"
-    },
-    "Legs" : {
-      "comment" : "Creature Shape"
-    },
-    "Let’s Go, Eevee!" : {
-      "comment" : "Pokémon Let’s Go, Eevee!"
-    },
-    "Let’s Go, Pikachu!" : {
-      "comment" : "Pokémon Let’s Go, Pikachu!"
     },
     "Let’s Go!" : {
 
@@ -1602,20 +1339,11 @@
     "Mental" : {
 
     },
-    "Mineral" : {
-      "comment" : "Creature Egg Group"
-    },
     "Mirror" : {
 
     },
     "Missing Artwork" : {
 
-    },
-    "Monster" : {
-      "comment" : "Creature Egg Group"
-    },
-    "Moon" : {
-      "comment" : "Pokémon Moon"
     },
     "Moves" : {
       "comment" : "Navigation item for moves"
@@ -1643,9 +1371,6 @@
     },
     "No effect" : {
       "comment" : "Effectiveness 0×"
-    },
-    "No Eggs" : {
-      "comment" : "Creature Egg Group"
     },
     "No Favorites" : {
 
@@ -1692,36 +1417,6 @@
     "Numerical" : {
       "comment" : "Numerical Sorting option"
     },
-    "Omega Ruby" : {
-      "comment" : "Pokémon Omega Ruby"
-    },
-    "On any overworld patch of grass" : {
-      "comment" : "Encounter Method"
-    },
-    "On any overworld water tile" : {
-      "comment" : "Encounter Method"
-    },
-    "On Fridays" : {
-      "comment" : "Encounter Condition"
-    },
-    "On Mondays" : {
-      "comment" : "Encounter Condition"
-    },
-    "On Saturdays" : {
-      "comment" : "Encounter Condition"
-    },
-    "On Sundays" : {
-      "comment" : "Encounter Condition"
-    },
-    "On Thursdays" : {
-      "comment" : "Encounter Condition"
-    },
-    "On Tuesdays" : {
-      "comment" : "Encounter Condition"
-    },
-    "On Wednesdays" : {
-      "comment" : "Encounter Condition"
-    },
     "Only inflicts damage if the user was hit by a physical move this turn." : {
       "comment" : "Move Effect Description"
     },
@@ -1743,9 +1438,6 @@
     "Paralyzes the target." : {
       "comment" : "Move Effect Description"
     },
-    "Pearl" : {
-      "comment" : "Pokémon Pearl"
-    },
     "Permanently becomes the target’s last used move." : {
       "comment" : "Move Effect Description"
     },
@@ -1757,15 +1449,6 @@
     },
     "Pinned" : {
 
-    },
-    "Plant" : {
-      "comment" : "Creature Egg Group"
-    },
-    "Platinum" : {
-      "comment" : "Pokémon Platinum"
-    },
-    "Playing Pokéflute" : {
-      "comment" : "Encounter Method"
     },
     "Please don’t sue me." : {
 
@@ -1938,9 +1621,6 @@
     "PWR" : {
 
     },
-    "Quadruped" : {
-      "comment" : "Creature Shape"
-    },
     "Quiz" : {
 
     },
@@ -2073,12 +1753,6 @@
     "Randomly uses one of the user’s other three moves. Only works if the user is sleeping." : {
       "comment" : "Move Effect Description"
     },
-    "Receive as a gift" : {
-      "comment" : "Encounter Method"
-    },
-    "Receive egg as a gift" : {
-      "comment" : "Encounter Method"
-    },
     "Recents" : {
 
     },
@@ -2087,9 +1761,6 @@
     },
     "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles." : {
       "comment" : "Move Effect Description"
-    },
-    "Red" : {
-      "comment" : "Pokémon Red"
     },
     "REDACTED" : {
 
@@ -2160,15 +1831,6 @@
     "Rock" : {
       "comment" : "Pokémon Type Rock"
     },
-    "Ruby" : {
-      "comment" : "Pokémon Ruby"
-    },
-    "Sapphire" : {
-      "comment" : "Pokémon Sapphire"
-    },
-    "Scarlet" : {
-      "comment" : "Pokémon Scarlet"
-    },
     "Scatters money on the ground worth five times the user’s level." : {
       "comment" : "Move Effect Description"
     },
@@ -2217,12 +1879,6 @@
     "Shedinja appears when Nincada evolves into Nijask at level 20 if the player also has a spare slot in their party and at least one Poké Ball in their bag" : {
       "comment" : "Shedinja Evolution Description"
     },
-    "Shield" : {
-      "comment" : "Pokémon Shield"
-    },
-    "Shining Pearl" : {
-      "comment" : "Pokémon Shining Pearl"
-    },
     "Shiny" : {
       "comment" : "Filter Option for Caught-Shiny Creatures\nThe shiny caught state for a creature"
     },
@@ -2241,17 +1897,11 @@
     "Show Info For:" : {
 
     },
-    "Silver" : {
-      "comment" : "Pokémon Silver"
-    },
     "Single Type" : {
       "comment" : "Represents the type calculator mode for picking one defensive type"
     },
     "Slow" : {
       "comment" : "Creature Growth Rate - Slow"
-    },
-    "Smashing rocks" : {
-      "comment" : "Encounter Method"
     },
     "Snatch" : {
 
@@ -2261,9 +1911,6 @@
     },
     "Sort Order" : {
 
-    },
-    "Soul Silver" : {
-      "comment" : "Pokémon Soul Silver"
     },
     "Sound" : {
 
@@ -2277,14 +1924,8 @@
     "Specific Move" : {
 
     },
-    "Squiggle" : {
-      "comment" : "Creature Shape"
-    },
     "starting at level " : {
       "comment" : "text between evolution cretures and level"
-    },
-    "Static encounter, only one chance" : {
-      "comment" : "Encounter Method"
     },
     "Stats" : {
       "comment" : "Creature Page Battle Stats Section Header"
@@ -2310,23 +1951,11 @@
     "Submit" : {
       "comment" : "Sumbit a guess for the quiz"
     },
-    "Sun" : {
-      "comment" : "Pokémon Sun"
-    },
     "Super-effective against water." : {
       "comment" : "Move Effect Description"
     },
     "Support" : {
 
-    },
-    "Surfing" : {
-      "comment" : "Encounter Method"
-    },
-    "Surfing in dark spots" : {
-      "comment" : "Encounter Method"
-    },
-    "Sword" : {
-      "comment" : "Pokémon Sword"
     },
     "Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages." : {
       "comment" : "Move Effect Description"
@@ -2355,26 +1984,11 @@
     "Target sleeps at the end of the next turn." : {
       "comment" : "Move Effect Description"
     },
-    "Tentacles" : {
-      "comment" : "Creature Shape"
-    },
     "Thanks for your support" : {
 
     },
     "That’s right, it’s: " : {
       "comment" : "Win game text, shown before creature name"
-    },
-    "The Crown Tundra" : {
-      "comment" : "The Crown Tundra Expansion"
-    },
-    "The Indigo Disk" : {
-      "comment" : "The Indigo Disk Expansion"
-    },
-    "The Isle of Armor" : {
-      "comment" : "The Isle of Armor Expansion"
-    },
-    "The Teal Mask" : {
-      "comment" : "The Teal Mask Expansion"
     },
     "The turn after this move is used, the Pokémon’s action is skipped so it can recharge." : {
 
@@ -2448,9 +2062,6 @@
     "to unlock all the great creatures and features" : {
 
     },
-    "Trading with an in-game character" : {
-      "comment" : "Encounter Method"
-    },
     "Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks." : {
       "comment" : "Move Effect Description"
     },
@@ -2469,17 +2080,8 @@
     "Type:" : {
 
     },
-    "Ultra Moon" : {
-      "comment" : "Pokémon Ultra Moon"
-    },
-    "Ultra Sun" : {
-      "comment" : "Pokémon Ultra Sun"
-    },
     "Unfavorite" : {
 
-    },
-    "Unknown" : {
-      "comment" : "Creature Shape\nEncounter Method"
     },
     "Unknown Ability" : {
       "comment" : "Fallback text if an Ability’s name can’t be found"
@@ -2489,9 +2091,6 @@
     },
     "Upgrade to" : {
 
-    },
-    "Upright" : {
-      "comment" : "Creature Shape"
     },
     "User" : {
 
@@ -2628,62 +2227,11 @@
     "using an unknown method" : {
       "comment" : "Unknown evolution text"
     },
-    "Using Devon Scope" : {
-      "comment" : "Encounter Method"
-    },
-    "Using Island Scan" : {
-      "comment" : "Encounter Method"
-    },
-    "Using the Squirt Bottle on a Sudowoodo" : {
-      "comment" : "Encounter Method"
-    },
-    "Using the Wailmer Pail on a Sudowoodo" : {
-      "comment" : "Encounter Method"
-    },
     "View Options" : {
 
     },
-    "Violet" : {
-      "comment" : "Pokémon Violet"
-    },
-    "Walking in bridge shadows" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in dark grass" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in dust clouds" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in purple flowers" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in red flowers" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in rustling grass" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in tall grass or a cave" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking in yellow flowers" : {
-      "comment" : "Encounter Method"
-    },
-    "Walking on rough terrain" : {
-      "comment" : "Encounter Method"
-    },
     "Water" : {
       "comment" : "Pokémon Type Water"
-    },
-    "Water 1" : {
-      "comment" : "Creature Egg Group"
-    },
-    "Water 2" : {
-      "comment" : "Creature Egg Group"
-    },
-    "Water 3" : {
-      "comment" : "Creature Egg Group"
     },
     "Weaknesses" : {
       "comment" : "Type Matchup Weaknesses"
@@ -2739,29 +2287,8 @@
     "While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback. \n— Ben" : {
 
     },
-    "While playing on the Virtual Console edition of the game." : {
-      "comment" : "Encounter Condition"
-    },
-    "While your first party Pokémon has high friendship." : {
-      "comment" : "Encounter Condition"
-    },
-    "White" : {
-      "comment" : "Pokémon White"
-    },
-    "White 2" : {
-      "comment" : "Pokémon White 2"
-    },
     "Who’s That Pokémon?!" : {
 
-    },
-    "Wings" : {
-      "comment" : "Creature Shape"
-    },
-    "With " : {
-      "comment" : "Encounter Condition"
-    },
-    "With an Event Arceus in your party." : {
-      "comment" : "Encounter Condition"
     },
     "With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns." : {
       "comment" : "Move Effect Description"
@@ -2775,56 +2302,8 @@
     "With Grass Pledge, halves opposing Pokémon’s Speed for four turns." : {
       "comment" : "Move Effect Description"
     },
-    "With PokéRadar active." : {
-      "comment" : "Encounter Condition"
-    },
-    "With Regirock, Regice, and Registeel in your party." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Adamant Orb." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Claw Fossil." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Dome Fossil." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Helix Fossil." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Lustrous Orb." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Odd Keystone." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Old Amber." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the PokéGear Radio set to Hoenn Sounds." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the PokéGear Radio set to Sinnoh Sounds." : {
-      "comment" : "Encounter Condition"
-    },
-    "With the Root Fossil." : {
-      "comment" : "Encounter Condition"
-    },
     "With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns." : {
       "comment" : "Move Effect Description"
-    },
-    "X" : {
-      "comment" : "Pokémon X"
-    },
-    "XD" : {
-      "comment" : "Pokémon XD"
-    },
-    "Y" : {
-      "comment" : "Pokémon Y"
-    },
-    "Yellow" : {
-      "comment" : "Pokémon Yellow"
     },
     "You haven’t caught any pokemon yet!" : {
 

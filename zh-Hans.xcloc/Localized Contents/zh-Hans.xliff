@@ -7,7 +7,6 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Ketchup</source>
-        <target state="translated">番茄酱</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -24,7 +23,7 @@
       </trans-unit>
       <trans-unit id=" " xml:space="preserve">
         <source> </source>
-        <target state="translated"> </target>
+        <target state="translated"/>
         <note/>
       </trans-unit>
       <trans-unit id=" at " xml:space="preserve">
@@ -198,7 +197,7 @@
         <note>high happiness evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if its attack is equal to its defence" xml:space="preserve">
-        <source> if its attack is equal to its defense</source>
+        <source> if its attack is equal to its defence</source>
         <target state="translated">如果它的攻击等于它的防御</target>
         <note>equal attack and defense evolution requirement</note>
       </trans-unit>
@@ -236,10 +235,6 @@
         <source> in </source>
         <target state="translated">铟</target>
         <note/>
-      </trans-unit>
-      <trans-unit id=" in the DS’s second slot." xml:space="preserve">
-        <source> in the DS’s second slot.</source>
-        <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
         <source> is in the player’s party</source>
@@ -404,98 +399,15 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
         <source>Adds ghost to the target’s types.</source>
-        <target state="translated">将鬼魂添加到目标类型中。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
         <source>Adds grass to the target’s types.</source>
-        <target state="translated">将草添加到目标的类型中。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
-        <source>Afer defeating the Elite Four a second time.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
-        <source>After Entering the Hall of Fame</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After Returning the Machine Part to the Power Plant." xml:space="preserve">
-        <source>After Returning the Machine Part to the Power Plant.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After curing Sailor Eldritch’s son’s nightmares." xml:space="preserve">
-        <source>After curing Sailor Eldritch’s son’s nightmares.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After defeating Jupiter." xml:space="preserve">
-        <source>After defeating Jupiter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After defeating Mars." xml:space="preserve">
-        <source>After defeating Mars.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After defeating Red." xml:space="preserve">
-        <source>After defeating Red.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
-        <source>After defeating Team Galactic at Iron Island.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After encountering Tornadus and Thunderus." xml:space="preserve">
-        <source>After encountering Tornadus and Thunderus.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After entering the correct password." xml:space="preserve">
-        <source>After entering the correct password.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After having awakened the beasts." xml:space="preserve">
-        <source>After having awakened the beasts.</source>
-        <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn." xml:space="preserve">
         <source>After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn.</source>
-        <target state="translated">造成伤害后，导致所有普通类型动作在剩余回合中变为电类型。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="After receiving TM59 from Claire." xml:space="preserve">
-        <source>After receiving TM59 from Claire.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After receiving a Kanto starter." xml:space="preserve">
-        <source>After receiving a Kanto starter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After receiving the National Dex." xml:space="preserve">
-        <source>After receiving the National Dex.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After receiving the Zephyr Badge." xml:space="preserve">
-        <source>After receiving the Zephyr Badge.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
-        <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
-        <source>After talking to Cynthias Grandmother.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After talking to Professor Oak in Eterna City." xml:space="preserve">
-        <source>After talking to Professor Oak in Eterna City.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After talking to at least 32 people in the Underground." xml:space="preserve">
-        <source>After talking to at least 32 people in the Underground.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" xml:space="preserve">
-        <source>After visiting Lake Verity after defeating Team Galactic at Mt. Coronet</source>
-        <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
@@ -524,12 +436,10 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="All Pokémon’s Defense and Special Defense are swapped for 5 turns." xml:space="preserve">
         <source>All Pokémon’s Defense and Special Defense are swapped for 5 turns.</source>
-        <target state="translated">所有宝可梦的防御与特防互换5回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Allows the trainer to switch out the user and pass effects along to its replacement." xml:space="preserve">
         <source>Allows the trainer to switch out the user and pass effects along to its replacement.</source>
-        <target state="translated">允许训练师切换用户并将效果传递给替代者。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Ally" xml:space="preserve">
@@ -539,12 +449,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Ally’s next move inflicts half more damage." xml:space="preserve">
         <source>Ally’s next move inflicts half more damage.</source>
-        <target state="translated">盟友的下一步行动将造成一半以上的伤害。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Alpha Sapphire" xml:space="preserve">
-        <source>Alpha Sapphire</source>
-        <note>Pokémon Alpha Sapphire</note>
       </trans-unit>
       <trans-unit id="Alphabetical" xml:space="preserve">
         <source>Alphabetical</source>
@@ -558,7 +463,6 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Always scores a critical hit." xml:space="preserve">
         <source>Always scores a critical hit.</source>
-        <target state="translated">总是能造成致命一击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
@@ -576,16 +480,6 @@ The Creature Page Abilities Section Title</note>
         <target state="translated">外表</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Armor" xml:space="preserve">
-        <source>Armor</source>
-        <target state="translated">盔甲</target>
-        <note>Creature Shape</note>
-      </trans-unit>
-      <trans-unit id="Arms" xml:space="preserve">
-        <source>Arms</source>
-        <target state="translated">臂状物</target>
-        <note>Creature Shape</note>
-      </trans-unit>
       <trans-unit id="Attack" xml:space="preserve">
         <source>Attack</source>
         <target state="translated">攻击</target>
@@ -598,23 +492,15 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Averages Attack and Special Attack with the target." xml:space="preserve">
         <source>Averages Attack and Special Attack with the target.</source>
-        <target state="translated">对目标进行平均攻击和特殊攻击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Averages Defense and Special Defense with the target." xml:space="preserve">
         <source>Averages Defense and Special Defense with the target.</source>
-        <target state="translated">与目标平均防御和特殊防御。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Badly poisons the target, inflicting more damage every turn." xml:space="preserve">
         <source>Badly poisons the target, inflicting more damage every turn.</source>
-        <target state="translated">严重毒害目标，每一回合造成更大的伤害。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Ball" xml:space="preserve">
-        <source>Ball</source>
-        <target state="translated">球</target>
-        <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Ballistics" xml:space="preserve">
         <source>Ballistics</source>
@@ -631,61 +517,25 @@ The Creature Page Abilities Section Title</note>
         <target state="translated">一口</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Black" xml:space="preserve">
-        <source>Black</source>
-        <note>Pokémon Black</note>
-      </trans-unit>
-      <trans-unit id="Black 2" xml:space="preserve">
-        <source>Black 2</source>
-        <note>Pokémon Black 2</note>
-      </trans-unit>
-      <trans-unit id="Blob" xml:space="preserve">
-        <source>Blob</source>
-        <target state="translated">一滴</target>
-        <note>Creature Shape</note>
-      </trans-unit>
       <trans-unit id="Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." xml:space="preserve">
         <source>Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.</source>
-        <target state="translated">阻挡伤害性攻击，并对攻击神奇宝贝造成其最大生命值的 1/8 的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." xml:space="preserve">
         <source>Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme.</source>
-        <target state="translated">抵挡伤害性攻击，并在接触时降低攻击型宝可梦的攻击力两级。将 Aegislash 切换为 Shield Forme。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Blog" xml:space="preserve">
-        <source>Blog</source>
-        <target state="translated">博客</target>
-        <note>Creature Shape</note>
-      </trans-unit>
-      <trans-unit id="Blue" xml:space="preserve">
-        <source>Blue</source>
-        <note>Pokémon Blue</note>
       </trans-unit>
       <trans-unit id="Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row." xml:space="preserve">
         <source>Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row.</source>
-        <target state="translated">连续两到五次造成伤害后，使用者的速度会提高，防御会降低一个阶段。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Brilliant Diamond" xml:space="preserve">
-        <source>Brilliant Diamond</source>
-        <note>Pokémon Brilliant Diamond</note>
       </trans-unit>
       <trans-unit id="Bug" xml:space="preserve">
         <source>Bug</source>
         <target state="translated">昆虫</target>
-        <note>Creature Egg Group
-Pokémon Type Bug</note>
-      </trans-unit>
-      <trans-unit id="Bug Wings" xml:space="preserve">
-        <source>Bug Wings</source>
-        <target state="translated">虫翼</target>
-        <note>Creature Shape</note>
+        <note>Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Burns the target." xml:space="preserve">
         <source>Burns the target.</source>
-        <target state="translated">灼伤目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="But you still have to subscribe" xml:space="preserve">
@@ -700,27 +550,22 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Calculates damage with the target’s attacking stat." xml:space="preserve">
         <source>Calculates damage with the target’s attacking stat.</source>
-        <target state="translated">根据目标的攻击属性计算伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used after all of the user’s other moves have been used." xml:space="preserve">
         <source>Can only be used after all of the user’s other moves have been used.</source>
-        <target state="translated">仅当使用者的其他所有招式都已使用后才可使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used after the user has eaten a berry." xml:space="preserve">
         <source>Can only be used after the user has eaten a berry.</source>
-        <target state="translated">仅可在使用者吃了浆果后使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used as the first move after the user enters battle." xml:space="preserve">
         <source>Can only be used as the first move after the user enters battle.</source>
-        <target state="translated">仅可作为使用者进入战斗后的第一个招式使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used as the first move after the user enters battle. Causes the target to flinch." xml:space="preserve">
         <source>Can only be used as the first move after the user enters battle. Causes the target to flinch.</source>
-        <target state="translated">仅可作为使用者进入战斗后的第一个招式使用。使目标畏缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -730,17 +575,14 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Cannot be disrupted by abilities." xml:space="preserve">
         <source>Cannot be disrupted by abilities.</source>
-        <target state="translated">无法被技能干扰。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cannot lower the target’s HP below 1." xml:space="preserve">
         <source>Cannot lower the target’s HP below 1.</source>
-        <target state="translated">无法使目标的生命值低于1。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Carries the target high into the air, dodging all attacks against either, and drops it next turn." xml:space="preserve">
         <source>Carries the target high into the air, dodging all attacks against either, and drops it next turn.</source>
-        <target state="translated">将目标高高举起至空中，躲避所有攻击，并在下一回合将其放下。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Catch Filter" xml:space="preserve">
@@ -786,72 +628,58 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Causes a one-hit KO." xml:space="preserve">
         <source>Causes a one-hit KO.</source>
-        <target state="translated">造成一击 KO。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Causes damage when opposing Pokémon switch in." xml:space="preserve">
         <source>Causes damage when opposing Pokémon switch in.</source>
-        <target state="translated">在对手宝可梦切换时造成伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes all normal moves to electric moves for the rest of the turn." xml:space="preserve">
         <source>Changes all normal moves to electric moves for the rest of the turn.</source>
-        <target state="translated">在本回合的剩余时间内，将所有普通招式改为电动招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the target’s ability to Insomnia." xml:space="preserve">
         <source>Changes the target’s ability to Insomnia.</source>
-        <target state="translated">将目标的能力改变为失眠。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the target’s ability to Simple." xml:space="preserve">
         <source>Changes the target’s ability to Simple.</source>
-        <target state="translated">将目标的能力改为简单。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the target’s move’s type to electric if it hasn’t moved yet this turn." xml:space="preserve">
         <source>Changes the target’s move’s type to electric if it hasn’t moved yet this turn.</source>
-        <target state="translated">如果目标本回合尚未移动，则将其移动类型更改为电。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the target’s type to Water." xml:space="preserve">
         <source>Changes the target’s type to Water.</source>
-        <target state="translated">将目标的类型更改为水。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the terrain to Psychic Terrain after inflicting damage." xml:space="preserve">
         <source>Changes the terrain to Psychic Terrain after inflicting damage.</source>
-        <target state="translated">造成伤害后，将地形改变为精神地形。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the user’s type to a random type either resistant or immune to the last move used against it." xml:space="preserve">
         <source>Changes the user’s type to a random type either resistant or immune to the last move used against it.</source>
-        <target state="translated">将用户的类型更改为随机类型，对最后针对它的动作有抵抗力或免疫力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to Shadow Sky for five turns." xml:space="preserve">
         <source>Changes the weather to Shadow Sky for five turns.</source>
-        <target state="translated">将天气更改为暗影天空，持续五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to a hailstorm for five turns." xml:space="preserve">
         <source>Changes the weather to a hailstorm for five turns.</source>
-        <target state="translated">将天气改为冰雹，持续五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to a sandstorm for five turns." xml:space="preserve">
         <source>Changes the weather to a sandstorm for five turns.</source>
-        <target state="translated">将天气改为沙尘暴，持续五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to rain for five turns." xml:space="preserve">
         <source>Changes the weather to rain for five turns.</source>
-        <target state="translated">将天气改为下雨，持续五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to sunny for five turns." xml:space="preserve">
         <source>Changes the weather to sunny for five turns.</source>
-        <target state="translated">将天气改为晴朗，持续五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Charge" xml:space="preserve">
@@ -860,12 +688,7 @@ The caught state for a creature</note>
         <note/>
       </trans-unit>
       <trans-unit id="Check Type Defence" xml:space="preserve">
-        <source>Check Type Defense</source>
-        <target state="needs-review-l10n">检查类型防御</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Check Type Defense" xml:space="preserve">
-        <source>Check Type Defense</source>
+        <source>Check Type Defence</source>
         <target state="translated">检查类型防御</target>
         <note/>
       </trans-unit>
@@ -874,13 +697,8 @@ The caught state for a creature</note>
         <target state="translated">检查您的互联网连接，并确保您已登录App Store。</target>
         <note>A help message displayed when In-App-Purchase is unavailable.</note>
       </trans-unit>
-      <trans-unit id="Checking Berry piles" xml:space="preserve">
-        <source>Checking Berry piles</source>
-        <note>Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Cleanses the user of a burn, paralysis, or poison." xml:space="preserve">
         <source>Cleanses the user of a burn, paralysis, or poison.</source>
-        <target state="translated">清除使用者的烧伤、麻痹或中毒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -893,13 +711,8 @@ The caught state for a creature</note>
         <target state="translated">清除过滤器</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Colosseum" xml:space="preserve">
-        <source>Colosseum</source>
-        <note>Pokémon Colosseum</note>
-      </trans-unit>
       <trans-unit id="Confuses the target." xml:space="preserve">
         <source>Confuses the target.</source>
-        <target state="translated">使目标混乱。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Congratulations Pokémon Master!" xml:space="preserve">
@@ -914,17 +727,14 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Copies the target’s ability." xml:space="preserve">
         <source>Copies the target’s ability.</source>
-        <target state="translated">复制目标的能力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Copies the target’s last used move." xml:space="preserve">
         <source>Copies the target’s last used move.</source>
-        <target state="translated">复制目标最后使用的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Copies the user’s ability onto the target." xml:space="preserve">
         <source>Copies the user’s ability onto the target.</source>
-        <target state="translated">将用户的能力复制到目标上。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cost" xml:space="preserve">
@@ -934,7 +744,6 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Covers the opposing field, lowering opponents’ Speed by one stage upon switching in." xml:space="preserve">
         <source>Covers the opposing field, lowering opponents’ Speed by one stage upon switching in.</source>
-        <target state="translated">覆盖对方的场地，切换时降低对手的速度一个等级。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Creatures" xml:space="preserve">
@@ -942,33 +751,20 @@ The caught state for a creature</note>
         <target state="translated">生物</target>
         <note>Navigation item for creatures</note>
       </trans-unit>
-      <trans-unit id="Creatures with " xml:space="preserve">
-        <source>Creatures with </source>
-        <target state="translated">生物与</target>
-        <note>String preceding ability name</note>
-      </trans-unit>
-      <trans-unit id="Crystal" xml:space="preserve">
-        <source>Crystal</source>
-        <note>Pokémon Crystal</note>
-      </trans-unit>
       <trans-unit id="Cures the entire party of major status effects after inflicting damage." xml:space="preserve">
         <source>Cures the entire party of major status effects after inflicting damage.</source>
-        <target state="translated">造成伤害后治愈整个队伍的主要状态影响。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cures the entire party of major status effects." xml:space="preserve">
         <source>Cures the entire party of major status effects.</source>
-        <target state="translated">治愈整个队伍的主要状态影响。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cures the target of a major status ailment and heals the user for 50% of its max HP." xml:space="preserve">
         <source>Cures the target of a major status ailment and heals the user for 50% of its max HP.</source>
-        <target state="translated">治愈目标的严重状态疾病，并为用户恢复其最大生命值的 50%。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cures the target of burns." xml:space="preserve">
         <source>Cures the target of burns.</source>
-        <target state="translated">治愈目标的烧伤。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Customer Support" xml:space="preserve">
@@ -978,12 +774,10 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Damages opponents, but heals allies for 50% of their max HP." xml:space="preserve">
         <source>Damages opponents, but heals allies for 50% of their max HP.</source>
-        <target state="translated">对对手造成伤害，但为盟友恢复其最大生命值的 50%。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Damages the target for 75% of its remaining HP." xml:space="preserve">
         <source>Damages the target for 75% of its remaining HP.</source>
-        <target state="translated">对目标造成其剩余生命值75%的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Dance" xml:space="preserve">
@@ -998,12 +792,10 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Deals both fighting and flying-type damage." xml:space="preserve">
         <source>Deals both fighting and flying-type damage.</source>
-        <target state="translated">造成战斗和飞行类伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Deals splash damage to Pokémon next to the target." xml:space="preserve">
         <source>Deals splash damage to Pokémon next to the target.</source>
-        <target state="translated">对目标旁边的宝可梦造成溅射伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
@@ -1043,31 +835,22 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Destroys Reflect and Light Screen." xml:space="preserve">
         <source>Destroys Reflect and Light Screen.</source>
-        <target state="translated">破坏反射和光屏。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Destroys the target’s held berry." xml:space="preserve">
         <source>Destroys the target’s held berry.</source>
-        <target state="translated">摧毁目标持有的浆果。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Diamond" xml:space="preserve">
-        <source>Diamond</source>
-        <note>Pokémon Diamond</note>
       </trans-unit>
       <trans-unit id="Disables moves and immunities that involve flying or levitating for five turns." xml:space="preserve">
         <source>Disables moves and immunities that involve flying or levitating for five turns.</source>
-        <target state="translated">禁用涉及飞行或悬浮的动作和免疫五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Disables the target’s last used move for 1-8 turns." xml:space="preserve">
         <source>Disables the target’s last used move for 1-8 turns.</source>
-        <target state="translated">使目标最后使用的动作无法持续 1-8 个回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Discards the user’s stat changes and copies the target’s." xml:space="preserve">
         <source>Discards the user’s stat changes and copies the target’s.</source>
-        <target state="translated">丢弃用户的状态变化并复制目标的状态变化。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Disclaimer" xml:space="preserve">
@@ -1080,23 +863,12 @@ The caught state for a creature</note>
         <target state="translated">距离</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Ditto" xml:space="preserve">
-        <source>Ditto</source>
-        <target state="translated">同上</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
-      <trans-unit id="Diving on seaweed" xml:space="preserve">
-        <source>Diving on seaweed</source>
-        <note>Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Does nothing." xml:space="preserve">
         <source>Does nothing.</source>
-        <target state="translated">什么也没做。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Doubles prize money." xml:space="preserve">
         <source>Doubles prize money.</source>
-        <target state="translated">奖金翻倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Drag to change types" xml:space="preserve">
@@ -1107,63 +879,20 @@ The caught state for a creature</note>
       <trans-unit id="Dragon" xml:space="preserve">
         <source>Dragon</source>
         <target state="translated">龙</target>
-        <note>Creature Egg Group
-Pokémon Type Dragon</note>
+        <note>Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Drains 75% of the damage inflicted to heal the user." xml:space="preserve">
         <source>Drains 75% of the damage inflicted to heal the user.</source>
-        <target state="translated">消耗 75% 所造成伤害来治疗使用者。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Drains half the damage inflicted to heal the user." xml:space="preserve">
         <source>Drains half the damage inflicted to heal the user.</source>
-        <target state="translated">消耗一半所造成伤害来治疗使用者。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Dual Type" xml:space="preserve">
         <source>Dual Type</source>
         <target state="translated">双重类型</target>
         <note>Represents the type calculator mode for picking two defensive types</note>
-      </trans-unit>
-      <trans-unit id="During Daytime." xml:space="preserve">
-        <source>During Daytime.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During Morning." xml:space="preserve">
-        <source>During Morning.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During Night." xml:space="preserve">
-        <source>During Night.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During SOS battle while fishing at a bubbling spot" xml:space="preserve">
-        <source>During SOS battle while fishing at a bubbling spot</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="During SOS battles" xml:space="preserve">
-        <source>During SOS battles</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="During a Mass outbreak." xml:space="preserve">
-        <source>During a Mass outbreak.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During autumn." xml:space="preserve">
-        <source>During autumn.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During spring." xml:space="preserve">
-        <source>During spring.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During summer." xml:space="preserve">
-        <source>During summer.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="During winter." xml:space="preserve">
-        <source>During winter.</source>
-        <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="Effect" xml:space="preserve">
         <source>Effect</source>
@@ -1205,18 +934,12 @@ Pokémon Type Dragon</note>
         <target state="translated">电子邮件支持</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Emerald" xml:space="preserve">
-        <source>Emerald</source>
-        <note>Pokémon Emerald</note>
-      </trans-unit>
       <trans-unit id="Ends wild battles. Forces trainers to switch Pokémon." xml:space="preserve">
         <source>Ends wild battles. Forces trainers to switch Pokémon.</source>
-        <target state="translated">结束野外战斗。强制训练师更换宝可梦。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Ensures that the user’s next move will hit the target." xml:space="preserve">
         <source>Ensures that the user’s next move will hit the target.</source>
-        <target state="translated">确保用户的下一步动作能够击中目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Entire Field" xml:space="preserve">
@@ -1231,12 +954,10 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Exchanges the user’s Speed with the target’s." xml:space="preserve">
         <source>Exchanges the user’s Speed with the target’s.</source>
-        <target state="translated">将用户的速度与目标的速度交换。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Explodes if the target uses fire move this turn, damaging it for 1/4 its max HP and preventing the move." xml:space="preserve">
         <source>Explodes if the target uses fire move this turn, damaging it for 1/4 its max HP and preventing the move.</source>
-        <target state="translated">如果目标本回合使用火招，就会爆炸，造成其最大生命值的 1/4 的伤害，并且阻止其移动。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Extras" xml:space="preserve">
@@ -1252,8 +973,7 @@ Pokémon Type Dragon</note>
       <trans-unit id="Fairy" xml:space="preserve">
         <source>Fairy</source>
         <target state="translated">仙子</target>
-        <note>Creature Egg Group
-Pokémon Type Fairy</note>
+        <note>Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
         <source>Fast</source>
@@ -1305,39 +1025,6 @@ Pokémon Type Fairy</note>
         <target state="translated">火元素</target>
         <note>Pokémon Type Fire</note>
       </trans-unit>
-      <trans-unit id="Fire Red" xml:space="preserve">
-        <source>Fire Red</source>
-        <note>Pokémon Fire Red</note>
-      </trans-unit>
-      <trans-unit id="Fish" xml:space="preserve">
-        <source>Fish</source>
-        <target state="translated">鱼类</target>
-        <note>Creature Shape</note>
-      </trans-unit>
-      <trans-unit id="Fishing at a bubbling spot" xml:space="preserve">
-        <source>Fishing at a bubbling spot</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Fishing in a Feebas Tile" xml:space="preserve">
-        <source>Fishing in a Feebas Tile</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Fishing in dark spots" xml:space="preserve">
-        <source>Fishing in dark spots</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Fishing with a Good Rod" xml:space="preserve">
-        <source>Fishing with a Good Rod</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Fishing with a Super Rod" xml:space="preserve">
-        <source>Fishing with a Super Rod</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Fishing with an Old Rod" xml:space="preserve">
-        <source>Fishing with an Old Rod</source>
-        <note>Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Fling Effect" xml:space="preserve">
         <source>Fling Effect</source>
         <target state="translated">挥动效应</target>
@@ -1356,37 +1043,30 @@ Pokémon Type Fairy</note>
       <trans-unit id="Flying" xml:space="preserve">
         <source>Flying</source>
         <target state="translated">飞行</target>
-        <note>Creature Egg Group
-Pokémon Type Flying</note>
+        <note>Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power." xml:space="preserve">
         <source>For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power.</source>
-        <target state="translated">五回合内，每回合为地面上的所有宝可梦恢复最大生命值的 1/16，并将其草系招式强化至其威力的 1.5 倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power." xml:space="preserve">
         <source>For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power.</source>
-        <target state="translated">五回合内，使地面上的所有宝可梦无法入睡，并且它们的电系招式威力强化至 1.5 倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves." xml:space="preserve">
         <source>For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves.</source>
-        <target state="translated">五回合内，保护地面上的所有神奇宝贝免受重大状态疾病和混乱的影响，并将来袭的龙招的力量减半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For five turns, slower Pokémon will act before faster Pokémon." xml:space="preserve">
         <source>For five turns, slower Pokémon will act before faster Pokémon.</source>
-        <target state="translated">五个回合内，速度较慢的宝可梦会先于速度较快的宝可梦行动。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For the next few turns, the target can only use damaging moves." xml:space="preserve">
         <source>For the next few turns, the target can only use damaging moves.</source>
-        <target state="translated">在接下来的几个回合中，目标只能使用破坏性的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For three turns, friendly Pokémon have doubled Speed." xml:space="preserve">
         <source>For three turns, friendly Pokémon have doubled Speed.</source>
-        <target state="translated">三回合内，友方神奇宝贝的速度加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
@@ -1396,37 +1076,30 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
         <source>Forced to use this move for several turns. Pokémon cannot fall asleep in that time.</source>
-        <target state="translated">强制使用此招式数个回合。在此期间，神奇宝贝不能入睡。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost." xml:space="preserve">
         <source>Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost.</source>
-        <target state="translated">强制目标无法躲避，即使是幽灵，也能被普通动作和格斗动作击中。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark." xml:space="preserve">
         <source>Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark.</source>
-        <target state="translated">迫使目标无法躲避，即使是黑暗系，也能被精神系招式击中。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to repeat its last used move every turn for 2 to 6 turns." xml:space="preserve">
         <source>Forces the target to repeat its last used move every turn for 2 to 6 turns.</source>
-        <target state="translated">强制目标每回合重复其最后使用的动作，持续 2 至 6 个回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to repeat its last used move." xml:space="preserve">
         <source>Forces the target to repeat its last used move.</source>
-        <target state="translated">强制目标重复其最后使用的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target’s opponents to aim at the target for the rest of the turn." xml:space="preserve">
         <source>Forces the target’s opponents to aim at the target for the rest of the turn.</source>
-        <target state="translated">迫使目标的对手在剩余回合中瞄准目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Frees the user from binding moves, removes Leech Seed, and blows away Spikes." xml:space="preserve">
         <source>Frees the user from binding moves, removes Leech Seed, and blows away Spikes.</source>
-        <target state="translated">使用户摆脱束缚动作、移除寄生种子并吹走尖刺。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" xml:space="preserve">
@@ -1466,21 +1139,14 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Ghosts pay half their max HP to hurt the target every turn. Others decrease Speed but raise Attack and Defense." xml:space="preserve">
         <source>Ghosts pay half their max HP to hurt the target every turn. Others decrease Speed but raise Attack and Defense.</source>
-        <target state="translated">幽灵每回合消耗最大生命值的一半来伤害目标。其他幽灵会降低速度，但会提高攻击力和防御力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Gives the user’s held item to the target." xml:space="preserve">
         <source>Gives the user’s held item to the target.</source>
-        <target state="translated">将用户持有的物品交给目标。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Gold" xml:space="preserve">
-        <source>Gold</source>
-        <note>Pokémon Gold</note>
       </trans-unit>
       <trans-unit id="Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it." xml:space="preserve">
         <source>Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it.</source>
-        <target state="translated">为用户提供本回合剩余时间的保护，并毒害任何试图对其使用接触动作的神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Grass" xml:space="preserve">
@@ -1496,12 +1162,10 @@ Pokémon Type Flying</note>
       <trans-unit id="Ground" xml:space="preserve">
         <source>Ground</source>
         <target state="translated">地面</target>
-        <note>Creature Egg Group
-Pokémon Type Ground</note>
+        <note>Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Grounds the target, and hits even Flying-type or levitating Pokémon." xml:space="preserve">
         <source>Grounds the target, and hits even Flying-type or levitating Pokémon.</source>
-        <target state="translated">将目标击倒在地，甚至击中飞行型或悬浮型神奇宝贝。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Growth Rate" xml:space="preserve">
@@ -1511,7 +1175,6 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Guarantees a critical hit with the user’s next move." xml:space="preserve">
         <source>Guarantees a critical hit with the user’s next move.</source>
-        <target state="translated">保证用户的下一步动作造成致命一击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Guess 1" xml:space="preserve">
@@ -1531,244 +1194,180 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Halves HP of all Pokémon on the field. Must recharge" xml:space="preserve">
         <source>Halves HP of all Pokémon on the field. Must recharge</source>
-        <target state="translated">使场上所有宝可梦的生命值减半。必须重新充能</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Halves all Electric-type damage." xml:space="preserve">
         <source>Halves all Electric-type damage.</source>
-        <target state="translated">将所有电系伤害减半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Halves all Fire-type damage." xml:space="preserve">
         <source>Halves all Fire-type damage.</source>
-        <target state="translated">使所有火系伤害减半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to badly poison the target." xml:space="preserve">
         <source>Has a chance to badly poison the target.</source>
-        <target state="translated">有几率使目标严重中毒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn the target and a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to burn the target and a chance to make the target flinch.</source>
-        <target state="translated">有机会灼伤目标并有机会使目标退缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn the target." xml:space="preserve">
         <source>Has a chance to burn the target.</source>
-        <target state="translated">有机会烧伤目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn the target. Lets frozen Pokémon thaw themselves." xml:space="preserve">
         <source>Has a chance to burn the target. Lets frozen Pokémon thaw themselves.</source>
-        <target state="translated">有机会灼伤目标。让被冻住的神奇宝贝自行解冻。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn, freeze, or paralyze the target." xml:space="preserve">
         <source>Has a chance to burn, freeze, or paralyze the target.</source>
-        <target state="translated">有机会烧伤、冻结或麻痹目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to confuse the target." xml:space="preserve">
         <source>Has a chance to confuse the target.</source>
-        <target state="translated">有机会使目标感到困惑。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to freeze the target and a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to freeze the target and a chance to make the target flinch.</source>
-        <target state="translated">有机会冻结目标并有机会使目标退缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to freeze the target." xml:space="preserve">
         <source>Has a chance to freeze the target.</source>
-        <target state="translated">有机会冻结目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to inflict a status effect which depends upon the terrain." xml:space="preserve">
         <source>Has a chance to inflict a status effect which depends upon the terrain.</source>
-        <target state="translated">有机会造成取决于地形的状态效果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Attack by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Attack by one stage.</source>
-        <target state="translated">有概率使目标的攻击力降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Defense by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Defense by one stage.</source>
-        <target state="translated">有概率使目标的防御降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Special Attack by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Special Attack by one stage.</source>
-        <target state="translated">有机会使目标的特殊攻击降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Special Defense by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Special Defense by one stage.</source>
-        <target state="translated">有机会使目标的特殊防御降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Special Defense by two stages." xml:space="preserve">
         <source>Has a chance to lower the target’s Special Defense by two stages.</source>
-        <target state="translated">有概率使目标特防降低两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Speed by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Speed by one stage.</source>
-        <target state="translated">有机会使目标的速度降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s accuracy by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s accuracy by one stage.</source>
-        <target state="translated">有机会使目标的准确度降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to make the target flinch.</source>
-        <target state="translated">有机会使目标退缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to make the target flinch. Only works if the user is sleeping." xml:space="preserve">
         <source>Has a chance to make the target flinch. Only works if the user is sleeping.</source>
-        <target state="translated">有机会使目标畏缩。仅在使用者睡觉时有效。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to paralyze the target and a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to paralyze the target and a chance to make the target flinch.</source>
-        <target state="translated">有几率使目标麻痹，也有几率使目标退缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to paralyze the target." xml:space="preserve">
         <source>Has a chance to paralyze the target.</source>
-        <target state="translated">有机会使目标麻痹。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to poison the target." xml:space="preserve">
         <source>Has a chance to poison the target.</source>
-        <target state="translated">有几率使目标中毒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to put the target to sleep." xml:space="preserve">
         <source>Has a chance to put the target to sleep.</source>
-        <target state="translated">有机会使目标进入睡眠状态。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise all of the user’s stats by one stage." xml:space="preserve">
         <source>Has a chance to raise all of the user’s stats by one stage.</source>
-        <target state="translated">有机会将所有用户的数据提升一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Attack by one stage." xml:space="preserve">
         <source>Has a chance to raise the user’s Attack by one stage.</source>
-        <target state="translated">有机会将使用者的攻击力提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Defense by one stage." xml:space="preserve">
         <source>Has a chance to raise the user’s Defense by one stage.</source>
-        <target state="translated">有机会将使用者的防御提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Defense by two stages for each target hit." xml:space="preserve">
         <source>Has a chance to raise the user’s Defense by two stages for each target hit.</source>
-        <target state="translated">每击中一个目标就有机会将使用者的防御提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Special Attack by one stage." xml:space="preserve">
         <source>Has a chance to raise the user’s Special Attack by one stage.</source>
-        <target state="translated">有机会将使用者的特殊攻击提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a higher chance to confuse the target when the recorded sound is louder." xml:space="preserve">
         <source>Has a higher chance to confuse the target when the recorded sound is louder.</source>
-        <target state="translated">录制的声音越大，越有可能使目标感到困惑。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has an increased chance for a critical hit and a chance to burn the target." xml:space="preserve">
         <source>Has an increased chance for a critical hit and a chance to burn the target.</source>
-        <target state="translated">有更高的几率造成致命一击，并且有几率烧伤目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has an increased chance for a critical hit and a chance to poison the target." xml:space="preserve">
         <source>Has an increased chance for a critical hit and a chance to poison the target.</source>
-        <target state="translated">有更高的几率造成致命一击，并且有几率使目标中毒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has an increased chance for a critical hit in Hyper Mode." xml:space="preserve">
         <source>Has an increased chance for a critical hit in Hyper Mode.</source>
-        <target state="translated">在超级模式下，有更大的机会造成致命一击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has an increased chance for a critical hit." xml:space="preserve">
         <source>Has an increased chance for a critical hit.</source>
-        <target state="translated">有更高的几率造成致命一击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power against Pokémon that have less than half their max HP remaining." xml:space="preserve">
         <source>Has double power against Pokémon that have less than half their max HP remaining.</source>
-        <target state="translated">对剩余生命值低于最大生命值一半的神奇宝贝具有双倍威力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power against, and can hit, Pokémon attempting to switch out." xml:space="preserve">
         <source>Has double power against, and can hit, Pokémon attempting to switch out.</source>
-        <target state="translated">对试图替换的神奇宝贝具有双倍的力量，并可以击中它们。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power if a friendly Pokémon fainted last turn." xml:space="preserve">
         <source>Has double power if a friendly Pokémon fainted last turn.</source>
-        <target state="translated">如果友方神奇宝贝在上一回合昏倒，则其力量将加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power if it’s used more than once per turn." xml:space="preserve">
         <source>Has double power if it’s used more than once per turn.</source>
-        <target state="translated">如果每回合使用多次则威力加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power if the target has a major status ailment." xml:space="preserve">
         <source>Has double power if the target has a major status ailment.</source>
-        <target state="translated">如果目标患有严重状态疾病，则具有双倍力量。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power if the user has no held item." xml:space="preserve">
         <source>Has double power if the user has no held item.</source>
-        <target state="translated">如果用户没有持有物品则具有双倍力量。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power if the user’s last move failed." xml:space="preserve">
         <source>Has double power if the user’s last move failed.</source>
-        <target state="translated">如果用户的上一步失败，则具有双倍的力量。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has the same type as the user." xml:space="preserve">
         <source>Has the same type as the user.</source>
-        <target state="translated">与用户具有相同的类型。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hatch Counter" xml:space="preserve">
         <source>Hatch Counter</source>
         <target state="translated">哈奇计数器</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Headbutting a high encounter rate tree" xml:space="preserve">
-        <source>Headbutting a high encounter rate tree</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Headbutting a low encounter rate tree" xml:space="preserve">
-        <source>Headbutting a low encounter rate tree</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Headbutting a normal encounter rate tree" xml:space="preserve">
-        <source>Headbutting a normal encounter rate tree</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Headbutting trees" xml:space="preserve">
-        <source>Headbutting trees</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Heads" xml:space="preserve">
-        <source>Heads</source>
-        <target state="translated">头</target>
-        <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Heal" xml:space="preserve">
         <source>Heal</source>
@@ -1777,42 +1376,31 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Heals the target for half its max HP." xml:space="preserve">
         <source>Heals the target for half its max HP.</source>
-        <target state="translated">为目标恢复其最大生命值的一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Heals the target for ½ its max HP, or ⅔ on Grassy Terrain." xml:space="preserve">
         <source>Heals the target for ½ its max HP, or ⅔ on Grassy Terrain.</source>
-        <target state="translated">为目标治疗其最大生命值的 ½，或草地上治疗其最大生命值的 ⅔。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Heals the user by half its max HP." xml:space="preserve">
         <source>Heals the user by half its max HP.</source>
-        <target state="translated">为使用者恢复其最大生命值的一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Heals the user by half its max HP. Affected by weather." xml:space="preserve">
         <source>Heals the user by half its max HP. Affected by weather.</source>
-        <target state="translated">为使用者恢复其最大生命值的一半。受天气影响。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Heals the user by the target’s current Attack stat and lowers the target’s Attack by one stage." xml:space="preserve">
         <source>Heals the user by the target’s current Attack stat and lowers the target’s Attack by one stage.</source>
-        <target state="translated">根据目标当前的攻击力值来治疗用户，并且降低目标的攻击力一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Heals the user for half the total damage dealt to all targets." xml:space="preserve">
         <source>Heals the user for half the total damage dealt to all targets.</source>
-        <target state="translated">为使用者治愈对所有目标造成的伤害总量的一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Heals the user for ½ its max HP, or ⅔ during a sandstorm." xml:space="preserve">
         <source>Heals the user for ½ its max HP, or ⅔ during a sandstorm.</source>
-        <target state="translated">为用户恢复其最大生命值的 ½，或在沙尘暴期间恢复⅔。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Heart Gold" xml:space="preserve">
-        <source>Heart Gold</source>
-        <note>Pokémon Heart Gold</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
         <source>Height</source>
@@ -1851,73 +1439,52 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Hits 2-5 times in one turn." xml:space="preserve">
         <source>Hits 2-5 times in one turn.</source>
-        <target state="translated">一回合击中2至5次。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits 2–5 times." xml:space="preserve">
         <source>Hits 2–5 times.</source>
-        <target state="translated">命中2至5次。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits any Pokémon that shares a type with the user." xml:space="preserve">
         <source>Hits any Pokémon that shares a type with the user.</source>
-        <target state="translated">击中任何与用户属于同一类型的神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits every turn for 2-3 turns, then confuses the user." xml:space="preserve">
         <source>Hits every turn for 2-3 turns, then confuses the user.</source>
-        <target state="translated">每回合打击一次，持续 2-3 回合，然后使用户感到困惑。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits once for every conscious Pokémon the trainer has." xml:space="preserve">
         <source>Hits once for every conscious Pokémon the trainer has.</source>
-        <target state="translated">训练师每有一只清醒的神奇宝贝，就会攻击一次。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits the target two turns later." xml:space="preserve">
         <source>Hits the target two turns later.</source>
-        <target state="translated">两回合后击中目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits three times, increasing power by 100% with each successful hit." xml:space="preserve">
         <source>Hits three times, increasing power by 100% with each successful hit.</source>
-        <target state="translated">攻击三次，每次成功攻击后威力增加 100%。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits through Protect and Detect." xml:space="preserve">
         <source>Hits through Protect and Detect.</source>
-        <target state="translated">通过“保护”和“检测”命中。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits twice in one turn, with a chance to make the target flinch." xml:space="preserve">
         <source>Hits twice in one turn, with a chance to make the target flinch.</source>
-        <target state="translated">一回合内攻击两次，有机会使目标退缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits twice in one turn." xml:space="preserve">
         <source>Hits twice in one turn.</source>
-        <target state="translated">一回合击中两次。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits twice in the same turn. Has a chance to poison the target." xml:space="preserve">
         <source>Hits twice in the same turn. Has a chance to poison the target.</source>
-        <target state="translated">同一回合攻击两次。有机会使目标中毒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="How to Add Skins to Delta" xml:space="preserve">
         <source>How to Add Skins to Delta</source>
         <target state="translated">如何将皮肤添加到Delta</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Human Shape" xml:space="preserve">
-        <source>Human Shape</source>
-        <target state="translated">人形</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
-      <trans-unit id="Humanoid" xml:space="preserve">
-        <source>Humanoid</source>
-        <target state="translated">有人形的</target>
-        <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. &#10;— Ben" xml:space="preserve">
         <source>I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. 
@@ -1939,85 +1506,43 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="If target has a berry, inflicts double damage and uses the berry." xml:space="preserve">
         <source>If target has a berry, inflicts double damage and uses the berry.</source>
-        <target state="translated">如果目标有浆果，则造成双倍伤害并使用浆果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the target is asleep, has double power and wakes it up." xml:space="preserve">
         <source>If the target is asleep, has double power and wakes it up.</source>
-        <target state="translated">若目标处于睡着状态，则具有双倍力量并将其唤醒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the target is paralyzed, inflicts double damage and cures the paralysis." xml:space="preserve">
         <source>If the target is paralyzed, inflicts double damage and cures the paralysis.</source>
-        <target state="translated">如果目标处于瘫痪状态，则造成双倍伤害并治愈瘫痪。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the user faints this turn, the PP of the move that fainted it drops to 0." xml:space="preserve">
         <source>If the user faints this turn, the PP of the move that fainted it drops to 0.</source>
-        <target state="translated">如果使用者在这回合晕倒，则导致其晕倒的招式的 PP 会降至 0。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the user faints this turn, the target automatically will, too." xml:space="preserve">
         <source>If the user faints this turn, the target automatically will, too.</source>
-        <target state="translated">如果用户此回合晕倒，目标也会自动晕倒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the user is hit after using this move, its Attack rises by one stage." xml:space="preserve">
         <source>If the user is hit after using this move, its Attack rises by one stage.</source>
-        <target state="translated">若使用者使用此招式后受到击中，其攻击力会上升一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the user is holding a appropriate plate or drive, the damage inflicted will match it." xml:space="preserve">
         <source>If the user is holding a appropriate plate or drive, the damage inflicted will match it.</source>
-        <target state="translated">如果用户持有合适的盘片或驱动器，造成的损害也会与之相匹配。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the user misses, it takes half the damage it would have inflicted in recoil." xml:space="preserve">
         <source>If the user misses, it takes half the damage it would have inflicted in recoil.</source>
-        <target state="translated">如果使用者未能击中，则会受到其反冲所造成伤害的一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the user takes damage before attacking, the attack is canceled." xml:space="preserve">
         <source>If the user takes damage before attacking, the attack is canceled.</source>
-        <target state="translated">如果用户在攻击之前受到伤害，则攻击会被取消。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If there be weather, this move has doubled power and the weather’s type." xml:space="preserve">
         <source>If there be weather, this move has doubled power and the weather’s type.</source>
-        <target state="translated">如果有天气，此招式的威力和天气类型都会加倍。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="If you chose Blue during the TV interview." xml:space="preserve">
-        <source>If you chose Blue during the TV interview.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Bulbasaur as your starter." xml:space="preserve">
-        <source>If you chose Bulbasaur as your starter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Charmander as your starter." xml:space="preserve">
-        <source>If you chose Charmander as your starter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Chespin as your starter." xml:space="preserve">
-        <source>If you chose Chespin as your starter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Fennekin as your starter." xml:space="preserve">
-        <source>If you chose Fennekin as your starter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Froakie as your starter." xml:space="preserve">
-        <source>If you chose Froakie as your starter.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Red during the TV interview." xml:space="preserve">
-        <source>If you chose Red during the TV interview.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="If you chose Squirtle as your starter." xml:space="preserve">
-        <source>If you chose Squirtle as your starter.</source>
-        <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you don’t have a default email app configured, you can email me directly at support@obscura.studio" xml:space="preserve">
         <source>If you don’t have a default email app configured, you can email me directly at support@obscura.studio</source>
@@ -2031,22 +1556,18 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Ignores and destroys protection effects." xml:space="preserve">
         <source>Ignores and destroys protection effects.</source>
-        <target state="translated">无视并破坏保护效果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Ignores the target’s stat modifiers." xml:space="preserve">
         <source>Ignores the target’s stat modifiers.</source>
-        <target state="translated">忽略目标的统计修正值。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Immediately ends wild battles. Forces trainers to switch Pokémon." xml:space="preserve">
         <source>Immediately ends wild battles. Forces trainers to switch Pokémon.</source>
-        <target state="translated">立即结束野外战斗。迫使训练师切换神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Immediately ends wild battles. No effect otherwise." xml:space="preserve">
         <source>Immediately ends wild battles. No effect otherwise.</source>
-        <target state="translated">立即结束野外战斗。除此之外无效果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Immunities" xml:space="preserve">
@@ -2071,147 +1592,114 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Increases the user’s chance to score a critical hit." xml:space="preserve">
         <source>Increases the user’s chance to score a critical hit.</source>
-        <target state="translated">增加用户造成致命一击的机会。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Indeterminate" xml:space="preserve">
-        <source>Indeterminate</source>
-        <target state="translated">不确定的</target>
-        <note>Creature Egg Group</note>
       </trans-unit>
       <trans-unit id="Inflicts 20 points of damage." xml:space="preserve">
         <source>Inflicts 20 points of damage.</source>
-        <target state="translated">造成20点伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts 40 points of damage." xml:space="preserve">
         <source>Inflicts 40 points of damage.</source>
-        <target state="translated">造成40点伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts a burn on any Pokémon that makes contact before the attack." xml:space="preserve">
         <source>Inflicts a burn on any Pokémon that makes contact before the attack.</source>
-        <target state="translated">对任何在攻击前接触的神奇宝贝造成烧伤。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage and lowers the target’s Special Attack stat by one stage." xml:space="preserve">
         <source>Inflicts damage and lowers the target’s Special Attack stat by one stage.</source>
-        <target state="translated">造成伤害，并使目标的特殊攻击值降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage and removes any terrain present on the battlefield." xml:space="preserve">
         <source>Inflicts damage and removes any terrain present on the battlefield.</source>
-        <target state="translated">造成伤害并消除战场上的任何地形。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage based on the target’s Defense, not Special Defense." xml:space="preserve">
         <source>Inflicts damage based on the target’s Defense, not Special Defense.</source>
-        <target state="translated">根据目标的防御而不是特殊防御造成伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage between 50% and 150% of the user’s level." xml:space="preserve">
         <source>Inflicts damage between 50%1$ and 150%2$ of the user’s level.</source>
-        <target state="translated">造成的伤害值在使用者等级的 50%1$ 到 150%2$ 之间。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage equal to half the target’s HP." xml:space="preserve">
         <source>Inflicts damage equal to half the target’s HP.</source>
-        <target state="translated">造成相当于目标生命值一半的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage equal to the user’s level." xml:space="preserve">
         <source>Inflicts damage equal to the user’s level.</source>
-        <target state="translated">造成与使用者等级相等的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage equal to the user’s remaining HP. User faints." xml:space="preserve">
         <source>Inflicts damage equal to the user’s remaining HP. User faints.</source>
-        <target state="translated">造成相当于使用者剩余生命值的伤害。使用者昏倒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage to all opposing Pokémon and increases the user’s Attack, Defense, Special Attack, Special Defense, and Speed by one stage each." xml:space="preserve">
         <source>Inflicts damage to all opposing Pokémon and increases the user’s Attack, Defense, Special Attack, Special Defense, and Speed by one stage each.</source>
-        <target state="translated">对所有敌方宝可梦造成伤害，并且使使用者的攻击、防御、特攻、特防和速度各增加一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage using either Attack or Special Attack stat, whichever is higher." xml:space="preserve">
         <source>Inflicts damage using either Attack or Special Attack stat, whichever is higher.</source>
-        <target state="translated">使用攻击或特殊攻击属性值（取较高者）造成伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts damage, and the user takes damage equal to half of its max HP, rounded up." xml:space="preserve">
         <source>Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.</source>
-        <target state="translated">造成伤害，并且使用者受到的伤害等于其最大生命值的一半（向上取整）。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts double damage if the target is Poisoned." xml:space="preserve">
         <source>Inflicts double damage if the target is Poisoned.</source>
-        <target state="translated">如果目标中毒则造成双倍伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts double damage if the user takes damage before attacking this turn." xml:space="preserve">
         <source>Inflicts double damage if the user takes damage before attacking this turn.</source>
-        <target state="translated">如果用户在本回合攻击之前受到伤害，则造成双倍伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts more damage to heavier targets, with a maximum of 120 power." xml:space="preserve">
         <source>Inflicts more damage to heavier targets, with a maximum of 120 power.</source>
-        <target state="translated">对更重的目标造成更大的伤害，最大威力可达120点。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts more damage when the user has less HP remaining, with a maximum of 200 power." xml:space="preserve">
         <source>Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.</source>
-        <target state="translated">当使用者剩余生命值较低时造成更大伤害，最大威力为200。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts more damage when the user has more HP remaining, with a maximum of 150 power." xml:space="preserve">
         <source>Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.</source>
-        <target state="translated">当使用者剩余生命值越多时，造成的伤害越大，最大伤害为150点。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Bounce and Fly users." xml:space="preserve">
         <source>Inflicts regular damage and can hit Bounce and Fly users.</source>
-        <target state="translated">造成常规伤害并可击中弹跳和飞翔的用户。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Dig users." xml:space="preserve">
         <source>Inflicts regular damage and can hit Dig users.</source>
-        <target state="translated">造成常规伤害并可击中挖掘用户。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Dive users." xml:space="preserve">
         <source>Inflicts regular damage and can hit Dive users.</source>
-        <target state="translated">造成常规伤害并可击中潜水用户。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Pokémon in the air." xml:space="preserve">
         <source>Inflicts regular damage and can hit Pokémon in the air.</source>
-        <target state="translated">造成常规伤害并可击中空中的神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage with no additional effect." xml:space="preserve">
         <source>Inflicts regular damage with no additional effect.</source>
-        <target state="translated">造成常规伤害，没有附加效果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage." xml:space="preserve">
         <source>Inflicts regular damage.</source>
-        <target state="translated">造成常规伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage. Raises the user’s Speed by one stage." xml:space="preserve">
         <source>Inflicts regular damage. Raises the user’s Speed by one stage.</source>
-        <target state="translated">造成常规伤害。提升使用者的速度一个等级。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts twice the damage the user received from the last physical hit it took." xml:space="preserve">
         <source>Inflicts twice the damage the user received from the last physical hit it took.</source>
-        <target state="translated">对用户造成的伤害为上次所受物理打击的两倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts twice the damage the user received from the last special hit it took." xml:space="preserve">
         <source>Inflicts twice the damage the user received from the last special hit it took.</source>
-        <target state="translated">对使用者造成的伤害为上次特殊打击的两倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Introduced: " xml:space="preserve">
@@ -2226,7 +1714,6 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Inverts the target’s stat modifiers." xml:space="preserve">
         <source>Inverts the target’s stat modifiers.</source>
-        <target state="translated">反转目标的统计修正器。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Items" xml:space="preserve">
@@ -2289,10 +1776,6 @@ Pokémon Type Ground</note>
         <target state="translated">当暴露在黑暗卷轴中时，库布夫演变为单次打击乌尔希夫</target>
         <note>Kubfu Single evolution text</note>
       </trans-unit>
-      <trans-unit id="Leaf Green" xml:space="preserve">
-        <source>Leaf Green</source>
-        <note>Pokémon Leaf Green</note>
-      </trans-unit>
       <trans-unit id="Learn more about Delta" xml:space="preserve">
         <source>Learn more about Delta</source>
         <target state="translated">了解更多关于三角洲的信息</target>
@@ -2313,27 +1796,10 @@ Pokémon Type Ground</note>
         <target state="translated">遗产移动</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Legends: Arceus" xml:space="preserve">
-        <source>Legends: Arceus</source>
-        <note>Pokémon Legends: Arceus</note>
-      </trans-unit>
-      <trans-unit id="Legs" xml:space="preserve">
-        <source>Legs</source>
-        <target state="translated">腿</target>
-        <note>Creature Shape</note>
-      </trans-unit>
       <trans-unit id="Let’s Go!" xml:space="preserve">
         <source>Let’s Go!</source>
         <target state="translated">我们走吧！</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Let’s Go, Eevee!" xml:space="preserve">
-        <source>Let’s Go, Eevee!</source>
-        <note>Pokémon Let’s Go, Eevee!</note>
-      </trans-unit>
-      <trans-unit id="Let’s Go, Pikachu!" xml:space="preserve">
-        <source>Let’s Go, Pikachu!</source>
-        <note>Pokémon Let’s Go, Pikachu!</note>
       </trans-unit>
       <trans-unit id="Location Unknown" xml:space="preserve">
         <source>Location Unknown</source>
@@ -2347,157 +1813,126 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Lowers all targets’ Attack and Special Attack by one stage. Makes the user switch out." xml:space="preserve">
         <source>Lowers all targets’ Attack and Special Attack by one stage. Makes the user switch out.</source>
-        <target state="translated">将所有目标的攻击和特殊攻击降低一级。使使用者切换。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the PP of the target’s last used move by 4." xml:space="preserve">
         <source>Lowers the PP of the target’s last used move by 4.</source>
-        <target state="translated">降低目标最后使用的动作的PP 4。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack and Defense by one stage." xml:space="preserve">
         <source>Lowers the target’s Attack and Defense by one stage.</source>
-        <target state="translated">降低目标的攻击力和防御力一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack and Special Attack by one stage." xml:space="preserve">
         <source>Lowers the target’s Attack and Special Attack by one stage.</source>
-        <target state="translated">降低目标的攻击力和特殊攻击力一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack and Special Attack by two stages. User faints." xml:space="preserve">
         <source>Lowers the target’s Attack and Special Attack by two stages. User faints.</source>
-        <target state="translated">降低目标的攻击和特殊攻击两个阶段。使用者昏倒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack by one stage after inflicting damage." xml:space="preserve">
         <source>Lowers the target’s Attack by one stage after inflicting damage.</source>
-        <target state="translated">造成伤害后，降低目标一级攻击力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack by one stage." xml:space="preserve">
         <source>Lowers the target’s Attack by one stage.</source>
-        <target state="translated">降低目标的攻击力一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack by two stages." xml:space="preserve">
         <source>Lowers the target’s Attack by two stages.</source>
-        <target state="translated">降低目标的攻击力两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack, Special Attack, and Speed by one stage if it is poisoned." xml:space="preserve">
         <source>Lowers the target’s Attack, Special Attack, and Speed by one stage if it is poisoned.</source>
-        <target state="translated">如果目标中毒，其攻击力、特殊攻击力和速度会降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Defense by one stage after inflicting damage." xml:space="preserve">
         <source>Lowers the target’s Defense by one stage after inflicting damage.</source>
-        <target state="translated">造成伤害后，降低目标一个阶段的防御。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Defense by one stage." xml:space="preserve">
         <source>Lowers the target’s Defense by one stage.</source>
-        <target state="translated">降低目标防御一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Defense by two stages." xml:space="preserve">
         <source>Lowers the target’s Defense by two stages.</source>
-        <target state="translated">降低目标防御两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s HP to equal the user’s." xml:space="preserve">
         <source>Lowers the target’s HP to equal the user’s.</source>
-        <target state="translated">降低目标的生命值，使其与使用者的生命值相同。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Special Attack by one stage." xml:space="preserve">
         <source>Lowers the target’s Special Attack by one stage.</source>
-        <target state="translated">降低目标的特殊攻击一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Special Attack by two stages if it’s the opposite gender." xml:space="preserve">
         <source>Lowers the target’s Special Attack by two stages if it’s the opposite gender.</source>
-        <target state="translated">如果目标是异性，则降低目标的特殊攻击两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Special Attack by two stages." xml:space="preserve">
         <source>Lowers the target’s Special Attack by two stages.</source>
-        <target state="translated">降低目标的特殊攻击两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Special Defense by two stages." xml:space="preserve">
         <source>Lowers the target’s Special Defense by two stages.</source>
-        <target state="translated">降低目标的特殊防御两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Speed by one stage." xml:space="preserve">
         <source>Lowers the target’s Speed by one stage.</source>
-        <target state="translated">使目标的速度降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Speed by two stages." xml:space="preserve">
         <source>Lowers the target’s Speed by two stages.</source>
-        <target state="translated">降低目标的速度两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s accuracy by one stage." xml:space="preserve">
         <source>Lowers the target’s accuracy by one stage.</source>
-        <target state="translated">使目标的准确度降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s evasion by one stage." xml:space="preserve">
         <source>Lowers the target’s evasion by one stage.</source>
-        <target state="translated">使目标的闪避降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s evasion by one stage. Removes field effects from the enemy field." xml:space="preserve">
         <source>Lowers the target’s evasion by one stage. Removes field effects from the enemy field.</source>
-        <target state="translated">降低目标的闪避等级。移除敌方场上的场效果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s evasion by two stages." xml:space="preserve">
         <source>Lowers the target’s evasion by two stages.</source>
-        <target state="translated">使目标的闪避降低两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the user’s Attack and Defense by one stage after inflicting damage." xml:space="preserve">
         <source>Lowers the user’s Attack and Defense by one stage after inflicting damage.</source>
-        <target state="translated">造成伤害后，降低使用者一个阶段的攻击力和防御力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the user’s Defense and Special Defense by one stage after inflicting damage." xml:space="preserve">
         <source>Lowers the user’s Defense and Special Defense by one stage after inflicting damage.</source>
-        <target state="translated">造成伤害后，降低使用者的防御和特殊防御一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the user’s Defense by one stage after inflicting damage." xml:space="preserve">
         <source>Lowers the user’s Defense by one stage after inflicting damage.</source>
-        <target state="translated">造成伤害后，降低使用者一个阶段的防御。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the user’s Defense, Special Defense, and Speed by one stage each." xml:space="preserve">
         <source>Lowers the user’s Defense, Special Defense, and Speed by one stage each.</source>
-        <target state="translated">使使用者的防御、特防、速度各降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the user’s Special Attack by two stages after inflicting damage." xml:space="preserve">
         <source>Lowers the user’s Special Attack by two stages after inflicting damage.</source>
-        <target state="translated">造成伤害后，降低使用者的特殊攻击两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers user’s Speed by one stage." xml:space="preserve">
         <source>Lowers user’s Speed by one stage.</source>
-        <target state="translated">降低使用者的速度一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Makes the target act last this turn." xml:space="preserve">
         <source>Makes the target act last this turn.</source>
-        <target state="translated">使目标行为持续本回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Makes the target act next this turn." xml:space="preserve">
         <source>Makes the target act next this turn.</source>
-        <target state="translated">让目标在本回合执行下一步动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Mark as Caught" xml:space="preserve">
@@ -2530,11 +1965,6 @@ Pokémon Type Ground</note>
         <target state="translated">智力的</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Mineral" xml:space="preserve">
-        <source>Mineral</source>
-        <target state="translated">矿物</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
       <trans-unit id="Mirror" xml:space="preserve">
         <source>Mirror</source>
         <target state="translated">镜子</target>
@@ -2545,15 +1975,6 @@ Pokémon Type Ground</note>
         <target state="translated">缺少艺术品</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Monster" xml:space="preserve">
-        <source>Monster</source>
-        <target state="translated">妖怪</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
-      <trans-unit id="Moon" xml:space="preserve">
-        <source>Moon</source>
-        <note>Pokémon Moon</note>
-      </trans-unit>
       <trans-unit id="Moves" xml:space="preserve">
         <source>Moves</source>
         <target state="translated">移动</target>
@@ -2561,17 +1982,14 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Moves have 100% accuracy against the target for three turns." xml:space="preserve">
         <source>Moves have 100% accuracy against the target for three turns.</source>
-        <target state="translated">招式对目标的准确率为 100%，持续三回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Negates held items for five turns." xml:space="preserve">
         <source>Negates held items for five turns.</source>
-        <target state="translated">否定保留物品五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Never misses." xml:space="preserve">
         <source>Never misses.</source>
-        <target state="translated">永不失手。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Nice try" xml:space="preserve">
@@ -2591,13 +2009,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="No Description Available" xml:space="preserve">
         <source>No Description Available</source>
-        <target state="translated">没有可用的描述</target>
         <note>Fallback text if an Ability’s name can’t be found</note>
-      </trans-unit>
-      <trans-unit id="No Eggs" xml:space="preserve">
-        <source>No Eggs</source>
-        <target state="translated">没有鸡蛋</target>
-        <note>Creature Egg Group</note>
       </trans-unit>
       <trans-unit id="No Favorites" xml:space="preserve">
         <source>No Favorites</source>
@@ -2667,12 +2079,10 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Nullifies target’s ability until it leaves battle." xml:space="preserve">
         <source>Nullifies target’s ability until it leaves battle.</source>
-        <target state="translated">使目标的能力无效直至其离开战斗。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Nullifies the target’s ability if it moves earlier." xml:space="preserve">
         <source>Nullifies the target’s ability if it moves earlier.</source>
-        <target state="translated">如果目标先移动，则其能力无效。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Numerical" xml:space="preserve">
@@ -2680,59 +2090,16 @@ The uncaught state for a creature</note>
         <target state="translated">数字的</target>
         <note>Numerical Sorting option</note>
       </trans-unit>
-      <trans-unit id="Omega Ruby" xml:space="preserve">
-        <source>Omega Ruby</source>
-        <note>Pokémon Omega Ruby</note>
-      </trans-unit>
-      <trans-unit id="On Fridays" xml:space="preserve">
-        <source>On Fridays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On Mondays" xml:space="preserve">
-        <source>On Mondays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On Saturdays" xml:space="preserve">
-        <source>On Saturdays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On Sundays" xml:space="preserve">
-        <source>On Sundays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On Thursdays" xml:space="preserve">
-        <source>On Thursdays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On Tuesdays" xml:space="preserve">
-        <source>On Tuesdays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On Wednesdays" xml:space="preserve">
-        <source>On Wednesdays</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="On any overworld patch of grass" xml:space="preserve">
-        <source>On any overworld patch of grass</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="On any overworld water tile" xml:space="preserve">
-        <source>On any overworld water tile</source>
-        <note>Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Only inflicts damage if the user was hit by a physical move this turn." xml:space="preserve">
         <source>Only inflicts damage if the user was hit by a physical move this turn.</source>
-        <target state="translated">仅当用户本回合受到物理攻击时才会造成伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Only works if the target is about to use a damaging move." xml:space="preserve">
         <source>Only works if the target is about to use a damaging move.</source>
-        <target state="translated">仅当目标即将使用破坏性动作时才有效。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Only works on sleeping Pokémon. Drains half the damage inflicted to heal the user." xml:space="preserve">
         <source>Only works on sleeping Pokémon. Drains half the damage inflicted to heal the user.</source>
-        <target state="translated">只对睡眠中的宝可梦有效。消耗一半的伤害来治疗使用者。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Opponents Field" xml:space="preserve">
@@ -2757,16 +2124,10 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Paralyzes the target." xml:space="preserve">
         <source>Paralyzes the target.</source>
-        <target state="translated">使目标陷入麻痹。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Pearl" xml:space="preserve">
-        <source>Pearl</source>
-        <note>Pokémon Pearl</note>
       </trans-unit>
       <trans-unit id="Permanently becomes the target’s last used move." xml:space="preserve">
         <source>Permanently becomes the target’s last used move.</source>
-        <target state="translated">永久成为目标最后使用的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Physical" xml:space="preserve">
@@ -2783,19 +2144,6 @@ The uncaught state for a creature</note>
         <source>Pinned</source>
         <target state="translated">钉住</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Plant" xml:space="preserve">
-        <source>Plant</source>
-        <target state="translated">植物</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
-      <trans-unit id="Platinum" xml:space="preserve">
-        <source>Platinum</source>
-        <note>Pokémon Platinum</note>
-      </trans-unit>
-      <trans-unit id="Playing Pokéflute" xml:space="preserve">
-        <source>Playing Pokéflute</source>
-        <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Please don’t sue me." xml:space="preserve">
         <source>Please don’t sue me.</source>
@@ -2814,12 +2162,10 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Poisons the target and lowers its Speed by one stage." xml:space="preserve">
         <source>Poisons the target and lowers its Speed by one stage.</source>
-        <target state="translated">使目标中毒，并且降低其速度一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Poisons the target." xml:space="preserve">
         <source>Poisons the target.</source>
-        <target state="translated">使目标中毒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Pokédex List" xml:space="preserve">
@@ -2849,167 +2195,134 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Power and type depend on the held berry." xml:space="preserve">
         <source>Power and type depend on the held berry.</source>
-        <target state="translated">力量和类型取决于所持有的浆果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power and type depend upon user’s IVs. Power can range from 30 to 70." xml:space="preserve">
         <source>Power and type depend upon user’s IVs. Power can range from 30 to 70.</source>
-        <target state="translated">功率和类型取决于用户的 IV。功率范围为 30 至 70。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power doubles every turn this move is used in succession after the first, maxing out after five turns." xml:space="preserve">
         <source>Power doubles every turn this move is used in succession after the first, maxing out after five turns.</source>
-        <target state="translated">在第一次使用此招式后，每次连续使用此招式，威力都会加倍，在五次回合后达到最大值。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power doubles every turn this move is used in succession after the first, resetting after five turns." xml:space="preserve">
         <source>Power doubles every turn this move is used in succession after the first, resetting after five turns.</source>
-        <target state="translated">在第一次使用此招式后，每连续使用该招式，威力都会加倍，并在五回合后重置。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power doubles if user is burned, paralyzed, or poisoned." xml:space="preserve">
         <source>Power doubles if user is burned, paralyzed, or poisoned.</source>
-        <target state="translated">如果使用者被烧伤、瘫痪或中毒，力量就会加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power increases against targets with more HP remaining, up to a maximum of 121 power." xml:space="preserve">
         <source>Power increases against targets with more HP remaining, up to a maximum of 121 power.</source>
-        <target state="translated">对付生命值剩余较多的目标时，威力会增加，最高可达 121 点。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power increases against targets with more raised stats, up to a maximum of 200." xml:space="preserve">
         <source>Power increases against targets with more raised stats, up to a maximum of 200.</source>
-        <target state="translated">对抗属性值越高的目标，威力越大，最高可达 200。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power increases as happiness decreases, up to a maximum of 102." xml:space="preserve">
         <source>Power increases as happiness decreases, up to a maximum of 102.</source>
-        <target state="translated">随着幸福度的降低，力量会增加，最高可达 102。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200." xml:space="preserve">
         <source>Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200.</source>
-        <target state="translated">任意友方神奇宝贝连续使用一次，威力就会增加 100%，最高可达 200。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power increases when this move has less PP, up to a maximum of 200." xml:space="preserve">
         <source>Power increases when this move has less PP, up to a maximum of 200.</source>
-        <target state="translated">此招式的 PP 较少时，威力会增加，最高可达 200。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power increases with happiness, up to a maximum of 102." xml:space="preserve">
         <source>Power increases with happiness, up to a maximum of 102.</source>
-        <target state="translated">力量随着幸福度的增加而增加，最高可达 102。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is 100 times the amount of energy Stockpiled." xml:space="preserve">
         <source>Power is 100 times the amount of energy Stockpiled.</source>
-        <target state="translated">电力是储存能量的100倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is doubled if the target has already moved this turn." xml:space="preserve">
         <source>Power is doubled if the target has already moved this turn.</source>
-        <target state="translated">如果目标本回合已经移动，则威力加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is doubled if the target has already received damage this turn." xml:space="preserve">
         <source>Power is doubled if the target has already received damage this turn.</source>
-        <target state="translated">如果目标本回合已经受到伤害，则威力加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is higher the more the user’s stats have been raised, to a maximum of 31×." xml:space="preserve">
         <source>Power is higher the more the user’s stats have been raised, to a maximum of 31×.</source>
-        <target state="translated">用户的属性越高，威力就越大，最高可达 31 倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is higher when the user has greater Speed than the target, up to a maximum of 150." xml:space="preserve">
         <source>Power is higher when the user has greater Speed than the target, up to a maximum of 150.</source>
-        <target state="translated">当使用者的速度比目标快时，力量会更高，最高可达 150。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is higher when the user weighs more than the target, up to a maximum of 120." xml:space="preserve">
         <source>Power is higher when the user weighs more than the target, up to a maximum of 120.</source>
-        <target state="translated">当使用者体重超过目标时，力量会更高，最高可达 120。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power raises when the user has lower Speed, up to a maximum of 150." xml:space="preserve">
         <source>Power raises when the user has lower Speed, up to a maximum of 150.</source>
-        <target state="translated">当使用者的速度较低时，力量会增加，最高可达 150。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power varies randomly from 10 to 150." xml:space="preserve">
         <source>Power varies randomly from 10 to 150.</source>
-        <target state="translated">功率在 10 到 150 之间随机变化。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents all Pokémon from fleeing or switching out during the next turn." xml:space="preserve">
         <source>Prevents all Pokémon from fleeing or switching out during the next turn.</source>
-        <target state="translated">防止所有神奇宝贝在下一回合逃跑或切换。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents any moves from hitting the user this turn." xml:space="preserve">
         <source>Prevents any moves from hitting the user this turn.</source>
-        <target state="translated">防止任何动作在此回合击中用户。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents any multi-target moves from hitting friendly Pokémon this turn." xml:space="preserve">
         <source>Prevents any multi-target moves from hitting friendly Pokémon this turn.</source>
-        <target state="translated">防止任何多目标动作在此回合击中友方神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents any priority moves from hitting friendly Pokémon this turn." xml:space="preserve">
         <source>Prevents any priority moves from hitting friendly Pokémon this turn.</source>
-        <target state="translated">防止任何优先动作在本回合击中友方神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents target from restoring its HP for five turns." xml:space="preserve">
         <source>Prevents target from restoring its HP for five turns.</source>
-        <target state="translated">阻止目标恢复其生命值五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from fleeing and inflicts damage for 2-5 turns." xml:space="preserve">
         <source>Prevents the target from fleeing and inflicts damage for 2-5 turns.</source>
-        <target state="translated">阻止目标逃跑，并造成伤害，持续2-5回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns." xml:space="preserve">
         <source>Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.</source>
-        <target state="translated">使目标无法离开战斗，并在2-5回合内造成相当于其最大生命值1/16的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from leaving battle." xml:space="preserve">
         <source>Prevents the target from leaving battle.</source>
-        <target state="translated">阻止目标离开战斗。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from scoring critical hits for five turns." xml:space="preserve">
         <source>Prevents the target from scoring critical hits for five turns.</source>
-        <target state="translated">阻止目标在五回合内造成致命一击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from using any moves that the user also knows." xml:space="preserve">
         <source>Prevents the target from using any moves that the user also knows.</source>
-        <target state="translated">阻止目标使用用户也知道的任何动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from using sound-based moves for two turns." xml:space="preserve">
         <source>Prevents the target from using sound-based moves for two turns.</source>
-        <target state="translated">阻止目标在两回合内使用基于声音的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from using the same move twice in a row." xml:space="preserve">
         <source>Prevents the target from using the same move twice in a row.</source>
-        <target state="translated">防止目标连续两次使用相同的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the user from leaving battle. User regains 1/16 of its max HP every turn." xml:space="preserve">
         <source>Prevents the user from leaving battle. User regains 1/16 of its max HP every turn.</source>
-        <target state="translated">防止使用者离开战斗。使用者每回合恢复其最大生命值的 1/16。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the user’s HP from lowering below 1 this turn." xml:space="preserve">
         <source>Prevents the user’s HP from lowering below 1 this turn.</source>
-        <target state="translated">防止使用者的生命值在本回合低于1。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Priority" xml:space="preserve">
@@ -3029,27 +2342,22 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Protects Pokémon on the ground from priority moves and increases the power of their Psychic moves by 50%." xml:space="preserve">
         <source>Protects Pokémon on the ground from priority moves and increases the power of their Psychic moves by 50%.</source>
-        <target state="translated">保护地面上的神奇宝贝免受优先招式的伤害，并使其超能力招式威力提高 50%。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Protects all friendly Pokémon from damaging moves. Only works on the first turn after the user is sent out." xml:space="preserve">
         <source>Protects all friendly Pokémon from damaging moves. Only works on the first turn after the user is sent out.</source>
-        <target state="translated">保护所有友方宝可梦免受伤害。仅在用户被送出后的第一回合有效。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Protects all friendly Pokémon from non-damaging moves." xml:space="preserve">
         <source>Protects all friendly Pokémon from non-damaging moves.</source>
-        <target state="translated">保护所有友方神奇宝贝免受非伤害性动作的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Protects the user’s field from major status ailments and confusion for five turns." xml:space="preserve">
         <source>Protects the user’s field from major status ailments and confusion for five turns.</source>
-        <target state="translated">保护用户的领域免受主要状态疾病和混乱的影响五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Protects the user’s stats from being changed by enemy moves." xml:space="preserve">
         <source>Protects the user’s stats from being changed by enemy moves.</source>
-        <target state="translated">保护用户的统计数据不被敌人的举动所改变。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Psychic" xml:space="preserve">
@@ -3069,13 +2377,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Puts the target to sleep." xml:space="preserve">
         <source>Puts the target to sleep.</source>
-        <target state="translated">使目标进入睡眠状态。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Quadruped" xml:space="preserve">
-        <source>Quadruped</source>
-        <target state="translated">四足动物</target>
-        <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Quiz" xml:space="preserve">
         <source>Quiz</source>
@@ -3089,192 +2391,154 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Raises a selected ally’s Special Defense by one stage." xml:space="preserve">
         <source>Raises a selected ally’s Special Defense by one stage.</source>
-        <target state="translated">将选定盟友的特殊防御提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises all of the user’s stats by two stages." xml:space="preserve">
         <source>Raises all of the user’s stats by two stages.</source>
-        <target state="translated">将所有用户的统计数据提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises one of a friendly Pokémon’s stats at random by two stages." xml:space="preserve">
         <source>Raises one of a friendly Pokémon’s stats at random by two stages.</source>
-        <target state="translated">随机将一只友方宝可梦的属性提升两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the Attack and Special Attack of all friendly Pokémon with Plus or Minus by one stage." xml:space="preserve">
         <source>Raises the Attack and Special Attack of all friendly Pokémon with Plus or Minus by one stage.</source>
-        <target state="translated">将所有带有加号或减号的友方宝可梦的攻击力和特殊攻击力提升一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the Attack and Special Attack of all grass Pokémon in battle." xml:space="preserve">
         <source>Raises the Attack and Special Attack of all grass Pokémon in battle.</source>
-        <target state="translated">提高战斗中所有草系宝可梦的攻击力和特殊攻击力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage." xml:space="preserve">
         <source>Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage.</source>
-        <target state="translated">将所有带有加号或减号的友方宝可梦的防御和特防提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the Defense of all grass Pokémon in battle." xml:space="preserve">
         <source>Raises the Defense of all grass Pokémon in battle.</source>
-        <target state="translated">提高战斗中所有草系宝可梦的防御。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the target’s Attack by two stages and confuses the target." xml:space="preserve">
         <source>Raises the target’s Attack by two stages and confuses the target.</source>
-        <target state="translated">使目标的攻击力提升两级，并使目标陷入混乱。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the target’s Special Attack by one stage and confuses the target." xml:space="preserve">
         <source>Raises the target’s Special Attack by one stage and confuses the target.</source>
-        <target state="translated">将目标的特殊攻击提高一个阶段，并使目标感到困惑。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack and Defense by one stage." xml:space="preserve">
         <source>Raises the user’s Attack and Defense by one stage.</source>
-        <target state="translated">将使用者的攻击力和防御力提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack and Special Attack by one stage each." xml:space="preserve">
         <source>Raises the user’s Attack and Special Attack by one stage each.</source>
-        <target state="translated">将使用者的攻击力和特殊攻击各提升一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack and Special Attack by one stage." xml:space="preserve">
         <source>Raises the user’s Attack and Special Attack by one stage.</source>
-        <target state="translated">将使用者的攻击力和特殊攻击提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack and Speed by one stage." xml:space="preserve">
         <source>Raises the user’s Attack and Speed by one stage.</source>
-        <target state="translated">将使用者的攻击力和速度提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack and accuracy by one stage." xml:space="preserve">
         <source>Raises the user’s Attack and accuracy by one stage.</source>
-        <target state="translated">将使用者的攻击力和准确度提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack by one stage after inflicting damage." xml:space="preserve">
         <source>Raises the user’s Attack by one stage after inflicting damage.</source>
-        <target state="translated">造成伤害后，使用者的攻击力提升一个阶段。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack by one stage and its Speed by two stages." xml:space="preserve">
         <source>Raises the user’s Attack by one stage and its Speed by two stages.</source>
-        <target state="translated">将使用者的攻击力提高一个阶段，速度提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack by one stage." xml:space="preserve">
         <source>Raises the user’s Attack by one stage.</source>
-        <target state="translated">将使用者的攻击力提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack by two stages if it KOs the target." xml:space="preserve">
         <source>Raises the user’s Attack by two stages if it KOs the target.</source>
-        <target state="translated">若击倒目标，则使用者的攻击力提升两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack by two stages." xml:space="preserve">
         <source>Raises the user’s Attack by two stages.</source>
-        <target state="translated">将使用者的攻击力提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Attack, Defense, and accuracy by one stage each." xml:space="preserve">
         <source>Raises the user’s Attack, Defense, and accuracy by one stage each.</source>
-        <target state="translated">将使用者的攻击力、防御力和准确度各提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Defense and Special Defense by one stage." xml:space="preserve">
         <source>Raises the user’s Defense and Special Defense by one stage.</source>
-        <target state="translated">将使用者的防御和特殊防御提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Defense by one stage." xml:space="preserve">
         <source>Raises the user’s Defense by one stage.</source>
-        <target state="translated">将使用者的防御提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Defense by one stage. User charges for one turn before attacking." xml:space="preserve">
         <source>Raises the user’s Defense by one stage. User charges for one turn before attacking.</source>
-        <target state="translated">使使用者的防御力提升一个等级。使用者在攻击前先冲锋一回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Defense by three stages." xml:space="preserve">
         <source>Raises the user’s Defense by three stages.</source>
-        <target state="translated">将使用者的防御提高三个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Defense by two stages." xml:space="preserve">
         <source>Raises the user’s Defense by two stages.</source>
-        <target state="translated">将使用者的防御提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Attack and Special Defense by one stage." xml:space="preserve">
         <source>Raises the user’s Special Attack and Special Defense by one stage.</source>
-        <target state="translated">将使用者的特殊攻击和特殊防御提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Attack by one stage." xml:space="preserve">
         <source>Raises the user’s Special Attack by one stage.</source>
-        <target state="translated">将使用者的特殊攻击提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Attack by three stages." xml:space="preserve">
         <source>Raises the user’s Special Attack by three stages.</source>
-        <target state="translated">将使用者的特殊攻击提高三个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Attack by two stages." xml:space="preserve">
         <source>Raises the user’s Special Attack by two stages.</source>
-        <target state="translated">将使用者的特殊攻击提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Attack, Special Defense, and Speed by one stage each." xml:space="preserve">
         <source>Raises the user’s Special Attack, Special Defense, and Speed by one stage each.</source>
-        <target state="translated">将使用者的特殊攻击、特殊防御和速度各提升一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Defense by one stage. User’s Electric moves have doubled power next turn." xml:space="preserve">
         <source>Raises the user’s Special Defense by one stage. User’s Electric moves have doubled power next turn.</source>
-        <target state="translated">将使用者的特殊防御提高一个阶段。使用者的电系招式在下一回合威力加倍。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Special Defense by two stages." xml:space="preserve">
         <source>Raises the user’s Special Defense by two stages.</source>
-        <target state="translated">将使用者的特殊防御提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Speed by two stages and halves the user’s weight." xml:space="preserve">
         <source>Raises the user’s Speed by two stages and halves the user’s weight.</source>
-        <target state="translated">将使用者的速度提高两个阶段，并将使用者的体重减半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s Speed by two stages." xml:space="preserve">
         <source>Raises the user’s Speed by two stages.</source>
-        <target state="translated">将用户的速度提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s evasion by one stage." xml:space="preserve">
         <source>Raises the user’s evasion by one stage.</source>
-        <target state="translated">将使用者的闪避提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises the user’s evasion by two stages." xml:space="preserve">
         <source>Raises the user’s evasion by two stages.</source>
-        <target state="translated">使使用者的闪避提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises user’s Attack, Special Attack, and Speed by two stages. Lower user’s Defense and Special Defense by one stage." xml:space="preserve">
         <source>Raises user’s Attack, Special Attack, and Speed by two stages. Lower user’s Defense and Special Defense by one stage.</source>
-        <target state="translated">使使用者的攻击、特攻和速度提高两个阶段。使使用者的防御和特防降低一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Raises user’s Defense by one stage." xml:space="preserve">
         <source>Raises user’s Defense by one stage.</source>
-        <target state="translated">将使用者的防御提高一个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Random Opponent" xml:space="preserve">
@@ -3284,31 +2548,19 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP." xml:space="preserve">
         <source>Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.</source>
-        <target state="translated">随机造成 40 至 120 点威力的伤害，或为目标恢复其最大生命值的 1/4。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Randomly selects and uses any move in the game." xml:space="preserve">
         <source>Randomly selects and uses any move in the game.</source>
-        <target state="translated">随机选择并使用游戏中的任意动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Randomly selects and uses one of the trainer’s other Pokémon’s moves." xml:space="preserve">
         <source>Randomly selects and uses one of the trainer’s other Pokémon’s moves.</source>
-        <target state="translated">随机选择并使用训练师的其他宝可梦之一的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Randomly uses one of the user’s other three moves. Only works if the user is sleeping." xml:space="preserve">
         <source>Randomly uses one of the user’s other three moves. Only works if the user is sleeping.</source>
-        <target state="translated">随机使用使用者的另外三种招式之一。仅在使用者睡觉时有效。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Receive as a gift" xml:space="preserve">
-        <source>Receive as a gift</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Receive egg as a gift" xml:space="preserve">
-        <source>Receive egg as a gift</source>
-        <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Recents" xml:space="preserve">
         <source>Recents</source>
@@ -3322,31 +2574,22 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles." xml:space="preserve">
         <source>Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.</source>
-        <target state="translated">一次堆积后恢复 1/4 生命值，两次堆积后恢复 1/2 生命值，三次堆积后恢复全部生命值。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Red" xml:space="preserve">
-        <source>Red</source>
-        <note>Pokémon Red</note>
       </trans-unit>
       <trans-unit id="Redirects the target’s single-target effects to the user for this turn." xml:space="preserve">
         <source>Redirects the target’s single-target effects to the user for this turn.</source>
-        <target state="translated">将目标的单目标效果重定向至用户本回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Reduces damage five turns, but must be used during hail." xml:space="preserve">
         <source>Reduces damage five turns, but must be used during hail.</source>
-        <target state="translated">减少伤害五个回合，但必须在冰雹期间使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Reduces damage from physical attacks by half." xml:space="preserve">
         <source>Reduces damage from physical attacks by half.</source>
-        <target state="translated">使物理攻击造成的伤害减少一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Reduces damage from special attacks by 50% for five turns." xml:space="preserve">
         <source>Reduces damage from special attacks by 50% for five turns.</source>
-        <target state="translated">减少特殊攻击造成的伤害 50% 持续五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Reflectable" xml:space="preserve">
@@ -3356,7 +2599,6 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Reflects back the first effect move used on the user this turn." xml:space="preserve">
         <source>Reflects back the first effect move used on the user this turn.</source>
-        <target state="translated">反射本回合对用户使用的第一个效果动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
@@ -3366,37 +2608,30 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Removes Light Screen, Reflect, and Safeguard." xml:space="preserve">
         <source>Removes Light Screen, Reflect, and Safeguard.</source>
-        <target state="translated">移除光幕、反射和保护。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Removes all of the target’s stat modifiers." xml:space="preserve">
         <source>Removes all of the target’s stat modifiers.</source>
-        <target state="translated">移除目标的所有统计修正值。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Removes any immunity to Ground damage." xml:space="preserve">
         <source>Removes any immunity to Ground damage.</source>
-        <target state="translated">消除对地面伤害的任何免疫力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Removes the user’s fire type after inflicting damage." xml:space="preserve">
         <source>Removes the user’s fire type after inflicting damage.</source>
-        <target state="translated">造成伤害后，消除用户的火焰类型。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Requires a turn to charge before attacking." xml:space="preserve">
         <source>Requires a turn to charge before attacking.</source>
-        <target state="translated">攻击前需要一个回合进行冲锋。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Requires a turn to charge before attacking. Has a chance to burn the target." xml:space="preserve">
         <source>Requires a turn to charge before attacking. Has a chance to burn the target.</source>
-        <target state="translated">攻击前需要一个回合来冲锋。有机会烧伤目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Requires a turn to charge before attacking. Has a chance to paralyze the target." xml:space="preserve">
         <source>Requires a turn to charge before attacking. Has a chance to paralyze the target.</source>
-        <target state="translated">攻击前需要一个回合来冲锋。有机会使目标陷入麻痹状态。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -3416,7 +2651,6 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Resets all Pokémon’s stats, accuracy, and evasion." xml:space="preserve">
         <source>Resets all Pokémon’s stats, accuracy, and evasion.</source>
-        <target state="translated">重置所有神奇宝贝的统计数据、准确度和躲避能力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Resistances" xml:space="preserve">
@@ -3431,7 +2665,6 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Restores 1/16 of the user’s max HP each turn." xml:space="preserve">
         <source>Restores 1/16 of the user’s max HP each turn.</source>
-        <target state="translated">每回合恢复使用者最大生命值的 1/16。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Rock" xml:space="preserve">
@@ -3439,31 +2672,16 @@ The uncaught state for a creature</note>
         <target state="translated">摇滚乐</target>
         <note>Pokémon Type Rock</note>
       </trans-unit>
-      <trans-unit id="Ruby" xml:space="preserve">
-        <source>Ruby</source>
-        <note>Pokémon Ruby</note>
-      </trans-unit>
-      <trans-unit id="Sapphire" xml:space="preserve">
-        <source>Sapphire</source>
-        <note>Pokémon Sapphire</note>
-      </trans-unit>
-      <trans-unit id="Scarlet" xml:space="preserve">
-        <source>Scarlet</source>
-        <note>Pokémon Scarlet</note>
-      </trans-unit>
       <trans-unit id="Scatters Spikes, hurting opposing Pokémon that switch in." xml:space="preserve">
         <source>Scatters Spikes, hurting opposing Pokémon that switch in.</source>
-        <target state="translated">散布尖刺，伤害切换进来的对手神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Scatters money on the ground worth five times the user’s level." xml:space="preserve">
         <source>Scatters money on the ground worth five times the user’s level.</source>
-        <target state="translated">将价值为用户等级五倍的钱财撒在地上。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Scatters poisoned spikes, poisoning opposing Pokémon that switch in." xml:space="preserve">
         <source>Scatters poisoned spikes, poisoning opposing Pokémon that switch in.</source>
-        <target state="translated">散布有毒的尖刺，毒害切换进来的对手神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
@@ -3473,12 +2691,10 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Seeds the target after inflicting damage." xml:space="preserve">
         <source>Seeds the target after inflicting damage.</source>
-        <target state="translated">对目标造成伤害后播种。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Seeds the target, stealing HP from it every turn." xml:space="preserve">
         <source>Seeds the target, stealing HP from it every turn.</source>
-        <target state="translated">给目标播下种子，每回合窃取其生命值。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Select an Option" xml:space="preserve">
@@ -3503,17 +2719,14 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Sets Light Screen on the user’s side of the field after inflicting damage." xml:space="preserve">
         <source>Sets Light Screen on the user’s side of the field after inflicting damage.</source>
-        <target state="translated">造成伤害后，在用户的场地一侧设置光幕。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Sets Reflecton the user’s side of the field after inflicting damage." xml:space="preserve">
         <source>Sets Reflecton the user’s side of the field after inflicting damage.</source>
-        <target state="translated">造成伤害后，在用户的场地一侧设置反射。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Sets the user’s and targets’s HP to the average of their current HP." xml:space="preserve">
         <source>Sets the user’s and targets’s HP to the average of their current HP.</source>
-        <target state="translated">将用户和目标的 HP 设置为其当前 HP 的平均值。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -3530,14 +2743,6 @@ The uncaught state for a creature</note>
         <source>Shedinja appears when Nincada evolves into Nijask at level 20 if the player also has a spare slot in their party and at least one Poké Ball in their bag</source>
         <target state="translated">当Nincada在20级进化到Nijask时，如果玩家在他们的队伍中也有一个备用插槽，并且他们的包里至少有一个口袋球，那么Shedinja就会出现</target>
         <note>Shedinja Evolution Description</note>
-      </trans-unit>
-      <trans-unit id="Shield" xml:space="preserve">
-        <source>Shield</source>
-        <note>Pokémon Shield</note>
-      </trans-unit>
-      <trans-unit id="Shining Pearl" xml:space="preserve">
-        <source>Shining Pearl</source>
-        <note>Pokémon Shining Pearl</note>
       </trans-unit>
       <trans-unit id="Shiny" xml:space="preserve">
         <source>Shiny</source>
@@ -3570,10 +2775,6 @@ The shiny caught state for a creature</note>
         <target state="translated">显示全部</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Silver" xml:space="preserve">
-        <source>Silver</source>
-        <note>Pokémon Silver</note>
-      </trans-unit>
       <trans-unit id="Single Type" xml:space="preserve">
         <source>Single Type</source>
         <target state="translated">单一类型</target>
@@ -3583,10 +2784,6 @@ The shiny caught state for a creature</note>
         <source>Slow</source>
         <target state="translated">耗时的</target>
         <note>Creature Growth Rate - Slow</note>
-      </trans-unit>
-      <trans-unit id="Smashing rocks" xml:space="preserve">
-        <source>Smashing rocks</source>
-        <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Snatch" xml:space="preserve">
         <source>Snatch</source>
@@ -3602,10 +2799,6 @@ The shiny caught state for a creature</note>
         <source>Sort Order</source>
         <target state="translated">排序顺序</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Soul Silver" xml:space="preserve">
-        <source>Soul Silver</source>
-        <note>Pokémon Soul Silver</note>
       </trans-unit>
       <trans-unit id="Sound" xml:space="preserve">
         <source>Sound</source>
@@ -3627,15 +2820,6 @@ The shiny caught state for a creature</note>
         <target state="translated">特定动作</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Squiggle" xml:space="preserve">
-        <source>Squiggle</source>
-        <target state="translated">难以辨认的潦草</target>
-        <note>Creature Shape</note>
-      </trans-unit>
-      <trans-unit id="Static encounter, only one chance" xml:space="preserve">
-        <source>Static encounter, only one chance</source>
-        <note>Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Stats" xml:space="preserve">
         <source>Stats</source>
         <target state="translated">统计</target>
@@ -3648,12 +2832,10 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Steals the target’s move, if it’s self-targeted." xml:space="preserve">
         <source>Steals the target’s move, if it’s self-targeted.</source>
-        <target state="translated">如果目标以自己为目标，则窃取目标的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Steals the target’s stat increases, then inflicts damage." xml:space="preserve">
         <source>Steals the target’s stat increases, then inflicts damage.</source>
-        <target state="translated">窃取目标的属性提升，然后造成伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Steel" xml:space="preserve">
@@ -3663,12 +2845,10 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Stores energy up to three times for use with Spit Up and Swallow." xml:space="preserve">
         <source>Stores energy up to three times for use with Spit Up and Swallow.</source>
-        <target state="translated">储存最多三倍的能量以供 Spit Up 和 Swallow 使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage." xml:space="preserve">
         <source>Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage.</source>
-        <target state="translated">向本回合中最后攻击使用者的宝可梦发起 1.5 倍伤害的反击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Submit" xml:space="preserve">
@@ -3676,31 +2856,14 @@ The shiny caught state for a creature</note>
         <target state="translated">认输</target>
         <note>Sumbit a guess for the quiz</note>
       </trans-unit>
-      <trans-unit id="Sun" xml:space="preserve">
-        <source>Sun</source>
-        <note>Pokémon Sun</note>
-      </trans-unit>
       <trans-unit id="Super-effective against water." xml:space="preserve">
         <source>Super-effective against water.</source>
-        <target state="translated">对水超级有效。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
         <target state="translated">支持</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Surfing" xml:space="preserve">
-        <source>Surfing</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Surfing in dark spots" xml:space="preserve">
-        <source>Surfing in dark spots</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Sword" xml:space="preserve">
-        <source>Sword</source>
-        <note>Pokémon Sword</note>
       </trans-unit>
       <trans-unit id="TM Moves" xml:space="preserve">
         <source>TM Moves</source>
@@ -3709,12 +2872,10 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages." xml:space="preserve">
         <source>Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages.</source>
-        <target state="translated">花费一回合进行充电，然后将用户的特殊攻击、特殊防御和速度提高两个阶段。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Takes the target’s item." xml:space="preserve">
         <source>Takes the target’s item.</source>
-        <target state="translated">拿走目标的物品。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Tap one of the buttons below to show the share sheet. In the share sheet, you should see Delta listed in the row of apps, but you might have to scroll to find it." xml:space="preserve">
@@ -3729,33 +2890,23 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Target cannot use held items." xml:space="preserve">
         <source>Target cannot use held items.</source>
-        <target state="translated">目标无法使用持有的物品。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target drops its held item." xml:space="preserve">
         <source>Target drops its held item.</source>
-        <target state="translated">目标掉落其持有的物品。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user." xml:space="preserve">
         <source>Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.</source>
-        <target state="translated">如果目标与使用者性别相反，则会坠入爱河，并且有50％的几率拒绝攻击使用者。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target loses 1/4 its max HP every turn as long as it’s asleep." xml:space="preserve">
         <source>Target loses 1/4 its max HP every turn as long as it’s asleep.</source>
-        <target state="translated">目标在睡眠期间每回合都会失去其最大生命值的 1/4。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target sleeps at the end of the next turn." xml:space="preserve">
         <source>Target sleeps at the end of the next turn.</source>
-        <target state="translated">目标在下一回合结束时进入睡眠状态。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Tentacles" xml:space="preserve">
-        <source>Tentacles</source>
-        <target state="translated">触角</target>
-        <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Thanks for your support" xml:space="preserve">
         <source>Thanks for your support</source>
@@ -3766,22 +2917,6 @@ The shiny caught state for a creature</note>
         <source>That’s right, it’s: </source>
         <target state="translated">没错，是：</target>
         <note>Win game text, shown before creature name</note>
-      </trans-unit>
-      <trans-unit id="The Crown Tundra" xml:space="preserve">
-        <source>The Crown Tundra</source>
-        <note>The Crown Tundra Expansion</note>
-      </trans-unit>
-      <trans-unit id="The Indigo Disk" xml:space="preserve">
-        <source>The Indigo Disk</source>
-        <note>The Indigo Disk Expansion</note>
-      </trans-unit>
-      <trans-unit id="The Isle of Armor" xml:space="preserve">
-        <source>The Isle of Armor</source>
-        <note>The Isle of Armor Expansion</note>
-      </trans-unit>
-      <trans-unit id="The Teal Mask" xml:space="preserve">
-        <source>The Teal Mask</source>
-        <note>The Teal Mask Expansion</note>
       </trans-unit>
       <trans-unit id="The turn after this move is used, the Pokémon’s action is skipped so it can recharge." xml:space="preserve">
         <source>The turn after this move is used, the Pokémon’s action is skipped so it can recharge.</source>
@@ -3890,26 +3025,18 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Throws held item at the target, its power depends on the item." xml:space="preserve">
         <source>Throws held item at the target, its power depends on the item.</source>
-        <target state="translated">将持有的物品扔向目标，其威力取决于物品。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Trading with an in-game character" xml:space="preserve">
-        <source>Trading with an in-game character</source>
-        <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks." xml:space="preserve">
         <source>Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks.</source>
-        <target state="translated">将使用者最大生命值的1/4转移到娃娃身上，保护使用者免受进一步的伤害或状态变化，直到娃娃破裂。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Transfers the user’s major status effect to the target." xml:space="preserve">
         <source>Transfers the user’s major status effect to the target.</source>
-        <target state="translated">将使用者的主要状态效果转移给目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Traps the target." xml:space="preserve">
         <source>Traps the target.</source>
-        <target state="translated">困住目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Tutor Moves" xml:space="preserve">
@@ -3927,44 +3054,23 @@ The shiny caught state for a creature</note>
         <target state="translated">类型：</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Ultra Moon" xml:space="preserve">
-        <source>Ultra Moon</source>
-        <note>Pokémon Ultra Moon</note>
-      </trans-unit>
-      <trans-unit id="Ultra Sun" xml:space="preserve">
-        <source>Ultra Sun</source>
-        <note>Pokémon Ultra Sun</note>
-      </trans-unit>
       <trans-unit id="Unfavorite" xml:space="preserve">
         <source>Unfavorite</source>
         <target state="translated">不利</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Unknown" xml:space="preserve">
-        <source>Unknown</source>
-        <target state="translated">未知数</target>
-        <note>Creature Shape
-Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Unknown Ability" xml:space="preserve">
         <source>Unknown Ability</source>
-        <target state="translated">未知能力</target>
         <note>Fallback text if an Ability’s name can’t be found</note>
       </trans-unit>
       <trans-unit id="Unknown Effect" xml:space="preserve">
         <source>Unknown Effect</source>
-        <target state="translated">未知影响</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Upgrade to" xml:space="preserve">
         <source>Upgrade to</source>
         <target state="translated">升级到</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Upright" xml:space="preserve">
-        <source>Upright</source>
-        <target state="translated">直柱</target>
-        <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="User" xml:space="preserve">
         <source>User</source>
@@ -3983,157 +3089,126 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="User and target both faint after three turns." xml:space="preserve">
         <source>User and target both faint after three turns.</source>
-        <target state="translated">使用者和目标都会在三回合后昏倒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User and target swap abilities." xml:space="preserve">
         <source>User and target swap abilities.</source>
-        <target state="translated">用户和目标交换能力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User and target swap items." xml:space="preserve">
         <source>User and target swap items.</source>
-        <target state="translated">用户和目标交换物品。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User and target swap stat changes." xml:space="preserve">
         <source>User and target swap stat changes.</source>
-        <target state="translated">用户和目标交换统计变化。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User becomes a copy of the target until it leaves battle." xml:space="preserve">
         <source>User becomes a copy of the target until it leaves battle.</source>
-        <target state="translated">用户将成为目标的复制体，直至其离开战斗。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User becomes the target’s type." xml:space="preserve">
         <source>User becomes the target’s type.</source>
-        <target state="translated">用户成为目标的类型。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User bounces high into the air, dodging all attacks, and hits next turn." xml:space="preserve">
         <source>User bounces high into the air, dodging all attacks, and hits next turn.</source>
-        <target state="translated">用户高高跳到空中，躲避所有攻击，并进行下一回合攻击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User charges for one turn before attacking. Has a chance to make the target flinch." xml:space="preserve">
         <source>User charges for one turn before attacking. Has a chance to make the target flinch.</source>
-        <target state="translated">使用者在攻击前先冲锋一回合。有机会让目标畏缩。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User digs underground, dodging all attacks, and hits next turn." xml:space="preserve">
         <source>User digs underground, dodging all attacks, and hits next turn.</source>
-        <target state="translated">用户挖到地下，躲避所有攻击，并在下一回合进行攻击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User dives underwater, dodging all attacks, and hits next turn." xml:space="preserve">
         <source>User dives underwater, dodging all attacks, and hits next turn.</source>
-        <target state="translated">用户潜入水下，躲避所有攻击，并进行下一回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User faints, and its replacement is fully healed." xml:space="preserve">
         <source>User faints, and its replacement is fully healed.</source>
-        <target state="translated">使用者昏倒，而其替代者则完全康复。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User faints." xml:space="preserve">
         <source>User faints.</source>
-        <target state="translated">用户晕倒。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User faints. Its replacement has its HP fully restored and any major status effect removed." xml:space="preserve">
         <source>User faints. Its replacement has its HP fully restored and any major status effect removed.</source>
-        <target state="translated">使用者昏倒。其替代者的生命值已完全恢复，所有主要状态效果均已消除。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User flies high into the air, dodging all attacks, and hits next turn." xml:space="preserve">
         <source>User flies high into the air, dodging all attacks, and hits next turn.</source>
-        <target state="translated">用户飞到空中，躲避所有攻击，并在下一回合进行攻击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User foregoes its next turn to recharge." xml:space="preserve">
         <source>User foregoes its next turn to recharge.</source>
-        <target state="translated">用户放弃下一次充值的机会。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User is immune to Ground moves and effects for five turns." xml:space="preserve">
         <source>User is immune to Ground moves and effects for five turns.</source>
-        <target state="translated">使用者五回合内免疫地面移动和效果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User must switch out after attacking." xml:space="preserve">
         <source>User must switch out after attacking.</source>
-        <target state="translated">用户攻击后必须切换。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User pays half its max HP to max out its Attack." xml:space="preserve">
         <source>User pays half its max HP to max out its Attack.</source>
-        <target state="translated">使用者支付其最大生命值的一半来最大化其攻击力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User receives 1/2 its HP in recoil." xml:space="preserve">
         <source>User receives 1/2 its HP in recoil.</source>
-        <target state="translated">使用者会因后坐力而损失 1/2 的生命值。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User receives 1/2 the damage inflicted in recoil." xml:space="preserve">
         <source>User receives 1/2 the damage inflicted in recoil.</source>
-        <target state="translated">使用者受到的反冲伤害为原伤害的一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User receives 1/3 the damage inflicted in recoil." xml:space="preserve">
         <source>User receives 1/3 the damage inflicted in recoil.</source>
-        <target state="translated">使用者受到的后坐力伤害为所造成伤害的 1/3。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User receives 1/4 the damage it inflicts in recoil." xml:space="preserve">
         <source>User receives 1/4 the damage it inflicts in recoil.</source>
-        <target state="translated">使用者会受到其造成后坐力伤害的 1/4。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User recovers the item it last used up." xml:space="preserve">
         <source>User recovers the item it last used up.</source>
-        <target state="translated">用户恢复最后用完的物品。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User sleeps for two turns, completely healing itself." xml:space="preserve">
         <source>User sleeps for two turns, completely healing itself.</source>
-        <target state="translated">使用者睡眠两回合，完全治愈自己。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User swaps Attack and Defense." xml:space="preserve">
         <source>User swaps Attack and Defense.</source>
-        <target state="translated">用户交换攻击和防御。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User swaps Attack and Special Attack changes with the target." xml:space="preserve">
         <source>User swaps Attack and Special Attack changes with the target.</source>
-        <target state="translated">用户与目标交换攻击和特殊攻击的变化。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User swaps Defense and Special Defense changes with the target." xml:space="preserve">
         <source>User swaps Defense and Special Defense changes with the target.</source>
-        <target state="translated">用户与目标交换防御和特殊防御的变化。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User switches places with the friendly Pokémon opposite it." xml:space="preserve">
         <source>User switches places with the friendly Pokémon opposite it.</source>
-        <target state="translated">使用者与其对面的友善神奇宝贝交换位置。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User takes 1/3 the damage inflicted in recoil. Has a chance to burn the target." xml:space="preserve">
         <source>User takes 1/3 the damage inflicted in recoil. Has a chance to burn the target.</source>
-        <target state="translated">使用者受到 1/3 的后坐力伤害。有机会烧伤目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User takes 1/3 the damage inflicted in recoil. Has a chance to paralyze the target." xml:space="preserve">
         <source>User takes 1/3 the damage inflicted in recoil. Has a chance to paralyze the target.</source>
-        <target state="translated">使用者受到的伤害为后坐力的 1/3。有机会使目标瘫痪。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User takes 1/4 its max HP in recoil." xml:space="preserve">
         <source>User takes 1/4 its max HP in recoil.</source>
-        <target state="translated">使用者受到后坐力，损失其最大生命值的 1/4。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User touches the target. This triggers some abilities and items." xml:space="preserve">
@@ -4143,17 +3218,14 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="User vanishes, dodging all attacks, and hits next turn. Hits through Protect and Detect." xml:space="preserve">
         <source>User vanishes, dodging all attacks, and hits next turn. Hits through Protect and Detect.</source>
-        <target state="translated">使用者消失，躲避所有攻击，并在下一回合发起攻击。通过“保护”和“检测”进行攻击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User waits for two turns, then hits back for twice the damage it took." xml:space="preserve">
         <source>User waits for two turns, then hits back for twice the damage it took.</source>
-        <target state="translated">用户等待两个回合，然后反击，造成两倍于所受伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User will recover half its max HP at the end of the next turn." xml:space="preserve">
         <source>User will recover half its max HP at the end of the next turn.</source>
-        <target state="translated">使用者将在下一回合结束时恢复其最大生命值的一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Users Field" xml:space="preserve">
@@ -4163,109 +3235,33 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="User’s type changes to match the terrain." xml:space="preserve">
         <source>User’s type changes to match the terrain.</source>
-        <target state="translated">用户的类型会根据地形而改变。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User’s type changes to the type of one of its moves at random." xml:space="preserve">
         <source>User’s type changes to the type of one of its moves at random.</source>
-        <target state="translated">用户的类型会随机变为其某一动作的类型。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Uses a move which depends upon the terrain." xml:space="preserve">
         <source>Uses a move which depends upon the terrain.</source>
-        <target state="translated">使用取决于地形的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Uses the target’s last used move." xml:space="preserve">
         <source>Uses the target’s last used move.</source>
-        <target state="translated">使用目标最后使用的动作。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Uses the target’s move against it before it attacks, with power increased by half." xml:space="preserve">
         <source>Uses the target’s move against it before it attacks, with power increased by half.</source>
-        <target state="translated">在攻击前利用目标的动作对其进行攻击，威力增加一半。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="Using Devon Scope" xml:space="preserve">
-        <source>Using Devon Scope</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Using Island Scan" xml:space="preserve">
-        <source>Using Island Scan</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Using the Squirt Bottle on a Sudowoodo" xml:space="preserve">
-        <source>Using the Squirt Bottle on a Sudowoodo</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Using the Wailmer Pail on a Sudowoodo" xml:space="preserve">
-        <source>Using the Wailmer Pail on a Sudowoodo</source>
-        <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="View Options" xml:space="preserve">
         <source>View Options</source>
         <target state="translated">查看选项</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Violet" xml:space="preserve">
-        <source>Violet</source>
-        <note>Pokémon Violet</note>
-      </trans-unit>
-      <trans-unit id="Walking in bridge shadows" xml:space="preserve">
-        <source>Walking in bridge shadows</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in dark grass" xml:space="preserve">
-        <source>Walking in dark grass</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in dust clouds" xml:space="preserve">
-        <source>Walking in dust clouds</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in purple flowers" xml:space="preserve">
-        <source>Walking in purple flowers</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in red flowers" xml:space="preserve">
-        <source>Walking in red flowers</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in rustling grass" xml:space="preserve">
-        <source>Walking in rustling grass</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in tall grass or a cave" xml:space="preserve">
-        <source>Walking in tall grass or a cave</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking in yellow flowers" xml:space="preserve">
-        <source>Walking in yellow flowers</source>
-        <note>Encounter Method</note>
-      </trans-unit>
-      <trans-unit id="Walking on rough terrain" xml:space="preserve">
-        <source>Walking on rough terrain</source>
-        <note>Encounter Method</note>
-      </trans-unit>
       <trans-unit id="Water" xml:space="preserve">
         <source>Water</source>
         <target state="translated">水</target>
         <note>Pokémon Type Water</note>
-      </trans-unit>
-      <trans-unit id="Water 1" xml:space="preserve">
-        <source>Water 1</source>
-        <target state="translated">水1</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
-      <trans-unit id="Water 2" xml:space="preserve">
-        <source>Water 2</source>
-        <target state="translated">水2</target>
-        <note>Creature Egg Group</note>
-      </trans-unit>
-      <trans-unit id="Water 3" xml:space="preserve">
-        <source>Water 3</source>
-        <target state="translated">水3</target>
-        <note>Creature Egg Group</note>
       </trans-unit>
       <trans-unit id="Weaknesses" xml:space="preserve">
         <source>Weaknesses</source>
@@ -4305,128 +3301,30 @@ Encounter Method</note>
 —本</target>
         <note/>
       </trans-unit>
-      <trans-unit id="While playing on the Virtual Console edition of the game." xml:space="preserve">
-        <source>While playing on the Virtual Console edition of the game.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="While your first party Pokémon has high friendship." xml:space="preserve">
-        <source>While your first party Pokémon has high friendship.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="White" xml:space="preserve">
-        <source>White</source>
-        <note>Pokémon White</note>
-      </trans-unit>
-      <trans-unit id="White 2" xml:space="preserve">
-        <source>White 2</source>
-        <note>Pokémon White 2</note>
-      </trans-unit>
       <trans-unit id="Who’s That Pokémon?!" xml:space="preserve">
         <source>Who’s That Pokémon?!</source>
         <target state="translated">那个神奇宝贝是谁？！</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Wings" xml:space="preserve">
-        <source>Wings</source>
-        <target state="translated">展翅飞行</target>
-        <note>Creature Shape</note>
-      </trans-unit>
-      <trans-unit id="With " xml:space="preserve">
-        <source>With </source>
-        <note>Encounter Condition</note>
-      </trans-unit>
       <trans-unit id="With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns." xml:space="preserve">
         <source>With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns.</source>
-        <target state="translated">使用火焰誓约，每回合对敌方宝可梦造成其最大生命值的 1/8 伤害，持续四回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With Fusion Bolt, inflicts double damage." xml:space="preserve">
         <source>With Fusion Bolt, inflicts double damage.</source>
-        <target state="translated">使用聚变箭，造成双倍伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With Fusion Flare, inflicts double damage." xml:space="preserve">
         <source>With Fusion Flare, inflicts double damage.</source>
-        <target state="translated">使用聚变火焰喷射器会造成双倍伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With Grass Pledge, halves opposing Pokémon’s Speed for four turns." xml:space="preserve">
         <source>With Grass Pledge, halves opposing Pokémon’s Speed for four turns.</source>
-        <target state="translated">使用草誓，四回合内使对手宝可梦的速度减半。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="With PokéRadar active." xml:space="preserve">
-        <source>With PokéRadar active.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With Regirock, Regice, and Registeel in your party." xml:space="preserve">
-        <source>With Regirock, Regice, and Registeel in your party.</source>
-        <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns." xml:space="preserve">
         <source>With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns.</source>
-        <target state="translated">使用水之誓约后，友方宝可梦的招式生效几率将加倍，持续四回合。</target>
         <note>Move Effect Description</note>
-      </trans-unit>
-      <trans-unit id="With an Event Arceus in your party." xml:space="preserve">
-        <source>With an Event Arceus in your party.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Adamant Orb." xml:space="preserve">
-        <source>With the Adamant Orb.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Claw Fossil." xml:space="preserve">
-        <source>With the Claw Fossil.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Dome Fossil." xml:space="preserve">
-        <source>With the Dome Fossil.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Helix Fossil." xml:space="preserve">
-        <source>With the Helix Fossil.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Lustrous Orb." xml:space="preserve">
-        <source>With the Lustrous Orb.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Odd Keystone." xml:space="preserve">
-        <source>With the Odd Keystone.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Old Amber." xml:space="preserve">
-        <source>With the Old Amber.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the PokéGear Radio set to Hoenn Sounds." xml:space="preserve">
-        <source>With the PokéGear Radio set to Hoenn Sounds.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the PokéGear Radio set to Sinnoh Sounds." xml:space="preserve">
-        <source>With the PokéGear Radio set to Sinnoh Sounds.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="With the Root Fossil." xml:space="preserve">
-        <source>With the Root Fossil.</source>
-        <note>Encounter Condition</note>
-      </trans-unit>
-      <trans-unit id="X" xml:space="preserve">
-        <source>X</source>
-        <note>Pokémon X</note>
-      </trans-unit>
-      <trans-unit id="XD" xml:space="preserve">
-        <source>XD</source>
-        <note>Pokémon XD</note>
-      </trans-unit>
-      <trans-unit id="Y" xml:space="preserve">
-        <source>Y</source>
-        <note>Pokémon Y</note>
-      </trans-unit>
-      <trans-unit id="Yellow" xml:space="preserve">
-        <source>Yellow</source>
-        <note>Pokémon Yellow</note>
       </trans-unit>
       <trans-unit id="You haven’t caught any pokemon yet!" xml:space="preserve">
         <source>You haven’t caught any pokemon yet!</source>
