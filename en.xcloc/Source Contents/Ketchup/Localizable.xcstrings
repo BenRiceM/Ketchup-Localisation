@@ -1,0 +1,2846 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " " : {
+
+    },
+    " at " : {
+      "comment" : "at location evolution requirement text"
+    },
+    " at a specific location" : {
+      "comment" : "unknown specific location evolution requirement"
+    },
+    " but can be traded into it." : {
+      "comment" : "Catch Info can be traded in"
+    },
+    " can be acquired as a gift in " : {
+      "comment" : "Catch Info is gift"
+    },
+    " can be acquired in " : {
+      "comment" : "Catch Info acquired in"
+    },
+    " can be acquired through breeding in " : {
+      "comment" : "Catch Info via breeding"
+    },
+    " can be acquired through evolution in " : {
+      "comment" : "Catch Info via evolution"
+    },
+    " can be acquired using a PokeWalker accessory in " : {
+      "comment" : "Catch Info via Pokewalker"
+    },
+    " can be acquired via in-game trade " : {
+      "comment" : "Catch Info via in-game trade"
+    },
+    " can be acquired via the National Park " : {
+      "comment" : "Catch Info via National Park"
+    },
+    " can be acquired via trade evolution in " : {
+      "comment" : "Catch Info via trade evolution"
+    },
+    " can be acquired with a second cartridge inserted into the system in " : {
+      "comment" : "Catch Info via second DS cartridge"
+    },
+    " can be caught in " : {
+      "comment" : "Catch Info can be caught"
+    },
+    " can be purchased in " : {
+      "comment" : "Catch Info via in-game purchase"
+    },
+    " can be revived from a fossil in " : {
+      "comment" : "Catch Info via fossil"
+    },
+    " can be transferred from a Poké Ball Plus accessory into " : {
+      "comment" : "Catch Info via Poké Ball Plus"
+    },
+    " can be transferred from Pokémon Go into" : {
+      "comment" : "Catch Info via Pokemon Go"
+    },
+    " can be transferred from Pokémon Ranger into " : {
+      "comment" : "Catch Info via Pokemon Ranger"
+    },
+    " can only be acquired in " : {
+      "comment" : "Catch Info only acquired"
+    },
+    " cannot be found in " : {
+      "comment" : "Catch Info can't be found"
+    },
+    " could be acquired via Friend Safari in " : {
+      "comment" : "Catch Info via Friend Safari"
+    },
+    " during a full moon" : {
+      "comment" : "full moon evolution requirement"
+    },
+    " during daytime" : {
+      "comment" : "daytime evolution requirement"
+    },
+    " during dusk" : {
+      "comment" : "dusk evolution requirement"
+    },
+    " during night time" : {
+      "comment" : "night time evolution requirement"
+    },
+    " evolves into " : {
+      "comment" : "text between before and after evolution creatures"
+    },
+    " if " : {
+      "comment" : "evolution requirement condition text"
+    },
+    " if a " : {
+      "comment" : "evolution requirement condition text"
+    },
+    " if a specific creature is in the player’s party" : {
+      "comment" : "unknown specific creature in party evolution requirement"
+    },
+    " if affection is at least " : {
+      "comment" : "high affection evolution requirement"
+    },
+    " if beauty is at least " : {
+      "comment" : "high beauty evolution requirement"
+    },
+    " if female" : {
+      "comment" : "if female evolution requirement"
+    },
+    " if genderless" : {
+      "comment" : "genderless evolution requirement"
+    },
+    " if happiness is at least " : {
+      "comment" : "high happiness evolution requirement"
+    },
+    " if its attack is equal to its defence" : {
+      "comment" : "equal attack and defense evolution requirement",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " if its attack is equal to its defense"
+          }
+        }
+      }
+    },
+    " if its attack is greater than its defense" : {
+      "comment" : "higher attack evolution requirement"
+    },
+    " if its defense is greater than its attack" : {
+      "comment" : "higher defense evolution requirement"
+    },
+    " if knowing " : {
+      "comment" : "evolution requirement knowing move condition text"
+    },
+    " if knowing a " : {
+      "comment" : "evolution requirement knowing move condition text"
+    },
+    " if knowing a specific move" : {
+      "comment" : "unknown specific move evolution requirement"
+    },
+    " if male" : {
+      "comment" : "if male evolution requirement   "
+    },
+    " in " : {
+
+    },
+    " in the DS’s second slot." : {
+      "comment" : "Encounter Condition"
+    },
+    " is in the player’s party" : {
+      "comment" : "creature in players party evolution requirement"
+    },
+    " is incompatible with " : {
+      "comment" : "Catch Info incompatible text"
+    },
+    " is one of the starter Pokémon in " : {
+      "comment" : "Catch Info is starter"
+    },
+    " is received as a gift in " : {
+      "comment" : "Catch Info via Gift"
+    },
+    " type creature is in the player’s party" : {
+      "comment" : "in player party evolution requirement"
+    },
+    " type move" : {
+      "comment" : "evolution requirement move type"
+    },
+    " via a special event." : {
+      "comment" : "Catch Info via special event"
+    },
+    " while holding a " : {
+      "comment" : "holding item evolution requirement"
+    },
+    " while holding a specific item" : {
+      "comment" : "holding unknown item evolution requirement"
+    },
+    " while raining" : {
+      "comment" : "raining evolution requirement"
+    },
+    " while the device is held upside down" : {
+      "comment" : "device inverted evolution requirement"
+    },
+    " with a save file from Let’s Go Pikachu or Eevee on the same device." : {
+      "comment" : "Catch Info with save file"
+    },
+    " with a save file from Sword or Shield on the same device." : {
+      "comment" : "Catch Info with save file"
+    },
+    " with either the Isle of Armor or Crown Tundra expansions." : {
+      "comment" : "Catch Info via Isle of Aemor or Crown Tundra"
+    },
+    " with the Crown Tundra expansion." : {
+      "comment" : "Catch Info via Crown Tundra"
+    },
+    " with the Indigo Disk expansion." : {
+      "comment" : "Catch Info in Indigo Disk"
+    },
+    " with the Isle of Armor expansion." : {
+      "comment" : "Catch Info via Isle of Armor"
+    },
+    " with the Teal Mask expansion." : {
+      "comment" : "Catch Info in Teal Mask"
+    },
+    " with wither the Teal Mask or Indigo Disk expansions." : {
+      "comment" : "Catch Info in Teal Mask or Indigo Disk"
+    },
+    "—" : {
+
+    },
+    ", but this service is no longer available." : {
+      "comment" : "Catch Info Friend Safari discontinued"
+    },
+    "(they’re dials!)" : {
+
+    },
+    "•" : {
+
+    },
+    "A Pokémon targeted by this move can use Mirror-Move to copy it." : {
+
+    },
+    "A single " : {
+      "comment" : "Catch Info a single"
+    },
+    "a specific creature" : {
+      "comment" : "text for creatures that level up when traded with a specific creature"
+    },
+    "a specific item" : {
+      "comment" : "a specific item evolution text"
+    },
+    "Abilities" : {
+      "comment" : "Navigation item for abilities\nThe Creature Page Abilities Section Title"
+    },
+    "About" : {
+
+    },
+    "About Ben" : {
+
+    },
+    "About Ketchup" : {
+
+    },
+    "ACC" : {
+
+    },
+    "Accuracy" : {
+
+    },
+    "Add DS Skin" : {
+
+    },
+    "Add GBA Skin" : {
+
+    },
+    "Add GBC Skin" : {
+
+    },
+    "Adds ghost to the target’s types." : {
+      "comment" : "Move Effect Description"
+    },
+    "Adds grass to the target’s types." : {
+      "comment" : "Move Effect Description"
+    },
+    "Afer defeating the Elite Four a second time." : {
+      "comment" : "Encounter Condition"
+    },
+    "After curing Sailor Eldritch’s son’s nightmares." : {
+      "comment" : "Encounter Condition"
+    },
+    "After defeating Jupiter." : {
+      "comment" : "Encounter Condition"
+    },
+    "After defeating Mars." : {
+      "comment" : "Encounter Condition"
+    },
+    "After defeating Red." : {
+      "comment" : "Encounter Condition"
+    },
+    "After defeating Team Galactic at Iron Island." : {
+      "comment" : "Encounter Condition"
+    },
+    "After encountering Tornadus and Thunderus." : {
+      "comment" : "Encounter Condition"
+    },
+    "After entering the correct password." : {
+      "comment" : "Encounter Condition"
+    },
+    "After Entering the Hall of Fame" : {
+      "comment" : "Encounter Condition"
+    },
+    "After having awakened the beasts." : {
+      "comment" : "Encounter Condition"
+    },
+    "After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "After receiving a Kanto starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "After receiving the National Dex." : {
+      "comment" : "Encounter Condition"
+    },
+    "After receiving the Zephyr Badge." : {
+      "comment" : "Encounter Condition"
+    },
+    "After receiving TM59 from Claire." : {
+      "comment" : "Encounter Condition"
+    },
+    "After returning Copycat’s doll to the Pokémon Fan Club." : {
+      "comment" : "Encounter Condition"
+    },
+    "After Returning the Machine Part to the Power Plant." : {
+      "comment" : "Encounter Condition"
+    },
+    "After talking to at least 32 people in the Underground." : {
+      "comment" : "Encounter Condition"
+    },
+    "After talking to Cynthias Grandmother." : {
+      "comment" : "Encounter Condition"
+    },
+    "After talking to Professor Oak in Eterna City." : {
+      "comment" : "Encounter Condition"
+    },
+    "after using Agile Style Psyshield Bash at least 20 times" : {
+      "comment" : "Wydeer evolution Text"
+    },
+    "After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" : {
+      "comment" : "Encounter Condition"
+    },
+    "All" : {
+      "comment" : "Filter Option for All Creatures"
+    },
+    "All Allies" : {
+
+    },
+    "all features + tip" : {
+
+    },
+    "All Opponents" : {
+
+    },
+    "All Other Pokemon" : {
+
+    },
+    "All Pokemon" : {
+
+    },
+    "All Pokémon’s Defense and Special Defense are swapped for 5 turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Allows the trainer to switch out the user and pass effects along to its replacement." : {
+      "comment" : "Move Effect Description"
+    },
+    "Ally" : {
+
+    },
+    "Ally’s next move inflicts half more damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Alpha Sapphire" : {
+      "comment" : "Pokémon Alpha Sapphire"
+    },
+    "Alphabetical" : {
+      "comment" : "Alphabetical Sorting option"
+    },
+    "Also by Ben" : {
+
+    },
+    "Always scores a critical hit." : {
+      "comment" : "Move Effect Description"
+    },
+    "App Icon" : {
+
+    },
+    "App Icons" : {
+
+    },
+    "Appearance" : {
+
+    },
+    "Armor" : {
+      "comment" : "Creature Shape"
+    },
+    "Arms" : {
+      "comment" : "Creature Shape"
+    },
+    "at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" : {
+      "comment" : "Maushold evolution text"
+    },
+    "at level 38 when leveled up while connected with another player via the Union Circle" : {
+      "comment" : "Palafin evolution text"
+    },
+    "Attack" : {
+
+    },
+    "Authentic" : {
+
+    },
+    "Averages Attack and Special Attack with the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Averages Defense and Special Defense with the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Badly poisons the target, inflicting more damage every turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Ball" : {
+      "comment" : "Creature Shape"
+    },
+    "Ballistics" : {
+
+    },
+    "Base Happiness" : {
+
+    },
+    "Bite" : {
+
+    },
+    "Black" : {
+      "comment" : "Pokémon Black"
+    },
+    "Black 2" : {
+      "comment" : "Pokémon Black 2"
+    },
+    "Blob" : {
+      "comment" : "Creature Shape"
+    },
+    "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." : {
+      "comment" : "Move Effect Description"
+    },
+    "Blog" : {
+      "comment" : "Creature Shape",
+      "extractionState" : "stale"
+    },
+    "Blue" : {
+      "comment" : "Pokémon Blue"
+    },
+    "Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row." : {
+      "comment" : "Move Effect Description"
+    },
+    "Brilliant Diamond" : {
+      "comment" : "Pokémon Brilliant Diamond"
+    },
+    "Bug" : {
+      "comment" : "Creature Egg Group\nPokémon Type Bug"
+    },
+    "Bug Wings" : {
+      "comment" : "Creature Shape"
+    },
+    "Burns the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "But you still have to subscribe" : {
+
+    },
+    "By Type" : {
+      "comment" : "By Type Sorting option"
+    },
+    "Calculates damage with the target’s attacking stat." : {
+      "comment" : "Move Effect Description"
+    },
+    "Can only be used after all of the user’s other moves have been used." : {
+      "comment" : "Move Effect Description"
+    },
+    "Can only be used after the user has eaten a berry." : {
+      "comment" : "Move Effect Description"
+    },
+    "Can only be used as the first move after the user enters battle." : {
+      "comment" : "Move Effect Description"
+    },
+    "Can only be used as the first move after the user enters battle. Causes the target to flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "Cancel" : {
+
+    },
+    "Cannot be disrupted by abilities." : {
+      "comment" : "Move Effect Description"
+    },
+    "Cannot lower the target’s HP below 1." : {
+      "comment" : "Move Effect Description"
+    },
+    "Carries the target high into the air, dodging all attacks against either, and drops it next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Catch Filter" : {
+
+    },
+    "Catch info is unavailble for " : {
+
+    },
+    "Catch Information Unavailable" : {
+
+    },
+    "Catch State" : {
+
+    },
+    "Catch State:" : {
+
+    },
+    "Catching" : {
+      "comment" : "The Creature Page Catching Section Title"
+    },
+    "Category" : {
+
+    },
+    "Caught" : {
+      "comment" : "Filter Option for Caught Creatures\nThe caught state for a creature"
+    },
+    "Causes a one-hit KO." : {
+      "comment" : "Move Effect Description"
+    },
+    "Causes damage when opposing Pokémon switch in." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes all normal moves to electric moves for the rest of the turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the target’s ability to Insomnia." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the target’s ability to Simple." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the target’s move’s type to electric if it hasn’t moved yet this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the target’s type to Water." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the terrain to Psychic Terrain after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the user’s type to a random type either resistant or immune to the last move used against it." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the weather to a hailstorm for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the weather to a sandstorm for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the weather to rain for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the weather to Shadow Sky for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Changes the weather to sunny for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Charge" : {
+
+    },
+    "Check Type Defence" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Type Defense"
+          }
+        }
+      }
+    },
+    "Check Type Defense" : {
+
+    },
+    "Check your internet connection and make sure you’re signed into the App Store." : {
+      "comment" : "A help message displayed when In-App-Purchase is unavailable."
+    },
+    "Checking Berry piles" : {
+      "comment" : "Encounter Method"
+    },
+    "Cleanses the user of a burn, paralysis, or poison." : {
+      "comment" : "Move Effect Description"
+    },
+    "Clear" : {
+
+    },
+    "Clear Filters" : {
+
+    },
+    "Colosseum" : {
+      "comment" : "Pokémon Colosseum"
+    },
+    "Confuses the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Congratulations Pokémon Master!" : {
+
+    },
+    "Contact" : {
+
+    },
+    "Copies the target’s ability." : {
+      "comment" : "Move Effect Description"
+    },
+    "Copies the target’s last used move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Copies the user’s ability onto the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Cost" : {
+
+    },
+    "Covers the opposing field, lowering opponents’ Speed by one stage upon switching in." : {
+      "comment" : "Move Effect Description"
+    },
+    "Creatures" : {
+      "comment" : "Navigation item for creatures"
+    },
+    "Creatures with " : {
+      "comment" : "String preceding ability name"
+    },
+    "Crystal" : {
+      "comment" : "Pokémon Crystal"
+    },
+    "Cures the entire party of major status effects after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Cures the entire party of major status effects." : {
+      "comment" : "Move Effect Description"
+    },
+    "Cures the target of a major status ailment and heals the user for 50% of its max HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Cures the target of burns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Customer Support" : {
+
+    },
+    "Damages opponents, but heals allies for 50% of their max HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Damages the target for 75% of its remaining HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Dance" : {
+
+    },
+    "Dark" : {
+      "comment" : "Pokémon Type Dark"
+    },
+    "Deals both fighting and flying-type damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Deals splash damage to Pokémon next to the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Default" : {
+
+    },
+    "Defense" : {
+
+    },
+    "Defrost" : {
+
+    },
+    "Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports." : {
+
+    },
+    "Delta Skin" : {
+
+    },
+    "Delta Skins require Ketchup+" : {
+
+    },
+    "Description" : {
+
+    },
+    "Destroys Reflect and Light Screen." : {
+      "comment" : "Move Effect Description"
+    },
+    "Destroys the target’s held berry." : {
+      "comment" : "Move Effect Description"
+    },
+    "Diamond" : {
+      "comment" : "Pokémon Diamond"
+    },
+    "Disables moves and immunities that involve flying or levitating for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Disables the target’s last used move for 1-8 turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Discards the user’s stat changes and copies the target’s." : {
+      "comment" : "Move Effect Description"
+    },
+    "Disclaimer" : {
+
+    },
+    "Distance" : {
+
+    },
+    "Ditto" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Diving on seaweed" : {
+      "comment" : "Encounter Method"
+    },
+    "Does nothing." : {
+      "comment" : "Move Effect Description"
+    },
+    "Doubles prize money." : {
+      "comment" : "Move Effect Description"
+    },
+    "Drag to change types" : {
+
+    },
+    "Dragon" : {
+      "comment" : "Creature Egg Group\nPokémon Type Dragon"
+    },
+    "Drains 75% of the damage inflicted to heal the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Drains half the damage inflicted to heal the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Dual Type" : {
+      "comment" : "Represents the type calculator mode for picking two defensive types"
+    },
+    "During a Mass outbreak." : {
+      "comment" : "Encounter Condition"
+    },
+    "During autumn." : {
+      "comment" : "Encounter Condition"
+    },
+    "During Daytime." : {
+      "comment" : "Encounter Condition"
+    },
+    "During Morning." : {
+      "comment" : "Encounter Condition"
+    },
+    "During Night." : {
+      "comment" : "Encounter Condition"
+    },
+    "During SOS battle while fishing at a bubbling spot" : {
+      "comment" : "Encounter Method"
+    },
+    "During SOS battles" : {
+      "comment" : "Encounter Method"
+    },
+    "During spring." : {
+      "comment" : "Encounter Condition"
+    },
+    "During summer." : {
+      "comment" : "Encounter Condition"
+    },
+    "During winter." : {
+      "comment" : "Encounter Condition"
+    },
+    "Effect" : {
+
+    },
+    "Effective" : {
+      "comment" : "Effectiveness 1×"
+    },
+    "Egg Group" : {
+
+    },
+    "Egg Groups" : {
+
+    },
+    "Egg Moves" : {
+      "comment" : "Creature Page Egg Moves Section Header"
+    },
+    "Electric" : {
+      "comment" : "Pokémon Type Electric"
+    },
+    "Email Ben" : {
+
+    },
+    "Email Support" : {
+
+    },
+    "Emerald" : {
+      "comment" : "Pokémon Emerald"
+    },
+    "Ends wild battles. Forces trainers to switch Pokémon." : {
+      "comment" : "Move Effect Description"
+    },
+    "Ensures that the user’s next move will hit the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Entire Field" : {
+
+    },
+    "Erratic" : {
+      "comment" : "Creature Growth Rate - Erratic"
+    },
+    "Exchanges the user’s Speed with the target’s." : {
+      "comment" : "Move Effect Description"
+    },
+    "Explodes if the target uses fire move this turn, damaging it for 1/4 its max HP and preventing the move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Extras" : {
+
+    },
+    "Fainting Pokemon" : {
+
+    },
+    "Fairy" : {
+      "comment" : "Creature Egg Group\nPokémon Type Fairy"
+    },
+    "Fast" : {
+      "comment" : "Creature Growth Rate - Fast"
+    },
+    "Favorite" : {
+
+    },
+    "Favorites" : {
+
+    },
+    "Favorites Filter" : {
+
+    },
+    "Favorites:" : {
+
+    },
+    "Feedback & Support" : {
+
+    },
+    "Fighting" : {
+      "comment" : "Pokémon Type Fighting"
+    },
+    "Filter" : {
+
+    },
+    "Filter by:" : {
+
+    },
+    "Fire" : {
+      "comment" : "Pokémon Type Fire"
+    },
+    "Fire Red" : {
+      "comment" : "Pokémon Fire Red"
+    },
+    "Fish" : {
+      "comment" : "Creature Shape"
+    },
+    "Fishing at a bubbling spot" : {
+      "comment" : "Encounter Method"
+    },
+    "Fishing in a Feebas Tile" : {
+      "comment" : "Encounter Method"
+    },
+    "Fishing in dark spots" : {
+      "comment" : "Encounter Method"
+    },
+    "Fishing with a Good Rod" : {
+      "comment" : "Encounter Method"
+    },
+    "Fishing with a Super Rod" : {
+      "comment" : "Encounter Method"
+    },
+    "Fishing with an Old Rod" : {
+      "comment" : "Encounter Method"
+    },
+    "Fling Effect" : {
+
+    },
+    "Fling Power" : {
+
+    },
+    "Fluctuating" : {
+      "comment" : "Creature Growth Rate - Fluctuating"
+    },
+    "Flying" : {
+      "comment" : "Creature Egg Group\nPokémon Type Flying"
+    },
+    "for all features" : {
+
+    },
+    "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power." : {
+      "comment" : "Move Effect Description"
+    },
+    "For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power." : {
+      "comment" : "Move Effect Description"
+    },
+    "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves." : {
+      "comment" : "Move Effect Description"
+    },
+    "For five turns, slower Pokémon will act before faster Pokémon." : {
+      "comment" : "Move Effect Description"
+    },
+    "For the next few turns, the target can only use damaging moves." : {
+      "comment" : "Move Effect Description"
+    },
+    "for these great features:" : {
+
+    },
+    "For three turns, friendly Pokémon have doubled Speed." : {
+      "comment" : "Move Effect Description"
+    },
+    "For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." : {
+
+    },
+    "Forced to use this move for several turns. Pokémon cannot fall asleep in that time." : {
+      "comment" : "Move Effect Description"
+    },
+    "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost." : {
+      "comment" : "Move Effect Description"
+    },
+    "Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark." : {
+      "comment" : "Move Effect Description"
+    },
+    "Forces the target to repeat its last used move every turn for 2 to 6 turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Forces the target to repeat its last used move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Forces the target’s opponents to aim at the target for the rest of the turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Frees the user from binding moves, removes Leech Seed, and blows away Spikes." : {
+      "comment" : "Move Effect Description"
+    },
+    "Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" : {
+      "comment" : "Galarian Yamask Evolution Text"
+    },
+    "Games" : {
+      "comment" : "Filter option for Games"
+    },
+    "Gender Rate" : {
+      "comment" : "Gender rate for Creature"
+    },
+    "Generations" : {
+      "comment" : "Filter option for Generations"
+    },
+    "Get Ketchup+" : {
+
+    },
+    "Get Ketchup+ to Unlock Filters" : {
+
+    },
+    "Ghost" : {
+      "comment" : "Pokémon Type Ghost"
+    },
+    "Ghosts pay half their max HP to hurt the target every turn. Others decrease Speed but raise Attack and Defense." : {
+      "comment" : "Move Effect Description"
+    },
+    "Gives the user’s held item to the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Gold" : {
+      "comment" : "Pokémon Gold"
+    },
+    "Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it." : {
+      "comment" : "Move Effect Description"
+    },
+    "Grass" : {
+      "comment" : "Pokémon Type Grass"
+    },
+    "Gravity" : {
+
+    },
+    "Ground" : {
+      "comment" : "Creature Egg Group\nPokémon Type Ground"
+    },
+    "Grounds the target, and hits even Flying-type or levitating Pokémon." : {
+
+    },
+    "Growth Rate" : {
+
+    },
+    "Guarantees a critical hit with the user’s next move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Guess 1" : {
+      "comment" : "The first guess of the quiz"
+    },
+    "Guess 2" : {
+      "comment" : "The second guess of the quiz"
+    },
+    "Guess 3" : {
+      "comment" : "The third guess of the quiz"
+    },
+    "Halves all Electric-type damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Halves all Fire-type damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Halves HP of all Pokémon on the field. Must recharge" : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to badly poison the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to burn the target and a chance to make the target flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to burn the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to burn the target. Lets frozen Pokémon thaw themselves." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to burn, freeze, or paralyze the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to confuse the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to freeze the target and a chance to make the target flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to freeze the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to inflict a status effect which depends upon the terrain." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s accuracy by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s Special Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s Special Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s Special Defense by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to lower the target’s Speed by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to make the target flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to make the target flinch. Only works if the user is sleeping." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to paralyze the target and a chance to make the target flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to paralyze the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to poison the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to put the target to sleep." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to raise all of the user’s stats by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to raise the user’s Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to raise the user’s Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to raise the user’s Defense by two stages for each target hit." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a chance to raise the user’s Special Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has a higher chance to confuse the target when the recorded sound is louder." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has an increased chance for a critical hit and a chance to burn the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has an increased chance for a critical hit and a chance to poison the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has an increased chance for a critical hit in Hyper Mode." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has an increased chance for a critical hit." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power against Pokémon that have less than half their max HP remaining." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power against, and can hit, Pokémon attempting to switch out." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power if a friendly Pokémon fainted last turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power if it’s used more than once per turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power if the target has a major status ailment." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power if the user has no held item." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has double power if the user’s last move failed." : {
+      "comment" : "Move Effect Description"
+    },
+    "Has the same type as the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hatch Counter" : {
+
+    },
+    "Headbutting a high encounter rate tree" : {
+      "comment" : "Encounter Method"
+    },
+    "Headbutting a low encounter rate tree" : {
+      "comment" : "Encounter Method"
+    },
+    "Headbutting a normal encounter rate tree" : {
+      "comment" : "Encounter Method"
+    },
+    "Headbutting trees" : {
+      "comment" : "Encounter Method"
+    },
+    "Heads" : {
+      "comment" : "Creature Shape"
+    },
+    "Heal" : {
+
+    },
+    "Heals the target for ½ its max HP, or ⅔ on Grassy Terrain." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heals the target for half its max HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heals the user by half its max HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heals the user by half its max HP. Affected by weather." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heals the user by the target’s current Attack stat and lowers the target’s Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heals the user for ½ its max HP, or ⅔ during a sandstorm." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heals the user for half the total damage dealt to all targets." : {
+      "comment" : "Move Effect Description"
+    },
+    "Heart Gold" : {
+      "comment" : "Pokémon Heart Gold"
+    },
+    "Height" : {
+
+    },
+    "Hello, world!" : {
+      "extractionState" : "stale"
+    },
+    "Help" : {
+
+    },
+    "Help & Info" : {
+
+    },
+    "Hidden" : {
+
+    },
+    "High" : {
+
+    },
+    "Hisuian Qwilfish evolves into Overqwill after levelling up while knowing Barb Barrage" : {
+      "comment" : "Overqwill evolution text"
+    },
+    "Hits 2-5 times in one turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits 2–5 times." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits any Pokémon that shares a type with the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits every turn for 2-3 turns, then confuses the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits once for every conscious Pokémon the trainer has." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits the target two turns later." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits three times, increasing power by 100% with each successful hit." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits through Protect and Detect." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits twice in one turn, with a chance to make the target flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits twice in one turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Hits twice in the same turn. Has a chance to poison the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "How to Add Skins to Delta" : {
+
+    },
+    "Human Shape" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Humanoid" : {
+      "comment" : "Creature Shape"
+    },
+    "I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. \n— Ben" : {
+
+    },
+    "I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available." : {
+
+    },
+    "I’d like to take a moment to thank everyone who contributes to PokéAPI. Without their work, none of this would have been possible." : {
+
+    },
+    "I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years." : {
+
+    },
+    "I’m not eating the cat food, just so we’re clear" : {
+
+    },
+    "I’m not sure that’s even possible, but congrats to you." : {
+
+    },
+    "Ice" : {
+      "comment" : "Pokémon Type Ice"
+    },
+    "If target has a berry, inflicts double damage and uses the berry." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the target is asleep, has double power and wakes it up." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the target is paralyzed, inflicts double damage and cures the paralysis." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the user faints this turn, the PP of the move that fainted it drops to 0." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the user faints this turn, the target automatically will, too." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the user is hit after using this move, its Attack rises by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the user is holding a appropriate plate or drive, the damage inflicted will match it." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the user misses, it takes half the damage it would have inflicted in recoil." : {
+      "comment" : "Move Effect Description"
+    },
+    "If the user takes damage before attacking, the attack is canceled." : {
+      "comment" : "Move Effect Description"
+    },
+    "If there be weather, this move has doubled power and the weather’s type." : {
+      "comment" : "Move Effect Description"
+    },
+    "If you chose Blue during the TV interview." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Bulbasaur as your starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Charmander as your starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Chespin as your starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Fennekin as your starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Froakie as your starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Red during the TV interview." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you chose Squirtle as your starter." : {
+      "comment" : "Encounter Condition"
+    },
+    "If you don’t have a default email app configured, you can email me directly at support@obscura.studio" : {
+
+    },
+    "If you purchase Ketchup+ you can see data such as Pokédex descriptions and movesets for each creature across all the games." : {
+
+    },
+    "Ignores and destroys protection effects." : {
+      "comment" : "Move Effect Description"
+    },
+    "Ignores the target’s stat modifiers." : {
+      "comment" : "Move Effect Description"
+    },
+    "Immediately ends wild battles. Forces trainers to switch Pokémon." : {
+      "comment" : "Move Effect Description"
+    },
+    "Immediately ends wild battles. No effect otherwise." : {
+      "comment" : "Move Effect Description"
+    },
+    "Immunities" : {
+      "comment" : "Type Matchup Immunities"
+    },
+    "In App Purchase Unavailable" : {
+
+    },
+    "In triple battles, this move can be used on either side to target the farthest away opposing Pokémon." : {
+
+    },
+    "In-App-Purchases, and Refunds are handled by Apple, not app developers." : {
+
+    },
+    "includes the original 151 Pokémon for free" : {
+
+    },
+    "Increases the user’s chance to score a critical hit." : {
+      "comment" : "Move Effect Description"
+    },
+    "Indeterminate" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Inflicts 20 points of damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts 40 points of damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts a burn on any Pokémon that makes contact before the attack." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage and lowers the target’s Special Attack stat by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage and removes any terrain present on the battlefield." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage based on the target’s Defense, not Special Defense." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage between 50% and 150% of the user’s level." : {
+      "comment" : "Move Effect Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inflicts damage between 50%1$ and 150%2$ of the user’s level."
+          }
+        }
+      }
+    },
+    "Inflicts damage equal to half the target’s HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage equal to the user’s level." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage equal to the user’s remaining HP. User faints." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage to all opposing Pokémon and increases the user’s Attack, Defense, Special Attack, Special Defense, and Speed by one stage each." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage using either Attack or Special Attack stat, whichever is higher." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts double damage if the target is Poisoned." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts double damage if the user takes damage before attacking this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts more damage to heavier targets, with a maximum of 120 power." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage and can hit Bounce and Fly users." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage and can hit Dig users." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage and can hit Dive users." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage and can hit Pokémon in the air." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage with no additional effect." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts regular damage. Raises the user’s Speed by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts twice the damage the user received from the last physical hit it took." : {
+      "comment" : "Move Effect Description"
+    },
+    "Inflicts twice the damage the user received from the last special hit it took." : {
+      "comment" : "Move Effect Description"
+    },
+    "Introduced: " : {
+
+    },
+    "Invalid match up" : {
+      "comment" : "Invalid Type Matchup"
+    },
+    "Inverts the target’s stat modifiers." : {
+      "comment" : "Move Effect Description"
+    },
+    "It’s extremely effective" : {
+      "comment" : "Effectiveness 4×"
+    },
+    "It’s super effective" : {
+      "comment" : "Effectiveness 2×"
+    },
+    "Items" : {
+      "comment" : "Navigation item for items"
+    },
+    "Ketchup" : {
+
+    },
+    "Ketchup+" : {
+
+    },
+    "Ketchup+ lets you browse every Pokémon from all 9 generations." : {
+
+    },
+    "Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" : {
+      "comment" : "Kubfu Rapid evolution text"
+    },
+    "Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness" : {
+      "comment" : "Kubfu Single evolution text"
+    },
+    "Leaf Green" : {
+      "comment" : "Pokémon Leaf Green"
+    },
+    "Learn more about Delta" : {
+
+    },
+    "Learned Moves" : {
+      "comment" : "Creature Page Learned Moves Section Header"
+    },
+    "Leave a Review" : {
+      "comment" : "Prompt to Leave A Review"
+    },
+    "Legacy Move" : {
+
+    },
+    "Legends: Arceus" : {
+      "comment" : "Pokémon Legends: Arceus"
+    },
+    "Legs" : {
+      "comment" : "Creature Shape"
+    },
+    "Let’s Go, Eevee!" : {
+      "comment" : "Pokémon Let’s Go, Eevee!"
+    },
+    "Let’s Go, Pikachu!" : {
+      "comment" : "Pokémon Let’s Go, Pikachu!"
+    },
+    "Let’s Go!" : {
+
+    },
+    "Location Unknown" : {
+
+    },
+    "Low" : {
+
+    },
+    "Lowers all targets’ Attack and Special Attack by one stage. Makes the user switch out." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the PP of the target’s last used move by 4." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s accuracy by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack and Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack and Special Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack and Special Attack by two stages. User faints." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack by one stage after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Attack, Special Attack, and Speed by one stage if it is poisoned." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Defense by one stage after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Defense by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s evasion by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s evasion by one stage. Removes field effects from the enemy field." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s evasion by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s HP to equal the user’s." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Special Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Special Attack by two stages if it’s the opposite gender." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Special Attack by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Special Defense by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Speed by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the target’s Speed by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the user’s Attack and Defense by one stage after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the user’s Defense and Special Defense by one stage after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the user’s Defense by one stage after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the user’s Defense, Special Defense, and Speed by one stage each." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers the user’s Special Attack by two stages after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Lowers user’s Speed by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Makes the target act last this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Makes the target act next this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Mark as Caught" : {
+
+    },
+    "Mark them as captured and they’ll show up here" : {
+
+    },
+    "Matchups" : {
+
+    },
+    "Medium" : {
+      "comment" : "Creature Growth Rate - Medium"
+    },
+    "Medium-Slow" : {
+      "comment" : "Creature Growth Rate - Medium-Slow"
+    },
+    "Mental" : {
+
+    },
+    "Mineral" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Mirror" : {
+
+    },
+    "Missing Artwork" : {
+
+    },
+    "Monster" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Moon" : {
+      "comment" : "Pokémon Moon"
+    },
+    "Moves" : {
+      "comment" : "Navigation item for moves"
+    },
+    "Moves have 100% accuracy against the target for three turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Negates held items for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Never misses." : {
+      "comment" : "Move Effect Description"
+    },
+    "Nice try" : {
+
+    },
+    "No Ability Selected" : {
+
+    },
+    "No Creature Selected" : {
+
+    },
+    "No Description Available" : {
+      "comment" : "Fallback text if an Ability’s name can’t be found"
+    },
+    "No effect" : {
+      "comment" : "Effectiveness 0×"
+    },
+    "No Eggs" : {
+      "comment" : "Creature Egg Group"
+    },
+    "No Favorites" : {
+
+    },
+    "No Item Selected" : {
+
+    },
+    "No Move Selected" : {
+
+    },
+    "No Recents Items" : {
+
+    },
+    "No View Selected" : {
+
+    },
+    "Non-Sky Battle" : {
+
+    },
+    "Normal" : {
+      "comment" : "Pokémon Type Normal"
+    },
+    "Not Caught" : {
+      "comment" : "Filter Option for Not-Caught Creatures\nThe uncaught state for a creature"
+    },
+    "Not Favorite" : {
+
+    },
+    "Not Shiny" : {
+      "comment" : "Filter Option for Not-Caught-Shiny Creatures"
+    },
+    "Not very effective" : {
+      "comment" : "Effectiveness 1/2×"
+    },
+    "Not very effective at all" : {
+      "comment" : "Effectiveness 1/4×"
+    },
+    "Nullifies target’s ability until it leaves battle." : {
+      "comment" : "Move Effect Description"
+    },
+    "Nullifies the target’s ability if it moves earlier." : {
+      "comment" : "Move Effect Description"
+    },
+    "Numerical" : {
+      "comment" : "Numerical Sorting option"
+    },
+    "Omega Ruby" : {
+      "comment" : "Pokémon Omega Ruby"
+    },
+    "On any overworld patch of grass" : {
+      "comment" : "Encounter Method"
+    },
+    "On any overworld water tile" : {
+      "comment" : "Encounter Method"
+    },
+    "On Fridays" : {
+      "comment" : "Encounter Condition"
+    },
+    "On Mondays" : {
+      "comment" : "Encounter Condition"
+    },
+    "On Saturdays" : {
+      "comment" : "Encounter Condition"
+    },
+    "On Sundays" : {
+      "comment" : "Encounter Condition"
+    },
+    "On Thursdays" : {
+      "comment" : "Encounter Condition"
+    },
+    "On Tuesdays" : {
+      "comment" : "Encounter Condition"
+    },
+    "On Wednesdays" : {
+      "comment" : "Encounter Condition"
+    },
+    "Only inflicts damage if the user was hit by a physical move this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Only works if the target is about to use a damaging move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Only works on sleeping Pokémon. Drains half the damage inflicted to heal the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Opponents Field" : {
+
+    },
+    "or" : {
+
+    },
+    "Other Moves" : {
+      "comment" : "Creature Page Other Moves Section Header"
+    },
+    "Paralyzes the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Pearl" : {
+      "comment" : "Pokémon Pearl"
+    },
+    "Permanently becomes the target’s last used move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Physical" : {
+      "comment" : "Creature Page Physical Section Header"
+    },
+    "Pin" : {
+
+    },
+    "Pinned" : {
+
+    },
+    "Plant" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Platinum" : {
+      "comment" : "Pokémon Platinum"
+    },
+    "Playing Pokéflute" : {
+      "comment" : "Encounter Method"
+    },
+    "Please don’t sue me." : {
+
+    },
+    "Pocket" : {
+
+    },
+    "Poison" : {
+      "comment" : "Pokémon Type Poison"
+    },
+    "Poisons the target and lowers its Speed by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Poisons the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Pokédex List" : {
+
+    },
+    "Pokémon with Overcoat and Grass-type Pokémon are immune to this move." : {
+
+    },
+    "Pokémon with Soundproof are immune to this move." : {
+
+    },
+    "Powder" : {
+
+    },
+    "Power" : {
+
+    },
+    "Power and type depend on the held berry." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power and type depend upon user’s IVs. Power can range from 30 to 70." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power doubles every turn this move is used in succession after the first, maxing out after five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power doubles every turn this move is used in succession after the first, resetting after five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power doubles if user is burned, paralyzed, or poisoned." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power increases against targets with more HP remaining, up to a maximum of 121 power." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power increases against targets with more raised stats, up to a maximum of 200." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power increases as happiness decreases, up to a maximum of 102." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power increases when this move has less PP, up to a maximum of 200." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power increases with happiness, up to a maximum of 102." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power is 100 times the amount of energy Stockpiled." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power is doubled if the target has already moved this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power is doubled if the target has already received damage this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power is higher the more the user’s stats have been raised, to a maximum of 31×." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power is higher when the user has greater Speed than the target, up to a maximum of 150." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power is higher when the user weighs more than the target, up to a maximum of 120." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power raises when the user has lower Speed, up to a maximum of 150." : {
+      "comment" : "Move Effect Description"
+    },
+    "Power varies randomly from 10 to 150." : {
+      "comment" : "Move Effect Description"
+    },
+    "PP" : {
+
+    },
+    "Prevents all Pokémon from fleeing or switching out during the next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents any moves from hitting the user this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents any multi-target moves from hitting friendly Pokémon this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents any priority moves from hitting friendly Pokémon this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents target from restoring its HP for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from fleeing and inflicts damage for 2-5 turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from leaving battle." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from scoring critical hits for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from using any moves that the user also knows." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from using sound-based moves for two turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the target from using the same move twice in a row." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the user from leaving battle. User regains 1/16 of its max HP every turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Prevents the user’s HP from lowering below 1 this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Priority" : {
+
+    },
+    "Privacy" : {
+
+    },
+    "Protect" : {
+
+    },
+    "Protects all friendly Pokémon from damaging moves. Only works on the first turn after the user is sent out." : {
+      "comment" : "Move Effect Description"
+    },
+    "Protects all friendly Pokémon from non-damaging moves." : {
+      "comment" : "Move Effect Description"
+    },
+    "Protects Pokémon on the ground from priority moves and increases the power of their Psychic moves by 50%." : {
+      "comment" : "Move Effect Description"
+    },
+    "Protects the user’s field from major status ailments and confusion for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Protects the user’s stats from being changed by enemy moves." : {
+      "comment" : "Move Effect Description"
+    },
+    "Psychic" : {
+      "comment" : "Pokémon Type Psychic"
+    },
+    "Pulse" : {
+
+    },
+    "Punch" : {
+
+    },
+    "Puts the target to sleep." : {
+      "comment" : "Move Effect Description"
+    },
+    "PWR" : {
+
+    },
+    "Quadruped" : {
+      "comment" : "Creature Shape"
+    },
+    "Quiz" : {
+
+    },
+    "Raises a selected ally’s Special Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises all of the user’s stats by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises one of a friendly Pokémon’s stats at random by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the Attack and Special Attack of all friendly Pokémon with Plus or Minus by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the Attack and Special Attack of all grass Pokémon in battle." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the Defense of all grass Pokémon in battle." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the target’s Attack by two stages and confuses the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the target’s Special Attack by one stage and confuses the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack and accuracy by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack and Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack and Special Attack by one stage each." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack and Special Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack and Speed by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack by one stage after inflicting damage." : {
+
+    },
+    "Raises the user’s Attack by one stage and its Speed by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack by two stages if it KOs the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Attack, Defense, and accuracy by one stage each." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Defense and Special Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Defense by one stage. User charges for one turn before attacking." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Defense by three stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Defense by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s evasion by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s evasion by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Attack and Special Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Attack by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Attack by three stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Attack by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Attack, Special Defense, and Speed by one stage each." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Defense by one stage. User’s Electric moves have doubled power next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Special Defense by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Speed by two stages and halves the user’s weight." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises the user’s Speed by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises user’s Attack, Special Attack, and Speed by two stages. Lower user’s Defense and Special Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Raises user’s Defense by one stage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Random Opponent" : {
+
+    },
+    "Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Randomly selects and uses any move in the game." : {
+      "comment" : "Move Effect Description"
+    },
+    "Randomly selects and uses one of the trainer’s other Pokémon’s moves." : {
+      "comment" : "Move Effect Description"
+    },
+    "Randomly uses one of the user’s other three moves. Only works if the user is sleeping." : {
+      "comment" : "Move Effect Description"
+    },
+    "Receive as a gift" : {
+      "comment" : "Encounter Method"
+    },
+    "Receive egg as a gift" : {
+      "comment" : "Encounter Method"
+    },
+    "Recents" : {
+
+    },
+    "Recharge" : {
+
+    },
+    "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles." : {
+      "comment" : "Move Effect Description"
+    },
+    "Red" : {
+      "comment" : "Pokémon Red"
+    },
+    "REDACTED" : {
+
+    },
+    "Redirects the target’s single-target effects to the user for this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Reduces damage five turns, but must be used during hail." : {
+      "comment" : "Move Effect Description"
+    },
+    "Reduces damage from physical attacks by half." : {
+      "comment" : "Move Effect Description"
+    },
+    "Reduces damage from special attacks by 50% for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "Reflectable" : {
+
+    },
+    "Reflects back the first effect move used on the user this turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Refresh" : {
+      "comment" : "A button action to retry fetching the In-App-Purchases"
+    },
+    "Removes all of the target’s stat modifiers." : {
+      "comment" : "Move Effect Description"
+    },
+    "Removes any immunity to Ground damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Removes Light Screen, Reflect, and Safeguard." : {
+      "comment" : "Move Effect Description"
+    },
+    "Removes the user’s fire type after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Requires a turn to charge before attacking." : {
+      "comment" : "Move Effect Description"
+    },
+    "Requires a turn to charge before attacking. Has a chance to burn the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Requires a turn to charge before attacking. Has a chance to paralyze the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Reset" : {
+
+    },
+    "Reset all Data?" : {
+
+    },
+    "Reset Database" : {
+
+    },
+    "Resets all Pokémon’s stats, accuracy, and evasion." : {
+      "comment" : "Move Effect Description"
+    },
+    "Resistances" : {
+      "comment" : "Type Matchup Resistances"
+    },
+    "Restore Purchases" : {
+
+    },
+    "Restores 1/16 of the user’s max HP each turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Rock" : {
+      "comment" : "Pokémon Type Rock"
+    },
+    "Ruby" : {
+      "comment" : "Pokémon Ruby"
+    },
+    "Sapphire" : {
+      "comment" : "Pokémon Sapphire"
+    },
+    "Scarlet" : {
+      "comment" : "Pokémon Scarlet"
+    },
+    "Scatters money on the ground worth five times the user’s level." : {
+      "comment" : "Move Effect Description"
+    },
+    "Scatters poisoned spikes, poisoning opposing Pokémon that switch in." : {
+      "comment" : "Move Effect Description"
+    },
+    "Scatters Spikes, hurting opposing Pokémon that switch in." : {
+      "comment" : "Move Effect Description"
+    },
+    "Search" : {
+
+    },
+    "Seeds the target after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Seeds the target, stealing HP from it every turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Select an Option" : {
+
+    },
+    "Selected Pokemon Me First" : {
+
+    },
+    "Selected Target" : {
+
+    },
+    "Self-Help" : {
+
+    },
+    "Sets Light Screen on the user’s side of the field after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Sets Reflecton the user’s side of the field after inflicting damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Sets the user’s and targets’s HP to the average of their current HP." : {
+      "comment" : "Move Effect Description"
+    },
+    "Settings" : {
+
+    },
+    "Shape" : {
+
+    },
+    "Shedinja appears when Nincada evolves into Nijask at level 20 if the player also has a spare slot in their party and at least one Poké Ball in their bag" : {
+      "comment" : "Shedinja Evolution Description"
+    },
+    "Shield" : {
+      "comment" : "Pokémon Shield"
+    },
+    "Shining Pearl" : {
+      "comment" : "Pokémon Shining Pearl"
+    },
+    "Shiny" : {
+      "comment" : "Filter Option for Caught-Shiny Creatures\nThe shiny caught state for a creature"
+    },
+    "Shiny Pokemon are very rare, and are highly valued among collectors." : {
+
+    },
+    "Show all" : {
+
+    },
+    "Show Favorites" : {
+
+    },
+    "Show Favorites Only" : {
+
+    },
+    "Show Info For:" : {
+
+    },
+    "Silver" : {
+      "comment" : "Pokémon Silver"
+    },
+    "Single Type" : {
+      "comment" : "Represents the type calculator mode for picking one defensive type"
+    },
+    "Slow" : {
+      "comment" : "Creature Growth Rate - Slow"
+    },
+    "Smashing rocks" : {
+      "comment" : "Encounter Method"
+    },
+    "Snatch" : {
+
+    },
+    "Sorry, better luck next time. It’s: " : {
+      "comment" : "Lose game text, shown before creature name"
+    },
+    "Sort Order" : {
+
+    },
+    "Soul Silver" : {
+      "comment" : "Pokémon Soul Silver"
+    },
+    "Sound" : {
+
+    },
+    "Special" : {
+
+    },
+    "Special Thanks" : {
+
+    },
+    "Specific Move" : {
+
+    },
+    "Squiggle" : {
+      "comment" : "Creature Shape"
+    },
+    "starting at level " : {
+      "comment" : "text between evolution cretures and level"
+    },
+    "Static encounter, only one chance" : {
+      "comment" : "Encounter Method"
+    },
+    "Stats" : {
+      "comment" : "Creature Page Battle Stats Section Header"
+    },
+    "Status" : {
+
+    },
+    "Steals the target’s move, if it’s self-targeted." : {
+      "comment" : "Move Effect Description"
+    },
+    "Steals the target’s stat increases, then inflicts damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Steel" : {
+      "comment" : "Pokémon Type Steel"
+    },
+    "Stores energy up to three times for use with Spit Up and Swallow." : {
+      "comment" : "Move Effect Description"
+    },
+    "Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "Submit" : {
+      "comment" : "Sumbit a guess for the quiz"
+    },
+    "Sun" : {
+      "comment" : "Pokémon Sun"
+    },
+    "Super-effective against water." : {
+      "comment" : "Move Effect Description"
+    },
+    "Support" : {
+
+    },
+    "Surfing" : {
+      "comment" : "Encounter Method"
+    },
+    "Surfing in dark spots" : {
+      "comment" : "Encounter Method"
+    },
+    "Sword" : {
+      "comment" : "Pokémon Sword"
+    },
+    "Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages." : {
+      "comment" : "Move Effect Description"
+    },
+    "Takes the target’s item." : {
+      "comment" : "Move Effect Description"
+    },
+    "Tap one of the buttons below to show the share sheet. In the share sheet, you should see Delta listed in the row of apps, but you might have to scroll to find it." : {
+
+    },
+    "Target" : {
+
+    },
+    "Target cannot use held items." : {
+      "comment" : "Move Effect Description"
+    },
+    "Target drops its held item." : {
+      "comment" : "Move Effect Description"
+    },
+    "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user." : {
+      "comment" : "Move Effect Description"
+    },
+    "Target loses 1/4 its max HP every turn as long as it’s asleep." : {
+      "comment" : "Move Effect Description"
+    },
+    "Target sleeps at the end of the next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "Tentacles" : {
+      "comment" : "Creature Shape"
+    },
+    "Thanks for your support" : {
+
+    },
+    "That’s right, it’s: " : {
+      "comment" : "Win game text, shown before creature name"
+    },
+    "The Crown Tundra" : {
+      "comment" : "The Crown Tundra Expansion"
+    },
+    "The Indigo Disk" : {
+      "comment" : "The Indigo Disk Expansion"
+    },
+    "The Isle of Armor" : {
+      "comment" : "The Isle of Armor Expansion"
+    },
+    "The Teal Mask" : {
+      "comment" : "The Teal Mask Expansion"
+    },
+    "The turn after this move is used, the Pokémon’s action is skipped so it can recharge." : {
+
+    },
+    "There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!" : {
+
+    },
+    "They’ll show up here after you’ve chosen some." : {
+
+    },
+    "This app is not affiliated or endorsed by Nintendo, GameFreak, or The Pokémon company in any way. Pokémon, the character names, and information are trademarks of Nintendo. No copyright infringement is intended, this app is a fair-use reference for their works." : {
+
+    },
+    "This move can be used while frozen to force the Pokémon to defrost." : {
+
+    },
+    "This move cannot be used in high gravity." : {
+
+    },
+    "This move has 1.2× its usual power when used by a Pokémon with Iron-Fist." : {
+
+    },
+    "This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher." : {
+
+    },
+    "This move has 1.5× its usual power when used by a Pokémon with Strong-Jaw." : {
+
+    },
+    "This move has a charging turn, and can be skipped with a Power Herb." : {
+
+    },
+    "This move ignores the target’s substitute." : {
+
+    },
+    "This move is blocked by Aroma-Veil and cured by Mental-Herb." : {
+
+    },
+    "This move is blocked by Bulletproof." : {
+
+    },
+    "This move is blocked by Heal-Block." : {
+
+    },
+    "This move is no longer available as of Pokémon Sword and Shield." : {
+
+    },
+    "This move is unusable during Sky Battles." : {
+
+    },
+    "This move may be reflected back at the user with Magic-Coat or Magic-Bounce." : {
+
+    },
+    "This move triggers Dancer." : {
+
+    },
+    "This move will be stolen if another Pokémon has used Snatch this turn." : {
+
+    },
+    "This move will not work if the target has used Detect or Protect this turn." : {
+
+    },
+    "This will reset all Creature favorite and catch states." : {
+
+    },
+    "Throws held item at the target, its power depends on the item." : {
+      "comment" : "Move Effect Description"
+    },
+    "TM Moves" : {
+      "comment" : "Creature Page TM Moves Section Header"
+    },
+    "to unlock all the great creatures and features" : {
+
+    },
+    "Trading with an in-game character" : {
+      "comment" : "Encounter Method"
+    },
+    "Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks." : {
+      "comment" : "Move Effect Description"
+    },
+    "Transfers the user’s major status effect to the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Traps the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "Tutor Moves" : {
+      "comment" : "Creature Page Tutor Moves Section Header"
+    },
+    "Type Matchups" : {
+      "comment" : "Creature Page Type Matchups Section Header"
+    },
+    "Type:" : {
+
+    },
+    "Ultra Moon" : {
+      "comment" : "Pokémon Ultra Moon"
+    },
+    "Ultra Sun" : {
+      "comment" : "Pokémon Ultra Sun"
+    },
+    "Unfavorite" : {
+
+    },
+    "Unknown" : {
+      "comment" : "Creature Shape\nEncounter Method"
+    },
+    "Unknown Ability" : {
+      "comment" : "Fallback text if an Ability’s name can’t be found"
+    },
+    "Unknown Effect" : {
+      "comment" : "Move Effect Description"
+    },
+    "Upgrade to" : {
+
+    },
+    "Upright" : {
+      "comment" : "Creature Shape"
+    },
+    "User" : {
+
+    },
+    "User And Allies" : {
+
+    },
+    "User and target both faint after three turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "User and target swap abilities." : {
+      "comment" : "Move Effect Description"
+    },
+    "User and target swap items." : {
+      "comment" : "Move Effect Description"
+    },
+    "User and target swap stat changes." : {
+      "comment" : "Move Effect Description"
+    },
+    "User becomes a copy of the target until it leaves battle." : {
+      "comment" : "Move Effect Description"
+    },
+    "User becomes the target’s type." : {
+      "comment" : "Move Effect Description"
+    },
+    "User bounces high into the air, dodging all attacks, and hits next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "User charges for one turn before attacking. Has a chance to make the target flinch." : {
+      "comment" : "Move Effect Description"
+    },
+    "User digs underground, dodging all attacks, and hits next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "User dives underwater, dodging all attacks, and hits next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "User faints, and its replacement is fully healed." : {
+      "comment" : "Move Effect Description"
+    },
+    "User faints." : {
+      "comment" : "Move Effect Description"
+    },
+    "User faints. Its replacement has its HP fully restored and any major status effect removed." : {
+      "comment" : "Move Effect Description"
+    },
+    "User flies high into the air, dodging all attacks, and hits next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "User foregoes its next turn to recharge." : {
+      "comment" : "Move Effect Description"
+    },
+    "User is immune to Ground moves and effects for five turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "User must switch out after attacking." : {
+      "comment" : "Move Effect Description"
+    },
+    "User Or Ally" : {
+
+    },
+    "User pays half its max HP to max out its Attack." : {
+      "comment" : "Move Effect Description"
+    },
+    "User receives 1/2 its HP in recoil." : {
+      "comment" : "Move Effect Description"
+    },
+    "User receives 1/2 the damage inflicted in recoil." : {
+      "comment" : "Move Effect Description"
+    },
+    "User receives 1/3 the damage inflicted in recoil." : {
+      "comment" : "Move Effect Description"
+    },
+    "User receives 1/4 the damage it inflicts in recoil." : {
+      "comment" : "Move Effect Description"
+    },
+    "User recovers the item it last used up." : {
+      "comment" : "Move Effect Description"
+    },
+    "User sleeps for two turns, completely healing itself." : {
+      "comment" : "Move Effect Description"
+    },
+    "User swaps Attack and Defense." : {
+      "comment" : "Move Effect Description"
+    },
+    "User swaps Attack and Special Attack changes with the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "User swaps Defense and Special Defense changes with the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "User switches places with the friendly Pokémon opposite it." : {
+      "comment" : "Move Effect Description"
+    },
+    "User takes 1/3 the damage inflicted in recoil. Has a chance to burn the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "User takes 1/3 the damage inflicted in recoil. Has a chance to paralyze the target." : {
+      "comment" : "Move Effect Description"
+    },
+    "User takes 1/4 its max HP in recoil." : {
+      "comment" : "Move Effect Description"
+    },
+    "User touches the target. This triggers some abilities and items." : {
+
+    },
+    "User vanishes, dodging all attacks, and hits next turn. Hits through Protect and Detect." : {
+      "comment" : "Move Effect Description"
+    },
+    "User waits for two turns, then hits back for twice the damage it took." : {
+      "comment" : "Move Effect Description"
+    },
+    "User will recover half its max HP at the end of the next turn." : {
+      "comment" : "Move Effect Description"
+    },
+    "User’s type changes to match the terrain." : {
+      "comment" : "Move Effect Description"
+    },
+    "User’s type changes to the type of one of its moves at random." : {
+      "comment" : "Move Effect Description"
+    },
+    "Users Field" : {
+
+    },
+    "Uses a move which depends upon the terrain." : {
+      "comment" : "Move Effect Description"
+    },
+    "Uses the target’s last used move." : {
+      "comment" : "Move Effect Description"
+    },
+    "Uses the target’s move against it before it attacks, with power increased by half." : {
+      "comment" : "Move Effect Description"
+    },
+    "using an unknown method" : {
+      "comment" : "Unknown evolution text"
+    },
+    "Using Devon Scope" : {
+      "comment" : "Encounter Method"
+    },
+    "Using Island Scan" : {
+      "comment" : "Encounter Method"
+    },
+    "Using the Squirt Bottle on a Sudowoodo" : {
+      "comment" : "Encounter Method"
+    },
+    "Using the Wailmer Pail on a Sudowoodo" : {
+      "comment" : "Encounter Method"
+    },
+    "View Options" : {
+
+    },
+    "Violet" : {
+      "comment" : "Pokémon Violet"
+    },
+    "Walking in bridge shadows" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in dark grass" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in dust clouds" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in purple flowers" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in red flowers" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in rustling grass" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in tall grass or a cave" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking in yellow flowers" : {
+      "comment" : "Encounter Method"
+    },
+    "Walking on rough terrain" : {
+      "comment" : "Encounter Method"
+    },
+    "Water" : {
+      "comment" : "Pokémon Type Water"
+    },
+    "Water 1" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Water 2" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Water 3" : {
+      "comment" : "Creature Egg Group"
+    },
+    "Weaknesses" : {
+      "comment" : "Type Matchup Weaknesses"
+    },
+    "Weight" : {
+
+    },
+    "Welcome to" : {
+
+    },
+    "What’s Delta, and what are skins?" : {
+
+    },
+    "What’s the difference between the two prices for Ketchup+?" : {
+
+    },
+    "What’s the legacy data?" : {
+
+    },
+    "when exposed to a " : {
+      "comment" : "when exposed to item evolution text"
+    },
+    "when leveled up after losing at least 294 HP from recoil damage" : {
+      "comment" : "Basculegion evolution text"
+    },
+    "when leveled up while outside of its Poké Ball after the player walks at least 1000 steps using the Let’s Go! feature" : {
+      "comment" : "Let’s Go walking evolution text"
+    },
+    "when leveled up while the player has 999 Gimmighoul Coins in their bag" : {
+      "comment" : "Gholdengo evolution text"
+    },
+    "when levelled up" : {
+      "comment" : "text for creatures that evolve by levelling up"
+    },
+    "when levelled up after defeating three Bisharp, each carrying a Leader’s Crest" : {
+      "comment" : "Kingambit evolution text"
+    },
+    "when levlled up after using Rage Fist at least 20 times" : {
+      "comment" : "Annihilape evolution text"
+    },
+    "when the character spins repeatedly in-game" : {
+      "comment" : "When Spinning evolution text"
+    },
+    "when three critical hits are performed during a single battle" : {
+      "comment" : "Three critical hits evolution text"
+    },
+    "when traded" : {
+      "comment" : "text for creatures that level up when traded"
+    },
+    "when traded with " : {
+      "comment" : "text for creatures that level up when traded with a specific creature"
+    },
+    "While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback. \n— Ben" : {
+
+    },
+    "While playing on the Virtual Console edition of the game." : {
+      "comment" : "Encounter Condition"
+    },
+    "While your first party Pokémon has high friendship." : {
+      "comment" : "Encounter Condition"
+    },
+    "White" : {
+      "comment" : "Pokémon White"
+    },
+    "White 2" : {
+      "comment" : "Pokémon White 2"
+    },
+    "Who’s That Pokémon?!" : {
+
+    },
+    "Wings" : {
+      "comment" : "Creature Shape"
+    },
+    "With " : {
+      "comment" : "Encounter Condition"
+    },
+    "With an Event Arceus in your party." : {
+      "comment" : "Encounter Condition"
+    },
+    "With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "With Fusion Bolt, inflicts double damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "With Fusion Flare, inflicts double damage." : {
+      "comment" : "Move Effect Description"
+    },
+    "With Grass Pledge, halves opposing Pokémon’s Speed for four turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "With PokéRadar active." : {
+      "comment" : "Encounter Condition"
+    },
+    "With Regirock, Regice, and Registeel in your party." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Adamant Orb." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Claw Fossil." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Dome Fossil." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Helix Fossil." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Lustrous Orb." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Odd Keystone." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Old Amber." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the PokéGear Radio set to Hoenn Sounds." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the PokéGear Radio set to Sinnoh Sounds." : {
+      "comment" : "Encounter Condition"
+    },
+    "With the Root Fossil." : {
+      "comment" : "Encounter Condition"
+    },
+    "With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns." : {
+      "comment" : "Move Effect Description"
+    },
+    "X" : {
+      "comment" : "Pokémon X"
+    },
+    "XD" : {
+      "comment" : "Pokémon XD"
+    },
+    "Y" : {
+      "comment" : "Pokémon Y"
+    },
+    "Yellow" : {
+      "comment" : "Pokémon Yellow"
+    },
+    "You haven’t caught any pokemon yet!" : {
+
+    },
+    "You haven’t caught any shinies yet!" : {
+
+    },
+    "You’ve caught every shiny!" : {
+
+    },
+    "You’ve caught them all, now your cause is to train them." : {
+
+    },
+    "You’ve got it" : {
+
+    }
+  },
+  "version" : "1.0"
+}

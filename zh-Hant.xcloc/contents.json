@@ -1,0 +1,12 @@
+{
+  "developmentRegion" : "en",
+  "project" : "Ketchup.xcodeproj",
+  "targetLocale" : "zh-Hant",
+  "toolInfo" : {
+    "toolBuildNumber" : "15E204a",
+    "toolID" : "com.apple.dt.xcode",
+    "toolName" : "Xcode",
+    "toolVersion" : "15.3"
+  },
+  "version" : "1.0"
+}
