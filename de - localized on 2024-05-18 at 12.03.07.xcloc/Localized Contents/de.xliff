@@ -18,14 +18,14 @@
         </header>
         <body>
             <trans-unit id="" xml:space="preserve">
-                <source></source>
-                <target state="translated"></target>
-                <note></note>
+                <source/>
+                <target state="translated"/>
+                <note/>
             </trans-unit>
             <trans-unit id=" " xml:space="preserve">
                 <source> </source>
                 <target state="translated"> </target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id=" at " xml:space="preserve">
                 <source> at </source>
@@ -169,7 +169,7 @@
             </trans-unit>
             <trans-unit id=" if a specific creature is in the player’s party" xml:space="preserve">
                 <source> if a specific creature is in the player’s party</source>
-                <target state="translated"> wenn eine bestimmte Kreatur in der Mannschaft des Spielenden ist</target>
+                <target state="translated"> wenn eine bestimmte Kreatur in der Team des Spielenden ist</target>
                 <note>unknown specific creature in party evolution requirement</note>
             </trans-unit>
             <trans-unit id=" if affection is at least " xml:space="preserve">
@@ -235,16 +235,16 @@
             <trans-unit id=" in " xml:space="preserve">
                 <source> in </source>
                 <target state="translated"> in </target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id=" in the DS’s second slot." xml:space="preserve">
                 <source> in the DS’s second slot.</source>
-                <target state="translated">im zweiten Steckplatz des DS.</target>
+                <target state="translated"> im zweiten Steckplatz des DS.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id=" is in the player’s party" xml:space="preserve">
                 <source> is in the player’s party</source>
-                <target state="translated"> ist in der Mannschaft des Spielenden</target>
+                <target state="translated"> ist in der Team des Spielenden</target>
                 <note>creature in players party evolution requirement</note>
             </trans-unit>
             <trans-unit id=" is incompatible with " xml:space="preserve">
@@ -259,12 +259,12 @@
             </trans-unit>
             <trans-unit id=" is received as a gift in " xml:space="preserve">
                 <source> is received as a gift in </source>
-                <target state="translated"> bekommst du geschenkt in </target>
+                <target state="translated"> bekommst du als Geschenk in </target>
                 <note>Catch Info via Gift</note>
             </trans-unit>
             <trans-unit id=" type creature is in the player’s party" xml:space="preserve">
                 <source> type creature is in the player’s party</source>
-                <target state="translated"> Typ Kreatur ist in der Mannschaft des Spielenden</target>
+                <target state="translated"> Typ Kreatur ist in der Team des Spielenden</target>
                 <note>in player party evolution requirement</note>
             </trans-unit>
             <trans-unit id=" type move" xml:space="preserve">
@@ -274,7 +274,7 @@
             </trans-unit>
             <trans-unit id=" via a special event." xml:space="preserve">
                 <source> via a special event.</source>
-                <target state="translated"> über ein besonderes Ereignis.</target>
+                <target state="translated"> während eines besonderen Ereignisses.</target>
                 <note>Catch Info via special event</note>
             </trans-unit>
             <trans-unit id=" while holding a " xml:space="preserve">
@@ -340,7 +340,7 @@
             <trans-unit id="(they’re dials!)" xml:space="preserve">
                 <source>(they’re dials!)</source>
                 <target state="translated">(Sie sind Dials!)</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id=", but this service is no longer available." xml:space="preserve">
                 <source>, but this service is no longer available.</source>
@@ -350,7 +350,7 @@
             <trans-unit id="A Pokémon targeted by this move can use Mirror-Move to copy it." xml:space="preserve">
                 <source>A Pokémon targeted by this move can use Mirror-Move to copy it.</source>
                 <target state="translated">Ein Pokémon, auf das diese Fähigkeit abzielt, kann Mirror-Move verwenden, um es zu kopieren.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="A single " xml:space="preserve">
                 <source>A single </source>
@@ -360,7 +360,7 @@
             <trans-unit id="ACC" xml:space="preserve">
                 <source>ACC</source>
                 <target state="translated">ACC</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Abilities" xml:space="preserve">
                 <source>Abilities</source>
@@ -370,38 +370,38 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="About" xml:space="preserve">
                 <source>About</source>
-                <target state="translated">Über</target>
-                <note></note>
+                <target state="translated">Info</target>
+                <note/>
             </trans-unit>
             <trans-unit id="About Ben" xml:space="preserve">
                 <source>About Ben</source>
                 <target state="translated">Über Ben</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="About Ketchup" xml:space="preserve">
                 <source>About Ketchup</source>
                 <target state="translated">Über Ketchup</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Accuracy" xml:space="preserve">
                 <source>Accuracy</source>
                 <target state="translated">Zielsicherheit</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Add DS Skin" xml:space="preserve">
                 <source>Add DS Skin</source>
                 <target state="translated">DS-Skin hinzufügen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Add GBA Skin" xml:space="preserve">
                 <source>Add GBA Skin</source>
                 <target state="translated">GBA-Skin hinzufügen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Add GBC Skin" xml:space="preserve">
                 <source>Add GBC Skin</source>
                 <target state="translated">GBC-Skin hinzufügen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
                 <source>Adds ghost to the target’s types.</source>
@@ -410,7 +410,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
                 <source>Adds grass to the target’s types.</source>
-                <target state="translated">Fügt den Zieltypen Gras hinzu.</target>
+                <target state="translated">Fügt den Typen des Ziels Gras hinzu.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
@@ -420,7 +420,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
                 <source>After Entering the Hall of Fame</source>
-                <target state="translated">Nach dem Eintritt in die Hall of Fame</target>
+                <target state="translated">Nach dem Eintritt in die Ruhmeshalle</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After Returning the Machine Part to the Power Plant." xml:space="preserve">
@@ -450,12 +450,12 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
                 <source>After defeating Team Galactic at Iron Island.</source>
-                <target state="translated">Nach dem Sieg über Team Galactic auf Iron Island.</target>
+                <target state="translated">Nach dem Sieg über Team Galaktik auf der Eiseninsel.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After encountering Tornadus and Thunderus." xml:space="preserve">
                 <source>After encountering Tornadus and Thunderus.</source>
-                <target state="translated">Nach der Begegnung mit Tornadus und Thunderus.</target>
+                <target state="translated">Nach der Begegnung mit Boreos und Voltolos.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After entering the correct password." xml:space="preserve">
@@ -475,7 +475,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="After receiving TM59 from Claire." xml:space="preserve">
                 <source>After receiving TM59 from Claire.</source>
-                <target state="translated">Nachdem ich TM59 von Claire erhalten habe.</target>
+                <target state="translated">Nachdem Claire TM59 überreicht hat.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After receiving a Kanto starter." xml:space="preserve">
@@ -485,37 +485,37 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="After receiving the National Dex." xml:space="preserve">
                 <source>After receiving the National Dex.</source>
-                <target state="translated">Nach Erhalt des Nationaldex.</target>
+                <target state="translated">Nach Erhalt des Nationalen Dex.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After receiving the Zephyr Badge." xml:space="preserve">
                 <source>After receiving the Zephyr Badge.</source>
-                <target state="translated">Nach Erhalt des Zephyr-Abzeichens.</target>
+                <target state="translated">Nach Erhalt des Flügelordens.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
                 <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-                <target state="translated">Nachdem Copycats Puppe an den Pokémon-Fanclub zurückgegeben wurde.</target>
+                <target state="translated">Nachdem Imitators Puppe an den Pokémon-Fanclub zurückgegeben wurde.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
                 <source>After talking to Cynthias Grandmother.</source>
-                <target state="translated">Nach dem Gespräch mit Cynthias Großmutter.</target>
+                <target state="translated">Nachdem mit Cynthias Großmutter gesprochen wurde.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After talking to Professor Oak in Eterna City." xml:space="preserve">
                 <source>After talking to Professor Oak in Eterna City.</source>
-                <target state="translated">Nach dem Gespräch mit Professor Oak in Eterna City.</target>
+                <target state="translated">Nachdem mit Professor Eich in Ewigenau gesprochen wurde.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After talking to at least 32 people in the Underground." xml:space="preserve">
                 <source>After talking to at least 32 people in the Underground.</source>
-                <target state="translated">Nachdem ich mit mindestens 32 Leuten in der U-Bahn gesprochen habe.</target>
+                <target state="translated">Nachdem mit mindestens 32 Personen im Untergrund gesprochen wurde.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" xml:space="preserve">
                 <source>After visiting Lake Verity after defeating Team Galactic at Mt. Coronet</source>
-                <target state="translated">Nach dem Besuch des Lake Verity nach dem Sieg über Team Galactic am Mt. Coronet</target>
+                <target state="translated">Nach dem Besuch des Sees der Wahrheit nach dem Sieg über Team Galaktik am Kraterberg</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="All" xml:space="preserve">
@@ -526,22 +526,22 @@ The Creature Page Abilities Section Title</note>
             <trans-unit id="All Allies" xml:space="preserve">
                 <source>All Allies</source>
                 <target state="translated">Alle Verbündeten</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="All Opponents" xml:space="preserve">
                 <source>All Opponents</source>
                 <target state="translated">Alle Gegner</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="All Other Pokemon" xml:space="preserve">
                 <source>All Other Pokemon</source>
                 <target state="translated">Alle anderen Pokémon</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="All Pokemon" xml:space="preserve">
                 <source>All Pokemon</source>
                 <target state="translated">Alle Pokémon</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="All Pokémon’s Defense and Special Defense are swapped for 5 turns." xml:space="preserve">
                 <source>All Pokémon’s Defense and Special Defense are swapped for 5 turns.</source>
@@ -556,7 +556,7 @@ The Creature Page Abilities Section Title</note>
             <trans-unit id="Ally" xml:space="preserve">
                 <source>Ally</source>
                 <target state="translated">Verbündet</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ally’s next move inflicts half more damage." xml:space="preserve">
                 <source>Ally’s next move inflicts half more damage.</source>
@@ -576,7 +576,7 @@ The Creature Page Abilities Section Title</note>
             <trans-unit id="Also by Ben" xml:space="preserve">
                 <source>Also by Ben</source>
                 <target state="translated">Auch von Ben</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Alt App Icons" xml:space="preserve">
                 <source>Alt App Icons</source>
@@ -591,17 +591,17 @@ The Creature Page Abilities Section Title</note>
             <trans-unit id="App Icon" xml:space="preserve">
                 <source>App Icon</source>
                 <target state="translated">App-Icon</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="App Icons" xml:space="preserve">
                 <source>App Icons</source>
                 <target state="translated">App-Icon</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Appearance" xml:space="preserve">
                 <source>Appearance</source>
                 <target state="translated">Aussehen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Armor" xml:space="preserve">
                 <source>Armor</source>
@@ -616,12 +616,12 @@ The Creature Page Abilities Section Title</note>
             <trans-unit id="Attack" xml:space="preserve">
                 <source>Attack</source>
                 <target state="translated">Attacke</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Authentic" xml:space="preserve">
                 <source>Authentic</source>
                 <target state="translated">Authentisch</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Averages Attack and Special Attack with the target." xml:space="preserve">
                 <source>Averages Attack and Special Attack with the target.</source>
@@ -646,17 +646,17 @@ The Creature Page Abilities Section Title</note>
             <trans-unit id="Ballistics" xml:space="preserve">
                 <source>Ballistics</source>
                 <target state="translated">Ballistik</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Base Happiness" xml:space="preserve">
                 <source>Base Happiness</source>
                 <target state="translated">Grundlegendes Glück</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Bite" xml:space="preserve">
                 <source>Bite</source>
                 <target state="translated">Biss</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Black" xml:space="preserve">
                 <source>Black</source>
@@ -722,7 +722,7 @@ Pokémon Type Bug</note>
             <trans-unit id="But you still have to subscribe" xml:space="preserve">
                 <source>But you still have to subscribe</source>
                 <target state="translated">Aber du musst dennoch ein Abo abschließen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="By Type" xml:space="preserve">
                 <source>By Type</source>
@@ -757,7 +757,7 @@ Pokémon Type Bug</note>
             <trans-unit id="Cancel" xml:space="preserve">
                 <source>Cancel</source>
                 <target state="translated">Abbrechen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Cannot be disrupted by abilities." xml:space="preserve">
                 <source>Cannot be disrupted by abilities.</source>
@@ -777,27 +777,27 @@ Pokémon Type Bug</note>
             <trans-unit id="Catch Filter" xml:space="preserve">
                 <source>Catch Filter</source>
                 <target state="translated">Fangfilter</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Catch Information Unavailable" xml:space="preserve">
                 <source>Catch Information Unavailable</source>
                 <target state="translated">Fanginformationen nicht verfügbar</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Catch State" xml:space="preserve">
                 <source>Catch State</source>
                 <target state="translated">Zustand nach Fang</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Catch State:" xml:space="preserve">
                 <source>Catch State:</source>
                 <target state="translated">Zustand nach Fang:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Catch info is unavailble for " xml:space="preserve">
                 <source>Catch info is unavailble for </source>
                 <target state="translated">Fanginformationen sind nicht verfügbar für </target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Catching" xml:space="preserve">
                 <source>Catching</source>
@@ -807,7 +807,7 @@ Pokémon Type Bug</note>
             <trans-unit id="Category" xml:space="preserve">
                 <source>Category</source>
                 <target state="translated">Kategorie</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Caught" xml:space="preserve">
                 <source>Caught</source>
@@ -888,17 +888,17 @@ The caught state for a creature</note>
             <trans-unit id="Charge" xml:space="preserve">
                 <source>Charge</source>
                 <target state="translated">Gebühr</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Check Type Defence" xml:space="preserve">
                 <source>Check Type Defense</source>
                 <target state="needs-review-l10n">Prüftyp Verteidigung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Check Type Defense" xml:space="preserve">
                 <source>Check Type Defense</source>
                 <target state="translated">Überprüfen Sie die Typverteidigung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Check your internet connection and make sure you’re signed into the App Store." xml:space="preserve">
                 <source>Check your internet connection and make sure you’re signed into the App Store.</source>
@@ -918,12 +918,12 @@ The caught state for a creature</note>
             <trans-unit id="Clear" xml:space="preserve">
                 <source>Clear</source>
                 <target state="translated">Löschen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Clear Filters" xml:space="preserve">
                 <source>Clear Filters</source>
                 <target state="translated">Filter löschen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Colosseum" xml:space="preserve">
                 <source>Colosseum</source>
@@ -938,12 +938,12 @@ The caught state for a creature</note>
             <trans-unit id="Congratulations Pokémon Master!" xml:space="preserve">
                 <source>Congratulations Pokémon Master!</source>
                 <target state="translated">Herzlichen Glückwunsch Pokémon-Meister!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Contact" xml:space="preserve">
                 <source>Contact</source>
                 <target state="translated">Kontakt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Copies the target’s ability." xml:space="preserve">
                 <source>Copies the target’s ability.</source>
@@ -963,7 +963,7 @@ The caught state for a creature</note>
             <trans-unit id="Cost" xml:space="preserve">
                 <source>Cost</source>
                 <target state="translated">Preis</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Covers the opposing field, lowering opponents’ Speed by one stage upon switching in." xml:space="preserve">
                 <source>Covers the opposing field, lowering opponents’ Speed by one stage upon switching in.</source>
@@ -1013,7 +1013,7 @@ The caught state for a creature</note>
             <trans-unit id="Customer Support" xml:space="preserve">
                 <source>Customer Support</source>
                 <target state="translated">Kundenbetreuung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Damages opponents, but heals allies for 50% of their max HP." xml:space="preserve">
                 <source>Damages opponents, but heals allies for 50% of their max HP.</source>
@@ -1028,7 +1028,7 @@ The caught state for a creature</note>
             <trans-unit id="Dance" xml:space="preserve">
                 <source>Dance</source>
                 <target state="translated">Tanz</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Dark" xml:space="preserve">
                 <source>Dark</source>
@@ -1048,37 +1048,37 @@ The caught state for a creature</note>
             <trans-unit id="Default" xml:space="preserve">
                 <source>Default</source>
                 <target state="translated">Standard</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Defense" xml:space="preserve">
                 <source>Defense</source>
                 <target state="translated">Verteidigung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Defrost" xml:space="preserve">
                 <source>Defrost</source>
                 <target state="translated">Auftauen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Delta Skin" xml:space="preserve">
                 <source>Delta Skin</source>
                 <target state="translated">Delta Skin</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Delta Skins require Ketchup+" xml:space="preserve">
                 <source>Delta Skins require Ketchup+</source>
                 <target state="translated">Delta Skins erfordern Ketchup+</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports." xml:space="preserve">
                 <source>Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports.</source>
                 <target state="translated">Delta ist eine App von Riley Testut, mit der Sie Retro-Konsolenspiele auf Ihrem iPhone spielen können. Ein Skin ist wie ein Thema für die verschiedenen Konsolen, die Delta unterstützt.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Description" xml:space="preserve">
                 <source>Description</source>
                 <target state="translated">Beschreibung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Destroys Reflect and Light Screen." xml:space="preserve">
                 <source>Destroys Reflect and Light Screen.</source>
@@ -1113,12 +1113,12 @@ The caught state for a creature</note>
             <trans-unit id="Disclaimer" xml:space="preserve">
                 <source>Disclaimer</source>
                 <target state="translated">Haftungsausschluss</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Distance" xml:space="preserve">
                 <source>Distance</source>
                 <target state="translated">Entfernung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ditto" xml:space="preserve">
                 <source>Ditto</source>
@@ -1143,7 +1143,7 @@ The caught state for a creature</note>
             <trans-unit id="Drag to change types" xml:space="preserve">
                 <source>Drag to change types</source>
                 <target state="translated">Ziehen, um Typen zu ändern</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Dragon" xml:space="preserve">
                 <source>Dragon</source>
@@ -1219,7 +1219,7 @@ Pokémon Type Dragon</note>
             <trans-unit id="Effect" xml:space="preserve">
                 <source>Effect</source>
                 <target state="translated">Effekt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Effective" xml:space="preserve">
                 <source>Effective</source>
@@ -1229,12 +1229,12 @@ Pokémon Type Dragon</note>
             <trans-unit id="Egg Group" xml:space="preserve">
                 <source>Egg Group</source>
                 <target state="translated">Ei-Gruppe</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Egg Groups" xml:space="preserve">
                 <source>Egg Groups</source>
                 <target state="translated">Eiergruppen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Egg Moves" xml:space="preserve">
                 <source>Egg Moves</source>
@@ -1249,12 +1249,12 @@ Pokémon Type Dragon</note>
             <trans-unit id="Email Ben" xml:space="preserve">
                 <source>Email Ben</source>
                 <target state="translated">Email Ben</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Email Support" xml:space="preserve">
                 <source>Email Support</source>
                 <target state="translated">Email Support</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Emerald" xml:space="preserve">
                 <source>Emerald</source>
@@ -1274,7 +1274,7 @@ Pokémon Type Dragon</note>
             <trans-unit id="Entire Field" xml:space="preserve">
                 <source>Entire Field</source>
                 <target state="translated">Gesamtes Feld</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Erratic" xml:space="preserve">
                 <source>Erratic</source>
@@ -1294,12 +1294,12 @@ Pokémon Type Dragon</note>
             <trans-unit id="Extras" xml:space="preserve">
                 <source>Extras</source>
                 <target state="translated">Extras</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Fainting Pokemon" xml:space="preserve">
                 <source>Fainting Pokemon</source>
                 <target state="translated">Ohnmächtige Pokemon</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Fairy" xml:space="preserve">
                 <source>Fairy</source>
@@ -1315,27 +1315,27 @@ Pokémon Type Fairy</note>
             <trans-unit id="Favorite" xml:space="preserve">
                 <source>Favorite</source>
                 <target state="translated">Favorit</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Favorites" xml:space="preserve">
                 <source>Favorites</source>
                 <target state="translated">Favoriten</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Favorites Filter" xml:space="preserve">
                 <source>Favorites Filter</source>
                 <target state="translated">Favoritenfilter</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Favorites:" xml:space="preserve">
                 <source>Favorites:</source>
                 <target state="translated">Favoriten:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Feedback &amp; Support" xml:space="preserve">
                 <source>Feedback &amp; Support</source>
                 <target state="translated">Feedback &amp; Support</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Fighting" xml:space="preserve">
                 <source>Fighting</source>
@@ -1345,12 +1345,12 @@ Pokémon Type Fairy</note>
             <trans-unit id="Filter" xml:space="preserve">
                 <source>Filter</source>
                 <target state="translated">Filtern</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Filter by:" xml:space="preserve">
                 <source>Filter by:</source>
                 <target state="translated">Filtern nach:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Fire" xml:space="preserve">
                 <source>Fire</source>
@@ -1400,12 +1400,12 @@ Pokémon Type Fairy</note>
             <trans-unit id="Fling Effect" xml:space="preserve">
                 <source>Fling Effect</source>
                 <target state="translated">Fling-Effekt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Fling Power" xml:space="preserve">
                 <source>Fling Power</source>
                 <target state="translated">Fling-Power</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Fluctuating" xml:space="preserve">
                 <source>Fluctuating</source>
@@ -1451,7 +1451,7 @@ Pokémon Type Flying</note>
             <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
                 <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
                 <target state="translated">Seit Jahren wollte ich eine Pokédex-App erstellen, aber ich konnte nie die Zeit oder den einzigartigen Winkel finden, um sie zu rechtfertigen. Anfang 2024 beschloss ich, es einfach zu tun. Ich hatte eine neue Idee für ein kombiniertes Suchfeld, eine Tab-Bar und eine Verlaufsansicht, von der ich das Gefühl hatte, dass sie die gesamte App wirklich miteinander verbinden und die Navigation unglaublich schnell und flüssig machen könnte. Ich hoffe, dass die Kombination dieses neuen Navigationssystems und alle Informationen in der App alten und neuen Fans der Pokémon-Spiele gefallen wird, so sehr ich es genossen habe, daran zu arbeiten.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
                 <source>Forced to use this move for several turns. Pokémon cannot fall asleep in that time.</source>
@@ -1511,12 +1511,12 @@ Pokémon Type Flying</note>
             <trans-unit id="Get Ketchup+" xml:space="preserve">
                 <source>Get Ketchup+</source>
                 <target state="translated">Holen Sie sich Ketchup+</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Get Ketchup+ to Unlock Filters" xml:space="preserve">
                 <source>Get Ketchup+ to Unlock Filters</source>
                 <target state="translated">Holen Sie sich Ketchup+, um Filter freizuschalten</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ghost" xml:space="preserve">
                 <source>Ghost</source>
@@ -1551,7 +1551,7 @@ Pokémon Type Flying</note>
             <trans-unit id="Gravity" xml:space="preserve">
                 <source>Gravity</source>
                 <target state="translated">Schwerkraft</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ground" xml:space="preserve">
                 <source>Ground</source>
@@ -1562,12 +1562,12 @@ Pokémon Type Ground</note>
             <trans-unit id="Grounds the target, and hits even Flying-type or levitating Pokémon." xml:space="preserve">
                 <source>Grounds the target, and hits even Flying-type or levitating Pokémon.</source>
                 <target state="translated">Legt das Ziel auf den Boden und trifft sogar Pokémon vom Typ Flug oder schwebende Pokémon.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Growth Rate" xml:space="preserve">
                 <source>Growth Rate</source>
                 <target state="translated">Wachstumsrate</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Guarantees a critical hit with the user’s next move." xml:space="preserve">
                 <source>Guarantees a critical hit with the user’s next move.</source>
@@ -1807,7 +1807,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Hatch Counter" xml:space="preserve">
                 <source>Hatch Counter</source>
                 <target state="translated">Ei-Schritte</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Headbutting a high encounter rate tree" xml:space="preserve">
                 <source>Headbutting a high encounter rate tree</source>
@@ -1837,7 +1837,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Heal" xml:space="preserve">
                 <source>Heal</source>
                 <target state="translated">Heilen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Heals the target for half its max HP." xml:space="preserve">
                 <source>Heals the target for half its max HP.</source>
@@ -1882,32 +1882,32 @@ Pokémon Type Ground</note>
             <trans-unit id="Height" xml:space="preserve">
                 <source>Height</source>
                 <target state="translated">Größe</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Hello, world!" xml:space="preserve">
                 <source>Hello, world!</source>
                 <target state="translated">Hallo, Welt!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Help" xml:space="preserve">
                 <source>Help</source>
                 <target state="translated">Hilfe</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Help &amp; Info" xml:space="preserve">
                 <source>Help &amp; Info</source>
                 <target state="translated">Hilfe &amp; Info</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Hidden" xml:space="preserve">
                 <source>Hidden</source>
                 <target state="translated">Versteckt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="High" xml:space="preserve">
                 <source>High</source>
                 <target state="translated">Höhe</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Hisuian Qwilfish evolves into Overqwill after levelling up while knowing Barb Barrage" xml:space="preserve">
                 <source>Hisuian Qwilfish evolves into Overqwill after levelling up while knowing Barb Barrage</source>
@@ -1972,7 +1972,7 @@ Pokémon Type Ground</note>
             <trans-unit id="How to Add Skins to Delta" xml:space="preserve">
                 <source>How to Add Skins to Delta</source>
                 <target state="translated">Wie man Skins zu Delta hinzufügt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Human Shape" xml:space="preserve">
                 <source>Human Shape</source>
@@ -1984,18 +1984,17 @@ Pokémon Type Ground</note>
                 <target state="translated">Humanoid</target>
                 <note>Creature Shape</note>
             </trans-unit>
-            <trans-unit id="I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. 
-— Ben" xml:space="preserve">
+            <trans-unit id="I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well.  — Ben" xml:space="preserve">
                 <source>I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. 
 — Ben</source>
                 <target state="translated">Ich schätze die Privatsphäre meiner Kunden wirklich, weshalb ich kein personalisiertes Tracking mache. Das einzige, was mich interessiert, ist sicherzustellen, dass die App gut funktioniert. 
 — Ben</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available." xml:space="preserve">
                 <source>I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available.</source>
                 <target state="translated">Ich verwende Open-Source-Kunstwerke, die nicht jede Form jeder Kreatur enthalten. Ich werde fehlende Kunstwerke hinzufügen, sobald sie verfügbar sind.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ice" xml:space="preserve">
                 <source>Ice</source>
@@ -2095,12 +2094,12 @@ Pokémon Type Ground</note>
             <trans-unit id="If you don’t have a default email app configured, you can email me directly at support@obscura.studio" xml:space="preserve">
                 <source>If you don’t have a default email app configured, you can email me directly at support@obscura.studio</source>
                 <target state="translated">Wenn Sie keine Standard-E-Mail-App konfiguriert haben, können Sie mir direkt eine E-Mail an support@obscura.studio senden.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="If you purchase Ketchup+ you can see data such as Pokédex descriptions and movesets for each creature across all the games." xml:space="preserve">
                 <source>If you purchase Ketchup+ you can see data such as Pokédex descriptions and movesets for each creature across all the games.</source>
                 <target state="translated">Wenn Sie Ketchup+ kaufen, können Sie Daten wie Pokédex-Beschreibungen und Movesets für jede Kreatur in allen Spielen sehen.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ignores and destroys protection effects." xml:space="preserve">
                 <source>Ignores and destroys protection effects.</source>
@@ -2130,17 +2129,17 @@ Pokémon Type Ground</note>
             <trans-unit id="In App Purchase Unavailable" xml:space="preserve">
                 <source>In App Purchase Unavailable</source>
                 <target state="translated">In App-Kauf Nicht Verfügbar</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="In triple battles, this move can be used on either side to target the farthest away opposing Pokémon." xml:space="preserve">
                 <source>In triple battles, this move can be used on either side to target the farthest away opposing Pokémon.</source>
                 <target state="translated">In Dreifachkämpfen kann dieser Zug auf beiden Seiten verwendet werden, um die am weitesten entfernten gegnerischen Pokémon ins Visier zu nehmen.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="In-App-Purchases, and Refunds are handled by Apple, not app developers." xml:space="preserve">
                 <source>In-App-Purchases, and Refunds are handled by Apple, not app developers.</source>
                 <target state="translated">In-App-Käufe und Rückerstattungen werden von Apple abgewickelt, nicht von App-Entwicklern.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Increases the user’s chance to score a critical hit." xml:space="preserve">
                 <source>Increases the user’s chance to score a critical hit.</source>
@@ -2290,7 +2289,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Introduced: " xml:space="preserve">
                 <source>Introduced: </source>
                 <target state="translated">Eingeführt:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Invalid match up" xml:space="preserve">
                 <source>Invalid match up</source>
@@ -2320,37 +2319,37 @@ Pokémon Type Ground</note>
             <trans-unit id="I’d like to take a moment to thank everyone who contributes to PokéAPI. Without their work, none of this would have been possible." xml:space="preserve">
                 <source>I’d like to take a moment to thank everyone who contributes to PokéAPI. Without their work, none of this would have been possible.</source>
                 <target state="translated">Ich möchte mir einen Moment Zeit nehmen, um mich bei allen zu bedanken, die zu PokéAPI beitragen. Ohne ihre Arbeit wäre nichts davon möglich gewesen.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years." xml:space="preserve">
                 <source>I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years.</source>
                 <target state="translated">Ich bin ein 30-jähriger Designer, Entwickler und Fotograf aus Dublin, Irland. Ich bin süchtig nach Pokémon-Spielen, seit ich zum ersten Mal die gelbe Version auf einer durchscheinenden lila Game Boy Color spielen darf. Ich hoffe, dass Ketchup Pokémon-Trainern auf der ganzen Welt helfen wird, diese Spiele zu meistern, die mir im Laufe der Jahre so viel Freude bereitet haben.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="I’m not eating the cat food, just so we’re clear" xml:space="preserve">
                 <source>I’m not eating the cat food, just so we’re clear</source>
                 <target state="translated">Ich esse das Katzenfutter nicht, nur damit wir klar sind</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="I’m not sure that’s even possible, but congrats to you." xml:space="preserve">
                 <source>I’m not sure that’s even possible, but congrats to you.</source>
                 <target state="translated">Ich bin mir nicht sicher, ob das überhaupt möglich ist, aber herzlichen Glückwunsch an Sie.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ketchup" xml:space="preserve">
                 <source>Ketchup</source>
                 <target state="translated">Ketchup</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ketchup+" xml:space="preserve">
                 <source>Ketchup+</source>
                 <target state="translated">Ketchup+</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ketchup+ lets you browse every Pokémon from all 9 generations." xml:space="preserve">
                 <source>Ketchup+ lets you browse every Pokémon from all 9 generations.</source>
                 <target state="translated">Mit Ketchup+ können Sie jedes Pokémon aus allen 9 Generationen durchsuchen.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" xml:space="preserve">
                 <source>Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters</source>
@@ -2370,7 +2369,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Learn more about Delta" xml:space="preserve">
                 <source>Learn more about Delta</source>
                 <target state="translated">Erfahren Sie mehr über Delta</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Learned Moves" xml:space="preserve">
                 <source>Learned Moves</source>
@@ -2385,7 +2384,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Legacy Move" xml:space="preserve">
                 <source>Legacy Move</source>
                 <target state="translated">Legacy-Move</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Legends: Arceus" xml:space="preserve">
                 <source>Legends: Arceus</source>
@@ -2400,7 +2399,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Let’s Go!" xml:space="preserve">
                 <source>Let’s Go!</source>
                 <target state="translated">Los Geht's!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Let’s Go, Eevee!" xml:space="preserve">
                 <source>Let’s Go, Eevee!</source>
@@ -2420,12 +2419,12 @@ Pokémon Type Ground</note>
             <trans-unit id="Location Unknown" xml:space="preserve">
                 <source>Location Unknown</source>
                 <target state="translated">Ort Unbekannt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Low" xml:space="preserve">
                 <source>Low</source>
                 <target state="translated">Tiefstand</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Lowers all targets’ Attack and Special Attack by one stage. Makes the user switch out." xml:space="preserve">
                 <source>Lowers all targets’ Attack and Special Attack by one stage. Makes the user switch out.</source>
@@ -2585,17 +2584,17 @@ Pokémon Type Ground</note>
             <trans-unit id="Mark as Caught" xml:space="preserve">
                 <source>Mark as Caught</source>
                 <target state="translated">Markieren Sie als gefangen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Mark them as captured and they’ll show up here" xml:space="preserve">
                 <source>Mark them as captured and they’ll show up here</source>
                 <target state="translated">Markieren Sie sie als gefangen und sie werden hier auftauchen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Matchups" xml:space="preserve">
                 <source>Matchups</source>
                 <target state="translated">Matchups</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Medium" xml:space="preserve">
                 <source>Medium</source>
@@ -2610,7 +2609,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Mental" xml:space="preserve">
                 <source>Mental</source>
                 <target state="translated">Geistig</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Mineral" xml:space="preserve">
                 <source>Mineral</source>
@@ -2620,12 +2619,12 @@ Pokémon Type Ground</note>
             <trans-unit id="Mirror" xml:space="preserve">
                 <source>Mirror</source>
                 <target state="translated">Spiegel</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Missing Artwork" xml:space="preserve">
                 <source>Missing Artwork</source>
                 <target state="translated">Fehlendes Kunstwerk</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Monster" xml:space="preserve">
                 <source>Monster</source>
@@ -2660,17 +2659,17 @@ Pokémon Type Ground</note>
             <trans-unit id="Nice try" xml:space="preserve">
                 <source>Nice try</source>
                 <target state="translated">Netter Versuch</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No Ability Selected" xml:space="preserve">
                 <source>No Ability Selected</source>
                 <target state="translated">Keine Fähigkeit Ausgewählt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No Creature Selected" xml:space="preserve">
                 <source>No Creature Selected</source>
                 <target state="translated">Keine Kreatur ausgewählt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No Description Available" xml:space="preserve">
                 <source>No Description Available</source>
@@ -2685,27 +2684,27 @@ Pokémon Type Ground</note>
             <trans-unit id="No Favorites" xml:space="preserve">
                 <source>No Favorites</source>
                 <target state="translated">Keine Favoriten</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No Item Selected" xml:space="preserve">
                 <source>No Item Selected</source>
                 <target state="translated">Kein Artikel ausgewählt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No Move Selected" xml:space="preserve">
                 <source>No Move Selected</source>
                 <target state="translated">Keine Bewegung Ausgewählt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No Recents Items" xml:space="preserve">
                 <source>No Recents Items</source>
                 <target state="translated">Keine aktuellen Artikel</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No View Selected" xml:space="preserve">
                 <source>No View Selected</source>
                 <target state="translated">Keine Ansicht ausgewählt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="No effect" xml:space="preserve">
                 <source>No effect</source>
@@ -2715,7 +2714,7 @@ Pokémon Type Ground</note>
             <trans-unit id="Non-Sky Battle" xml:space="preserve">
                 <source>Non-Sky Battle</source>
                 <target state="translated">Nicht-Sky-Kampf</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Normal" xml:space="preserve">
                 <source>Normal</source>
@@ -2731,7 +2730,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Not Favorite" xml:space="preserve">
                 <source>Not Favorite</source>
                 <target state="translated">Nicht Favorit</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Not Shiny" xml:space="preserve">
                 <source>Not Shiny</source>
@@ -2831,7 +2830,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Opponents Field" xml:space="preserve">
                 <source>Opponents Field</source>
                 <target state="translated">Feld der Gegner</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Other Moves" xml:space="preserve">
                 <source>Other Moves</source>
@@ -2841,12 +2840,12 @@ The uncaught state for a creature</note>
             <trans-unit id="PP" xml:space="preserve">
                 <source>PP</source>
                 <target state="translated">PP</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="PWR" xml:space="preserve">
                 <source>PWR</source>
                 <target state="translated">PWR</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Paralyzes the target." xml:space="preserve">
                 <source>Paralyzes the target.</source>
@@ -2871,12 +2870,12 @@ The uncaught state for a creature</note>
             <trans-unit id="Pin" xml:space="preserve">
                 <source>Pin</source>
                 <target state="translated">Reißzwecke</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Pinned" xml:space="preserve">
                 <source>Pinned</source>
                 <target state="translated">Gepinnt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Plant" xml:space="preserve">
                 <source>Plant</source>
@@ -2896,12 +2895,12 @@ The uncaught state for a creature</note>
             <trans-unit id="Please don’t sue me." xml:space="preserve">
                 <source>Please don’t sue me.</source>
                 <target state="translated">Bitte verklagen Sie mich nicht.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Pocket" xml:space="preserve">
                 <source>Pocket</source>
                 <target state="translated">Tasche</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Poison" xml:space="preserve">
                 <source>Poison</source>
@@ -2921,27 +2920,27 @@ The uncaught state for a creature</note>
             <trans-unit id="Pokédex List" xml:space="preserve">
                 <source>Pokédex List</source>
                 <target state="translated">Pokédex List</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Pokémon with Overcoat and Grass-type Pokémon are immune to this move." xml:space="preserve">
                 <source>Pokémon with Overcoat and Grass-type Pokémon are immune to this move.</source>
                 <target state="translated">Pokémon mit Mantel und Gras-Pokémon sind immun gegen diese Bewegung.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Pokémon with Soundproof are immune to this move." xml:space="preserve">
                 <source>Pokémon with Soundproof are immune to this move.</source>
                 <target state="translated">Pokémon mit Schallschutz sind immun gegen diese Bewegung.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Powder" xml:space="preserve">
                 <source>Powder</source>
                 <target state="translated">Pulver</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Power" xml:space="preserve">
                 <source>Power</source>
                 <target state="translated">Power</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Power and type depend on the held berry." xml:space="preserve">
                 <source>Power and type depend on the held berry.</source>
@@ -3111,17 +3110,17 @@ The uncaught state for a creature</note>
             <trans-unit id="Priority" xml:space="preserve">
                 <source>Priority</source>
                 <target state="translated">Priorität</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Privacy" xml:space="preserve">
                 <source>Privacy</source>
                 <target state="translated">Privatsphäre</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Protect" xml:space="preserve">
                 <source>Protect</source>
                 <target state="translated">Schützen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Protects Pokémon on the ground from priority moves and increases the power of their Psychic moves by 50%." xml:space="preserve">
                 <source>Protects Pokémon on the ground from priority moves and increases the power of their Psychic moves by 50%.</source>
@@ -3156,12 +3155,12 @@ The uncaught state for a creature</note>
             <trans-unit id="Pulse" xml:space="preserve">
                 <source>Pulse</source>
                 <target state="translated">Puls</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Punch" xml:space="preserve">
                 <source>Punch</source>
                 <target state="translated">Schlag</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Puts the target to sleep." xml:space="preserve">
                 <source>Puts the target to sleep.</source>
@@ -3176,12 +3175,12 @@ The uncaught state for a creature</note>
             <trans-unit id="Quiz" xml:space="preserve">
                 <source>Quiz</source>
                 <target state="translated">Quiz</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="REDACTED" xml:space="preserve">
                 <source>REDACTED</source>
                 <target state="translated">REDACTED</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Raises a selected ally’s Special Defense by one stage." xml:space="preserve">
                 <source>Raises a selected ally’s Special Defense by one stage.</source>
@@ -3256,7 +3255,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Raises the user’s Attack by one stage after inflicting damage." xml:space="preserve">
                 <source>Raises the user’s Attack by one stage after inflicting damage.</source>
                 <target state="translated">Erhöht den Angriff des Benutzers um eine Stufe, nachdem Schaden zugefügt wurde.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Raises the user’s Attack by one stage and its Speed by two stages." xml:space="preserve">
                 <source>Raises the user’s Attack by one stage and its Speed by two stages.</source>
@@ -3376,7 +3375,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Random Opponent" xml:space="preserve">
                 <source>Random Opponent</source>
                 <target state="translated">Zufälliger Gegner</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP." xml:space="preserve">
                 <source>Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.</source>
@@ -3411,12 +3410,12 @@ The uncaught state for a creature</note>
             <trans-unit id="Recents" xml:space="preserve">
                 <source>Recents</source>
                 <target state="translated">Aktuelle</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Recharge" xml:space="preserve">
                 <source>Recharge</source>
                 <target state="translated">Aufladen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles." xml:space="preserve">
                 <source>Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.</source>
@@ -3451,7 +3450,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Reflectable" xml:space="preserve">
                 <source>Reflectable</source>
                 <target state="translated">Reflektierbar</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Reflects back the first effect move used on the user this turn." xml:space="preserve">
                 <source>Reflects back the first effect move used on the user this turn.</source>
@@ -3501,17 +3500,17 @@ The uncaught state for a creature</note>
             <trans-unit id="Reset" xml:space="preserve">
                 <source>Reset</source>
                 <target state="translated">Neu setzen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Reset Database" xml:space="preserve">
                 <source>Reset Database</source>
                 <target state="translated">Datenbank zurücksetzen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Reset all Data?" xml:space="preserve">
                 <source>Reset all Data?</source>
                 <target state="translated">Alle Daten zurücksetzen?</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Resets all Pokémon’s stats, accuracy, and evasion." xml:space="preserve">
                 <source>Resets all Pokémon’s stats, accuracy, and evasion.</source>
@@ -3526,7 +3525,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Restore Purchases" xml:space="preserve">
                 <source>Restore Purchases</source>
                 <target state="translated">Käufe wiederherstellen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Restores 1/16 of the user’s max HP each turn." xml:space="preserve">
                 <source>Restores 1/16 of the user’s max HP each turn.</source>
@@ -3571,7 +3570,7 @@ The uncaught state for a creature</note>
             <trans-unit id="Search" xml:space="preserve">
                 <source>Search</source>
                 <target state="translated">Suche</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Seeds the target after inflicting damage." xml:space="preserve">
                 <source>Seeds the target after inflicting damage.</source>
@@ -3586,22 +3585,22 @@ The uncaught state for a creature</note>
             <trans-unit id="Select an Option" xml:space="preserve">
                 <source>Select an Option</source>
                 <target state="translated">Wählen Sie eine Option</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Selected Pokemon Me First" xml:space="preserve">
                 <source>Selected Pokemon Me First</source>
                 <target state="translated">Ausgewählte Pokemon Me First</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Selected Target" xml:space="preserve">
                 <source>Selected Target</source>
                 <target state="translated">Ausgewähltes Ziel</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Self-Help" xml:space="preserve">
                 <source>Self-Help</source>
                 <target state="translated">Selbsthilfe</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Sets Light Screen on the user’s side of the field after inflicting damage." xml:space="preserve">
                 <source>Sets Light Screen on the user’s side of the field after inflicting damage.</source>
@@ -3621,12 +3620,12 @@ The uncaught state for a creature</note>
             <trans-unit id="Settings" xml:space="preserve">
                 <source>Settings</source>
                 <target state="translated">Einstellungen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Shape" xml:space="preserve">
                 <source>Shape</source>
                 <target state="translated">Form</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Shedinja appears when Nincada evolves into Nijask at level 20 if the player also has a spare slot in their party and at least one Poké Ball in their bag" xml:space="preserve">
                 <source>Shedinja appears when Nincada evolves into Nijask at level 20 if the player also has a spare slot in their party and at least one Poké Ball in their bag</source>
@@ -3652,27 +3651,27 @@ The shiny caught state for a creature</note>
             <trans-unit id="Shiny Pokemon are very rare, and are highly valued among collectors." xml:space="preserve">
                 <source>Shiny Pokemon are very rare, and are highly valued among collectors.</source>
                 <target state="translated">Shiny Pokémon sind sehr selten und werden unter Sammlern sehr geschätzt.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Show Favorites" xml:space="preserve">
                 <source>Show Favorites</source>
                 <target state="translated">Favoriten anzeigen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Show Favorites Only" xml:space="preserve">
                 <source>Show Favorites Only</source>
                 <target state="translated">Nur Favoriten anzeigen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Show Info For:" xml:space="preserve">
                 <source>Show Info For:</source>
                 <target state="translated">Informationen Anzeigen Für:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Show all" xml:space="preserve">
                 <source>Show all</source>
                 <target state="translated">Alles anzeigen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Silver" xml:space="preserve">
                 <source>Silver</source>
@@ -3697,7 +3696,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Snatch" xml:space="preserve">
                 <source>Snatch</source>
                 <target state="translated">Reißen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Sorry, better luck next time. It’s: " xml:space="preserve">
                 <source>Sorry, better luck next time. It’s: </source>
@@ -3707,7 +3706,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Sort Order" xml:space="preserve">
                 <source>Sort Order</source>
                 <target state="translated">Sortierreihenfolge</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Soul Silver" xml:space="preserve">
                 <source>Soul Silver</source>
@@ -3717,22 +3716,22 @@ The shiny caught state for a creature</note>
             <trans-unit id="Sound" xml:space="preserve">
                 <source>Sound</source>
                 <target state="translated">Geräusch</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Special" xml:space="preserve">
                 <source>Special</source>
                 <target state="translated">Sondersendung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Special Thanks" xml:space="preserve">
                 <source>Special Thanks</source>
                 <target state="translated">Besonderer Dank</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Specific Move" xml:space="preserve">
                 <source>Specific Move</source>
                 <target state="translated">Spezifischer Schritt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Squiggle" xml:space="preserve">
                 <source>Squiggle</source>
@@ -3752,7 +3751,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Status" xml:space="preserve">
                 <source>Status</source>
                 <target state="translated">Status</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Steals the target’s move, if it’s self-targeted." xml:space="preserve">
                 <source>Steals the target’s move, if it’s self-targeted.</source>
@@ -3797,7 +3796,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Support" xml:space="preserve">
                 <source>Support</source>
                 <target state="translated">Unterstützung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Support Ketchup’s Development" xml:space="preserve">
                 <source>Support Ketchup’s Development</source>
@@ -3837,12 +3836,12 @@ The shiny caught state for a creature</note>
             <trans-unit id="Tap one of the buttons below to show the share sheet. In the share sheet, you should see Delta listed in the row of apps, but you might have to scroll to find it." xml:space="preserve">
                 <source>Tap one of the buttons below to show the share sheet. In the share sheet, you should see Delta listed in the row of apps, but you might have to scroll to find it.</source>
                 <target state="translated">Tippen Sie auf eine der Schaltflächen unten, um das Freigabeblatt anzuzeigen. Im Freigabeblatt sollten Sie Delta in der Reihe der Apps aufgelistet sehen, aber Sie müssen möglicherweise scrollen, um es zu finden.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Target" xml:space="preserve">
                 <source>Target</source>
                 <target state="translated">Ziel</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Target cannot use held items." xml:space="preserve">
                 <source>Target cannot use held items.</source>
@@ -3877,7 +3876,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Thanks for your support" xml:space="preserve">
                 <source>Thanks for your support</source>
                 <target state="translated">Vielen Dank für Ihre Unterstützung</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="That’s right, it’s: " xml:space="preserve">
                 <source>That’s right, it’s: </source>
@@ -3907,107 +3906,107 @@ The shiny caught state for a creature</note>
             <trans-unit id="The turn after this move is used, the Pokémon’s action is skipped so it can recharge." xml:space="preserve">
                 <source>The turn after this move is used, the Pokémon’s action is skipped so it can recharge.</source>
                 <target state="translated">Die Runde, nachdem dieser Zug verwendet wurde, wird die Aktion des Pokémon übersprungen, damit es sich aufladen kann.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!" xml:space="preserve">
                 <source>There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!</source>
                 <target state="translated">Es gibt keinen Unterschied, was Sie bekommen, Ketchup+ Gold ist nur eine einfache Möglichkeit, ein zusätzliches Trinkgeld zu hinterlassen, wenn Sie sich großzügig fühlen und etwas zusätzliche Wertschätzung für die App zeigen möchten!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="They’ll show up here after you’ve chosen some." xml:space="preserve">
                 <source>They’ll show up here after you’ve chosen some.</source>
                 <target state="translated">Sie werden hier auftauchen, nachdem Sie einige ausgewählt haben.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This app is not affiliated or endorsed by Nintendo, GameFreak, or The Pokémon company in any way. Pokémon, the character names, and information are trademarks of Nintendo. No copyright infringement is intended, this app is a fair-use reference for their works." xml:space="preserve">
                 <source>This app is not affiliated or endorsed by Nintendo, GameFreak, or The Pokémon company in any way. Pokémon, the character names, and information are trademarks of Nintendo. No copyright infringement is intended, this app is a fair-use reference for their works.</source>
                 <target state="translated">Diese App ist in keiner Weise von Nintendo, GameFreak oder The Pokémon Company verbunden oder unterstützt. Pokémon, die Charakternamen und Informationen sind Marken von Nintendo. Es ist keine Urheberrechtsverletzung beabsichtigt, diese App ist eine Fair-Use-Referenz für ihre Werke.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move can be used while frozen to force the Pokémon to defrost." xml:space="preserve">
                 <source>This move can be used while frozen to force the Pokémon to defrost.</source>
                 <target state="translated">Diese Bewegung kann während des Einfrierens verwendet werden, um das Pokémon zum Auftauen zu zwingen.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move cannot be used in high gravity." xml:space="preserve">
                 <source>This move cannot be used in high gravity.</source>
                 <target state="translated">Diese Bewegung kann nicht in hoher Schwerkraft verwendet werden.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move has 1.2× its usual power when used by a Pokémon with Iron-Fist." xml:space="preserve">
                 <source>This move has 1.2× its usual power when used by a Pokémon with Iron-Fist.</source>
                 <target state="translated">Diese Bewegung hat 1,2x ihre übliche Kraft, wenn sie von einem Pokémon mit Iron-Fist verwendet wird.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher." xml:space="preserve">
                 <source>This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher.</source>
                 <target state="translated">Diese Bewegung hat 1,5-mal ihre übliche Kraft, wenn sie von einem Pokémon mit Mega-Launcher verwendet wird.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move has 1.5× its usual power when used by a Pokémon with Strong-Jaw." xml:space="preserve">
                 <source>This move has 1.5× its usual power when used by a Pokémon with Strong-Jaw.</source>
                 <target state="translated">Diese Bewegung hat 1,5-mal ihre übliche Kraft, wenn sie von einem Pokémon mit starkem Jaw verwendet wird.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move has a charging turn, and can be skipped with a Power Herb." xml:space="preserve">
                 <source>This move has a charging turn, and can be skipped with a Power Herb.</source>
                 <target state="translated">Diese Bewegung hat eine Ladedrehung und kann mit einem Power Herb übersprungen werden.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move ignores the target’s substitute." xml:space="preserve">
                 <source>This move ignores the target’s substitute.</source>
                 <target state="translated">Dieser Schritt ignoriert den Ersatz des Ziels.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move is blocked by Aroma-Veil and cured by Mental-Herb." xml:space="preserve">
                 <source>This move is blocked by Aroma-Veil and cured by Mental-Herb.</source>
                 <target state="translated">Dieser Schritt wird von Aroma-Veil blockiert und von Mental-Herb geheilt.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move is blocked by Bulletproof." xml:space="preserve">
                 <source>This move is blocked by Bulletproof.</source>
                 <target state="translated">Dieser Zug wird von Bulletproof blockiert.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move is blocked by Heal-Block." xml:space="preserve">
                 <source>This move is blocked by Heal-Block.</source>
                 <target state="translated">Dieser Zug wird von Heal-Block blockiert.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move is no longer available as of Pokémon Sword and Shield." xml:space="preserve">
                 <source>This move is no longer available as of Pokémon Sword and Shield.</source>
                 <target state="translated">Dieser Zug ist ab Pokémon Sword und Shield nicht mehr verfügbar.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move is unusable during Sky Battles." xml:space="preserve">
                 <source>This move is unusable during Sky Battles.</source>
                 <target state="translated">Dieser Zug ist während der Himmelsschlachten unbenutzbar.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move may be reflected back at the user with Magic-Coat or Magic-Bounce." xml:space="preserve">
                 <source>This move may be reflected back at the user with Magic-Coat or Magic-Bounce.</source>
                 <target state="translated">Diese Bewegung kann sich beim Benutzer mit Magic-Coat oder Magic-Bounce widerspiegeln.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move triggers Dancer." xml:space="preserve">
                 <source>This move triggers Dancer.</source>
                 <target state="translated">Diese Bewegung löst den Tänzer aus.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move will be stolen if another Pokémon has used Snatch this turn." xml:space="preserve">
                 <source>This move will be stolen if another Pokémon has used Snatch this turn.</source>
                 <target state="translated">Dieser Zug wird gestohlen, wenn ein anderes Pokémon in diesem Zug Snatch verwendet hat.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This move will not work if the target has used Detect or Protect this turn." xml:space="preserve">
                 <source>This move will not work if the target has used Detect or Protect this turn.</source>
                 <target state="translated">Dieser Zug funktioniert nicht, wenn das Ziel diesen Zug Detect or Protect verwendet hat.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="This will reset all Creature favorite and catch states." xml:space="preserve">
                 <source>This will reset all Creature favorite and catch states.</source>
                 <target state="translated">Dadurch werden alle Lieblings- und Fangzustände von Kreaturen zurückgesetzt.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Throws held item at the target, its power depends on the item." xml:space="preserve">
                 <source>Throws held item at the target, its power depends on the item.</source>
@@ -4047,7 +4046,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Type:" xml:space="preserve">
                 <source>Type:</source>
                 <target state="translated">Typ:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Ultra Moon" xml:space="preserve">
                 <source>Ultra Moon</source>
@@ -4062,7 +4061,7 @@ The shiny caught state for a creature</note>
             <trans-unit id="Unfavorite" xml:space="preserve">
                 <source>Unfavorite</source>
                 <target state="translated">Unfavorite</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Unknown" xml:space="preserve">
                 <source>Unknown</source>
@@ -4088,7 +4087,7 @@ Encounter Method</note>
             <trans-unit id="Upgrade to" xml:space="preserve">
                 <source>Upgrade to</source>
                 <target state="translated">Upgrade auf</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Upright" xml:space="preserve">
                 <source>Upright</source>
@@ -4098,17 +4097,17 @@ Encounter Method</note>
             <trans-unit id="User" xml:space="preserve">
                 <source>User</source>
                 <target state="translated">Nutzer</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="User And Allies" xml:space="preserve">
                 <source>User And Allies</source>
                 <target state="translated">Benutzer Und Verbündete</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="User Or Ally" xml:space="preserve">
                 <source>User Or Ally</source>
                 <target state="translated">Benutzer Oder Verbündeter</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="User and target both faint after three turns." xml:space="preserve">
                 <source>User and target both faint after three turns.</source>
@@ -4268,7 +4267,7 @@ Encounter Method</note>
             <trans-unit id="User touches the target. This triggers some abilities and items." xml:space="preserve">
                 <source>User touches the target. This triggers some abilities and items.</source>
                 <target state="translated">Der Benutzer berührt das Ziel. Dies löst einige Fähigkeiten und Gegenstände aus.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="User vanishes, dodging all attacks, and hits next turn. Hits through Protect and Detect." xml:space="preserve">
                 <source>User vanishes, dodging all attacks, and hits next turn. Hits through Protect and Detect.</source>
@@ -4288,7 +4287,7 @@ Encounter Method</note>
             <trans-unit id="Users Field" xml:space="preserve">
                 <source>Users Field</source>
                 <target state="translated">Benutzerfeld</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="User’s type changes to match the terrain." xml:space="preserve">
                 <source>User’s type changes to match the terrain.</source>
@@ -4343,7 +4342,7 @@ Encounter Method</note>
             <trans-unit id="View Options" xml:space="preserve">
                 <source>View Options</source>
                 <target state="translated">Optionen anzeigen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Violet" xml:space="preserve">
                 <source>Violet</source>
@@ -4423,34 +4422,33 @@ Encounter Method</note>
             <trans-unit id="Weight" xml:space="preserve">
                 <source>Weight</source>
                 <target state="translated">Gewicht</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Welcome to" xml:space="preserve">
                 <source>Welcome to</source>
                 <target state="translated">Willkommen bei</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="What’s Delta, and what are skins?" xml:space="preserve">
                 <source>What’s Delta, and what are skins?</source>
                 <target state="translated">Was ist Delta und was sind Skins?</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="What’s the difference between the two prices for Ketchup+?" xml:space="preserve">
                 <source>What’s the difference between the two prices for Ketchup+?</source>
                 <target state="translated">Was ist der Unterschied zwischen den beiden Preisen für Ketchup+?</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="What’s the legacy data?" xml:space="preserve">
                 <source>What’s the legacy data?</source>
                 <target state="translated">Was sind die Legacy-Daten?</target>
-                <note></note>
+                <note/>
             </trans-unit>
-            <trans-unit id="While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback. 
-— Ben" xml:space="preserve">
+            <trans-unit id="While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback.  — Ben" xml:space="preserve">
                 <source>While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback. 
 — Ben</source>
                 <target state="translated">Während ich jede Nachricht lese, da ich nur eine Person bin, bin ich nicht in der Lage, auf jede Person zu antworten. Ich hoffe, Sie verstehen, und danke für Ihr Feedback. - Ben</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="While playing on the Virtual Console edition of the game." xml:space="preserve">
                 <source>While playing on the Virtual Console edition of the game.</source>
@@ -4475,7 +4473,7 @@ Encounter Method</note>
             <trans-unit id="Who’s That Pokémon?!" xml:space="preserve">
                 <source>Who’s That Pokémon?!</source>
                 <target state="translated">Was ist das für ein Pokémon?!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="Wings" xml:space="preserve">
                 <source>Wings</source>
@@ -4600,27 +4598,27 @@ Encounter Method</note>
             <trans-unit id="You haven’t caught any pokemon yet!" xml:space="preserve">
                 <source>You haven’t caught any pokemon yet!</source>
                 <target state="translated">Du hast noch kein Pokémon gefangen!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="You haven’t caught any shinies yet!" xml:space="preserve">
                 <source>You haven’t caught any shinies yet!</source>
                 <target state="translated">Du hast noch keine Shiny gefangen!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="You’ve caught every shiny!" xml:space="preserve">
                 <source>You’ve caught every shiny!</source>
                 <target state="translated">Du hast alle Shiny gefangen!</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="You’ve caught them all, now your cause is to train them." xml:space="preserve">
                 <source>You’ve caught them all, now your cause is to train them.</source>
                 <target state="translated">Du hast sie alle geschnappt. Jetzt geht’s ans Training.</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="You’ve got it" xml:space="preserve">
                 <source>You’ve got it</source>
                 <target state="translated">Geschnappt</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="a specific creature" xml:space="preserve">
                 <source>a specific creature</source>
@@ -4634,13 +4632,13 @@ Encounter Method</note>
             </trans-unit>
             <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
                 <source>after using Agile Style Psyshield Bash at least 20 times</source>
-                <target state="translated">nach der Verwendung von Agile Style Psyshield Bash mindestens 20 Mal</target>
+                <target state="translated">nachdem Agile Style Barrierenstoß mindestens 20 Mal verwendet wurde</target>
                 <note>Wydeer evolution Text</note>
             </trans-unit>
             <trans-unit id="all features + tip" xml:space="preserve">
                 <source>all features + tip</source>
                 <target state="translated">Alle Funktionen + Tipp</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" xml:space="preserve">
                 <source>at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation</source>
@@ -4665,17 +4663,17 @@ Encounter Method</note>
             <trans-unit id="for all features" xml:space="preserve">
                 <source>for all features</source>
                 <target state="translated">Für alle Funktionen</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="for these great features:" xml:space="preserve">
                 <source>for these great features:</source>
                 <target state="translated">Für diese großartigen Funktionen:</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="includes the original 151 Pokémon for free" xml:space="preserve">
                 <source>includes the original 151 Pokémon for free</source>
                 <target state="translated">Enthält die ursprünglichen 151 Pokémon kostenlos</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="it’s a really cool app that lets you play retro games on your phone" xml:space="preserve">
                 <source>it’s a really cool app that lets you play retro games on your phone</source>
@@ -4690,7 +4688,7 @@ Encounter Method</note>
             <trans-unit id="or" xml:space="preserve">
                 <source>or</source>
                 <target state="translated">oder</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="see each creature’s info across generations" xml:space="preserve">
                 <source>see each creature’s info across generations</source>
@@ -4705,7 +4703,7 @@ Encounter Method</note>
             <trans-unit id="to unlock all the great creatures and features" xml:space="preserve">
                 <source>to unlock all the great creatures and features</source>
                 <target state="translated">Um alle großartigen Kreaturen und Funktionen freizuschalten</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="using an unknown method" xml:space="preserve">
                 <source>using an unknown method</source>
@@ -4775,12 +4773,12 @@ Encounter Method</note>
             <trans-unit id="—" xml:space="preserve">
                 <source>—</source>
                 <target state="translated">—</target>
-                <note></note>
+                <note/>
             </trans-unit>
             <trans-unit id="•" xml:space="preserve">
                 <source>•</source>
                 <target state="translated">•</target>
-                <note></note>
+                <note/>
             </trans-unit>
         </body>
     </file>
