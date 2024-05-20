@@ -169,7 +169,7 @@
       </trans-unit>
       <trans-unit id=" if a specific creature is in the player’s party" xml:space="preserve">
         <source> if a specific creature is in the player’s party</source>
-        <target state="translated"> wenn eine bestimmte Kreatur in der Mannschaft des Spielenden ist</target>
+        <target state="translated"> wenn eine bestimmte Kreatur im Team des Spielenden ist</target>
         <note>unknown specific creature in party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if affection is at least " xml:space="preserve">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
         <source> is in the player’s party</source>
-        <target state="translated"> ist in der Mannschaft des Spielenden</target>
+        <target state="translated"> ist im Team des Spielenden</target>
         <note>creature in players party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" is incompatible with " xml:space="preserve">
@@ -264,12 +264,12 @@
       </trans-unit>
       <trans-unit id=" type creature is in the player’s party" xml:space="preserve">
         <source> type creature is in the player’s party</source>
-        <target state="translated"> Typ Kreatur ist in der Mannschaft des Spielenden</target>
+        <target state="translated"> Typ Kreatur ist im Team des Spielenden</target>
         <note>in player party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" type move" xml:space="preserve">
         <source> type move</source>
-        <target state="translated"> Typ Fähigkeit</target>
+        <target state="translated"> Typ Attacke</target>
         <note>evolution requirement move type</note>
       </trans-unit>
       <trans-unit id=" via a special event." xml:space="preserve">
@@ -415,7 +415,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
         <source>Adds grass to the target’s types.</source>
-        <target state="translated">Fügt den Zieltypen Gras hinzu.</target>
+        <target state="translated">Fügt den Typen des Ziels Gras hinzu.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
@@ -425,12 +425,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
         <source>After Entering the Hall of Fame</source>
-        <target state="translated">Nach dem Eintritt in die Hall of Fame</target>
+        <target state="translated">Nach dem Eintritt in die Ruhmeshalle</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Returning the Machine Part to the Power Plant." xml:space="preserve">
         <source>After Returning the Machine Part to the Power Plant.</source>
-        <target state="translated">Nach der Rückgabe des Maschinenteils an das Kraftwerk.</target>
+        <target state="translated">Nachdem du das Maschinenteil an das Kraftwerk zurückgegeben hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After curing Sailor Eldritch’s son’s nightmares." xml:space="preserve">
@@ -440,27 +440,27 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After defeating Jupiter." xml:space="preserve">
         <source>After defeating Jupiter.</source>
-        <target state="translated">Nach dem Sieg über Jupiter.</target>
+        <target state="translated">Nachdem du Jupiter besiegt hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Mars." xml:space="preserve">
         <source>After defeating Mars.</source>
-        <target state="translated">Nach dem Sieg über Mars.</target>
+        <target state="translated">Nachdem du Mars besiegt hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Red." xml:space="preserve">
         <source>After defeating Red.</source>
-        <target state="translated">Nach dem Sieg über Rot</target>
+        <target state="translated">Nachdem du Rot besiegt hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
         <source>After defeating Team Galactic at Iron Island.</source>
-        <target state="translated">Nach dem Sieg über Team Galactic auf Iron Island.</target>
+        <target state="translated">Nach dem Sieg über Team Galaktik auf der Eiseninsel.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After encountering Tornadus and Thunderus." xml:space="preserve">
         <source>After encountering Tornadus and Thunderus.</source>
-        <target state="translated">Nach der Begegnung mit Tornadus und Thunderus.</target>
+        <target state="translated">Nachdem du Boreos und Voltolos begegnet bist.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After entering the correct password." xml:space="preserve">
@@ -480,7 +480,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After receiving TM59 from Claire." xml:space="preserve">
         <source>After receiving TM59 from Claire.</source>
-        <target state="translated">Nachdem ich TM59 von Claire erhalten habe.</target>
+        <target state="translated">Nachdem du TM59 von Claire erhalten hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving a Kanto starter." xml:space="preserve">
@@ -490,37 +490,37 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After receiving the National Dex." xml:space="preserve">
         <source>After receiving the National Dex.</source>
-        <target state="translated">Nach Erhalt des Nationaldex.</target>
+        <target state="translated">Nach Erhalt des nationalen Pokédex.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving the Zephyr Badge." xml:space="preserve">
         <source>After receiving the Zephyr Badge.</source>
-        <target state="translated">Nach Erhalt des Zephyr-Abzeichens.</target>
+        <target state="translated">Nach Erhalt des Saphirordens.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
         <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-        <target state="translated">Nachdem Copycats Puppe an den Pokémon-Fanclub zurückgegeben wurde.</target>
+        <target state="translated">Nachdem du Imitators Puppe an den Pokémon-Fanclub zurückgegeben hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
         <source>After talking to Cynthias Grandmother.</source>
-        <target state="translated">Nach dem Gespräch mit Cynthias Großmutter.</target>
+        <target state="translated">Nachdem du mit Cythias Großmutter gesprochen hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Professor Oak in Eterna City." xml:space="preserve">
         <source>After talking to Professor Oak in Eterna City.</source>
-        <target state="translated">Nach dem Gespräch mit Professor Oak in Eterna City.</target>
+        <target state="translated">Nachdem du mit Professor Eich in Ewigau gesprochen hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to at least 32 people in the Underground." xml:space="preserve">
         <source>After talking to at least 32 people in the Underground.</source>
-        <target state="translated">Nachdem ich mit mindestens 32 Leuten in der U-Bahn gesprochen habe.</target>
+        <target state="translated">Nachdem du mit mindestens 32 Personen im Untergrund gesprochen hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" xml:space="preserve">
         <source>After visiting Lake Verity after defeating Team Galactic at Mt. Coronet</source>
-        <target state="translated">Nach dem Besuch des Lake Verity nach dem Sieg über Team Galactic am Mt. Coronet</target>
+        <target state="translated">Nachdem du den See der Wahrheit nach dem Sieg über Team Galaktik am Kraterberg besucht hast</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -555,7 +555,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Allows the trainer to switch out the user and pass effects along to its replacement." xml:space="preserve">
         <source>Allows the trainer to switch out the user and pass effects along to its replacement.</source>
-        <target state="translated">Ermöglicht Trainer:innen, den aktuelle Benutzer auszutauschen und Effekte an einen Ersatz weiterzugeben.</target>
+        <target state="translated">Ermöglicht Trainer:innen, den aktuelle Anwender auszutauschen und Effekte an einen Ersatz weiterzugeben.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Ally" xml:space="preserve">
@@ -600,7 +600,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="App Icons" xml:space="preserve">
         <source>App Icons</source>
-        <target state="translated">App-Icon</target>
+        <target state="translated">App-Icons</target>
         <note/>
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
@@ -680,12 +680,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." xml:space="preserve">
         <source>Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.</source>
-        <target state="translated">Blockiert Attacken und fügt angreifenden Pokémon 1/8 ihrer maximalen KP Schaden zu.</target>
+        <target state="translated">Blockiert Attacken und fügt dem angreifenden Pokémon 1/8 ihrer maximalen KP Schaden zu.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." xml:space="preserve">
         <source>Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme.</source>
-        <target state="translated">Blockiert Attacken und senkt den Angriff des angreifenden Pokémon um zwei Stufen. Wechselt von Durengard zur Schildform.</target>
+        <target state="translated">Blockiert Attacken und senkt den Angriff des angreifenden Pokémon um zwei Stufen. Wechselt Durengard zur Schildform.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blog" xml:space="preserve">
@@ -700,7 +700,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row." xml:space="preserve">
         <source>Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row.</source>
-        <target state="translated">Erhöht die Geschwindigkeit des Benutzenden und verringert deren Verteidigung um eine Stufe, nachdem zwei bis fünf Mal hintereinander Schaden zugefügt wurde.</target>
+        <target state="translated">Erhöht die Geschwindigkeit des Anwenders und verringert deren Verteidigung um eine Stufe, nachdem zwei bis fünf Mal hintereinander Schaden zugefügt wurde.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Brilliant Diamond" xml:space="preserve">
@@ -822,12 +822,12 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Causes a one-hit KO." xml:space="preserve">
         <source>Causes a one-hit KO.</source>
-        <target state="translated">Führt zu einem One-Hit-KO.</target>
+        <target state="translated">Führt zu einem direkten K.O.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Causes damage when opposing Pokémon switch in." xml:space="preserve">
         <source>Causes damage when opposing Pokémon switch in.</source>
-        <target state="translated">Schaden, wenn das gegnerische Pokémon wechselt</target>
+        <target state="translated">Fügt Schaden zu, wenn das gegnerische Pokémon wechselt</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes all normal moves to electric moves for the rest of the turn." xml:space="preserve">
@@ -847,7 +847,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Changes the target’s move’s type to electric if it hasn’t moved yet this turn." xml:space="preserve">
         <source>Changes the target’s move’s type to electric if it hasn’t moved yet this turn.</source>
-        <target state="translated">Ändert den Typ der Attacke des Ziels zu elektisch, wenn es sich in dieser Runde noch nicht bewegt hat.</target>
+        <target state="translated">Ändert den Typ der Attacke des Ziels zu elektrisch, wenn es sich in dieser Runde noch nicht bewegt hat.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the target’s type to Water." xml:space="preserve">
@@ -917,7 +917,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Cleanses the user of a burn, paralysis, or poison." xml:space="preserve">
         <source>Cleanses the user of a burn, paralysis, or poison.</source>
-        <target state="translated">Reinigt den Anwender von einer Verbrennung, Paralyse oder Vergiftung.</target>
+        <target state="translated">Heilt den Anwender von einer Verbrennung, Paralyse oder Vergiftung.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
@@ -957,12 +957,12 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Copies the target’s last used move." xml:space="preserve">
         <source>Copies the target’s last used move.</source>
-        <target state="translated">Kopiert die letzte Attacke des Ziels</target>
+        <target state="translated">Kopiert die letzte Attacke des Ziels.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Copies the user’s ability onto the target." xml:space="preserve">
         <source>Copies the user’s ability onto the target.</source>
-        <target state="translated">Kopiert die Fähigkeit des Benutzers auf das Ziel.</target>
+        <target state="translated">Kopiert die Fähigkeit des Anwenders auf das Ziel.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cost" xml:space="preserve">
@@ -982,7 +982,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Creatures with " xml:space="preserve">
         <source>Creatures with </source>
-        <target state="translated">Kreaturen mit</target>
+        <target state="translated">Kreaturen mit </target>
         <note>String preceding ability name</note>
       </trans-unit>
       <trans-unit id="Crystal" xml:space="preserve">
@@ -1002,7 +1002,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Cures the target of a major status ailment and heals the user for 50% of its max HP." xml:space="preserve">
         <source>Cures the target of a major status ailment and heals the user for 50% of its max HP.</source>
-        <target state="translated">Heilt das Ziel von einer schweren Statusveränderung und heilt den Anwendenden um bis zu 50 % ihrer maximalen KP.</target>
+        <target state="translated">Heilt das Ziel von einer schweren Statusveränderung und heilt den Anwender um bis zu 50 % max. KP.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cures the target of burns." xml:space="preserve">
@@ -1012,7 +1012,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Custom Delta Emulator Skin" xml:space="preserve">
         <source>Custom Delta Emulator Skin</source>
-        <target state="translated">Spezieller Delta-Emulator-Skin&lt;</target>
+        <target state="translated">Spezieller Delta-Emulator-Skin</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="Customer Support" xml:space="preserve">
@@ -1027,7 +1027,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Damages opponents, but heals allies for 50% of their max HP." xml:space="preserve">
         <source>Damages opponents, but heals allies for 50% of their max HP.</source>
-        <target state="translated">Fügt Gegnern Schaden zu, heilt Verbündete jedoch um 50 % ihrer maximalen KP.</target>
+        <target state="translated">Fügt Gegnern Schaden zu, heilt Verbündete jedoch um 50 % max. KP.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Damages the target for 75% of its remaining HP." xml:space="preserve">
@@ -1082,7 +1082,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports." xml:space="preserve">
         <source>Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports.</source>
-        <target state="translated">Delta ist eine App von Riley Testut, mit der du Retro-Konsolenspiele auf Ihrem iPhone spielen können. Ein Skin verändert das Aussehen der verschiedenen Konsolen, die Delta unterstützt.</target>
+        <target state="translated">Delta ist eine App von Riley Testut, mit der du Retro-Konsolenspiele auf deinem iPhone spielen kannst. Ein Skin verändert das Aussehen der verschiedenen Konsolen, die Delta unterstützt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Description" xml:space="preserve">
@@ -1107,7 +1107,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Disables moves and immunities that involve flying or levitating for five turns." xml:space="preserve">
         <source>Disables moves and immunities that involve flying or levitating for five turns.</source>
-        <target state="translated">Für funf Runden sind alle Attacken und Immunitäten deaktiviert, wenn diese Fliegen oder Schweben beinhalten.</target>
+        <target state="translated">Für funf Runden sind alle Attacken und Immunitäten deaktiviert, sollten diese Fliegen oder Schweben beinhalten.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Disables the target’s last used move for 1-8 turns." xml:space="preserve">
@@ -1117,7 +1117,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Discards the user’s stat changes and copies the target’s." xml:space="preserve">
         <source>Discards the user’s stat changes and copies the target’s.</source>
-        <target state="translated">Verwirft die Statusänderungen der Anwender:in und kopiert die des Ziels.</target>
+        <target state="translated">Verwirft die Statusänderungen dersAnwenders und kopiert die des Ziels.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Disclaimer" xml:space="preserve">
@@ -1132,7 +1132,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Ditto" xml:space="preserve">
         <source>Ditto</source>
-        <target state="translated">Dito</target>
+        <target state="translated">Ditto</target>
         <note>Creature Egg Group</note>
       </trans-unit>
       <trans-unit id="Diving on seaweed" xml:space="preserve">
@@ -1163,12 +1163,12 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Drains 75% of the damage inflicted to heal the user." xml:space="preserve">
         <source>Drains 75% of the damage inflicted to heal the user.</source>
-        <target state="translated">75 % des zugefügten Schadens werden genutzt, um die Anwender:in zu heilen.</target>
+        <target state="translated">75 % des zugefügten Schadens werden genutzt, um den Anwender zu heilen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Drains half the damage inflicted to heal the user." xml:space="preserve">
         <source>Drains half the damage inflicted to heal the user.</source>
-        <target state="translated">Die Hälfte des zugefügten Schadens werden genutzt, um die Anwender:in zu heilen.</target>
+        <target state="translated">Die Hälfte des zugefügten Schadens werden genutzt, um die Anwender zu heilen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Dual Type" xml:space="preserve">
@@ -1238,7 +1238,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Egg Group" xml:space="preserve">
         <source>Egg Group</source>
-        <target state="translated">Ei-Gruppen</target>
+        <target state="translated">Ei-Gruppe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Egg Groups" xml:space="preserve">
@@ -1248,7 +1248,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Egg Moves" xml:space="preserve">
         <source>Egg Moves</source>
-        <target state="translated">Ei Attacken</target>
+        <target state="translated">Ei-Attacken</target>
         <note>Creature Page Egg Moves Section Header</note>
       </trans-unit>
       <trans-unit id="Electric" xml:space="preserve">
@@ -1258,12 +1258,12 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Email Ben" xml:space="preserve">
         <source>Email Ben</source>
-        <target state="translated">Email Ben</target>
+        <target state="translated">Ben schreiben</target>
         <note/>
       </trans-unit>
       <trans-unit id="Email Support" xml:space="preserve">
         <source>Email Support</source>
-        <target state="translated">Email Support</target>
+        <target state="translated">Support schreiben</target>
         <note/>
       </trans-unit>
       <trans-unit id="Emerald" xml:space="preserve">
@@ -4662,7 +4662,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
         <source>after using Agile Style Psyshield Bash at least 20 times</source>
-        <target state="translated">nachdem Tempotechnik Barrierenstoß mindestens 20 Mal verwendet wurde</target>
+        <target state="translated">Nachdem du Tempotechnik Barrierenstoß mindestens 20 Mal angwendet hast</target>
         <note>Wydeer evolution Text</note>
       </trans-unit>
       <trans-unit id="all features + tip" xml:space="preserve">
@@ -4682,7 +4682,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
         <source>change up your homescreen with some fresh app icons for Ketchup</source>
-        <target state="translated">ein neuer Look für deinen Homescreen danke neuer App-Icons&lt;</target>
+        <target state="translated">ein neuer Look für deinen Homescreen danke neuer App-Icons</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="drill down by type, catch state and more" xml:space="preserve">
