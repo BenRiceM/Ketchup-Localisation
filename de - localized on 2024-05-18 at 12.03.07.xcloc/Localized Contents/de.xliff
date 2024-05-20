@@ -349,7 +349,7 @@
             </trans-unit>
             <trans-unit id="A Pokémon targeted by this move can use Mirror-Move to copy it." xml:space="preserve">
                 <source>A Pokémon targeted by this move can use Mirror-Move to copy it.</source>
-                <target state="translated">Ein Pokémon, auf das diese Fähigkeit abzielt, kann Mirror-Move verwenden, um es zu kopieren.</target>
+                <target state="translated">Ein Pokémon, auf das diese Attacke abzielt, kann Spiegeltrick anwenden, um es zu kopieren.</target>
                 <note/>
             </trans-unit>
             <trans-unit id="A single " xml:space="preserve">
@@ -364,7 +364,7 @@
             </trans-unit>
             <trans-unit id="Abilities" xml:space="preserve">
                 <source>Abilities</source>
-                <target state="translated">Fähigkeiten</target>
+                <target state="translated">Attacken</target>
                 <note>Navigation item for abilities
 The Creature Page Abilities Section Title</note>
             </trans-unit>
@@ -430,7 +430,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="After curing Sailor Eldritch’s son’s nightmares." xml:space="preserve">
                 <source>After curing Sailor Eldritch’s son’s nightmares.</source>
-                <target state="translated">Nachdem die Albträume von Sailor Eldritchs Sohn geheilt wurden.</target>
+                <target state="translated">Nachdem die Albträume von Segler Eldrich’s Sohn geheilt wurden.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After defeating Jupiter." xml:space="preserve">
@@ -445,7 +445,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="After defeating Red." xml:space="preserve">
                 <source>After defeating Red.</source>
-                <target state="translated">Nach dem Sieg über Red.</target>
+                <target state="translated">Nach dem Sieg über Rot.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
@@ -580,7 +580,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="Alt App Icons" xml:space="preserve">
                 <source>Alt App Icons</source>
-                <target state="translated">Alternative App-Symbole</target>
+                <target state="translated">Alternative App-Icons</target>
                 <note>Paywall Text</note>
             </trans-unit>
             <trans-unit id="Always scores a critical hit." xml:space="preserve">
@@ -675,12 +675,12 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." xml:space="preserve">
                 <source>Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.</source>
-                <target state="translated">Blockiert schädigende Angriffe und fügt angreifenden Pokémon 1/8 ihrer maximalen KP Schaden zu.</target>
+                <target state="translated">Blockiert Attacken und fügt angreifenden Pokémon 1/8 ihrer maximalen KP Schaden zu.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." xml:space="preserve">
                 <source>Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme.</source>
-                <target state="translated">Blockiert schädliche Angriffe und senkt den Angriff des angreifenden Pokémon bei Kontakt um zwei Stufen. Wechselt von Aegislash zur Schildform.</target>
+                <target state="translated">Blockiert Attacken und senkt den Angriff des angreifenden Pokémon um zwei Stufen. Wechselt von Durengard zur Schildform.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Blog" xml:space="preserve">
@@ -695,7 +695,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row." xml:space="preserve">
                 <source>Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row.</source>
-                <target state="translated">Erhöht die Geschwindigkeit des Benutzers und verringert seine Verteidigung um eine Stufe, nachdem zwei bis fünf Mal hintereinander Schaden zugefügt wurde.</target>
+                <target state="translated">Erhöht die Geschwindigkeit des Benutzenden und verringert deren Verteidigung um eine Stufe, nachdem zwei bis fünf Mal hintereinander Schaden zugefügt wurde.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Brilliant Diamond" xml:space="preserve">
@@ -705,7 +705,7 @@ The Creature Page Abilities Section Title</note>
             </trans-unit>
             <trans-unit id="Bug" xml:space="preserve">
                 <source>Bug</source>
-                <target state="translated">Fehler</target>
+                <target state="translated">Käfer</target>
                 <note>Creature Egg Group
 Pokémon Type Bug</note>
             </trans-unit>
@@ -736,22 +736,22 @@ Pokémon Type Bug</note>
             </trans-unit>
             <trans-unit id="Can only be used after all of the user’s other moves have been used." xml:space="preserve">
                 <source>Can only be used after all of the user’s other moves have been used.</source>
-                <target state="translated">Kann nur verwendet werden, nachdem alle anderen Fähigkeiten des Benutzenden verwendet wurden.</target>
+                <target state="translated">Kann nur verwendet werden, nachdem alle anderen Attacken des Anwenders verwendet wurden.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Can only be used after the user has eaten a berry." xml:space="preserve">
                 <source>Can only be used after the user has eaten a berry.</source>
-                <target state="translated">Kann nur verwendet werden, nachdem der Benutzende eine Beere gegessen hat.</target>
+                <target state="translated">Kann nur verwendet werden, nachdem der Anwender eine Beere gegessen hat.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Can only be used as the first move after the user enters battle." xml:space="preserve">
                 <source>Can only be used as the first move after the user enters battle.</source>
-                <target state="translated">Kann nur als erster Zug verwendet werden, nachdem der Benutzende in den Kampf eintritt.</target>
+                <target state="translated">Muss als erster Zug nach Kampfeintritt verwendet werden.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Can only be used as the first move after the user enters battle. Causes the target to flinch." xml:space="preserve">
                 <source>Can only be used as the first move after the user enters battle. Causes the target to flinch.</source>
-                <target state="translated">Kann nur als erste Zug verwendet werden, nachdem der Benutzende in den Kampf eintritt. Lässt das Ziel zusammenzucken.</target>
+                <target state="translated">Muss als erster Zug nach Kampfeintritt verwendet werden. Lässt das Ziel zusammenzucken.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Cancel" xml:space="preserve">
@@ -761,7 +761,7 @@ Pokémon Type Bug</note>
             </trans-unit>
             <trans-unit id="Cannot be disrupted by abilities." xml:space="preserve">
                 <source>Cannot be disrupted by abilities.</source>
-                <target state="translated">Kann nicht durch Fähigkeiten gestört werden.</target>
+                <target state="translated">Kann nicht durch Attacken gestört werden.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Cannot lower the target’s HP below 1." xml:space="preserve">
@@ -822,17 +822,17 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Causes damage when opposing Pokémon switch in." xml:space="preserve">
                 <source>Causes damage when opposing Pokémon switch in.</source>
-                <target state="translated">Verursacht Schaden beim Einwechseln gegnerischer Pokémon.</target>
+                <target state="translated">Verursacht Schaden, wenn das gegnerische Pokémon wechselt.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Changes all normal moves to electric moves for the rest of the turn." xml:space="preserve">
                 <source>Changes all normal moves to electric moves for the rest of the turn.</source>
-                <target state="translated">Ändert für den Rest des Zuges alle normalen Fähigkeiten in elektrische Fähigkeiten.</target>
+                <target state="translated">Ändert für den Rest des Zuges alle normalen Attacken in elektrische Attacken.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Changes the target’s ability to Insomnia." xml:space="preserve">
                 <source>Changes the target’s ability to Insomnia.</source>
-                <target state="translated">Ändert die Fähigkeit des Ziels zu Schlaflosigkeit.</target>
+                <target state="translated">Ändert die Attacke des Ziels zu Munterkeit.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Changes the target’s ability to Simple." xml:space="preserve">
@@ -842,7 +842,7 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Changes the target’s move’s type to electric if it hasn’t moved yet this turn." xml:space="preserve">
                 <source>Changes the target’s move’s type to electric if it hasn’t moved yet this turn.</source>
-                <target state="translated">Ändert den Bewegungstyp des Ziels in „elektrisch“, wenn es sich in dieser Runde noch nicht bewegt hat.</target>
+                <target state="translated">Ändert den Typ der Attacke des Ziels zu elektisch, wenn es sich in dieser Runde noch nicht bewegt hat.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Changes the target’s type to Water." xml:space="preserve">
@@ -852,12 +852,12 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Changes the terrain to Psychic Terrain after inflicting damage." xml:space="preserve">
                 <source>Changes the terrain to Psychic Terrain after inflicting damage.</source>
-                <target state="translated">Ändert das Gelände nach dem Zufügen von Schaden in psychisches Gelände.</target>
+                <target state="translated">Ändert das Gelände nach dem Zufügen von Schaden in Psychofeld.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Changes the user’s type to a random type either resistant or immune to the last move used against it." xml:space="preserve">
                 <source>Changes the user’s type to a random type either resistant or immune to the last move used against it.</source>
-                <target state="translated">Ändert den Typ des Benutzers in einen zufälligen Typ, der entweder resistent oder immun gegen den letzten gegen ihn verwendeten Zug ist.</target>
+                <target state="translated">Ändert den Typ des Anwenders in einen zufälligen Typ, der entweder resistent oder immun gegen die letzte Attacke ist.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Changes the weather to Shadow Sky for five turns." xml:space="preserve">
@@ -912,22 +912,22 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Cleanses the user of a burn, paralysis, or poison." xml:space="preserve">
                 <source>Cleanses the user of a burn, paralysis, or poison.</source>
-                <target state="translated">Reinigt den Benutzer von einer Verbrennung, Lähmung oder Vergiftung.</target>
+                <target state="translated">Reinigt den Anwender von einer Verbrennung, Paralyse oder Vergiftung.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Clear" xml:space="preserve">
                 <source>Clear</source>
-                <target state="translated">Löschen</target>
+                <target state="translated">Zurücksetzen</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Clear Filters" xml:space="preserve">
                 <source>Clear Filters</source>
-                <target state="translated">Filter löschen</target>
+                <target state="translated">Filter zurücksetzen</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Colosseum" xml:space="preserve">
                 <source>Colosseum</source>
-                <target state="translated">Kolosseum</target>
+                <target state="translated">Colosseum</target>
                 <note>Pokémon Colosseum</note>
             </trans-unit>
             <trans-unit id="Confuses the target." xml:space="preserve">
@@ -937,7 +937,7 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Congratulations Pokémon Master!" xml:space="preserve">
                 <source>Congratulations Pokémon Master!</source>
-                <target state="translated">Herzlichen Glückwunsch Pokémon-Meister!</target>
+                <target state="translated">Herzlichen Glückwunsch Pokémon-Meister:in!</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Contact" xml:space="preserve">
@@ -947,17 +947,17 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Copies the target’s ability." xml:space="preserve">
                 <source>Copies the target’s ability.</source>
-                <target state="translated">Kopiert die Fähigkeit des Ziels.</target>
+                <target state="translated">Kopiert die Attacke des Ziels.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Copies the target’s last used move." xml:space="preserve">
                 <source>Copies the target’s last used move.</source>
-                <target state="translated">Kopiert die zuletzt verwendete Bewegung des Ziels.</target>
+                <target state="translated">Kopiert die letzte Attacke des Ziels.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Copies the user’s ability onto the target." xml:space="preserve">
                 <source>Copies the user’s ability onto the target.</source>
-                <target state="translated">Kopiert die Fähigkeit des Benutzers auf das Ziel.</target>
+                <target state="translated">Kopiert die Attacke des Anwenders auf das Ziel.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Cost" xml:space="preserve">
@@ -987,17 +987,17 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Cures the entire party of major status effects after inflicting damage." xml:space="preserve">
                 <source>Cures the entire party of major status effects after inflicting damage.</source>
-                <target state="translated">Heilt die gesamte Gruppe von schwerwiegenden Statuseffekten nach der Schadenszufügung.</target>
+                <target state="translated">Fügt Schaden zu und heilt danach das gesamte Team von schwerwiegenden Statuseffekten.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Cures the entire party of major status effects." xml:space="preserve">
                 <source>Cures the entire party of major status effects.</source>
-                <target state="translated">Heilt die gesamte Gruppe von schwerwiegenden Statuseffekten.</target>
+                <target state="translated">Heilt das gesamte Team von schwerwiegenden Statuseffekten.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Cures the target of a major status ailment and heals the user for 50% of its max HP." xml:space="preserve">
                 <source>Cures the target of a major status ailment and heals the user for 50% of its max HP.</source>
-                <target state="translated">Heilt das Ziel von einer schweren Statuserkrankung und heilt den Benutzer um 50 % seiner maximalen HP.</target>
+                <target state="translated">Heilt das Ziel von einer schweren Statusveränderung und heilt den Anwendenden um bis zu 50 % ihrer maximalen KP.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Cures the target of burns." xml:space="preserve">
@@ -1007,22 +1007,22 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Custom Delta Emulator Skin" xml:space="preserve">
                 <source>Custom Delta Emulator Skin</source>
-                <target state="translated">Benutzerdefinierter Delta-Emulator-Skin</target>
+                <target state="translated">Spezieller Delta-Emulator-Skin</target>
                 <note>Paywall Text</note>
             </trans-unit>
             <trans-unit id="Customer Support" xml:space="preserve">
                 <source>Customer Support</source>
-                <target state="translated">Kundenbetreuung</target>
+                <target state="translated">Kundensupport</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Damages opponents, but heals allies for 50% of their max HP." xml:space="preserve">
                 <source>Damages opponents, but heals allies for 50% of their max HP.</source>
-                <target state="translated">Fügt Gegnern Schaden zu, heilt Verbündete jedoch um 50 % ihrer maximalen HP.</target>
+                <target state="translated">Fügt Gegnern Schaden zu, heilt Verbündete jedoch um 50 % ihrer maximalen KP.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Damages the target for 75% of its remaining HP." xml:space="preserve">
                 <source>Damages the target for 75% of its remaining HP.</source>
-                <target state="translated">Fügt dem Ziel 75 % seiner verbleibenden HP zu.</target>
+                <target state="translated">Fügt dem Ziel 75 % seiner verbleibenden KP als Schaden zu.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Dance" xml:space="preserve">
@@ -1072,7 +1072,7 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports." xml:space="preserve">
                 <source>Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports.</source>
-                <target state="translated">Delta ist eine App von Riley Testut, mit der Sie Retro-Konsolenspiele auf Ihrem iPhone spielen können. Ein Skin ist wie ein Thema für die verschiedenen Konsolen, die Delta unterstützt.</target>
+                <target state="translated">Delta ist eine App von Riley Testut, mit der du Retro-Konsolenspiele auf Ihrem iPhone spielen können. Ein Skin verändert das Aussehen der verschiedenen Konsolen, die Delta unterstützt.</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Description" xml:space="preserve">
@@ -1082,12 +1082,12 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Destroys Reflect and Light Screen." xml:space="preserve">
                 <source>Destroys Reflect and Light Screen.</source>
-                <target state="translated">Zerstört Reflektor und Lichtschirm.</target>
+                <target state="translated">Zerstört Reflektor und Lichtschild.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Destroys the target’s held berry." xml:space="preserve">
                 <source>Destroys the target’s held berry.</source>
-                <target state="translated">Zerstört die gehaltene Beere des Ziels.</target>
+                <target state="translated">Zerstört Beeren, die vom Ziels gehalten werden.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Diamond" xml:space="preserve">
@@ -1097,17 +1097,17 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Disables moves and immunities that involve flying or levitating for five turns." xml:space="preserve">
                 <source>Disables moves and immunities that involve flying or levitating for five turns.</source>
-                <target state="translated">Deaktiviert Bewegungen und Immunitäten, die Fliegen oder Schweben beinhalten, für fünf Runden.</target>
+                <target state="translated">Für funf Runden sind alle Attacken und Immunitäten deaktiviert, wenn diese Fliegen oder Schweben beinhalten.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Disables the target’s last used move for 1-8 turns." xml:space="preserve">
                 <source>Disables the target’s last used move for 1-8 turns.</source>
-                <target state="translated">Deaktiviert die zuletzt verwendete Bewegung des Ziels für 1–8 Runden.</target>
+                <target state="translated">Deaktiviert die zuletzt verwendete Attacke des Ziels für 1–8 Runden.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Discards the user’s stat changes and copies the target’s." xml:space="preserve">
                 <source>Discards the user’s stat changes and copies the target’s.</source>
-                <target state="translated">Verwirft die Statusänderungen des Benutzers und kopiert die des Ziels.</target>
+                <target state="translated">Verwirft die Statusänderungen der Anwender:in und kopiert die des Ziels.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Disclaimer" xml:space="preserve">
@@ -1127,7 +1127,7 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Diving on seaweed" xml:space="preserve">
                 <source>Diving on seaweed</source>
-                <target state="translated">Tauchen auf Seegras</target>
+                <target state="translated">Tauchen in Seegras</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="Does nothing." xml:space="preserve">
@@ -1142,7 +1142,7 @@ The caught state for a creature</note>
             </trans-unit>
             <trans-unit id="Drag to change types" xml:space="preserve">
                 <source>Drag to change types</source>
-                <target state="translated">Ziehen, um Typen zu ändern</target>
+                <target state="translated">Ziehe, um Typ zu ändern</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Dragon" xml:space="preserve">
@@ -1153,12 +1153,12 @@ Pokémon Type Dragon</note>
             </trans-unit>
             <trans-unit id="Drains 75% of the damage inflicted to heal the user." xml:space="preserve">
                 <source>Drains 75% of the damage inflicted to heal the user.</source>
-                <target state="translated">Um den Benutzer zu heilen, werden 75 % des zugefügten Schadens abgeleitet.</target>
+                <target state="translated">75 % des zugefügten Schadens werden genutzt, um die Anwender:in zu heilen.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Drains half the damage inflicted to heal the user." xml:space="preserve">
                 <source>Drains half the damage inflicted to heal the user.</source>
-                <target state="translated">Um den Benutzer zu heilen, wird die Hälfte des zugefügten Schadens abgeleitet.</target>
+                <target state="translated">Die Hälfte des zugefügten Schadens werden genutzt, um die Anwender:in zu heilen.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Dual Type" xml:space="preserve">
@@ -1168,27 +1168,27 @@ Pokémon Type Dragon</note>
             </trans-unit>
             <trans-unit id="During Daytime." xml:space="preserve">
                 <source>During Daytime.</source>
-                <target state="translated">Während der Tageszeit.</target>
+                <target state="translated">Tagsüber.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="During Morning." xml:space="preserve">
                 <source>During Morning.</source>
-                <target state="translated">Während des Morgens.</target>
+                <target state="translated">Morgens.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="During Night." xml:space="preserve">
                 <source>During Night.</source>
-                <target state="translated">Während der Nacht.</target>
+                <target state="translated">Nachts.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="During SOS battle while fishing at a bubbling spot" xml:space="preserve">
                 <source>During SOS battle while fishing at a bubbling spot</source>
-                <target state="translated">Während des SOS-Kampfes beim Angeln an einer brodelnden Stelle</target>
+                <target state="translated">Während eines Quereinsteiger-Kampfes beim Angeln an einer brodelnden Stelle</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="During SOS battles" xml:space="preserve">
                 <source>During SOS battles</source>
-                <target state="translated">Während SOS-Kämpfen</target>
+                <target state="translated">Während Quereinsteiger-Kämpfen</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="During a Mass outbreak." xml:space="preserve">
@@ -1203,17 +1203,17 @@ Pokémon Type Dragon</note>
             </trans-unit>
             <trans-unit id="During spring." xml:space="preserve">
                 <source>During spring.</source>
-                <target state="translated">Während des Frühlings.</target>
+                <target state="translated">Im Frühling.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="During summer." xml:space="preserve">
                 <source>During summer.</source>
-                <target state="translated">Während des Sommers.</target>
+                <target state="translated">Im Sommer.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="During winter." xml:space="preserve">
                 <source>During winter.</source>
-                <target state="translated">Während des Winters.</target>
+                <target state="translated">Im Winter.</target>
                 <note>Encounter Condition</note>
             </trans-unit>
             <trans-unit id="Effect" xml:space="preserve">
@@ -1233,12 +1233,12 @@ Pokémon Type Dragon</note>
             </trans-unit>
             <trans-unit id="Egg Groups" xml:space="preserve">
                 <source>Egg Groups</source>
-                <target state="translated">Eiergruppen</target>
+                <target state="translated">Ei-Gruppen</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Egg Moves" xml:space="preserve">
                 <source>Egg Moves</source>
-                <target state="translated">Ei Angriffe</target>
+                <target state="translated">Ei Attacken</target>
                 <note>Creature Page Egg Moves Section Header</note>
             </trans-unit>
             <trans-unit id="Electric" xml:space="preserve">
@@ -1263,12 +1263,12 @@ Pokémon Type Dragon</note>
             </trans-unit>
             <trans-unit id="Ends wild battles. Forces trainers to switch Pokémon." xml:space="preserve">
                 <source>Ends wild battles. Forces trainers to switch Pokémon.</source>
-                <target state="translated">Beendet wilde Kämpfe. Zwingt Trainer, das Pokémon zu wechseln.</target>
+                <target state="translated">Beendet wilde Kämpfe. Zwingt Trainer:innen, das Pokémon zu wechseln.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Ensures that the user’s next move will hit the target." xml:space="preserve">
                 <source>Ensures that the user’s next move will hit the target.</source>
-                <target state="translated">Stellt sicher, dass der nächste Zug des Benutzers das Ziel trifft.</target>
+                <target state="translated">Stellt sicher, dass die nächste Attacke der Anwender:in das Ziel trifft.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Entire Field" xml:space="preserve">
@@ -1283,12 +1283,12 @@ Pokémon Type Dragon</note>
             </trans-unit>
             <trans-unit id="Exchanges the user’s Speed with the target’s." xml:space="preserve">
                 <source>Exchanges the user’s Speed with the target’s.</source>
-                <target state="translated">Tauscht die Geschwindigkeit des Benutzers gegen die des Ziels aus.</target>
+                <target state="translated">Tauscht die Geschwindigkeit der Anwender:in gegen die des Ziels aus.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Explodes if the target uses fire move this turn, damaging it for 1/4 its max HP and preventing the move." xml:space="preserve">
                 <source>Explodes if the target uses fire move this turn, damaging it for 1/4 its max HP and preventing the move.</source>
-                <target state="translated">Explodiert, wenn das Ziel in dieser Runde eine Feuerbewegung ausführt, fügt ihm 1/4 seiner maximalen HP zu und verhindert die Bewegung.</target>
+                <target state="translated">Explodiert, wenn das Ziel in dieser Runde eine Feuer-Attacke ausführt, fügt 25 % der maximalen des Ziels KP als Schaden zu und verhindert die Attacke.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="Extras" xml:space="preserve">
@@ -1374,7 +1374,7 @@ Pokémon Type Fairy</note>
             </trans-unit>
             <trans-unit id="Fishing in a Feebas Tile" xml:space="preserve">
                 <source>Fishing in a Feebas Tile</source>
-                <target state="translated">Angeln in einer Feebas-Fliese</target>
+                <target state="translated">Angeln in einem Barschwa-Feld</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="Fishing in dark spots" xml:space="preserve">
@@ -1384,27 +1384,27 @@ Pokémon Type Fairy</note>
             </trans-unit>
             <trans-unit id="Fishing with a Good Rod" xml:space="preserve">
                 <source>Fishing with a Good Rod</source>
-                <target state="translated">Angeln mit einer guten Rute</target>
+                <target state="translated">Angeln mit einer Profiangel</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="Fishing with a Super Rod" xml:space="preserve">
                 <source>Fishing with a Super Rod</source>
-                <target state="translated">Angeln mit einer Superrute</target>
+                <target state="translated">Angeln mit einer Superangel</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="Fishing with an Old Rod" xml:space="preserve">
                 <source>Fishing with an Old Rod</source>
-                <target state="translated">Angeln mit einer alten Rute</target>
+                <target state="translated">Angeln mit einer Angel</target>
                 <note>Encounter Method</note>
             </trans-unit>
             <trans-unit id="Fling Effect" xml:space="preserve">
                 <source>Fling Effect</source>
-                <target state="translated">Fling-Effekt</target>
+                <target state="translated">Schleuder-Effekt</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Fling Power" xml:space="preserve">
                 <source>Fling Power</source>
-                <target state="translated">Fling-Power</target>
+                <target state="translated">Schleuder-Power</target>
                 <note/>
             </trans-unit>
             <trans-unit id="Fluctuating" xml:space="preserve">
@@ -1420,32 +1420,32 @@ Pokémon Type Flying</note>
             </trans-unit>
             <trans-unit id="For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power." xml:space="preserve">
                 <source>For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power.</source>
-                <target state="translated">Heilt fünf Runden lang alle Pokémon auf dem Boden pro Runde um 1/16 der maximalen KP und verstärkt ihre Pflanzenattacken auf das 1,5-fache ihrer Kraft.</target>
+                <target state="translated">Heilt fünf Runden lang alle Pokémon auf dem Boden um 1/16 der maximalen KP und verstärkt ihre Pflanzenattacken auf das 1,5-fache.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power." xml:space="preserve">
                 <source>For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power.</source>
-                <target state="translated">Verhindert fünf Runden lang, dass alle Pokémon auf dem Boden schlafen, und verstärkt ihre Elektro-Attacken auf das 1,5-fache ihrer Kraft.</target>
+                <target state="translated">Verhindert fünf Runden lang, dass alle Pokémon auf dem Boden schlafen, und verstärkt ihre Elektro-Attacken auf das 1,5-fache.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves." xml:space="preserve">
                 <source>For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves.</source>
-                <target state="translated">Schützt fünf Runden lang alle Pokémon auf dem Boden vor schweren Statusstörungen und Verwirrung und halbiert die Kraft eingehender Drachenangriffe.</target>
+                <target state="translated">Schützt fünf Runden lang alle Pokémon auf dem Boden vor schweren Statusveränderung und Konfusion und halbiert die Kraft eingehender Drachenangriffe.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="For five turns, slower Pokémon will act before faster Pokémon." xml:space="preserve">
                 <source>For five turns, slower Pokémon will act before faster Pokémon.</source>
-                <target state="translated">Fünf Runden lang werden langsamere Pokémon vor schnelleren Pokémon agieren.</target>
+                <target state="translated">Fünf Runden lang agieren langsame Pokémon vor schnelleren Pokémon.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="For the next few turns, the target can only use damaging moves." xml:space="preserve">
                 <source>For the next few turns, the target can only use damaging moves.</source>
-                <target state="translated">In den nächsten Runden kann das Ziel nur schädigende Bewegungen ausführen.</target>
+                <target state="translated">In den nächsten Runden kann das Ziel nur schädigende Attacken ausführen.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="For three turns, friendly Pokémon have doubled Speed." xml:space="preserve">
                 <source>For three turns, friendly Pokémon have doubled Speed.</source>
-                <target state="translated">Drei Runden lang haben befreundete Pokémon die doppelte Geschwindigkeit.</target>
+                <target state="translated">Drei Runden lang haben verbündete Pokémon die doppelte Geschwindigkeit.</target>
                 <note>Move Effect Description</note>
             </trans-unit>
             <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
@@ -4632,7 +4632,7 @@ Encounter Method</note>
             </trans-unit>
             <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
                 <source>after using Agile Style Psyshield Bash at least 20 times</source>
-                <target state="translated">nachdem Agile Style Barrierenstoß mindestens 20 Mal verwendet wurde</target>
+                <target state="translated">nachdem Tempotechnik Barrierenstoß mindestens 20 Mal verwendet wurde</target>
                 <note>Wydeer evolution Text</note>
             </trans-unit>
             <trans-unit id="all features + tip" xml:space="preserve">
@@ -4642,22 +4642,22 @@ Encounter Method</note>
             </trans-unit>
             <trans-unit id="at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" xml:space="preserve">
                 <source>at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation</source>
-                <target state="translated">auf Stufe 25 nur, wenn sie in einer Schlacht aufsteigen. Wenn es nicht im Kampf erscheint, wird es keine Evolutionsanimation geben</target>
+                <target state="translated">bei Level 25, wenn der Aufstieg während eines Kampfes erfolgt, ansonsten gibt es keine Evolutionsanimation</target>
                 <note>Maushold evolution text</note>
             </trans-unit>
             <trans-unit id="at level 38 when leveled up while connected with another player via the Union Circle" xml:space="preserve">
                 <source>at level 38 when leveled up while connected with another player via the Union Circle</source>
-                <target state="translated">auf Stufe 38, wenn Sie aufsteigen, während Sie über den Union Circle mit einem anderen Spieler verbunden sind</target>
+                <target state="translated">bei Level 38, wenn der Aufstieg wärend einer Union Circle-Sitzung erfolgt</target>
                 <note>Palafin evolution text</note>
             </trans-unit>
             <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
                 <source>change up your homescreen with some fresh app icons for Ketchup</source>
-                <target state="translated">Ändern Sie Ihren Homescreen mit einigen neuen App-Symbolen für Ketchup</target>
+                <target state="translated">ein neuer Look für deinen Homescreen danke neuer App-Icons</target>
                 <note>Paywall Text</note>
             </trans-unit>
             <trans-unit id="drill down by type, catch state and more" xml:space="preserve">
                 <source>drill down by type, catch state and more</source>
-                <target state="translated">Drilldown nach Typ, Fangstatus und mehr</target>
+                <target state="translated">Filter nach Typ, Fangstatus und mehr</target>
                 <note>Paywall Text</note>
             </trans-unit>
             <trans-unit id="for all features" xml:space="preserve">
