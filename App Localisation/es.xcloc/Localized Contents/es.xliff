@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Ketchup</source>
-        <target state="translated">Salsa de tomate</target>
+        <target state="translated">Ketchup</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id=" at " xml:space="preserve">
         <source> at </source>
-        <target state="translated"> att </target>
+        <target state="translated"> en </target>
         <note>at location evolution requirement text</note>
       </trans-unit>
       <trans-unit id=" at a specific location" xml:space="preserve">
@@ -54,7 +54,7 @@
       </trans-unit>
       <trans-unit id=" can be acquired through breeding in " xml:space="preserve">
         <source> can be acquired through breeding in </source>
-        <target state="translated"> se puede adquirir a través de la reproducción en </target>
+        <target state="translated"> se puede adquirir a través de la crianza en </target>
         <note>Catch Info via breeding</note>
       </trans-unit>
       <trans-unit id=" can be acquired through evolution in " xml:space="preserve">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id=" can be acquired via trade evolution in " xml:space="preserve">
         <source> can be acquired via trade evolution in </source>
-        <target state="translated"> se puede adquirir a través de la evolución del comercio en </target>
+        <target state="translated"> se puede adquirir a través de la evolución por intercambio en </target>
         <note>Catch Info via trade evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired with a second cartridge inserted into the system in " xml:space="preserve">
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id=" during dusk" xml:space="preserve">
         <source> during dusk</source>
-        <target state="translated"> durante el anocer </target>
+        <target state="translated"> durante el anochecer </target>
         <note>dusk evolution requirement</note>
       </trans-unit>
       <trans-unit id=" during night time" xml:space="preserve">
@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id=" evolves into " xml:space="preserve">
         <source> evolves into </source>
-        <target state="translated"> se convierte en </target>
+        <target state="translated"> evoluciona a </target>
         <note>text between before and after evolution creatures</note>
       </trans-unit>
       <trans-unit id=" if " xml:space="preserve">
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id=" if female" xml:space="preserve">
         <source> if female</source>
-        <target state="translated"> si es mujer </target>
+        <target state="translated"> si es hembra </target>
         <note>if female evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if genderless" xml:space="preserve">
@@ -229,22 +229,22 @@
       </trans-unit>
       <trans-unit id=" if male" xml:space="preserve">
         <source> if male</source>
-        <target state="translated"> si conoces un movimiento específico </target>
+        <target state="translated"> si es macho </target>
         <note>if male evolution requirement   </note>
       </trans-unit>
       <trans-unit id=" in " xml:space="preserve">
         <source> in </source>
-        <target state="translated"> indio </target>
+        <target state="translated"> en </target>
         <note/>
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
         <source> in the DS’s second slot.</source>
-        <target state="translated"> en la segunda ranura del DS.</target>
+        <target state="translated"> en la segunda ranura de la DS.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
         <source> is in the player’s party</source>
-        <target state="translated"> está en la fiesta del jugador</target>
+        <target state="translated"> está en el grupo del jugador</target>
         <note>creature in players party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" is incompatible with " xml:space="preserve">
@@ -304,37 +304,37 @@
       </trans-unit>
       <trans-unit id=" with a save file from Sword or Shield on the same device." xml:space="preserve">
         <source> with a save file from Sword or Shield on the same device.</source>
-        <target state="translated"> con un archivo guardado de Sword o Shield en el mismo dispositivo.</target>
+        <target state="translated"> con un archivo guardado de Espada o Escudo en el mismo dispositivo.</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with either the Isle of Armor or Crown Tundra expansions." xml:space="preserve">
         <source> with either the Isle of Armor or Crown Tundra expansions.</source>
-        <target state="translated"> con las expansiones de la Isla de la Armadura o de la Corona Tundra.</target>
+        <target state="translated"> con las expansiones de La Isla de la Armadura o de Las Nieves de la Corona.</target>
         <note>Catch Info via Isle of Aemor or Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Crown Tundra expansion." xml:space="preserve">
         <source> with the Crown Tundra expansion.</source>
-        <target state="translated"> con la expansión Crown Tundra.</target>
+        <target state="translated"> con la expansión Las Nieves de la Corona.</target>
         <note>Catch Info via Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Indigo Disk expansion." xml:space="preserve">
         <source> with the Indigo Disk expansion.</source>
-        <target state="translated"> con la expansión Indigo Disk.</target>
+        <target state="translated"> con la expansión El Disco Índigo.</target>
         <note>Catch Info in Indigo Disk</note>
       </trans-unit>
       <trans-unit id=" with the Isle of Armor expansion." xml:space="preserve">
         <source> with the Isle of Armor expansion.</source>
-        <target state="translated"> con la expansión de la Isla de la Armadura.</target>
+        <target state="translated"> con la expansión de La Isla de la Armadura.</target>
         <note>Catch Info via Isle of Armor</note>
       </trans-unit>
       <trans-unit id=" with the Teal Mask expansion." xml:space="preserve">
         <source> with the Teal Mask expansion.</source>
-        <target state="translated"> con la expansión Teal Mask.</target>
+        <target state="translated"> con la expansión El Tesoro Oculto del Área Cero.</target>
         <note>Catch Info in Teal Mask</note>
       </trans-unit>
       <trans-unit id=" with wither the Teal Mask or Indigo Disk expansions." xml:space="preserve">
         <source> with wither the Teal Mask or Indigo Disk expansions.</source>
-        <target state="translated"> con las expansiones Teal Mask o Indigo Disk.</target>
+        <target state="translated"> con las expansiones El Tesoro Oculto del Área Cero o El Disco Índigo.</target>
         <note>Catch Info in Teal Mask or Indigo Disk</note>
       </trans-unit>
       <trans-unit id="(they’re dials!)" xml:space="preserve">
@@ -349,7 +349,7 @@
       </trans-unit>
       <trans-unit id="A Pokémon targeted by this move can use Mirror-Move to copy it." xml:space="preserve">
         <source>A Pokémon targeted by this move can use Mirror-Move to copy it.</source>
-        <target state="translated">Un Pokémon al que se dirige este movimiento puede usar Mirror-Move para copiarlo.</target>
+        <target state="translated">Un Pokémon al que se dirige este movimiento puede usar Movimiento Espejo para copiarlo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A single " xml:space="preserve">
@@ -370,27 +370,27 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
-        <target state="translated">Sobre</target>
+        <target state="translated">Acerca de</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Ben" xml:space="preserve">
         <source>About Ben</source>
-        <target state="translated">Sobre Ben</target>
+        <target state="translated">Acerca de Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Ketchup" xml:space="preserve">
         <source>About Ketchup</source>
-        <target state="translated">Sobre Ketchup</target>
+        <target state="translated">Acerca de Ketchup</target>
         <note/>
       </trans-unit>
       <trans-unit id="Accuracy" xml:space="preserve">
         <source>Accuracy</source>
-        <target state="translated">Exactitud</target>
+        <target state="translated">Precisión</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add DS Skin" xml:space="preserve">
         <source>Add DS Skin</source>
-        <target state="translated">Añade la skin de DS</target>
+        <target state="translated">Añadir skin de DS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add GBA Skin" xml:space="preserve">
@@ -400,7 +400,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Add GBC Skin" xml:space="preserve">
         <source>Add GBC Skin</source>
-        <target state="translated">Añadir la skin de GBC</target>
+        <target state="translated">Añadir skin de GBC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
@@ -410,27 +410,27 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
         <source>Adds grass to the target’s types.</source>
-        <target state="translated">Añade hierba a los tipos del objetivo.</target>
+        <target state="translated">Añade planta a los tipos del objetivo.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
         <source>Afer defeating the Elite Four a second time.</source>
-        <target state="translated">Después de derrotar a Elite Four por segunda vez.</target>
+        <target state="translated">Después de derrotar al Alto Mando por segunda vez.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
         <source>After Entering the Hall of Fame</source>
-        <target state="translated">Después de ingresar al Salón de la Fama</target>
+        <target state="needs-review-translation">Después de ingresar al Salón de la Fama</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Returning the Machine Part to the Power Plant." xml:space="preserve">
         <source>After Returning the Machine Part to the Power Plant.</source>
-        <target state="translated">Después de devolver la pieza de la máquina a la central eléctrica.</target>
+        <target state="needs-review-translation">Después de devolver la pieza de la máquina a la central eléctrica.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After curing Sailor Eldritch’s son’s nightmares." xml:space="preserve">
         <source>After curing Sailor Eldritch’s son’s nightmares.</source>
-        <target state="translated">Después de curar las pesadillas del hijo de Sailor Eldritch.</target>
+        <target state="translated">Después de curar las pesadillas del hijo del Marinero Eldritch.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Jupiter." xml:space="preserve">
@@ -445,22 +445,22 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After defeating Red." xml:space="preserve">
         <source>After defeating Red.</source>
-        <target state="translated">Después de derrotar a Red.</target>
+        <target state="translated">Después de derrotar a Rojo.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
         <source>After defeating Team Galactic at Iron Island.</source>
-        <target state="translated">Después de derrotar al Equipo Galáctico en Iron Island.</target>
+        <target state="needs-review-translation">Después de derrotar al Equipo Galáctico en Iron Island.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After encountering Tornadus and Thunderus." xml:space="preserve">
         <source>After encountering Tornadus and Thunderus.</source>
-        <target state="translated">Después de encontrarse con Tornadus y Thunderus.</target>
+        <target state="needs-review-translation">Después de encontrarse con Tornadus y Thunderus.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After entering the correct password." xml:space="preserve">
         <source>After entering the correct password.</source>
-        <target state="translated">Después de ingresar la contraseña correcta.</target>
+        <target state="translated">Después de introducir la contraseña correcta.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After having awakened the beasts." xml:space="preserve">
@@ -470,32 +470,32 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn." xml:space="preserve">
         <source>After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn.</source>
-        <target state="translated">Después de infligir daño, hace que todos los movimientos de tipo Normal se conviertan en de tipo eléctrico durante el resto del turno.</target>
+        <target state="translated">Después de infligir daño, hace que todos los movimientos de tipo Normal se conviertan en tipo eléctrico durante el resto del turno.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="After receiving TM59 from Claire." xml:space="preserve">
         <source>After receiving TM59 from Claire.</source>
-        <target state="translated">Después de recibir TM59 de Claire.</target>
+        <target state="translated">Después de recibir la MT59 de Claire.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving a Kanto starter." xml:space="preserve">
         <source>After receiving a Kanto starter.</source>
-        <target state="translated">Después de recibir un titular de Kanto.</target>
+        <target state="translated">Después de recibir un inicial de Kanto.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving the National Dex." xml:space="preserve">
         <source>After receiving the National Dex.</source>
-        <target state="translated">Después de recibir el National Dex.</target>
+        <target state="translated">Después de recibir la Pokédex Nacional.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving the Zephyr Badge." xml:space="preserve">
         <source>After receiving the Zephyr Badge.</source>
-        <target state="translated">Después de recibir la Insignia Zephyr.</target>
+        <target state="needs-review-translation">Después de recibir la Insignia Zephyr.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
         <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-        <target state="translated">Después de devolver el muñeco de Copycat al Club de Fans de Pokémon.</target>
+        <target state="needs-review-translation">Después de devolver el muñeco de Copycat al Club de Fans de Pokémon.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
@@ -515,7 +515,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" xml:space="preserve">
         <source>After visiting Lake Verity after defeating Team Galactic at Mt. Coronet</source>
-        <target state="translated">Después de visitar Lake Verity después de derrotar al Team Galactic en Mt. Coronet</target>
+        <target state="needs-review-translation">Después de visitar Lake Verity después de derrotar al Team Galactic en Mt. Coronet</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -560,7 +560,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Ally’s next move inflicts half more damage." xml:space="preserve">
         <source>Ally’s next move inflicts half more damage.</source>
-        <target state="translated">El siguiente movimiento de Ally inflige la mitad más de daño.</target>
+        <target state="translated">El siguiente movimiento aliado inflige un 50% más de daño.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Alpha Sapphire" xml:space="preserve">
@@ -610,7 +610,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Arms" xml:space="preserve">
         <source>Arms</source>
-        <target state="translated">Brazo</target>
+        <target state="translated">Brazos</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Attack" xml:space="preserve">
@@ -650,12 +650,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Base Happiness" xml:space="preserve">
         <source>Base Happiness</source>
-        <target state="translated">Base de la felicidad</target>
+        <target state="translated">Felicidad base</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bite" xml:space="preserve">
         <source>Bite</source>
-        <target state="translated">Bocado</target>
+        <target state="translated">Mordisco</target>
         <note/>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
@@ -670,7 +670,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Blob" xml:space="preserve">
         <source>Blob</source>
-        <target state="translated">물방울</target>
+        <target state="needs-review-translation">Masa</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." xml:space="preserve">
@@ -680,7 +680,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." xml:space="preserve">
         <source>Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme.</source>
-        <target state="translated">Bloquea los ataques dañinos y reduce el ataque de Pokémon en dos etapas al contacto. Cambia Aegislash a Shield Forme.</target>
+        <target state="needs-review-translation">Bloquea los ataques dañinos y reduce el ataque de Pokémon en dos etapas al contacto. Cambia Aegislash a Shield Forme.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blog" xml:space="preserve">
@@ -1450,7 +1450,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
         <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
-        <target state="translated">Durante años he querido crear una aplicación de Pokédex, pero nunca pude encontrar el tiempo o el ángulo único para justificarla. A comienzos de 2024, decidí ir a por ello. Tuve una nueva idea para un campo de búsqueda combinado, una barra de pestañas y una vista de historial que sentí que realmente podría unir toda la aplicación y hacer que la navegación se sienta increíblemente rápida y fluida. Espero que la combinación de este nuevo sistema de navegación y toda la información dentro de la aplicación complace a los viejos y nuevos fans de los juegos de Pokémon, tanto como he disfrutado trabajando en él.</target>
+        <target state="translated">Durante años he querido crear una aplicación de Pokédex, pero nunca pude encontrar el tiempo o el ángulo único para justificarla. A comienzos de 2024, decidí ir a por ello. Tuve una nueva idea para un campo de búsqueda combinado, una barra de pestañas y una vista de historial que sentí que realmente podría unir toda la aplicación y hacer que la navegación se sienta increíblemente rápida y fluida. Espero que la combinación de este nuevo sistema de navegación y toda la información dentro de la aplicación complazca a viejos y nuevos fans de los juegos de Pokémon, tanto como he disfrutado trabajando en ella.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
@@ -2322,7 +2322,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years." xml:space="preserve">
         <source>I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years.</source>
-        <target state="translated">Soy un diseñador, desarrollador y fotógrafo de 30 años de Dublín, Irlanda. He estado enganchado a los juegos de Pokémon desde que llegué a jugar por primera vez a la versión amarilla en un Game Boy Color púrpura translúscente. Espero que Ketchup ayude a los entrenadores de Pokémon de todo el mundo a dominar estos juegos que me han traído tanta alegría a lo largo de los años.</target>
+        <target state="translated">Soy un diseñador, desarrollador y fotógrafo de 30 años de Dublín, Irlanda. He estado enganchado a los juegos de Pokémon desde que jugué por primera vez a la versión amarilla en una Game Boy Color púrpura translúcida. Espero que Ketchup ayude a los entrenadores de Pokémon de todo el mundo a dominar estos juegos que tanta alegría me han traído a lo largo de los años.</target>
         <note/>
       </trans-unit>
       <trans-unit id="I’m not eating the cat food, just so we’re clear" xml:space="preserve">
@@ -4633,7 +4633,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
         <source>after using Agile Style Psyshield Bash at least 20 times</source>
-        <target state="translated">Después de usar Agile Style Psyshield Bash al menos 20 veces</target>
+        <target state="needs-review-translation">Después de usar Agile Style Psyshield Bash al menos 20 veces</target>
         <note>Wydeer evolution Text</note>
       </trans-unit>
       <trans-unit id="all features + tip" xml:space="preserve">
@@ -4643,12 +4643,12 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" xml:space="preserve">
         <source>at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation</source>
-        <target state="translated">En el nivel 25 solo cuando se sube de nivel en una batalla. Si no aparece en la batalla, no habrá animación de evolución</target>
+        <target state="translated">En el nivel 25 solo cuando sube de nivel en una batalla. Si no aparece en la batalla, no habrá animación de evolución</target>
         <note>Maushold evolution text</note>
       </trans-unit>
       <trans-unit id="at level 38 when leveled up while connected with another player via the Union Circle" xml:space="preserve">
         <source>at level 38 when leveled up while connected with another player via the Union Circle</source>
-        <target state="translated">En el nivel 38 cuando se sube de nivel mientras se conecta con otro jugador a través del Union Circle</target>
+        <target state="needs-review-translation">En el nivel 38 cuando se sube de nivel mientras se conecta con otro jugador a través del Union Circle</target>
         <note>Palafin evolution text</note>
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
