@@ -44,12 +44,12 @@
       </trans-unit>
       <trans-unit id=" can be acquired as a gift in " xml:space="preserve">
         <source> can be acquired as a gift in </source>
-        <target state="translated"> se puede adquirir como regalo en</target>
+        <target state="translated"> se puede adquirir como regalo en </target>
         <note>Catch Info is gift</note>
       </trans-unit>
       <trans-unit id=" can be acquired in " xml:space="preserve">
         <source> can be acquired in </source>
-        <target state="translated"> se puede adquirir en</target>
+        <target state="translated"> se puede adquirir en </target>
         <note>Catch Info acquired in</note>
       </trans-unit>
       <trans-unit id=" can be acquired through breeding in " xml:space="preserve">
@@ -134,22 +134,22 @@
       </trans-unit>
       <trans-unit id=" during a full moon" xml:space="preserve">
         <source> during a full moon</source>
-        <target state="translated"> durante la luna llena </target>
+        <target state="translated"> durante la luna llena</target>
         <note>full moon evolution requirement</note>
       </trans-unit>
       <trans-unit id=" during daytime" xml:space="preserve">
         <source> during daytime</source>
-        <target state="translated"> durante el día </target>
+        <target state="translated"> durante el día</target>
         <note>daytime evolution requirement</note>
       </trans-unit>
       <trans-unit id=" during dusk" xml:space="preserve">
         <source> during dusk</source>
-        <target state="translated"> durante el anochecer </target>
+        <target state="translated"> durante el anochecer</target>
         <note>dusk evolution requirement</note>
       </trans-unit>
       <trans-unit id=" during night time" xml:space="preserve">
         <source> during night time</source>
-        <target state="translated"> por la noche </target>
+        <target state="translated"> por la noche</target>
         <note>night time evolution requirement</note>
       </trans-unit>
       <trans-unit id=" evolves into " xml:space="preserve">
@@ -169,7 +169,7 @@
       </trans-unit>
       <trans-unit id=" if a specific creature is in the player’s party" xml:space="preserve">
         <source> if a specific creature is in the player’s party</source>
-        <target state="translated"> si una criatura específica está en el grupo del jugador </target>
+        <target state="translated"> si una criatura específica está en el grupo del jugador</target>
         <note>unknown specific creature in party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if affection is at least " xml:space="preserve">
@@ -184,12 +184,12 @@
       </trans-unit>
       <trans-unit id=" if female" xml:space="preserve">
         <source> if female</source>
-        <target state="translated"> si es hembra </target>
+        <target state="translated"> si es hembra</target>
         <note>if female evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if genderless" xml:space="preserve">
         <source> if genderless</source>
-        <target state="translated"> si no tiene género </target>
+        <target state="translated"> si no tiene género</target>
         <note>genderless evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if happiness is at least " xml:space="preserve">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id=" if male" xml:space="preserve">
         <source> if male</source>
-        <target state="translated"> si es macho </target>
+        <target state="translated"> si es macho</target>
         <note>if male evolution requirement   </note>
       </trans-unit>
       <trans-unit id=" in " xml:space="preserve">
@@ -329,12 +329,12 @@
       </trans-unit>
       <trans-unit id=" with the Teal Mask expansion." xml:space="preserve">
         <source> with the Teal Mask expansion.</source>
-        <target state="translated"> con la expansión El Tesoro Oculto del Área Cero.</target>
+        <target state="translated"> con la expansión La Máscara Turquesa.</target>
         <note>Catch Info in Teal Mask</note>
       </trans-unit>
       <trans-unit id=" with wither the Teal Mask or Indigo Disk expansions." xml:space="preserve">
         <source> with wither the Teal Mask or Indigo Disk expansions.</source>
-        <target state="translated"> con las expansiones El Tesoro Oculto del Área Cero o El Disco Índigo.</target>
+        <target state="translated"> con las expansiones La Máscara Turquesa o El Disco Índigo.</target>
         <note>Catch Info in Teal Mask or Indigo Disk</note>
       </trans-unit>
       <trans-unit id="(they’re dials!)" xml:space="preserve">
@@ -420,12 +420,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
         <source>After Entering the Hall of Fame</source>
-        <target state="needs-review-translation">Después de ingresar al Salón de la Fama</target>
+        <target>Después de ingresar al Salón de la Fama</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Returning the Machine Part to the Power Plant." xml:space="preserve">
         <source>After Returning the Machine Part to the Power Plant.</source>
-        <target state="needs-review-translation">Después de devolver la pieza de la máquina a la central eléctrica.</target>
+        <target>Después de devolver la Maquinaria a la central eléctrica.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After curing Sailor Eldritch’s son’s nightmares." xml:space="preserve">
@@ -450,12 +450,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
         <source>After defeating Team Galactic at Iron Island.</source>
-        <target state="needs-review-translation">Después de derrotar al Equipo Galáctico en Iron Island.</target>
+        <target>Después de derrotar al Equipo Galaxia en Isla Hierro.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After encountering Tornadus and Thunderus." xml:space="preserve">
         <source>After encountering Tornadus and Thunderus.</source>
-        <target state="needs-review-translation">Después de encontrarse con Tornadus y Thunderus.</target>
+        <target>Después de encontrarse con Tornadus y Thunderus.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After entering the correct password." xml:space="preserve">
@@ -490,12 +490,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After receiving the Zephyr Badge." xml:space="preserve">
         <source>After receiving the Zephyr Badge.</source>
-        <target state="needs-review-translation">Después de recibir la Insignia Zephyr.</target>
+        <target>Después de recibir la Medalla Céfiro.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
         <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-        <target state="needs-review-translation">Después de devolver el muñeco de Copycat al Club de Fans de Pokémon.</target>
+        <target>Después de devolver el muñeco del Copión al Club de Fans de Pokémon.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
@@ -515,7 +515,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" xml:space="preserve">
         <source>After visiting Lake Verity after defeating Team Galactic at Mt. Coronet</source>
-        <target state="needs-review-translation">Después de visitar Lake Verity después de derrotar al Team Galactic en Mt. Coronet</target>
+        <target>Después de visitar Lago Veraz después de derrotar al Equipo Galaxia en Monte Corona</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -665,12 +665,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Black 2" xml:space="preserve">
         <source>Black 2</source>
-        <target state="translated">negro 2</target>
+        <target state="translated">Negro 2</target>
         <note>Pokémon Black 2</note>
       </trans-unit>
       <trans-unit id="Blob" xml:space="preserve">
         <source>Blob</source>
-        <target state="needs-review-translation">Masa</target>
+        <target>Gota</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." xml:space="preserve">
@@ -680,7 +680,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." xml:space="preserve">
         <source>Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme.</source>
-        <target state="needs-review-translation">Bloquea los ataques dañinos y reduce el ataque de Pokémon en dos etapas al contacto. Cambia Aegislash a Shield Forme.</target>
+        <target>Bloquea los ataques dañinos y reduce el ataque del Pokémon en dos etapas al contacto. Cambia Aegislash a Forma Escudo.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blog" xml:space="preserve">
@@ -796,12 +796,12 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Catch info is unavailble for " xml:space="preserve">
         <source>Catch info is unavailble for </source>
-        <target state="translated">La información de captura no está a la de</target>
+        <target state="translated">La información de captura no está a la de </target>
         <note/>
       </trans-unit>
       <trans-unit id="Catching" xml:space="preserve">
         <source>Catching</source>
-        <target state="translated">Contagio</target>
+        <target state="translated">Atrapar</target>
         <note>The Creature Page Catching Section Title</note>
       </trans-unit>
       <trans-unit id="Category" xml:space="preserve">
@@ -852,7 +852,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Changes the terrain to Psychic Terrain after inflicting damage." xml:space="preserve">
         <source>Changes the terrain to Psychic Terrain after inflicting damage.</source>
-        <target state="translated">Cambia el terreno a Terreno Psíquico después de infligir daño.</target>
+        <target state="translated">Cambia el terreno a Campo Psíquico después de infligir daño.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the user’s type to a random type either resistant or immune to the last move used against it." xml:space="preserve">
@@ -887,7 +887,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Charge" xml:space="preserve">
         <source>Charge</source>
-        <target state="translated">Importe</target>
+        <target state="translated">Carga</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check Type Defence" xml:space="preserve">
@@ -917,7 +917,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
-        <target state="translated">Libre de cargos</target>
+        <target state="translated">Limpiar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear Filters" xml:space="preserve">
@@ -977,7 +977,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Creatures with " xml:space="preserve">
         <source>Creatures with </source>
-        <target state="translated">Criaturas con</target>
+        <target state="translated">Criaturas con </target>
         <note>String preceding ability name</note>
       </trans-unit>
       <trans-unit id="Crystal" xml:space="preserve">
@@ -1032,7 +1032,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target state="translated">Oscuridad</target>
+        <target state="translated">Siniestro</target>
         <note>Pokémon Type Dark</note>
       </trans-unit>
       <trans-unit id="Deals both fighting and flying-type damage." xml:space="preserve">
@@ -1072,7 +1072,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports." xml:space="preserve">
         <source>Delta is an app made by Riley Testut which lets you play retro console games on your iPhone. A skin is like a theme for the different consoles that Delta supports.</source>
-        <target state="translated">Delta es una aplicación hecha por Riley Testut que te permite jugar juegos de consola retro en tu iPhone. Una piel es como un tema para las diferentes consolas que admite Delta.</target>
+        <target state="translated">Delta es una aplicación hecha por Riley Testut que te permite jugar juegos de consola retro en tu iPhone. Una skin es un tema para las diferentes consolas que admite Delta.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Description" xml:space="preserve">
@@ -1082,7 +1082,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Destroys Reflect and Light Screen." xml:space="preserve">
         <source>Destroys Reflect and Light Screen.</source>
-        <target state="translated">Destruye la pantalla Reflect y Light.</target>
+        <target state="translated">Destruye Reflejar y Pantalla Luz.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Destroys the target’s held berry." xml:space="preserve">
@@ -1092,7 +1092,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Diamond" xml:space="preserve">
         <source>Diamond</source>
-        <target state="translated">Rombo</target>
+        <target state="translated">Diamante</target>
         <note>Pokémon Diamond</note>
       </trans-unit>
       <trans-unit id="Disables moves and immunities that involve flying or levitating for five turns." xml:space="preserve">
@@ -1122,7 +1122,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Ditto" xml:space="preserve">
         <source>Ditto</source>
-        <target state="translated">Ídem</target>
+        <target state="translated">Ditto</target>
         <note>Creature Egg Group</note>
       </trans-unit>
       <trans-unit id="Diving on seaweed" xml:space="preserve">
@@ -1359,7 +1359,7 @@ Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Fire Red" xml:space="preserve">
         <source>Fire Red</source>
-        <target state="translated">Fuego rojo</target>
+        <target state="translated">Rojo Fuego</target>
         <note>Pokémon Fire Red</note>
       </trans-unit>
       <trans-unit id="Fish" xml:space="preserve">
@@ -1379,17 +1379,17 @@ Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Fishing in dark spots" xml:space="preserve">
         <source>Fishing in dark spots</source>
-        <target state="translated">Pescar en lugares oscuros</target>
+        <target state="translated">Pescando en lugares oscuros</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Fishing with a Good Rod" xml:space="preserve">
         <source>Fishing with a Good Rod</source>
-        <target state="translated">Pescar con buena caña</target>
+        <target state="translated">Pescando con buena caña</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Fishing with a Super Rod" xml:space="preserve">
         <source>Fishing with a Super Rod</source>
-        <target state="translated">Pescar con una súper caña</target>
+        <target state="translated">Pescando con una súper caña</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Fishing with an Old Rod" xml:space="preserve">
@@ -1414,7 +1414,7 @@ Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Flying" xml:space="preserve">
         <source>Flying</source>
-        <target state="translated">De vuelo</target>
+        <target state="translated">Volador</target>
         <note>Creature Egg Group
 Pokémon Type Flying</note>
       </trans-unit>
@@ -1485,12 +1485,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Frees the user from binding moves, removes Leech Seed, and blows away Spikes." xml:space="preserve">
         <source>Frees the user from binding moves, removes Leech Seed, and blows away Spikes.</source>
-        <target state="translated">Libera al usuario de los movimientos de encuadernación, elimina la semilla de sanguijuela y elimina los picos.</target>
+        <target state="translated">Libera al usuario de los movimientos que atrapan. Elimina Drenadoras y Púas.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" xml:space="preserve">
         <source>Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting</source>
-        <target state="translated">Galarian Yamask se convierte en Runerigus cuando el jugador viaja bajo el gran arco de roca en Dusty Bowl después de que Yamask recibe al menos 49 HP en daño de ataques sin desmayarse</target>
+        <target state="translated">Yamask de Galar se convierte en Runerigus cuando el jugador viaja bajo el gran arco de roca en Cuenca Polvorienta después de que Yamask recibe al menos 49 HP en daño de ataques sin desmayarse</target>
         <note>Galarian Yamask Evolution Text</note>
       </trans-unit>
       <trans-unit id="Games" xml:space="preserve">
@@ -1500,7 +1500,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Gender Rate" xml:space="preserve">
         <source>Gender Rate</source>
-        <target state="translated">Tasa de género</target>
+        <target state="translated">Tasa de Género</target>
         <note>Gender rate for Creature</note>
       </trans-unit>
       <trans-unit id="Generations" xml:space="preserve">
@@ -1535,7 +1535,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Gold" xml:space="preserve">
         <source>Gold</source>
-        <target state="translated">Dorado</target>
+        <target state="translated">Oro</target>
         <note>Pokémon Gold</note>
       </trans-unit>
       <trans-unit id="Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it." xml:space="preserve">
@@ -1545,7 +1545,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Grass" xml:space="preserve">
         <source>Grass</source>
-        <target state="translated">Césped</target>
+        <target state="translated">Planta</target>
         <note>Pokémon Type Grass</note>
       </trans-unit>
       <trans-unit id="Gravity" xml:space="preserve">
@@ -1555,7 +1555,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Ground" xml:space="preserve">
         <source>Ground</source>
-        <target state="translated">Suelo</target>
+        <target state="translated">Tierra</target>
         <note>Creature Egg Group
 Pokémon Type Ground</note>
       </trans-unit>
@@ -1576,17 +1576,17 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Guess 1" xml:space="preserve">
         <source>Guess 1</source>
-        <target state="translated">Adivina 1</target>
+        <target state="translated">Intento 1</target>
         <note>The first guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Guess 2" xml:space="preserve">
         <source>Guess 2</source>
-        <target state="translated">Adivina 2</target>
+        <target state="translated">Intento 2</target>
         <note>The second guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Guess 3" xml:space="preserve">
         <source>Guess 3</source>
-        <target state="translated">Adivina 3</target>
+        <target state="translated">Intento 3</target>
         <note>The third guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Halves HP of all Pokémon on the field. Must recharge" xml:space="preserve">
@@ -1876,7 +1876,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Heart Gold" xml:space="preserve">
         <source>Heart Gold</source>
-        <target state="translated">Corazón de oro</target>
+        <target state="translated">Heart Gold</target>
         <note>Pokémon Heart Gold</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -1906,12 +1906,12 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="High" xml:space="preserve">
         <source>High</source>
-        <target state="translated">Instituto</target>
+        <target state="translated">Alto</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hisuian Qwilfish evolves into Overqwill after levelling up while knowing Barb Barrage" xml:space="preserve">
         <source>Hisuian Qwilfish evolves into Overqwill after levelling up while knowing Barb Barrage</source>
-        <target state="translated">Hisuian Qwilfish se convierte en Overqwill después de subir de nivel mientras conocía Barb Barrage</target>
+        <target state="translated">Qwilfish de Hisui se convierte en Overqwill después de subir de nivel mientras conocía Mil Púas Tóxicas</target>
         <note>Overqwill evolution text</note>
       </trans-unit>
       <trans-unit id="Hits 2-5 times in one turn." xml:space="preserve">
@@ -1921,7 +1921,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Hits 2–5 times." xml:space="preserve">
         <source>Hits 2–5 times.</source>
-        <target state="translated">Golpea 2-5 veces.</target>
+        <target state="translated">Golpea de 2 a 5 veces.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits any Pokémon that shares a type with the user." xml:space="preserve">
@@ -1951,7 +1951,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Hits through Protect and Detect." xml:space="preserve">
         <source>Hits through Protect and Detect.</source>
-        <target state="translated">Golpea a través de Proteger y Detectar.</target>
+        <target state="translated">Golpea a través de Protección y Detectar.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Hits twice in one turn, with a chance to make the target flinch." xml:space="preserve">
@@ -2052,42 +2052,42 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="If you chose Blue during the TV interview." xml:space="preserve">
         <source>If you chose Blue during the TV interview.</source>
-        <target state="translated">Si elegiste Blue durante la entrevista televisiva.</target>
+        <target state="translated">Si elegiste Azul durante la entrevista televisiva.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Bulbasaur as your starter." xml:space="preserve">
         <source>If you chose Bulbasaur as your starter.</source>
-        <target state="translated">Si elegiste a Bulbasaur como iniciador.</target>
+        <target state="translated">Si elegiste a Bulbasaur como inicial.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Charmander as your starter." xml:space="preserve">
         <source>If you chose Charmander as your starter.</source>
-        <target state="translated">Si elegiste a Charmander como titular.</target>
+        <target state="translated">Si elegiste a Charmander como inicial.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Chespin as your starter." xml:space="preserve">
         <source>If you chose Chespin as your starter.</source>
-        <target state="translated">Si eliges a Chespin como titular.</target>
+        <target state="translated">Si eliges a Chespin como inicial.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Fennekin as your starter." xml:space="preserve">
         <source>If you chose Fennekin as your starter.</source>
-        <target state="translated">Si eliges a Fennekin como titular.</target>
+        <target state="translated">Si eliges a Fennekin como inicial.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Froakie as your starter." xml:space="preserve">
         <source>If you chose Froakie as your starter.</source>
-        <target state="translated">Si elegiste a Froakie como titular.</target>
+        <target state="translated">Si elegiste a Froakie como inicial.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Red during the TV interview." xml:space="preserve">
         <source>If you chose Red during the TV interview.</source>
-        <target state="translated">Si elegiste Red durante la entrevista televisiva.</target>
+        <target state="translated">Si elegiste Rojo durante la entrevista televisiva.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Squirtle as your starter." xml:space="preserve">
         <source>If you chose Squirtle as your starter.</source>
-        <target state="translated">Si elegiste a Squirtle como iniciador.</target>
+        <target state="translated">Si elegiste a Squirtle como inicial.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you don’t have a default email app configured, you can email me directly at support@obscura.studio" xml:space="preserve">
@@ -2242,17 +2242,17 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Bounce and Fly users." xml:space="preserve">
         <source>Inflicts regular damage and can hit Bounce and Fly users.</source>
-        <target state="translated">Inflige daños regulares y puede golpear a los usuarios de Bounce and Fly.</target>
+        <target state="translated">Inflige daños regulares y puede golpear a los usuarios de Bote y Volar.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Dig users." xml:space="preserve">
         <source>Inflicts regular damage and can hit Dig users.</source>
-        <target state="translated">Inflige daños regulares y puede golpear a los usuarios de Dig.</target>
+        <target state="translated">Inflige daños regulares y puede golpear a los usuarios de Excavar.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Dive users." xml:space="preserve">
         <source>Inflicts regular damage and can hit Dive users.</source>
-        <target state="translated">Inflige un daño regular y puede golpear a los usuarios de buceo.</target>
+        <target state="translated">Inflige un daño regular y puede golpear a los usuarios de Buceo.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Inflicts regular damage and can hit Pokémon in the air." xml:space="preserve">
@@ -2302,7 +2302,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Items" xml:space="preserve">
         <source>Items</source>
-        <target state="translated">Artículos</target>
+        <target state="translated">Objetos</target>
         <note>Navigation item for items</note>
       </trans-unit>
       <trans-unit id="It’s extremely effective" xml:space="preserve">
@@ -2352,17 +2352,17 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" xml:space="preserve">
         <source>Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters</source>
-        <target state="translated">Kubfu se convierte en Rapid Strike Urshifu cuando se expone al Pergamino de Aguas</target>
+        <target state="translated">Kubfu se convierte en Urshifu fluido cuando se expone al Manuscrito aguas</target>
         <note>Kubfu Rapid evolution text</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness" xml:space="preserve">
         <source>Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness</source>
-        <target state="translated">Kubfu evoluciona en Single Strike Urshifu cuando se expone al Pergamino de la Oscuridad</target>
+        <target state="translated">Kubfu evoluciona en Urshifu brusco cuando se expone al Manuscrito sobras</target>
         <note>Kubfu Single evolution text</note>
       </trans-unit>
       <trans-unit id="Leaf Green" xml:space="preserve">
         <source>Leaf Green</source>
-        <target state="translated">Hoja verde</target>
+        <target state="translated">Verde Hoja</target>
         <note>Pokémon Leaf Green</note>
       </trans-unit>
       <trans-unit id="Learn more about Delta" xml:space="preserve">
@@ -2382,7 +2382,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Legacy Move" xml:space="preserve">
         <source>Legacy Move</source>
-        <target state="translated">Mudanza de legado</target>
+        <target state="translated">Movimiento legado</target>
         <note/>
       </trans-unit>
       <trans-unit id="Legends: Arceus" xml:space="preserve">
@@ -2392,22 +2392,22 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Legs" xml:space="preserve">
         <source>Legs</source>
-        <target state="translated">Pierna</target>
+        <target state="translated">Piernas</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Let’s Go!" xml:space="preserve">
         <source>Let’s Go!</source>
-        <target state="translated">¡Vamos!</target>
+        <target state="translated">Let’s Go!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let’s Go, Eevee!" xml:space="preserve">
         <source>Let’s Go, Eevee!</source>
-        <target state="translated">¡Vamos, Eevee!</target>
+        <target state="translated">Let’s Go, Eevee!</target>
         <note>Pokémon Let’s Go, Eevee!</note>
       </trans-unit>
       <trans-unit id="Let’s Go, Pikachu!" xml:space="preserve">
         <source>Let’s Go, Pikachu!</source>
-        <target state="translated">¡Vamos, Pikachu!</target>
+        <target state="translated">Let’s Go, Pikachu!</target>
         <note>Pokémon Let’s Go, Pikachu!</note>
       </trans-unit>
       <trans-unit id="List Filters" xml:space="preserve">
@@ -2422,7 +2422,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Low" xml:space="preserve">
         <source>Low</source>
-        <target state="translated">Mínimo</target>
+        <target state="translated">Bajo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lowers all targets’ Attack and Special Attack by one stage. Makes the user switch out." xml:space="preserve">
@@ -2622,7 +2622,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Missing Artwork" xml:space="preserve">
         <source>Missing Artwork</source>
-        <target state="translated">Obra de arte que falta</target>
+        <target state="translated">Ilustraciones que faltan</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monster" xml:space="preserve">
@@ -2652,7 +2652,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Never misses." xml:space="preserve">
         <source>Never misses.</source>
-        <target state="translated">Nunca se pierde.</target>
+        <target state="translated">Nunca falla.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Nice try" xml:space="preserve">
@@ -2728,12 +2728,12 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Not Favorite" xml:space="preserve">
         <source>Not Favorite</source>
-        <target state="translated">No es el favorito</target>
+        <target state="translated">No Favorito</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not Shiny" xml:space="preserve">
         <source>Not Shiny</source>
-        <target state="translated">No Brillante</target>
+        <target state="translated">No Shiny</target>
         <note>Filter Option for Not-Caught-Shiny Creatures</note>
       </trans-unit>
       <trans-unit id="Not very effective" xml:space="preserve">
@@ -2868,7 +2868,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
         <source>Pin</source>
-        <target state="translated">Alfiler</target>
+        <target state="translated">Fijar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pinned" xml:space="preserve">
@@ -2908,7 +2908,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Poisons the target and lowers its Speed by one stage." xml:space="preserve">
         <source>Poisons the target and lowers its Speed by one stage.</source>
-        <target state="translated">Envenena al objetivo y reduce su velocidad en una sola etapa.</target>
+        <target state="translated">Envenena al objetivo y reduce su velocidad en una etapa.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Poisons the target." xml:space="preserve">
@@ -3013,7 +3013,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Power is higher the more the user’s stats have been raised, to a maximum of 31×." xml:space="preserve">
         <source>Power is higher the more the user’s stats have been raised, to a maximum of 31×.</source>
-        <target state="translated">El poder es mayor cuanto más se han elevado las estadísticas del usuario, a un máximo de 31×.</target>
+        <target state="translated">El poder es mayor cuanto más se han elevado las estadísticas del usuario, hasta un máximo de 31×.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power is higher when the user has greater Speed than the target, up to a maximum of 150." xml:space="preserve">
@@ -3113,7 +3113,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Privacy" xml:space="preserve">
         <source>Privacy</source>
-        <target state="translated">Intimidad</target>
+        <target state="translated">Privacidad</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protect" xml:space="preserve">
@@ -3148,7 +3148,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Psychic" xml:space="preserve">
         <source>Psychic</source>
-        <target state="translated">Vidente</target>
+        <target state="translated">Psíquico</target>
         <note>Pokémon Type Psychic</note>
       </trans-unit>
       <trans-unit id="Pulse" xml:space="preserve">
@@ -3173,7 +3173,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Quiz" xml:space="preserve">
         <source>Quiz</source>
-        <target state="translated">Prueba</target>
+        <target state="translated">Quiz</target>
         <note/>
       </trans-unit>
       <trans-unit id="REDACTED" xml:space="preserve">
@@ -3498,7 +3498,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
         <source>Reset</source>
-        <target state="translated">Volver a poner</target>
+        <target state="translated">Restablecer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset Database" xml:space="preserve">
@@ -3553,7 +3553,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Scatters Spikes, hurting opposing Pokémon that switch in." xml:space="preserve">
         <source>Scatters Spikes, hurting opposing Pokémon that switch in.</source>
-        <target state="translated">Scatters Spikes, perjudicando a los Pokémon que cambian.</target>
+        <target state="translated">Lanza púas, perjudicando a los Pokémon que cambian.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Scatters money on the ground worth five times the user’s level." xml:space="preserve">
@@ -3623,7 +3623,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Shape" xml:space="preserve">
         <source>Shape</source>
-        <target state="translated">Contorno</target>
+        <target state="translated">Forma</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shedinja appears when Nincada evolves into Nijask at level 20 if the player also has a spare slot in their party and at least one Poké Ball in their bag" xml:space="preserve">
@@ -3633,23 +3633,23 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Shield" xml:space="preserve">
         <source>Shield</source>
-        <target state="translated">Protectoras</target>
+        <target state="translated">Escudo</target>
         <note>Pokémon Shield</note>
       </trans-unit>
       <trans-unit id="Shining Pearl" xml:space="preserve">
         <source>Shining Pearl</source>
-        <target state="translated">Perla brillante</target>
+        <target state="translated">Perla Reluciente</target>
         <note>Pokémon Shining Pearl</note>
       </trans-unit>
       <trans-unit id="Shiny" xml:space="preserve">
         <source>Shiny</source>
-        <target state="translated">Brillante</target>
+        <target state="translated">Shiny</target>
         <note>Filter Option for Caught-Shiny Creatures
 The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Shiny Pokemon are very rare, and are highly valued among collectors." xml:space="preserve">
         <source>Shiny Pokemon are very rare, and are highly valued among collectors.</source>
-        <target state="translated">Los Pokémon brillantes son muy raros y son muy valorados entre los coleccionistas.</target>
+        <target state="translated">Los Pokémon Shiny son muy raros y valorados entre los coleccionistas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Favorites" xml:space="preserve">
@@ -3694,12 +3694,12 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Snatch" xml:space="preserve">
         <source>Snatch</source>
-        <target state="translated">Arrancada</target>
+        <target state="translated">Robo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, better luck next time. It’s: " xml:space="preserve">
         <source>Sorry, better luck next time. It’s: </source>
-        <target state="translated">Lo siento, mejor suerte la próxima vez. Es:</target>
+        <target state="translated">Lo siento, más suerte la próxima vez. Es: </target>
         <note>Lose game text, shown before creature name</note>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
@@ -3709,7 +3709,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Soul Silver" xml:space="preserve">
         <source>Soul Silver</source>
-        <target state="translated">Alma de plata</target>
+        <target state="translated">Soul Silver</target>
         <note>Pokémon Soul Silver</note>
       </trans-unit>
       <trans-unit id="Sound" xml:space="preserve">
@@ -3769,7 +3769,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Stores energy up to three times for use with Spit Up and Swallow." xml:space="preserve">
         <source>Stores energy up to three times for use with Spit Up and Swallow.</source>
-        <target state="translated">Almacena energía hasta tres veces para usarla con Spit Up y Swallow.</target>
+        <target state="translated">Almacena energía hasta tres veces para usarla con Escupir y Tragar.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage." xml:space="preserve">
@@ -3779,17 +3779,17 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Submit" xml:space="preserve">
         <source>Submit</source>
-        <target state="translated">Presentar</target>
+        <target state="translated">Enviar</target>
         <note>Sumbit a guess for the quiz</note>
       </trans-unit>
       <trans-unit id="Sun" xml:space="preserve">
         <source>Sun</source>
-        <target state="translated">Do.</target>
+        <target state="translated">Sol</target>
         <note>Pokémon Sun</note>
       </trans-unit>
       <trans-unit id="Super-effective against water." xml:space="preserve">
         <source>Super-effective against water.</source>
-        <target state="translated">Súper efectivo contra el agua.</target>
+        <target state="translated">Súper efectivo contra agua.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -3804,7 +3804,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Surfing" xml:space="preserve">
         <source>Surfing</source>
-        <target state="translated">Surf</target>
+        <target state="translated">Surfeando</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Surfing in dark spots" xml:space="preserve">
@@ -3819,7 +3819,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="TM Moves" xml:space="preserve">
         <source>TM Moves</source>
-        <target state="translated">TM Se Mueve</target>
+        <target state="translated">Movimientos de MT</target>
         <note>Creature Page TM Moves Section Header</note>
       </trans-unit>
       <trans-unit id="Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages." xml:space="preserve">
@@ -3839,32 +3839,32 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
-        <target state="translated">Blanco</target>
+        <target state="translated">Objetivo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Target cannot use held items." xml:space="preserve">
         <source>Target cannot use held items.</source>
-        <target state="translated">Target no puede usar elementos retenidos.</target>
+        <target state="translated">El objetivo no puede equipar objetos.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target drops its held item." xml:space="preserve">
         <source>Target drops its held item.</source>
-        <target state="translated">Target deja caer su artículo retenido.</target>
+        <target state="translated">El objetivo deja caer su objeto equipado.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user." xml:space="preserve">
         <source>Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.</source>
-        <target state="translated">Target se enamora si tiene el sexo opuesto, y tiene un 50% de probabilidad de negarse a atacar al usuario.</target>
+        <target state="translated">El objetivo se enamora si tiene el sexo opuesto, y tiene un 50% de probabilidad de negarse a atacar al usuario.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target loses 1/4 its max HP every turn as long as it’s asleep." xml:space="preserve">
         <source>Target loses 1/4 its max HP every turn as long as it’s asleep.</source>
-        <target state="translated">Target pierde 1/4 de su HP máximo en cada turno mientras esté dormido.</target>
+        <target state="translated">El objetivo pierde 1/4 de su HP máximo en cada turno mientras esté dormido.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target sleeps at the end of the next turn." xml:space="preserve">
         <source>Target sleeps at the end of the next turn.</source>
-        <target state="translated">Target duerme al final de la siguiente vuelta.</target>
+        <target state="translated">El objetivo se duerme al final de la siguiente vuelta.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Tentacles" xml:space="preserve">
@@ -3879,27 +3879,27 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="That’s right, it’s: " xml:space="preserve">
         <source>That’s right, it’s: </source>
-        <target state="translated">Así es, es:</target>
+        <target state="translated">Así es, es: </target>
         <note>Win game text, shown before creature name</note>
       </trans-unit>
       <trans-unit id="The Crown Tundra" xml:space="preserve">
         <source>The Crown Tundra</source>
-        <target state="translated">La tundra de la corona</target>
+        <target state="translated">Las Nieves de la Corona</target>
         <note>The Crown Tundra Expansion</note>
       </trans-unit>
       <trans-unit id="The Indigo Disk" xml:space="preserve">
         <source>The Indigo Disk</source>
-        <target state="translated">El disco índigo</target>
+        <target state="translated">El Disco Índigo</target>
         <note>The Indigo Disk Expansion</note>
       </trans-unit>
       <trans-unit id="The Isle of Armor" xml:space="preserve">
         <source>The Isle of Armor</source>
-        <target state="translated">La isla de la armadura</target>
+        <target state="translated">La Isla de la Armadura</target>
         <note>The Isle of Armor Expansion</note>
       </trans-unit>
       <trans-unit id="The Teal Mask" xml:space="preserve">
         <source>The Teal Mask</source>
-        <target state="translated">La máscara verde azulado</target>
+        <target state="translated">La Máscara Turquesa</target>
         <note>The Teal Mask Expansion</note>
       </trans-unit>
       <trans-unit id="The turn after this move is used, the Pokémon’s action is skipped so it can recharge." xml:space="preserve">
@@ -3934,12 +3934,12 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="This move has 1.2× its usual power when used by a Pokémon with Iron-Fist." xml:space="preserve">
         <source>This move has 1.2× its usual power when used by a Pokémon with Iron-Fist.</source>
-        <target state="translated">Este movimiento tiene 1,2 veces su poder habitual cuando lo usa un Pokémon con Pudo de Hierro.</target>
+        <target state="translated">Este movimiento tiene 1,2 veces su poder habitual cuando lo usa un Pokémon con Puño Férreo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher." xml:space="preserve">
         <source>This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher.</source>
-        <target state="translated">Este movimiento tiene 1,5 veces su potencia habitual cuando es utilizado por un Pokémon con Mega-Launcher.</target>
+        <target state="translated">Este movimiento tiene 1,5 veces su potencia habitual cuando es utilizado por un Pokémon con Megadisparador.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move has 1.5× its usual power when used by a Pokémon with Strong-Jaw." xml:space="preserve">
@@ -3949,7 +3949,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="This move has a charging turn, and can be skipped with a Power Herb." xml:space="preserve">
         <source>This move has a charging turn, and can be skipped with a Power Herb.</source>
-        <target state="translated">Este movimiento tiene un turno de carga y se puede omitir con un Power Herb.</target>
+        <target state="translated">Este movimiento tiene un turno de carga y se puede omitir con un Hierba Única.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move ignores the target’s substitute." xml:space="preserve">
@@ -3959,42 +3959,42 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="This move is blocked by Aroma-Veil and cured by Mental-Herb." xml:space="preserve">
         <source>This move is blocked by Aroma-Veil and cured by Mental-Herb.</source>
-        <target state="translated">Este movimiento está bloqueado por Aroma-Veil y curado por Mental-Herb.</target>
+        <target state="translated">Este movimiento está bloqueado por Velo Aroma y curado por Hierba Mental.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move is blocked by Bulletproof." xml:space="preserve">
         <source>This move is blocked by Bulletproof.</source>
-        <target state="translated">Este movimiento está bloqueado por Bulletproof.</target>
+        <target state="translated">Este movimiento está bloqueado por Antibalas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move is blocked by Heal-Block." xml:space="preserve">
         <source>This move is blocked by Heal-Block.</source>
-        <target state="translated">Este movimiento está bloqueado por Heal-Block.</target>
+        <target state="translated">Este movimiento está bloqueado por Anticura.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move is no longer available as of Pokémon Sword and Shield." xml:space="preserve">
         <source>This move is no longer available as of Pokémon Sword and Shield.</source>
-        <target state="translated">Este movimiento ya no está disponible a partir de Pokémon Sword y Shield.</target>
+        <target state="translated">Este movimiento ya no está disponible a partir de Pokémon Espada y Escudo.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move is unusable during Sky Battles." xml:space="preserve">
         <source>This move is unusable during Sky Battles.</source>
-        <target state="translated">Este movimiento es inutilizable durante Sky Battles.</target>
+        <target state="translated">Este movimiento es inutilizable durante batallas voladoras.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move may be reflected back at the user with Magic-Coat or Magic-Bounce." xml:space="preserve">
         <source>This move may be reflected back at the user with Magic-Coat or Magic-Bounce.</source>
-        <target state="translated">Este movimiento puede reflejarse en el usuario con Magic-Coat o Magic-Bounce.</target>
+        <target state="translated">Este movimiento puede reflejarse en el usuario con Capa Mágica o Espejo Mágico.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move triggers Dancer." xml:space="preserve">
         <source>This move triggers Dancer.</source>
-        <target state="translated">Este movimiento desencadena a Dancer.</target>
+        <target state="translated">Este movimiento desencadena a Pareja de Baile.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move will be stolen if another Pokémon has used Snatch this turn." xml:space="preserve">
         <source>This move will be stolen if another Pokémon has used Snatch this turn.</source>
-        <target state="translated">Este movimiento será robado si otro Pokémon ha usado Snatch en este turno.</target>
+        <target state="translated">Este movimiento será robado si otro Pokémon ha usado Robo en este turno.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move will not work if the target has used Detect or Protect this turn." xml:space="preserve">
@@ -4009,7 +4009,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Throws held item at the target, its power depends on the item." xml:space="preserve">
         <source>Throws held item at the target, its power depends on the item.</source>
-        <target state="translated">Lanza el objeto retenido al objetivo, su poder depende del objeto.</target>
+        <target state="translated">Lanza el objeto equipado al objetivo, su poder depende del objeto.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Trading with an in-game character" xml:space="preserve">
@@ -4034,12 +4034,12 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Tutor Moves" xml:space="preserve">
         <source>Tutor Moves</source>
-        <target state="translated">Tutor Se Muda</target>
+        <target state="translated">Tutor de Movimientos</target>
         <note>Creature Page Tutor Moves Section Header</note>
       </trans-unit>
       <trans-unit id="Type Matchups" xml:space="preserve">
         <source>Type Matchups</source>
-        <target state="translated">Tipos de coincidencias</target>
+        <target state="translated">Efectividad de Tipos</target>
         <note>Creature Page Type Matchups Section Header</note>
       </trans-unit>
       <trans-unit id="Type:" xml:space="preserve">
@@ -4049,7 +4049,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Ultra Moon" xml:space="preserve">
         <source>Ultra Moon</source>
-        <target state="translated">ultraluna</target>
+        <target state="translated">Ultraluna</target>
         <note>Pokémon Ultra Moon</note>
       </trans-unit>
       <trans-unit id="Ultra Sun" xml:space="preserve">
@@ -4064,13 +4064,13 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target state="translated">Incógnita</target>
+        <target state="translated">Desconocido</target>
         <note>Creature Shape
 Encounter Method</note>
       </trans-unit>
       <trans-unit id="Unknown Ability" xml:space="preserve">
         <source>Unknown Ability</source>
-        <target state="translated">Capacidad desconocida</target>
+        <target state="translated">Habilidad desconocida</target>
         <note>Fallback text if an Ability’s name can’t be found</note>
       </trans-unit>
       <trans-unit id="Unknown Effect" xml:space="preserve">
@@ -4090,7 +4090,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="Upright" xml:space="preserve">
         <source>Upright</source>
-        <target state="translated">Poste</target>
+        <target state="translated">Erguido</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="User" xml:space="preserve">
@@ -4235,7 +4235,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="User swaps Attack and Special Attack changes with the target." xml:space="preserve">
         <source>User swaps Attack and Special Attack changes with the target.</source>
-        <target state="translated">El usuario intercambia Attack y Special Attack cambia con el objetivo.</target>
+        <target state="translated">El usuario intercambia Ataque y Ataque Especial cambia con el objetivo.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="User swaps Defense and Special Defense changes with the target." xml:space="preserve">
@@ -4315,22 +4315,22 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="Using Devon Scope" xml:space="preserve">
         <source>Using Devon Scope</source>
-        <target state="translated">Usando el alcance de Devon</target>
+        <target state="translated">Usando el Detector Devon</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Using Island Scan" xml:space="preserve">
         <source>Using Island Scan</source>
-        <target state="translated">Usando la exploración de isla</target>
+        <target state="translated">Usando el Escaner Insular</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Using the Squirt Bottle on a Sudowoodo" xml:space="preserve">
         <source>Using the Squirt Bottle on a Sudowoodo</source>
-        <target state="translated">Usando la botella con atomizador en un Sudowoodo</target>
+        <target state="translated">Usando la Squirgadera en un Sudowoodo</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Using the Wailmer Pail on a Sudowoodo" xml:space="preserve">
         <source>Using the Wailmer Pail on a Sudowoodo</source>
-        <target state="translated">Usando el cubo Wailmer en un Sudowoodo</target>
+        <target state="translated">Usando el Cubo Wailmer en un Sudowoodo</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="View Legacy Data" xml:space="preserve">
@@ -4468,12 +4468,12 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="White 2" xml:space="preserve">
         <source>White 2</source>
-        <target state="translated">blanco 2</target>
+        <target state="translated">Blanco 2</target>
         <note>Pokémon White 2</note>
       </trans-unit>
       <trans-unit id="Who’s That Pokémon?!" xml:space="preserve">
         <source>Who’s That Pokémon?!</source>
-        <target state="translated">¡¿Quién es ese Pokémon?!</target>
+        <target state="translated">¡¿Quién es este Pokémon?!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wings" xml:space="preserve">
@@ -4483,32 +4483,32 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="With " xml:space="preserve">
         <source>With </source>
-        <target state="translated">Con</target>
+        <target state="translated">Con </target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns." xml:space="preserve">
         <source>With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns.</source>
-        <target state="translated">Con Fire Pledge, daña a los Pokémon opuestos por 1/8 de su HP máximo cada turno durante cuatro turnos.</target>
+        <target state="translated">Con Voto Fuego, daña a los Pokémon opuestos por 1/8 de su HP máximo cada turno durante cuatro turnos.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With Fusion Bolt, inflicts double damage." xml:space="preserve">
         <source>With Fusion Bolt, inflicts double damage.</source>
-        <target state="translated">Con Fusion Bolt, inflige el doble de daño.</target>
+        <target state="translated">Con Rayo Fusión, inflige el doble de daño.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With Fusion Flare, inflicts double damage." xml:space="preserve">
         <source>With Fusion Flare, inflicts double damage.</source>
-        <target state="translated">Con Fusion Flare, inflige el doble de daño.</target>
+        <target state="translated">Con Llama Fusión, inflige el doble de daño.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With Grass Pledge, halves opposing Pokémon’s Speed for four turns." xml:space="preserve">
         <source>With Grass Pledge, halves opposing Pokémon’s Speed for four turns.</source>
-        <target state="translated">Con Grass Pledge, reduce a la mitad la velocidad de los Pokémon que se oponen durante cuatro turnos.</target>
+        <target state="translated">Con Voto Planta, reduce a la mitad la velocidad de los Pokémon que se oponen durante cuatro turnos.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With PokéRadar active." xml:space="preserve">
         <source>With PokéRadar active.</source>
-        <target state="translated">Con PokéRadar activo.</target>
+        <target state="translated">Con el PokéRadar activo.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With Regirock, Regice, and Registeel in your party." xml:space="preserve">
@@ -4518,62 +4518,62 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns." xml:space="preserve">
         <source>With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns.</source>
-        <target state="translated">Con la promesa de agua, duplica la probabilidad de efecto de los movimientos de Pokémon amigos durante cuatro turnos.</target>
+        <target state="translated">Con Voto Agua, duplica la probabilidad de efecto de los movimientos de Pokémon amigos durante cuatro turnos.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="With an Event Arceus in your party." xml:space="preserve">
         <source>With an Event Arceus in your party.</source>
-        <target state="translated">Con un evento Arceus en tu grupo.</target>
+        <target state="translated">Con un Arceus de evento en tu grupo.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Adamant Orb." xml:space="preserve">
         <source>With the Adamant Orb.</source>
-        <target state="translated">Con el Orbe Adamant.</target>
+        <target state="translated">Con la Diamansfera.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Claw Fossil." xml:space="preserve">
         <source>With the Claw Fossil.</source>
-        <target state="translated">Con el fósil de garra.</target>
+        <target state="translated">Con el Fósil Garra.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Dome Fossil." xml:space="preserve">
         <source>With the Dome Fossil.</source>
-        <target state="translated">Con el Fósil de la Cúpula.</target>
+        <target state="translated">Con el Fósil Domo.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Helix Fossil." xml:space="preserve">
         <source>With the Helix Fossil.</source>
-        <target state="translated">Con el fósil Helix.</target>
+        <target state="translated">Con el Fósil Helix.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Lustrous Orb." xml:space="preserve">
         <source>With the Lustrous Orb.</source>
-        <target state="translated">Con el orbe brillante.</target>
+        <target state="translated">Con la Lustresfera.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Odd Keystone." xml:space="preserve">
         <source>With the Odd Keystone.</source>
-        <target state="translated">Con la extraña piedra angular.</target>
+        <target state="translated">Con la Piedra Espíritu.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Old Amber." xml:space="preserve">
         <source>With the Old Amber.</source>
-        <target state="translated">Con el viejo ámbar.</target>
+        <target state="translated">Con el Ámbar Viejo.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the PokéGear Radio set to Hoenn Sounds." xml:space="preserve">
         <source>With the PokéGear Radio set to Hoenn Sounds.</source>
-        <target state="translated">Con el PokéGear Radio configurado en Hoenn Sounds.</target>
+        <target state="translated">Con la Radio del PokéGear configurada en Sonidos de Hoenn.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the PokéGear Radio set to Sinnoh Sounds." xml:space="preserve">
         <source>With the PokéGear Radio set to Sinnoh Sounds.</source>
-        <target state="translated">Con el PokéGear Radio configurado en Sinnoh Sounds.</target>
+        <target state="translated">Con la Radio del PokéGear configurada en Sonidos de Sinnoh.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the Root Fossil." xml:space="preserve">
         <source>With the Root Fossil.</source>
-        <target state="translated">Con el fósil de raíz.</target>
+        <target state="translated">Con el Fósil Raíz.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="X" xml:space="preserve">
@@ -4583,7 +4583,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="XD" xml:space="preserve">
         <source>XD</source>
-        <target state="translated">XDD</target>
+        <target state="translated">XD</target>
         <note>Pokémon XD</note>
       </trans-unit>
       <trans-unit id="Y" xml:space="preserve">
@@ -4608,7 +4608,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="You’ve caught every shiny!" xml:space="preserve">
         <source>You’ve caught every shiny!</source>
-        <target state="translated">¡Has pillado a todos los brillantes!</target>
+        <target state="translated">¡Has pillado a todos los Shiny!</target>
         <note/>
       </trans-unit>
       <trans-unit id="You’ve caught them all, now your cause is to train them." xml:space="preserve">
@@ -4633,7 +4633,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
         <source>after using Agile Style Psyshield Bash at least 20 times</source>
-        <target state="needs-review-translation">Después de usar Agile Style Psyshield Bash al menos 20 veces</target>
+        <target>Después de usar Asalto barrera al menos 20 veces en Estilo Rápido</target>
         <note>Wydeer evolution Text</note>
       </trans-unit>
       <trans-unit id="all features + tip" xml:space="preserve">
@@ -4648,12 +4648,12 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="at level 38 when leveled up while connected with another player via the Union Circle" xml:space="preserve">
         <source>at level 38 when leveled up while connected with another player via the Union Circle</source>
-        <target state="needs-review-translation">En el nivel 38 cuando se sube de nivel mientras se conecta con otro jugador a través del Union Circle</target>
+        <target>En el nivel 38 cuando se sube de nivel mientras se conecta con otro jugador a través del Círculo Unión</target>
         <note>Palafin evolution text</note>
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
         <source>change up your homescreen with some fresh app icons for Ketchup</source>
-        <target state="translated">cambia tu pantalla de inicio con algunos íconos de aplicaciones nuevos para Ketchup</target>
+        <target state="translated">cambia tu pantalla de inicio con algunos íconos de aplicación nuevos para Ketchup</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="drill down by type, catch state and more" xml:space="preserve">
@@ -4698,7 +4698,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="starting at level " xml:space="preserve">
         <source>starting at level </source>
-        <target state="translated">empezando por el nivel</target>
+        <target state="translated">empezando por el nivel </target>
         <note>text between evolution cretures and level</note>
       </trans-unit>
       <trans-unit id="to unlock all the great creatures and features" xml:space="preserve">
@@ -4713,7 +4713,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="when exposed to a " xml:space="preserve">
         <source>when exposed to a </source>
-        <target state="translated">cuando se expone a un</target>
+        <target state="translated">cuando se expone a un </target>
         <note>when exposed to item evolution text</note>
       </trans-unit>
       <trans-unit id="when leveled up after losing at least 294 HP from recoil damage" xml:space="preserve">
@@ -4723,7 +4723,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="when leveled up while outside of its Poké Ball after the player walks at least 1000 steps using the Let’s Go! feature" xml:space="preserve">
         <source>when leveled up while outside of its Poké Ball after the player walks at least 1000 steps using the Let’s Go! feature</source>
-        <target state="translated">al subir de nivel mientras está fuera de su Poké Ball después de que el jugador camine al menos 1000 pasos usando el Let's Go! Característica</target>
+        <target state="translated">al subir de nivel mientras está fuera de su Poké Ball después de que el jugador camine al menos 1000 pasos usando la opción Let's Go!</target>
         <note>Let’s Go walking evolution text</note>
       </trans-unit>
       <trans-unit id="when leveled up while the player has 999 Gimmighoul Coins in their bag" xml:space="preserve">
@@ -4738,12 +4738,12 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="when levelled up after defeating three Bisharp, each carrying a Leader’s Crest" xml:space="preserve">
         <source>when levelled up after defeating three Bisharp, each carrying a Leader’s Crest</source>
-        <target state="translated">cuando se niveló después de derrotar a tres Bisharp, cada uno llevando un escudo de líder</target>
+        <target state="translated">cuando sube de nivel después de derrotar a tres Bisharp, cada uno llevando un Distintivo de Líder</target>
         <note>Kingambit evolution text</note>
       </trans-unit>
       <trans-unit id="when levlled up after using Rage Fist at least 20 times" xml:space="preserve">
         <source>when levlled up after using Rage Fist at least 20 times</source>
-        <target state="translated">cuando se levanta después de usar Rage Fist al menos 20 veces</target>
+        <target state="translated">cuando sube de nivel después de usar Puño Furia al menos 20 veces</target>
         <note>Annihilape evolution text</note>
       </trans-unit>
       <trans-unit id="when the character spins repeatedly in-game" xml:space="preserve">
@@ -4758,7 +4758,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="when traded" xml:space="preserve">
         <source>when traded</source>
-        <target state="translated">cuando se negocia</target>
+        <target state="translated">cuando se intercambia</target>
         <note>text for creatures that level up when traded</note>
       </trans-unit>
       <trans-unit id="when traded with " xml:space="preserve">
