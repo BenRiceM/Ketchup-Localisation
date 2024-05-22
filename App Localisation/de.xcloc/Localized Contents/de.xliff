@@ -1203,7 +1203,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="During a Mass outbreak." xml:space="preserve">
         <source>During a Mass outbreak.</source>
-        <target state="translated">Während eines Massenausbruchs.</target>
+        <target state="translated">Während eines Massiven Auflaufs.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="During autumn." xml:space="preserve">
@@ -1278,7 +1278,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Ensures that the user’s next move will hit the target." xml:space="preserve">
         <source>Ensures that the user’s next move will hit the target.</source>
-        <target state="translated">Stellt sicher, dass die nächste Attacke der Anwender:in das Ziel trifft.</target>
+        <target state="translated">Stellt sicher, dass die nächste Attacke des Anwenders das Ziel trifft.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Entire Field" xml:space="preserve">
@@ -1293,7 +1293,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Exchanges the user’s Speed with the target’s." xml:space="preserve">
         <source>Exchanges the user’s Speed with the target’s.</source>
-        <target state="translated">Tauscht die Geschwindigkeit der Anwender:in gegen die des Ziels aus.</target>
+        <target state="translated">Tauscht die Geschwindigkeit des Anwenders gegen die des Ziels aus.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Explodes if the target uses fire move this turn, damaging it for 1/4 its max HP and preventing the move." xml:space="preserve">
@@ -1334,7 +1334,7 @@ Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Favorites Filter" xml:space="preserve">
         <source>Favorites Filter</source>
-        <target state="translated">Favoritenfilter</target>
+        <target state="translated">Nach Favoriten filtern</target>
         <note/>
       </trans-unit>
       <trans-unit id="Favorites:" xml:space="preserve">
@@ -1430,12 +1430,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power." xml:space="preserve">
         <source>For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power.</source>
-        <target state="translated">t fünf Runden lang alle Pokémon auf dem Boden um 1/16 der maximalen KP und verstärkt ihre Pflanzenattacken auf das 1,5-fache.</target>
+        <target state="translated">Heilt fünf Runden lang alle Pokémon auf dem Boden um 1/16 ihrer maximalen KP und verstärkt Pflanzenattacken auf das 1,5-fache.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power." xml:space="preserve">
         <source>For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power.</source>
-        <target state="translated">Verhindert fünf Runden lang, dass alle Pokémon auf dem Boden schlafen, und verstärkt ihre Elektro-Attacken auf das 1,5-fache.</target>
+        <target state="translated">Verhindert fünf Runden lang, dass Pokémon auf dem Boden schlafen, und verstärkt ihre Elektro-Attacken auf das 1,5-fache.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves." xml:space="preserve">
@@ -1460,42 +1460,42 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
         <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
-        <target state="translated">Seit Jahren wollte ich eine Pokédex-App erstellen, aber ich konnte nie die Zeit oder den einzigartigen Winkel finden, um sie zu rechtfertigen. Anfang 2024 beschloss ich, es einfach zu tun. Ich hatte eine neue Idee für ein kombiniertes Suchfeld, eine Tab-Bar und eine Verlaufsansicht, von der ich das Gefühl hatte, dass sie die gesamte App wirklich miteinander verbinden und die Navigation unglaublich schnell und flüssig machen könnte. Ich hoffe, dass die Kombination dieses neuen Navigationssystems und alle Informationen in der App alten und neuen Fans der Pokémon-Spiele gefallen wird, so sehr ich es genossen habe, daran zu arbeiten.</target>
+        <target state="translated">Ich habe schon lange davon geträumt, eine Pokédex App zu entwickeln. Irgendwie fehlte mir aber immer die zündende Idee. Anfang 2024 habe ich dann einfach angefangen. Motiviert hat mich meine Idee für die Kombination aus Suchfeld, Tab-Bar und Verlaufsansicht, von der ich überzeugt bin, dass sie die gesamte App wirklich miteinander verbindet und die Navigation unglaublich schnell und flüssig macht. Ich hoffe, dass dadurch die App alten und neuen Fans der Pokémon-Spiele mindestens so viel Spaß macht, wie mir das Bauen dieser App bereitet hat.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
         <source>Forced to use this move for several turns. Pokémon cannot fall asleep in that time.</source>
-        <target state="translated">Muss diesen Zug mehrere Runden lang verwenden. Pokémon können in dieser Zeit nicht einschlafen.</target>
+        <target state="translated">Diese Attacke muss mehrere Runden lang verwendet werden. Pokémon können in dieser Zeit nicht einschlafen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost." xml:space="preserve">
         <source>Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost.</source>
-        <target state="translated">Zwingt das Ziel, keiner Ausweichaktion zu unterliegen, und ermöglicht es, dass es von normalen und Kampfbewegungen getroffen wird, selbst wenn es ein Geist ist.</target>
+        <target state="translated">Das Ziel kann nicht ausweichen. Normale Und Kampf Attacken treffen, auch wenn das Ziel ein Geist ist.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark." xml:space="preserve">
         <source>Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark.</source>
-        <target state="translated">Zwingt das Ziel, keiner Ausweichmöglichkeit mehr nachzukommen, und ermöglicht es, dass es von psychischen Attacken getroffen wird, selbst wenn es dunkel ist.</target>
+        <target state="translated">Das Ziel kann nicht ausweichen. Psycho Attacken treffen, auch wenn es dunkel ist.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to repeat its last used move every turn for 2 to 6 turns." xml:space="preserve">
         <source>Forces the target to repeat its last used move every turn for 2 to 6 turns.</source>
-        <target state="translated">Zwingt das Ziel, seine zuletzt verwendete Bewegung 2 bis 6 Runden lang jede Runde zu wiederholen.</target>
+        <target state="translated">Das Ziel muss die letzte Attacke für 2-6 Runden wiederholen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to repeat its last used move." xml:space="preserve">
         <source>Forces the target to repeat its last used move.</source>
-        <target state="translated">Zwingt das Ziel, seine zuletzt verwendete Bewegung zu wiederholen.</target>
+        <target state="translated">Das Ziel muss seine letzte Attacke wiederholen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target’s opponents to aim at the target for the rest of the turn." xml:space="preserve">
         <source>Forces the target’s opponents to aim at the target for the rest of the turn.</source>
-        <target state="translated">Zwingt die Gegner des Ziels, für den Rest der Runde auf das Ziel zu zielen.</target>
+        <target state="translated">Gegner können für den Rest der Runde ausschließlich das Ziel angreifen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Frees the user from binding moves, removes Leech Seed, and blows away Spikes." xml:space="preserve">
         <source>Frees the user from binding moves, removes Leech Seed, and blows away Spikes.</source>
-        <target state="translated">Befreit den Benutzer von bindenden Bewegungen, entfernt Blutegelsamen und bläst Stacheln weg.</target>
+        <target state="translated">Befreit den Anwender von klammernden Attacken, entfernt Egelsamen und Stacheln.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" xml:space="preserve">
@@ -4692,7 +4692,7 @@ Encounter Method</note>
       </trans-unit>
       <trans-unit id="for all features" xml:space="preserve">
         <source>for all features</source>
-        <target state="translated">Für alle Funktionen</target>
+        <target state="translated">für alle Funktionen</target>
         <note/>
       </trans-unit>
       <trans-unit id="for these great features:" xml:space="preserve">
