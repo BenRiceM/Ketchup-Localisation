@@ -334,6 +334,12 @@
     "all features + tip" : {
 
     },
+    "All Machines" : {
+      "comment" : "Item Category"
+    },
+    "All Mail" : {
+      "comment" : "Item Category"
+    },
     "All Opponents" : {
 
     },
@@ -379,6 +385,12 @@
     "Appearance" : {
 
     },
+    "Apricorn Balls" : {
+      "comment" : "Item Category"
+    },
+    "Apricorn Box" : {
+      "comment" : "Item Category"
+    },
     "Armor" : {
       "comment" : "Creature Shape"
     },
@@ -406,8 +418,17 @@
     "Averages Defense and Special Defense with the target." : {
       "comment" : "Move Effect Description"
     },
+    "Bad Beld Items" : {
+      "comment" : "Item Category"
+    },
+    "Badly Poison" : {
+      "comment" : "Item Fling Effect"
+    },
     "Badly poisons the target, inflicting more damage every turn." : {
       "comment" : "Move Effect Description"
+    },
+    "Baking Only" : {
+      "comment" : "Item Category"
     },
     "Ball" : {
       "comment" : "Creature Shape"
@@ -417,6 +438,15 @@
     },
     "Base Happiness" : {
 
+    },
+    "Battle Items" : {
+      "comment" : "Item Pocket"
+    },
+    "Berries" : {
+      "comment" : "Item Pocket"
+    },
+    "Berry Effect" : {
+      "comment" : "Item Fling Effect"
     },
     "Bite" : {
 
@@ -454,6 +484,9 @@
     },
     "Bug Wings" : {
       "comment" : "Creature Shape"
+    },
+    "Burn" : {
+      "comment" : "Item Fling Effect"
     },
     "Burns the target." : {
       "comment" : "Move Effect Description"
@@ -508,6 +541,9 @@
     },
     "Catching" : {
       "comment" : "The Creature Page Catching Section Title"
+    },
+    "Catching Bonus" : {
+      "comment" : "Item Category"
     },
     "Category" : {
 
@@ -583,6 +619,9 @@
     "Checking Berry piles" : {
       "comment" : "Encounter Method"
     },
+    "Choice" : {
+      "comment" : "Item Category"
+    },
     "Cleanses the user of a burn, paralysis, or poison." : {
       "comment" : "Move Effect Description"
     },
@@ -591,6 +630,9 @@
     },
     "Clear Filters" : {
 
+    },
+    "Collectibles" : {
+      "comment" : "Item Category"
     },
     "Colosseum" : {
       "comment" : "Pokémon Colosseum"
@@ -640,6 +682,9 @@
     "Cures the target of burns." : {
       "comment" : "Move Effect Description"
     },
+    "Curry Ingredients" : {
+      "comment" : "Item Category"
+    },
     "Custom Delta Emulator Skin" : {
       "comment" : "Paywall Text"
     },
@@ -657,6 +702,9 @@
     },
     "Dark" : {
       "comment" : "Pokémon Type Dark"
+    },
+    "Data Cards" : {
+      "comment" : "Item Category"
     },
     "Deals both fighting and flying-type damage." : {
       "comment" : "Move Effect Description"
@@ -693,6 +741,9 @@
     },
     "Destroys the target’s held berry." : {
       "comment" : "Move Effect Description"
+    },
+    "Dex Completion" : {
+      "comment" : "Item Category"
     },
     "Diamond" : {
       "comment" : "Pokémon Diamond"
@@ -772,11 +823,20 @@
     "During winter." : {
       "comment" : "Encounter Condition"
     },
+    "Dynamax Crystals" : {
+      "comment" : "Item Category"
+    },
     "Effect" : {
 
     },
     "Effective" : {
       "comment" : "Effectiveness 1×"
+    },
+    "Effort Drop" : {
+      "comment" : "Item Category"
+    },
+    "Effort Training" : {
+      "comment" : "Item Category"
     },
     "Egg Group" : {
 
@@ -810,6 +870,12 @@
     },
     "Erratic" : {
       "comment" : "Creature Growth Rate - Erratic"
+    },
+    "Event Items" : {
+      "comment" : "Item Category"
+    },
+    "Evolution" : {
+      "comment" : "Item Category"
     },
     "Exchanges the user’s Speed with the target’s." : {
       "comment" : "Move Effect Description"
@@ -880,6 +946,9 @@
     "Fishing with an Old Rod" : {
       "comment" : "Encounter Method"
     },
+    "Flinch" : {
+      "comment" : "Item Fling Effect"
+    },
     "Fling Effect" : {
 
     },
@@ -888,6 +957,9 @@
     },
     "Fluctuating" : {
       "comment" : "Creature Growth Rate - Fluctuating"
+    },
+    "Flutes" : {
+      "comment" : "Item Category"
     },
     "Flying" : {
       "comment" : "Creature Egg Group\nPokémon Type Flying"
@@ -942,6 +1014,9 @@
     },
     "Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" : {
       "comment" : "Galarian Yamask Evolution Text"
+    },
+    "Gameplay" : {
+      "comment" : "Item Category"
     },
     "Games" : {
       "comment" : "Filter option for Games"
@@ -1150,6 +1225,9 @@
     "Heal" : {
 
     },
+    "Healing" : {
+      "comment" : "Item Category"
+    },
     "Heals the target for ½ its max HP, or ⅔ on Grassy Terrain." : {
       "comment" : "Move Effect Description"
     },
@@ -1185,6 +1263,9 @@
     "Height" : {
 
     },
+    "Held Items" : {
+      "comment" : "Item Category"
+    },
     "Hello, world!" : {
       "extractionState" : "stale"
     },
@@ -1193,6 +1274,9 @@
     },
     "Help & Info" : {
 
+    },
+    "Herb Poison" : {
+      "comment" : "Item Fling Effect"
     },
     "Hidden" : {
 
@@ -1344,6 +1428,9 @@
     "Immunities" : {
       "comment" : "Type Matchup Immunities"
     },
+    "In a Pinch" : {
+      "comment" : "Item Category"
+    },
     "In App Purchase Unavailable" : {
 
     },
@@ -1471,7 +1558,10 @@
       "comment" : "Effectiveness 2×"
     },
     "Items" : {
-      "comment" : "Navigation item for items"
+      "comment" : "Item Pocket\nNavigation item for items"
+    },
+    "Jewels" : {
+      "comment" : "Item Category"
     },
     "Ketchup" : {
 
@@ -1481,6 +1571,9 @@
     },
     "Ketchup+ lets you browse every Pokémon from all 9 generations." : {
 
+    },
+    "Key Items" : {
+      "comment" : "Item Pocket"
     },
     "Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" : {
       "comment" : "Kubfu Rapid evolution text"
@@ -1523,6 +1616,9 @@
     },
     "Location Unknown" : {
 
+    },
+    "Loot" : {
+      "comment" : "Item Category"
     },
     "Low" : {
 
@@ -1614,6 +1710,9 @@
     "Lowers user’s Speed by one stage." : {
       "comment" : "Move Effect Description"
     },
+    "Mail" : {
+      "comment" : "Item Pocket"
+    },
     "Makes the target act last this turn." : {
       "comment" : "Move Effect Description"
     },
@@ -1629,17 +1728,29 @@
     "Matchups" : {
 
     },
+    "Medicine" : {
+      "comment" : "Item Category\n   Item Pocket"
+    },
     "Medium" : {
       "comment" : "Creature Growth Rate - Medium"
     },
     "Medium-Slow" : {
       "comment" : "Creature Growth Rate - Medium-Slow"
     },
+    "Mega Stones" : {
+      "comment" : "Item Category"
+    },
+    "Memories" : {
+      "comment" : "Item Category"
+    },
     "Mental" : {
 
     },
     "Mineral" : {
       "comment" : "Creature Egg Group"
+    },
+    "Miracle Shooter" : {
+      "comment" : "Item Category"
     },
     "Mirror" : {
 
@@ -1661,6 +1772,12 @@
     },
     "Moves have 100% accuracy against the target for three turns." : {
       "comment" : "Move Effect Description"
+    },
+    "Mulch" : {
+      "comment" : "Item Category"
+    },
+    "Nature Mints" : {
+      "comment" : "Item Category"
     },
     "Negates held items for five turns." : {
       "comment" : "Move Effect Description"
@@ -1776,8 +1893,14 @@
     "or" : {
 
     },
+    "Other" : {
+      "comment" : "Item Category"
+    },
     "Other Moves" : {
       "comment" : "Creature Page Other Moves Section Header"
+    },
+    "Paralyze" : {
+      "comment" : "Item Fling Effect"
     },
     "Paralyzes the target." : {
       "comment" : "Move Effect Description"
@@ -1791,6 +1914,12 @@
     "Physical" : {
       "comment" : "Creature Page Physical Section Header"
     },
+    "Picky Healing" : {
+      "comment" : "Item Category"
+    },
+    "Picnic Items" : {
+      "comment" : "Item Category"
+    },
     "Pin" : {
 
     },
@@ -1799,6 +1928,9 @@
     },
     "Plant" : {
       "comment" : "Creature Egg Group"
+    },
+    "Plates" : {
+      "comment" : "Item Category"
     },
     "Platinum" : {
       "comment" : "Pokémon Platinum"
@@ -1809,17 +1941,23 @@
     "Please don’t sue me." : {
 
     },
+    "Plot Advancement" : {
+      "comment" : "Item Category"
+    },
     "Pocket" : {
 
     },
     "Poison" : {
-      "comment" : "Pokémon Type Poison"
+      "comment" : "Item Fling Effect\nPokémon Type Poison"
     },
     "Poisons the target and lowers its Speed by one stage." : {
       "comment" : "Move Effect Description"
     },
     "Poisons the target." : {
       "comment" : "Move Effect Description"
+    },
+    "Poké Balls" : {
+      "comment" : "Item Pocket"
     },
     "Pokédex List" : {
 
@@ -1895,6 +2033,9 @@
     },
     "PP" : {
 
+    },
+    "PP Recovery" : {
+      "comment" : "Item Category"
     },
     "Prevents all Pokémon from fleeing or switching out during the next turn." : {
       "comment" : "Move Effect Description"
@@ -2196,17 +2337,26 @@
     "Restores 1/16 of the user’s max HP each turn." : {
       "comment" : "Move Effect Description"
     },
+    "Revival" : {
+      "comment" : "Item Category"
+    },
     "Rock" : {
       "comment" : "Pokémon Type Rock"
     },
     "Ruby" : {
       "comment" : "Pokémon Ruby"
     },
+    "Sandwich Ingredients" : {
+      "comment" : "Item Category"
+    },
     "Sapphire" : {
       "comment" : "Pokémon Sapphire"
     },
     "Scarlet" : {
       "comment" : "Pokémon Scarlet"
+    },
+    "Scarves" : {
+      "comment" : "Item Category"
     },
     "Scatters money on the ground worth five times the user’s level." : {
       "comment" : "Move Effect Description"
@@ -2330,8 +2480,17 @@
     "Special" : {
 
     },
+    "Special Balls" : {
+      "comment" : "Item Category"
+    },
     "Special Thanks" : {
 
+    },
+    "Species Candies" : {
+      "comment" : "Item Category"
+    },
+    "Species-Specific" : {
+      "comment" : "Item Category"
     },
     "specific item" : {
       "comment" : "specific item evolution text"
@@ -2339,11 +2498,20 @@
     "Specific Move" : {
 
     },
+    "Spelunking" : {
+      "comment" : "Item Category"
+    },
     "Squiggle" : {
       "comment" : "Creature Shape"
     },
+    "Standard Balls" : {
+      "comment" : "Item Category"
+    },
     "starting at level " : {
       "comment" : "text between evolution cretures and level"
+    },
+    "Stat Boosts" : {
+      "comment" : "Item Category"
     },
     "Static encounter, only one chance" : {
       "comment" : "Encounter Method"
@@ -2353,6 +2521,9 @@
     },
     "Status" : {
 
+    },
+    "Status Cures" : {
+      "comment" : "Item Category"
     },
     "Steals the target’s move, if it’s self-targeted." : {
       "comment" : "Move Effect Description"
@@ -2422,6 +2593,9 @@
     },
     "Tentacles" : {
       "comment" : "Creature Shape"
+    },
+    "Terra Shard" : {
+      "comment" : "Item Category"
     },
     "Thanks for your support" : {
 
@@ -2507,14 +2681,23 @@
     "Throws held item at the target, its power depends on the item." : {
       "comment" : "Move Effect Description"
     },
+    "TM Materials" : {
+      "comment" : "Item Category"
+    },
     "TM Moves" : {
       "comment" : "Creature Page TM Moves Section Header"
+    },
+    "TMs and HMs" : {
+      "comment" : "Item Pocket"
     },
     "to unlock all the great creatures and features" : {
 
     },
     "Trading with an in-game character" : {
       "comment" : "Encounter Method"
+    },
+    "Training" : {
+      "comment" : "Item Category"
     },
     "Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks." : {
       "comment" : "Move Effect Description"
@@ -2528,8 +2711,14 @@
     "Tutor Moves" : {
       "comment" : "Creature Page Tutor Moves Section Header"
     },
+    "Type Enhancement" : {
+      "comment" : "Item Category"
+    },
     "Type Matchups" : {
       "comment" : "Creature Page Type Matchups Section Header"
+    },
+    "Type Pprotection" : {
+      "comment" : "Item Category"
     },
     "Type:" : {
 
@@ -2544,7 +2733,7 @@
 
     },
     "Unknown" : {
-      "comment" : "Creature Shape\nEncounter Method"
+      "comment" : "Creature Shape\nEncounter Method\nItem Category\n   Item Pocket"
     },
     "Unknown Ability" : {
       "comment" : "Fallback text if an Ability’s name can’t be found"
@@ -2554,6 +2743,9 @@
     },
     "Unlock Every Creature" : {
       "comment" : "Paywall Text"
+    },
+    "Unused" : {
+      "comment" : "Item Category"
     },
     "Upgrade to" : {
 
@@ -2716,6 +2908,9 @@
     },
     "Violet" : {
       "comment" : "Pokémon Violet"
+    },
+    "Vitamins" : {
+      "comment" : "Item Category"
     },
     "Walking in bridge shadows" : {
       "comment" : "Encounter Method"
@@ -2914,6 +3109,9 @@
     },
     "You’ve got it" : {
 
+    },
+    "Z-Crystals" : {
+      "comment" : "Item Category"
     }
   },
   "version" : "1.0"
