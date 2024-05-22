@@ -533,6 +533,16 @@ The Creature Page Abilities Section Title</note>
         <target state="translated">Alle Verbündeten</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All Machines" xml:space="preserve">
+        <source>All Machines</source>
+        <target state="translated">Alle Maschinen</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="All Mail" xml:space="preserve">
+        <source>All Mail</source>
+        <target state="translated">Gesamte E‑Mail</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="All Opponents" xml:space="preserve">
         <source>All Opponents</source>
         <target state="translated">Alle Gegner</target>
@@ -608,6 +618,16 @@ The Creature Page Abilities Section Title</note>
         <target state="translated">Aussehen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Apricorn Balls" xml:space="preserve">
+        <source>Apricorn Balls</source>
+        <target state="translated">Aprikosenbällchen</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Apricorn Box" xml:space="preserve">
+        <source>Apricorn Box</source>
+        <target state="translated">Aprikosenbox</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Armor" xml:space="preserve">
         <source>Armor</source>
         <target state="translated">Rüstung</target>
@@ -638,10 +658,25 @@ The Creature Page Abilities Section Title</note>
         <target state="translated">Durchschnittliche Verteidigung und Spezialverteidigung mit dem Ziel.</target>
         <note>Move Effect Description</note>
       </trans-unit>
+      <trans-unit id="Bad Beld Items" xml:space="preserve">
+        <source>Bad Beld Items</source>
+        <target state="translated">Schlechte Beld-Artikel</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Badly Poison" xml:space="preserve">
+        <source>Badly Poison</source>
+        <target state="translated">Schlecht vergiftet</target>
+        <note>Item Fling Effect</note>
+      </trans-unit>
       <trans-unit id="Badly poisons the target, inflicting more damage every turn." xml:space="preserve">
         <source>Badly poisons the target, inflicting more damage every turn.</source>
         <target state="translated">Vergiftet das Ziel schwer. Der Schaden steigt mit jeder Runde.</target>
         <note>Move Effect Description</note>
+      </trans-unit>
+      <trans-unit id="Baking Only" xml:space="preserve">
+        <source>Baking Only</source>
+        <target state="translated">Nur Backen</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Ball" xml:space="preserve">
         <source>Ball</source>
@@ -657,6 +692,21 @@ The Creature Page Abilities Section Title</note>
         <source>Base Happiness</source>
         <target state="translated">Start-Zutraulichkeit</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Battle Items" xml:space="preserve">
+        <source>Battle Items</source>
+        <target state="translated">Kampfgegenstände</target>
+        <note>Item Pocket</note>
+      </trans-unit>
+      <trans-unit id="Berries" xml:space="preserve">
+        <source>Berries</source>
+        <target state="translated">Beeren</target>
+        <note>Item Pocket</note>
+      </trans-unit>
+      <trans-unit id="Berry Effect" xml:space="preserve">
+        <source>Berry Effect</source>
+        <target state="translated">Beeren-Effekt</target>
+        <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Bite" xml:space="preserve">
         <source>Bite</source>
@@ -718,6 +768,11 @@ Pokémon Type Bug</note>
         <source>Bug Wings</source>
         <target state="translated">Käferflügel</target>
         <note>Creature Shape</note>
+      </trans-unit>
+      <trans-unit id="Burn" xml:space="preserve">
+        <source>Burn</source>
+        <target state="translated">Brennen</target>
+        <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Burns the target." xml:space="preserve">
         <source>Burns the target.</source>
@@ -808,6 +863,11 @@ Pokémon Type Bug</note>
         <source>Catching</source>
         <target state="translated">Fangen</target>
         <note>The Creature Page Catching Section Title</note>
+      </trans-unit>
+      <trans-unit id="Catching Bonus" xml:space="preserve">
+        <source>Catching Bonus</source>
+        <target state="translated">Fangbonus</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Category" xml:space="preserve">
         <source>Category</source>
@@ -915,6 +975,11 @@ The caught state for a creature</note>
         <target state="translated">Beerenhaufen prüfen</target>
         <note>Encounter Method</note>
       </trans-unit>
+      <trans-unit id="Choice" xml:space="preserve">
+        <source>Choice</source>
+        <target state="translated">Auswahl</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Cleanses the user of a burn, paralysis, or poison." xml:space="preserve">
         <source>Cleanses the user of a burn, paralysis, or poison.</source>
         <target state="translated">Reinigt den Anwender von einer Verbrennung, Paralyse oder Vergiftung.</target>
@@ -929,6 +994,11 @@ The caught state for a creature</note>
         <source>Clear Filters</source>
         <target state="translated">Filter zurücksetzen</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Collectibles" xml:space="preserve">
+        <source>Collectibles</source>
+        <target state="translated">Sammlerstücke</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Colosseum" xml:space="preserve">
         <source>Colosseum</source>
@@ -1010,6 +1080,11 @@ The caught state for a creature</note>
         <target state="translated">Heilt Verbrennungen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
+      <trans-unit id="Curry Ingredients" xml:space="preserve">
+        <source>Curry Ingredients</source>
+        <target state="translated">Curry-Zutaten</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Custom Delta Emulator Skin" xml:space="preserve">
         <source>Custom Delta Emulator Skin</source>
         <target state="translated">Spezieller Delta-Emulator-Skin&lt;</target>
@@ -1044,6 +1119,11 @@ The caught state for a creature</note>
         <source>Dark</source>
         <target state="translated">Dunkelheit</target>
         <note>Pokémon Type Dark</note>
+      </trans-unit>
+      <trans-unit id="Data Cards" xml:space="preserve">
+        <source>Data Cards</source>
+        <target state="translated">Datenkarten</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Deals both fighting and flying-type damage." xml:space="preserve">
         <source>Deals both fighting and flying-type damage.</source>
@@ -1099,6 +1179,11 @@ The caught state for a creature</note>
         <source>Destroys the target’s held berry.</source>
         <target state="translated">Zerstört Beeren, die vom Ziels gehalten werden.</target>
         <note>Move Effect Description</note>
+      </trans-unit>
+      <trans-unit id="Dex Completion" xml:space="preserve">
+        <source>Dex Completion</source>
+        <target state="translated">Dex-Vervollständigung</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Diamond" xml:space="preserve">
         <source>Diamond</source>
@@ -1226,6 +1311,11 @@ Pokémon Type Dragon</note>
         <target state="translated">Im Winter.</target>
         <note>Encounter Condition</note>
       </trans-unit>
+      <trans-unit id="Dynamax Crystals" xml:space="preserve">
+        <source>Dynamax Crystals</source>
+        <target state="translated">Dynamax-Kristalle</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Effect" xml:space="preserve">
         <source>Effect</source>
         <target state="translated">Effekt</target>
@@ -1235,6 +1325,16 @@ Pokémon Type Dragon</note>
         <source>Effective</source>
         <target state="translated">Effektiv</target>
         <note>Effectiveness 1×</note>
+      </trans-unit>
+      <trans-unit id="Effort Drop" xml:space="preserve">
+        <source>Effort Drop</source>
+        <target state="translated">Aufwandsabfall</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Effort Training" xml:space="preserve">
+        <source>Effort Training</source>
+        <target state="translated">Anstrengungstraining</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Egg Group" xml:space="preserve">
         <source>Egg Group</source>
@@ -1290,6 +1390,16 @@ Pokémon Type Dragon</note>
         <source>Erratic</source>
         <target state="translated">Unregelmäßig</target>
         <note>Creature Growth Rate - Erratic</note>
+      </trans-unit>
+      <trans-unit id="Event Items" xml:space="preserve">
+        <source>Event Items</source>
+        <target state="translated">Ereignisgegenstände</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Evolution" xml:space="preserve">
+        <source>Evolution</source>
+        <target state="translated">Evolution</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Exchanges the user’s Speed with the target’s." xml:space="preserve">
         <source>Exchanges the user’s Speed with the target’s.</source>
@@ -1407,6 +1517,11 @@ Pokémon Type Fairy</note>
         <target state="translated">Angeln mit einer Angel</target>
         <note>Encounter Method</note>
       </trans-unit>
+      <trans-unit id="Flinch" xml:space="preserve">
+        <source>Flinch</source>
+        <target state="translated">Zucken</target>
+        <note>Item Fling Effect</note>
+      </trans-unit>
       <trans-unit id="Fling Effect" xml:space="preserve">
         <source>Fling Effect</source>
         <target state="translated">Schleuder-Effekt</target>
@@ -1421,6 +1536,11 @@ Pokémon Type Fairy</note>
         <source>Fluctuating</source>
         <target state="translated">Schwankend</target>
         <note>Creature Growth Rate - Fluctuating</note>
+      </trans-unit>
+      <trans-unit id="Flutes" xml:space="preserve">
+        <source>Flutes</source>
+        <target state="translated">Flöten</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Flying" xml:space="preserve">
         <source>Flying</source>
@@ -1502,6 +1622,11 @@ Pokémon Type Flying</note>
         <source>Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting</source>
         <target state="translated">Galarian Yamask entwickelt sich zu Runerigus, wenn der Spieler unter dem großen Felsbogen in Dusty Bowl reist, nachdem Yamask mindestens 49 HP Schaden durch Angriffe ohne Ohnmacht erlitten hat</target>
         <note>Galarian Yamask Evolution Text</note>
+      </trans-unit>
+      <trans-unit id="Gameplay" xml:space="preserve">
+        <source>Gameplay</source>
+        <target state="translated">Spielweise</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Games" xml:space="preserve">
         <source>Games</source>
@@ -1854,6 +1979,11 @@ Pokémon Type Ground</note>
         <target state="translated">Heilen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Healing" xml:space="preserve">
+        <source>Healing</source>
+        <target state="translated">Heilung</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Heals the target for half its max HP." xml:space="preserve">
         <source>Heals the target for half its max HP.</source>
         <target state="translated">Heilt das Ziel um die Hälfte seiner maximalen KP.</target>
@@ -1899,6 +2029,11 @@ Pokémon Type Ground</note>
         <target state="translated">Größe</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Held Items" xml:space="preserve">
+        <source>Held Items</source>
+        <target state="translated">Gehaltene Gegenstände</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Hello, world!" xml:space="preserve">
         <source>Hello, world!</source>
         <target state="translated">Hallo, Welt!</target>
@@ -1913,6 +2048,11 @@ Pokémon Type Ground</note>
         <source>Help &amp; Info</source>
         <target state="translated">Hilfe &amp; Info</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Herb Poison" xml:space="preserve">
+        <source>Herb Poison</source>
+        <target state="translated">Kräutergift</target>
+        <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Hidden" xml:space="preserve">
         <source>Hidden</source>
@@ -2146,6 +2286,11 @@ Pokémon Type Ground</note>
         <target state="translated">In App-Kauf Nicht Verfügbar</target>
         <note/>
       </trans-unit>
+      <trans-unit id="In a Pinch" xml:space="preserve">
+        <source>In a Pinch</source>
+        <target state="translated">Im Notfall</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="In triple battles, this move can be used on either side to target the farthest away opposing Pokémon." xml:space="preserve">
         <source>In triple battles, this move can be used on either side to target the farthest away opposing Pokémon.</source>
         <target state="translated">In Dreifachkämpfen kann dieser Zug auf beiden Seiten verwendet werden, um die am weitesten entfernten gegnerischen Pokémon ins Visier zu nehmen.</target>
@@ -2319,7 +2464,8 @@ Pokémon Type Ground</note>
       <trans-unit id="Items" xml:space="preserve">
         <source>Items</source>
         <target state="translated">Gegenstände</target>
-        <note>Navigation item for items</note>
+        <note>Item Pocket
+Navigation item for items</note>
       </trans-unit>
       <trans-unit id="It’s extremely effective" xml:space="preserve">
         <source>It’s extremely effective</source>
@@ -2351,6 +2497,11 @@ Pokémon Type Ground</note>
         <target state="translated">Ich bin mir nicht sicher, ob das überhaupt möglich ist, aber herzlichen Glückwunsch an Sie.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Jewels" xml:space="preserve">
+        <source>Jewels</source>
+        <target state="translated">Juwelen</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Ketchup" xml:space="preserve">
         <source>Ketchup</source>
         <target state="translated">Ketchup</target>
@@ -2365,6 +2516,11 @@ Pokémon Type Ground</note>
         <source>Ketchup+ lets you browse every Pokémon from all 9 generations.</source>
         <target state="translated">Mit Ketchup+ kannst du jedes Pokémon aus allen 9 Generationen durchsuchen</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Key Items" xml:space="preserve">
+        <source>Key Items</source>
+        <target state="translated">Schlüsselgegenstände</target>
+        <note>Item Pocket</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" xml:space="preserve">
         <source>Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters</source>
@@ -2435,6 +2591,11 @@ Pokémon Type Ground</note>
         <source>Location Unknown</source>
         <target state="translated">Ort Unbekannt</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Loot" xml:space="preserve">
+        <source>Loot</source>
+        <target state="translated">Beute</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Low" xml:space="preserve">
         <source>Low</source>
@@ -2586,6 +2747,11 @@ Pokémon Type Ground</note>
         <target state="translated">Reduziert die Geschwindigkeit des Benutzers um eine Stufe.</target>
         <note>Move Effect Description</note>
       </trans-unit>
+      <trans-unit id="Mail" xml:space="preserve">
+        <source>Mail</source>
+        <target state="translated">E-Mail</target>
+        <note>Item Pocket</note>
+      </trans-unit>
       <trans-unit id="Makes the target act last this turn." xml:space="preserve">
         <source>Makes the target act last this turn.</source>
         <target state="translated">Bewirkt, dass die Zielhandlung diese Runde andauert.</target>
@@ -2611,6 +2777,12 @@ Pokémon Type Ground</note>
         <target state="translated">Matchups</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Medicine" xml:space="preserve">
+        <source>Medicine</source>
+        <target state="translated">Medizin</target>
+        <note>Item Category
+   Item Pocket</note>
+      </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
         <source>Medium</source>
         <target state="translated">Medium</target>
@@ -2621,6 +2793,16 @@ Pokémon Type Ground</note>
         <target state="translated">Mittellangsam</target>
         <note>Creature Growth Rate - Medium-Slow</note>
       </trans-unit>
+      <trans-unit id="Mega Stones" xml:space="preserve">
+        <source>Mega Stones</source>
+        <target state="translated">Mega-Steine</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Memories" xml:space="preserve">
+        <source>Memories</source>
+        <target state="translated">Rückblicke</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Mental" xml:space="preserve">
         <source>Mental</source>
         <target state="translated">Geistig</target>
@@ -2630,6 +2812,11 @@ Pokémon Type Ground</note>
         <source>Mineral</source>
         <target state="translated">Mineral</target>
         <note>Creature Egg Group</note>
+      </trans-unit>
+      <trans-unit id="Miracle Shooter" xml:space="preserve">
+        <source>Miracle Shooter</source>
+        <target state="translated">Wunderschütze</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Mirror" xml:space="preserve">
         <source>Mirror</source>
@@ -2660,6 +2847,16 @@ Pokémon Type Ground</note>
         <source>Moves have 100% accuracy against the target for three turns.</source>
         <target state="translated">Die Bewegungen haben drei Runden lang eine Genauigkeit von 100 % gegenüber dem Ziel.</target>
         <note>Move Effect Description</note>
+      </trans-unit>
+      <trans-unit id="Mulch" xml:space="preserve">
+        <source>Mulch</source>
+        <target state="translated">Laubdecke</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Nature Mints" xml:space="preserve">
+        <source>Nature Mints</source>
+        <target state="translated">Naturminze</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Negates held items for five turns." xml:space="preserve">
         <source>Negates held items for five turns.</source>
@@ -2847,6 +3044,11 @@ The uncaught state for a creature</note>
         <target state="translated">Feld der Gegner</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Other" xml:space="preserve">
+        <source>Other</source>
+        <target state="translated">Andere</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Other Moves" xml:space="preserve">
         <source>Other Moves</source>
         <target state="translated">Andere Angriffe</target>
@@ -2857,10 +3059,20 @@ The uncaught state for a creature</note>
         <target state="translated">PP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="PP Recovery" xml:space="preserve">
+        <source>PP Recovery</source>
+        <target state="translated">PP-Wiederherstellung</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="PWR" xml:space="preserve">
         <source>PWR</source>
         <target state="translated">PWR</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Paralyze" xml:space="preserve">
+        <source>Paralyze</source>
+        <target state="translated">Lähmen</target>
+        <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Paralyzes the target." xml:space="preserve">
         <source>Paralyzes the target.</source>
@@ -2882,6 +3094,16 @@ The uncaught state for a creature</note>
         <target state="translated">Physisch</target>
         <note>Creature Page Physical Section Header</note>
       </trans-unit>
+      <trans-unit id="Picky Healing" xml:space="preserve">
+        <source>Picky Healing</source>
+        <target state="translated">Wählerische Heilung</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Picnic Items" xml:space="preserve">
+        <source>Picnic Items</source>
+        <target state="translated">Picknick-Artikel</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
         <source>Pin</source>
         <target state="translated">Reißzwecke</target>
@@ -2896,6 +3118,11 @@ The uncaught state for a creature</note>
         <source>Plant</source>
         <target state="translated">Pflanze</target>
         <note>Creature Egg Group</note>
+      </trans-unit>
+      <trans-unit id="Plates" xml:space="preserve">
+        <source>Plates</source>
+        <target state="translated">Platten</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Platinum" xml:space="preserve">
         <source>Platinum</source>
@@ -2912,6 +3139,11 @@ The uncaught state for a creature</note>
         <target state="translated">Bitte verklagen Sie mich nicht.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Plot Advancement" xml:space="preserve">
+        <source>Plot Advancement</source>
+        <target state="translated">Handlungsfortschritt</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Pocket" xml:space="preserve">
         <source>Pocket</source>
         <target state="translated">Tasche</target>
@@ -2920,7 +3152,8 @@ The uncaught state for a creature</note>
       <trans-unit id="Poison" xml:space="preserve">
         <source>Poison</source>
         <target state="translated">Gift</target>
-        <note>Pokémon Type Poison</note>
+        <note>Item Fling Effect
+Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Poisons the target and lowers its Speed by one stage." xml:space="preserve">
         <source>Poisons the target and lowers its Speed by one stage.</source>
@@ -2931,6 +3164,11 @@ The uncaught state for a creature</note>
         <source>Poisons the target.</source>
         <target state="translated">Vergiftet das Ziel.</target>
         <note>Move Effect Description</note>
+      </trans-unit>
+      <trans-unit id="Poké Balls" xml:space="preserve">
+        <source>Poké Balls</source>
+        <target state="translated">Pokébälle</target>
+        <note>Item Pocket</note>
       </trans-unit>
       <trans-unit id="Pokédex List" xml:space="preserve">
         <source>Pokédex List</source>
@@ -3547,6 +3785,11 @@ The uncaught state for a creature</note>
         <target state="translated">Stellt pro Runde 1/16 der maximalen HP des Benutzers wieder her.</target>
         <note>Move Effect Description</note>
       </trans-unit>
+      <trans-unit id="Revival" xml:space="preserve">
+        <source>Revival</source>
+        <target state="translated">Wiederbelebung</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Rock" xml:space="preserve">
         <source>Rock</source>
         <target state="translated">Fels</target>
@@ -3572,6 +3815,11 @@ The uncaught state for a creature</note>
         <target state="translated">SP.VER.</target>
         <note>Battle Stat: SPDEF (Special Defense)</note>
       </trans-unit>
+      <trans-unit id="Sandwich Ingredients" xml:space="preserve">
+        <source>Sandwich Ingredients</source>
+        <target state="translated">Sandwich-Zutaten</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Sapphire" xml:space="preserve">
         <source>Sapphire</source>
         <target state="translated">Saphir</target>
@@ -3581,6 +3829,11 @@ The uncaught state for a creature</note>
         <source>Scarlet</source>
         <target state="translated">Karmesin</target>
         <note>Pokémon Scarlet</note>
+      </trans-unit>
+      <trans-unit id="Scarves" xml:space="preserve">
+        <source>Scarves</source>
+        <target state="translated">Schals</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Scatters Spikes, hurting opposing Pokémon that switch in." xml:space="preserve">
         <source>Scatters Spikes, hurting opposing Pokémon that switch in.</source>
@@ -3753,20 +4006,50 @@ The shiny caught state for a creature</note>
         <target state="translated">Sondersendung</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Special Balls" xml:space="preserve">
+        <source>Special Balls</source>
+        <target state="translated">Spezialbälle</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Special Thanks" xml:space="preserve">
         <source>Special Thanks</source>
         <target state="translated">Besonderer Dank</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Species Candies" xml:space="preserve">
+        <source>Species Candies</source>
+        <target state="translated">Arten Süßigkeiten</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Species-Specific" xml:space="preserve">
+        <source>Species-Specific</source>
+        <target state="translated">Artspezifisch</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Specific Move" xml:space="preserve">
         <source>Specific Move</source>
         <target state="translated">Spezifischer Schritt</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Spelunking" xml:space="preserve">
+        <source>Spelunking</source>
+        <target state="translated">Höhlenforschung</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Squiggle" xml:space="preserve">
         <source>Squiggle</source>
         <target state="translated">Schnörkel</target>
         <note>Creature Shape</note>
+      </trans-unit>
+      <trans-unit id="Standard Balls" xml:space="preserve">
+        <source>Standard Balls</source>
+        <target state="translated">Standardbälle</target>
+        <note>Item Category</note>
+      </trans-unit>
+      <trans-unit id="Stat Boosts" xml:space="preserve">
+        <source>Stat Boosts</source>
+        <target state="translated">Statistik-Boosts</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Static encounter, only one chance" xml:space="preserve">
         <source>Static encounter, only one chance</source>
@@ -3782,6 +4065,11 @@ The shiny caught state for a creature</note>
         <source>Status</source>
         <target state="translated">Status</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Status Cures" xml:space="preserve">
+        <source>Status Cures</source>
+        <target state="translated">Statusheilungen</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Steals the target’s move, if it’s self-targeted." xml:space="preserve">
         <source>Steals the target’s move, if it’s self-targeted.</source>
@@ -3848,10 +4136,20 @@ The shiny caught state for a creature</note>
         <target state="translated">Schwert</target>
         <note>Pokémon Sword</note>
       </trans-unit>
+      <trans-unit id="TM Materials" xml:space="preserve">
+        <source>TM Materials</source>
+        <target state="translated">TM-Materialien</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="TM Moves" xml:space="preserve">
         <source>TM Moves</source>
         <target state="translated">TM Angriffe</target>
         <note>Creature Page TM Moves Section Header</note>
+      </trans-unit>
+      <trans-unit id="TMs and HMs" xml:space="preserve">
+        <source>TMs and HMs</source>
+        <target state="translated">TMs und HMs</target>
+        <note>Item Pocket</note>
       </trans-unit>
       <trans-unit id="Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages." xml:space="preserve">
         <source>Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages.</source>
@@ -3902,6 +4200,11 @@ The shiny caught state for a creature</note>
         <source>Tentacles</source>
         <target state="translated">Tentakel</target>
         <note>Creature Shape</note>
+      </trans-unit>
+      <trans-unit id="Terra Shard" xml:space="preserve">
+        <source>Terra Shard</source>
+        <target state="translated">Terra-Scherbe</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Thanks for your support" xml:space="preserve">
         <source>Thanks for your support</source>
@@ -4048,6 +4351,11 @@ The shiny caught state for a creature</note>
         <target state="translated">Handeln mit einem In-Game-Charakter</target>
         <note>Encounter Method</note>
       </trans-unit>
+      <trans-unit id="Training" xml:space="preserve">
+        <source>Training</source>
+        <target state="translated">Ausbildung</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks." xml:space="preserve">
         <source>Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks.</source>
         <target state="translated">Überträgt 1/4 der maximalen KP des Benutzers auf eine Puppe und schützt den Benutzer vor weiteren Schäden oder Statusänderungen, bis sie kaputt geht.</target>
@@ -4068,10 +4376,20 @@ The shiny caught state for a creature</note>
         <target state="translated">Tutor Angriffe</target>
         <note>Creature Page Tutor Moves Section Header</note>
       </trans-unit>
+      <trans-unit id="Type Enhancement" xml:space="preserve">
+        <source>Type Enhancement</source>
+        <target state="translated">Typverbesserung</target>
+        <note>Item Category</note>
+      </trans-unit>
       <trans-unit id="Type Matchups" xml:space="preserve">
         <source>Type Matchups</source>
         <target state="translated">Typ-Schwächen</target>
         <note>Creature Page Type Matchups Section Header</note>
+      </trans-unit>
+      <trans-unit id="Type Pprotection" xml:space="preserve">
+        <source>Type Pprotection</source>
+        <target state="translated">Typ PSchutz</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Type:" xml:space="preserve">
         <source>Type:</source>
@@ -4097,7 +4415,9 @@ The shiny caught state for a creature</note>
         <source>Unknown</source>
         <target state="translated">Unbekannte</target>
         <note>Creature Shape
-Encounter Method</note>
+Encounter Method
+Item Category
+   Item Pocket</note>
       </trans-unit>
       <trans-unit id="Unknown Ability" xml:space="preserve">
         <source>Unknown Ability</source>
@@ -4113,6 +4433,11 @@ Encounter Method</note>
         <source>Unlock Every Creature</source>
         <target state="translated">Schalte alle Kreaturen frei</target>
         <note>Paywall Text</note>
+      </trans-unit>
+      <trans-unit id="Unused" xml:space="preserve">
+        <source>Unused</source>
+        <target state="translated">Unbenutzt</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Upgrade to" xml:space="preserve">
         <source>Upgrade to</source>
@@ -4378,6 +4703,11 @@ Encounter Method</note>
         <source>Violet</source>
         <target state="translated">Purpur</target>
         <note>Pokémon Violet</note>
+      </trans-unit>
+      <trans-unit id="Vitamins" xml:space="preserve">
+        <source>Vitamins</source>
+        <target state="translated">Vitamine</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Walking in bridge shadows" xml:space="preserve">
         <source>Walking in bridge shadows</source>
@@ -4649,6 +4979,11 @@ Encounter Method</note>
         <source>You’ve got it</source>
         <target state="translated">Geschnappt</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Z-Crystals" xml:space="preserve">
+        <source>Z-Crystals</source>
+        <target state="translated">Z-Kristalle</target>
+        <note>Item Category</note>
       </trans-unit>
       <trans-unit id="a specific creature" xml:space="preserve">
         <source>a specific creature</source>
