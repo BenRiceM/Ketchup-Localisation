@@ -1202,7 +1202,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Discards the user’s stat changes and copies the target’s." xml:space="preserve">
         <source>Discards the user’s stat changes and copies the target’s.</source>
-        <target state="translated">Verwirft die Statusänderungen dersAnwenders und kopiert die des Ziels.</target>
+        <target state="translated">Verwirft die Statusänderungen des Anwenders und kopiert die des Ziels.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Disclaimer" xml:space="preserve">
