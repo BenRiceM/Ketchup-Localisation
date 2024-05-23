@@ -139,7 +139,7 @@
       "comment" : "if male evolution requirement   "
     },
     " in " : {
-
+      "comment" : "_in_"
     },
     " in the DS’s second slot." : {
       "comment" : "Encounter Condition"
@@ -963,6 +963,9 @@
     },
     "Flying" : {
       "comment" : "Creature Egg Group\nPokémon Type Flying"
+    },
+    "for " : {
+      "comment" : "for_"
     },
     "for all features" : {
 

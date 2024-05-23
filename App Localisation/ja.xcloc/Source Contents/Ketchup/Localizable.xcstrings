@@ -139,7 +139,7 @@
       "comment" : "if male evolution requirement   "
     },
     " in " : {
-
+      "comment" : "_in_"
     },
     " in the DS’s second slot." : {
       "comment" : "Encounter Condition"
@@ -975,6 +975,9 @@
     },
     "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves." : {
       "comment" : "Move Effect Description"
+    },
+    "for " : {
+      "comment" : "for_"
     },
     "For five turns, slower Pokémon will act before faster Pokémon." : {
       "comment" : "Move Effect Description"

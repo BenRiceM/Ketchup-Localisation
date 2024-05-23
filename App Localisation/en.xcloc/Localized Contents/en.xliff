@@ -235,7 +235,7 @@
       <trans-unit id=" in " xml:space="preserve">
         <source> in </source>
         <target state="new"> in </target>
-        <note/>
+        <note>_in_</note>
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
         <source> in the DS’s second slot.</source>
@@ -5025,6 +5025,11 @@ Item Category
         <source>drill down by type, catch state and more</source>
         <target state="new">drill down by type, catch state and more</target>
         <note>Paywall Text</note>
+      </trans-unit>
+      <trans-unit id="for " xml:space="preserve">
+        <source>for </source>
+        <target state="new">for </target>
+        <note>for_</note>
       </trans-unit>
       <trans-unit id="for all features" xml:space="preserve">
         <source>for all features</source>

@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id=" can be acquired through evolution in " xml:space="preserve">
         <source> can be acquired through evolution in </source>
-        <target state="translated"> peut être acquis par l'évolution dans</target>
+        <target state="translated"> peut être acquis par l'évolution dans </target>
         <note>Catch Info via evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired using a PokeWalker accessory in " xml:space="preserve">
@@ -235,7 +235,7 @@
       <trans-unit id=" in " xml:space="preserve">
         <source> in </source>
         <target state="translated"> dans</target>
-        <note/>
+        <note>_in_</note>
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
         <source> in the DS’s second slot.</source>
@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="(they’re dials!)" xml:space="preserve">
         <source>(they’re dials!)</source>
-        <target state="translated">(Ce sont des cadrons!)</target>
+        <target state="translated">(Ce sont des disques !)</target>
         <note/>
       </trans-unit>
       <trans-unit id=", but this service is no longer available." xml:space="preserve">
@@ -375,7 +375,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
-        <target state="translated">À peu près</target>
+        <target state="translated">À propos</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Ben" xml:space="preserve">
@@ -760,7 +760,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Bug" xml:space="preserve">
         <source>Bug</source>
-        <target state="translated">Punaise</target>
+        <target state="translated">Insecte</target>
         <note>Creature Egg Group
 Pokémon Type Bug</note>
       </trans-unit>
@@ -861,7 +861,7 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Catching" xml:space="preserve">
         <source>Catching</source>
-        <target state="translated">Contagieuse</target>
+        <target state="translated">Attraper</target>
         <note>The Creature Page Catching Section Title</note>
       </trans-unit>
       <trans-unit id="Catching Bonus" xml:space="preserve">
@@ -1117,7 +1117,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target state="translated">Sombre</target>
+        <target state="translated">Ténèbres</target>
         <note>Pokémon Type Dark</note>
       </trans-unit>
       <trans-unit id="Data Cards" xml:space="preserve">
@@ -1207,7 +1207,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Disclaimer" xml:space="preserve">
         <source>Disclaimer</source>
-        <target state="translated">Démenti</target>
+        <target state="translated">Avertissement</target>
         <note/>
       </trans-unit>
       <trans-unit id="Distance" xml:space="preserve">
@@ -1338,12 +1338,12 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Egg Group" xml:space="preserve">
         <source>Egg Group</source>
-        <target state="translated">Groupe d’œufs</target>
+        <target state="translated">Groupe d’oeufs</target>
         <note/>
       </trans-unit>
       <trans-unit id="Egg Groups" xml:space="preserve">
         <source>Egg Groups</source>
-        <target state="translated">Groupes d'œufs</target>
+        <target state="translated">Groupes d'oeufs</target>
         <note/>
       </trans-unit>
       <trans-unit id="Egg Moves" xml:space="preserve">
@@ -1353,7 +1353,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Electric" xml:space="preserve">
         <source>Electric</source>
-        <target state="translated">Électrique</target>
+        <target state="translated">Électrik</target>
         <note>Pokémon Type Electric</note>
       </trans-unit>
       <trans-unit id="Email Ben" xml:space="preserve">
@@ -1635,7 +1635,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Gender Rate" xml:space="preserve">
         <source>Gender Rate</source>
-        <target state="translated">Taux de genre</target>
+        <target state="translated">Genre</target>
         <note>Gender rate for Creature</note>
       </trans-unit>
       <trans-unit id="Generations" xml:space="preserve">
@@ -1645,7 +1645,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Get Ketchup+" xml:space="preserve">
         <source>Get Ketchup+</source>
-        <target state="translated">Obtenez du ketchup+</target>
+        <target state="translated">Obtenez Ketchup+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Ketchup+ to Unlock Filters" xml:space="preserve">
@@ -1655,7 +1655,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Ghost" xml:space="preserve">
         <source>Ghost</source>
-        <target state="translated">Fantôme</target>
+        <target state="translated">Spectre</target>
         <note>Pokémon Type Ghost</note>
       </trans-unit>
       <trans-unit id="Ghosts pay half their max HP to hurt the target every turn. Others decrease Speed but raise Attack and Defense." xml:space="preserve">
@@ -1680,7 +1680,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Grass" xml:space="preserve">
         <source>Grass</source>
-        <target state="translated">Herbe</target>
+        <target state="translated">Plante</target>
         <note>Pokémon Type Grass</note>
       </trans-unit>
       <trans-unit id="Gravity" xml:space="preserve">
@@ -1690,7 +1690,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Ground" xml:space="preserve">
         <source>Ground</source>
-        <target state="translated">Terre</target>
+        <target state="translated">Sol</target>
         <note>Creature Egg Group
 Pokémon Type Ground</note>
       </trans-unit>
@@ -1701,7 +1701,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Growth Rate" xml:space="preserve">
         <source>Growth Rate</source>
-        <target state="translated">Taux de croissance</target>
+        <target state="translated">Croissance</target>
         <note/>
       </trans-unit>
       <trans-unit id="Guarantees a critical hit with the user’s next move." xml:space="preserve">
@@ -2026,7 +2026,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
         <source>Height</source>
-        <target state="translated">Hauteur</target>
+        <target state="translated">Taille</target>
         <note/>
       </trans-unit>
       <trans-unit id="Held Items" xml:space="preserve">
@@ -2548,7 +2548,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Leave a Review" xml:space="preserve">
         <source>Leave a Review</source>
-        <target state="translated">Laisser un commentaire</target>
+        <target state="translated">Laisser un avis</target>
         <note>Prompt to Leave A Review</note>
       </trans-unit>
       <trans-unit id="Legacy Move" xml:space="preserve">
@@ -2784,12 +2784,12 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Medium" xml:space="preserve">
         <source>Medium</source>
-        <target state="translated">Moyen</target>
+        <target state="translated">Moyenne</target>
         <note>Creature Growth Rate - Medium</note>
       </trans-unit>
       <trans-unit id="Medium-Slow" xml:space="preserve">
         <source>Medium-Slow</source>
-        <target state="translated">Moyen-lent</target>
+        <target state="translated">Moyenne-lente</target>
         <note>Creature Growth Rate - Medium-Slow</note>
       </trans-unit>
       <trans-unit id="Mega Stones" xml:space="preserve">
@@ -2839,7 +2839,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Moves" xml:space="preserve">
         <source>Moves</source>
-        <target state="translated">Se déplace</target>
+        <target state="translated">Attaques</target>
         <note>Navigation item for moves</note>
       </trans-unit>
       <trans-unit id="Moves have 100% accuracy against the target for three turns." xml:space="preserve">
@@ -2889,7 +2889,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="No Eggs" xml:space="preserve">
         <source>No Eggs</source>
-        <target state="translated">Pas d'œufs</target>
+        <target state="translated">Pas d'oeufs</target>
         <note>Creature Egg Group</note>
       </trans-unit>
       <trans-unit id="No Favorites" xml:space="preserve">
@@ -2940,7 +2940,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Not Favorite" xml:space="preserve">
         <source>Not Favorite</source>
-        <target state="translated">Pas de favori</target>
+        <target state="translated">Pas en favori</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not Shiny" xml:space="preserve">
@@ -3401,7 +3401,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Psychic" xml:space="preserve">
         <source>Psychic</source>
-        <target state="translated">Psychique</target>
+        <target state="translated">Psy</target>
         <note>Pokémon Type Psychic</note>
       </trans-unit>
       <trans-unit id="Pulse" xml:space="preserve">
@@ -3791,7 +3791,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Rock" xml:space="preserve">
         <source>Rock</source>
-        <target state="translated">Rock</target>
+        <target state="translated">Roche</target>
         <note>Pokémon Type Rock</note>
       </trans-unit>
       <trans-unit id="Ruby" xml:space="preserve">
@@ -4382,7 +4382,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Type Matchups" xml:space="preserve">
         <source>Type Matchups</source>
-        <target state="translated">Type Matchups</target>
+        <target state="translated">Forces et Faiblesses</target>
         <note>Creature Page Type Matchups Section Header</note>
       </trans-unit>
       <trans-unit id="Type Pprotection" xml:space="preserve">
@@ -4991,7 +4991,7 @@ Item Category
       </trans-unit>
       <trans-unit id="a specific item" xml:space="preserve">
         <source>a specific item</source>
-        <target state="translated">un article spécifique</target>
+        <target state="translated"> article spécifique</target>
         <note>a specific item evolution text</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
@@ -5023,6 +5023,11 @@ Item Category
         <source>drill down by type, catch state and more</source>
         <target state="translated">explorez par type, état de capture et plus encore</target>
         <note>Paywall Text</note>
+      </trans-unit>
+      <trans-unit id="for " xml:space="preserve">
+        <source>for </source>
+        <target state="translated">pour </target>
+        <note>for_</note>
       </trans-unit>
       <trans-unit id="for all features" xml:space="preserve">
         <source>for all features</source>
