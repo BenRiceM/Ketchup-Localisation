@@ -49,42 +49,42 @@
       </trans-unit>
       <trans-unit id=" can be acquired in " xml:space="preserve">
         <source> can be acquired in </source>
-        <target state="translated"> peut être acquis dans</target>
+        <target state="translated"> peut être obtenu dans</target>
         <note>Catch Info acquired in</note>
       </trans-unit>
       <trans-unit id=" can be acquired through breeding in " xml:space="preserve">
         <source> can be acquired through breeding in </source>
-        <target state="translated"> peut être acquis par la reproduction dans</target>
+        <target state="translated"> peut être obtenu par la reproduction dans</target>
         <note>Catch Info via breeding</note>
       </trans-unit>
       <trans-unit id=" can be acquired through evolution in " xml:space="preserve">
         <source> can be acquired through evolution in </source>
-        <target state="translated"> peut être acquis par l'évolution dans </target>
+        <target state="translated"> peut être obtenu par l'évolution dans </target>
         <note>Catch Info via evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired using a PokeWalker accessory in " xml:space="preserve">
         <source> can be acquired using a PokeWalker accessory in </source>
-        <target state="translated"> peut être acquis à l'aide d'un accessoire PokeWalker dans</target>
+        <target state="translated"> peut être obtenu à l'aide d'un accessoire PokeWalker dans</target>
         <note>Catch Info via Pokewalker</note>
       </trans-unit>
       <trans-unit id=" can be acquired via in-game trade " xml:space="preserve">
         <source> can be acquired via in-game trade </source>
-        <target state="translated"> peut être acquis via le commerce en jeu</target>
+        <target state="translated"> peut être obtenu via le commerce en jeu</target>
         <note>Catch Info via in-game trade</note>
       </trans-unit>
       <trans-unit id=" can be acquired via the National Park " xml:space="preserve">
         <source> can be acquired via the National Park </source>
-        <target state="translated"> peut être acheté via le parc national</target>
+        <target state="translated"> peut être obtenu via le parc national</target>
         <note>Catch Info via National Park</note>
       </trans-unit>
       <trans-unit id=" can be acquired via trade evolution in " xml:space="preserve">
         <source> can be acquired via trade evolution in </source>
-        <target state="translated"> peut être acquis via l'évolution du commerce dans </target>
+        <target state="translated"> peut être obtenu via l'évolution du commerce dans </target>
         <note>Catch Info via trade evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired with a second cartridge inserted into the system in " xml:space="preserve">
         <source> can be acquired with a second cartridge inserted into the system in </source>
-        <target state="translated"> peut être acquis avec une deuxième cartouche insérée dans le système en </target>
+        <target state="translated"> peut être obtenu avec une deuxième cartouche insérée dans le système en </target>
         <note>Catch Info via second DS cartridge</note>
       </trans-unit>
       <trans-unit id=" can be caught in " xml:space="preserve">
