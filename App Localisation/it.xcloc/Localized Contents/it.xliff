@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="(they’re dials!)" xml:space="preserve">
         <source>(they’re dials!)</source>
-        <target state="translated">(Sono Quadranti!)</target>
+        <target state="translated">(sono ruote!)</target>
         <note/>
       </trans-unit>
       <trans-unit id=", but this service is no longer available." xml:space="preserve">
@@ -375,17 +375,17 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
-        <target state="translated">Circa</target>
+        <target state="translated">Informazioni</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Ben" xml:space="preserve">
         <source>About Ben</source>
-        <target state="translated">A proposito di Ben</target>
+        <target state="translated">Informazioni su Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Ketchup" xml:space="preserve">
         <source>About Ketchup</source>
-        <target state="translated">A proposito di Ketchup</target>
+        <target state="translated">Informazioni su Ketchup</target>
         <note/>
       </trans-unit>
       <trans-unit id="Accuracy" xml:space="preserve">
@@ -395,7 +395,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Add DS Skin" xml:space="preserve">
         <source>Add DS Skin</source>
-        <target state="translated">Aggiungi Skin DS</target>
+        <target state="translated">Aggiungi la skin DS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add GBA Skin" xml:space="preserve">
@@ -405,7 +405,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Add GBC Skin" xml:space="preserve">
         <source>Add GBC Skin</source>
-        <target state="translated">Aggiungi pelle GBC</target>
+        <target state="translated">Aggiungi la skin GBC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
@@ -590,7 +590,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Also by Ben" xml:space="preserve">
         <source>Also by Ben</source>
-        <target state="translated">Anche di Ben</target>
+        <target state="translated">Altre app di Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alt App Icons" xml:space="preserve">
@@ -605,7 +605,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="App Icon" xml:space="preserve">
         <source>App Icon</source>
-        <target state="translated">Icona Dell'app</target>
+        <target state="translated">Icona dell'app</target>
         <note/>
       </trans-unit>
       <trans-unit id="App Icons" xml:space="preserve">
@@ -660,7 +660,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Bad Beld Items" xml:space="preserve">
         <source>Bad Beld Items</source>
-        <target state="translated">Articoli scadenti</target>
+        <target state="translated">Strumenti tenuti dannosi</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Badly Poison" xml:space="preserve">
@@ -695,7 +695,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Battle Items" xml:space="preserve">
         <source>Battle Items</source>
-        <target state="translated">Oggetti da battaglia</target>
+        <target state="translated">Strumenti lotta</target>
         <note>Item Pocket</note>
       </trans-unit>
       <trans-unit id="Berries" xml:space="preserve">
@@ -760,7 +760,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Bug" xml:space="preserve">
         <source>Bug</source>
-        <target state="translated">Bug</target>
+        <target state="translated">Coleottero</target>
         <note>Creature Egg Group
 Pokémon Type Bug</note>
       </trans-unit>
@@ -876,7 +876,7 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Caught" xml:space="preserve">
         <source>Caught</source>
-        <target state="translated">Beccato</target>
+        <target state="translated">Catturato</target>
         <note>Filter Option for Caught Creatures
 The caught state for a creature</note>
       </trans-unit>
@@ -1117,7 +1117,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
         <source>Dark</source>
-        <target state="translated">Scuro</target>
+        <target state="translated">Buio</target>
         <note>Pokémon Type Dark</note>
       </trans-unit>
       <trans-unit id="Data Cards" xml:space="preserve">
@@ -1152,7 +1152,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Delta Skin" xml:space="preserve">
         <source>Delta Skin</source>
-        <target state="translated">Pelle Delta</target>
+        <target state="translated">Skin Delta</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delta Skins require Ketchup+" xml:space="preserve">
@@ -1353,7 +1353,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Electric" xml:space="preserve">
         <source>Electric</source>
-        <target state="translated">Elettrico</target>
+        <target state="translated">Elettro</target>
         <note>Pokémon Type Electric</note>
       </trans-unit>
       <trans-unit id="Email Ben" xml:space="preserve">
@@ -1393,7 +1393,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Event Items" xml:space="preserve">
         <source>Event Items</source>
-        <target state="translated">Articoli per eventi</target>
+        <target state="translated">Strumenti evento</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Evolution" xml:space="preserve">
@@ -1423,7 +1423,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Fairy" xml:space="preserve">
         <source>Fairy</source>
-        <target state="translated">Fata</target>
+        <target state="translated">Folletto</target>
         <note>Creature Egg Group
 Pokémon Type Fairy</note>
       </trans-unit>
@@ -1544,7 +1544,7 @@ Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Flying" xml:space="preserve">
         <source>Flying</source>
-        <target state="translated">Che vola</target>
+        <target state="translated">Volante</target>
         <note>Creature Egg Group
 Pokémon Type Flying</note>
       </trans-unit>
@@ -1580,7 +1580,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
         <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
-        <target state="translated">Per anni ho voluto costruire un'app Pokédex, ma non sono mai riuscito a trovare il tempo o l'angolo unico per giustificarlo. All'inizio del 2024, ho deciso di andarci. Ho avuto una nuova idea per un campo di ricerca combinato, una barra delle schede e una visualizzazione della cronologia che sentivo potesse davvero legare l'intera app insieme e rendere la navigazione incredibilmente veloce e fluida. Spero che la combinazione di questo nuovo sistema di navigazione e tutte le informazioni all'interno dell'app piacciano ai vecchi e ai nuovi fan dei giochi Pokémon, tanto quanto mi è piaciuto lavorarci.</target>
+        <target state="translated">Per anni ho voluto costruire un'app Pokédex, ma non sono mai riuscitə a trovare il tempo o un'idea sufficientemente originale. All'inizio del 2024 ho deciso di provarci. Avevo in mente un campo di ricerca combinato, una barra delle schede, e una visualizzazione della cronologia che sentivo potesse davvero completare l'app e rendere la navigazione incredibilmente veloce e fluida. Spero che la combinazione di questo nuovo sistema di navigazione e tutte le informazioni all'interno dell'app piacciano ai vecchi e ai nuovi fan dei giochi Pokémon, tanto quanto a me è piaciuto lavorarci.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
@@ -1655,7 +1655,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Ghost" xml:space="preserve">
         <source>Ghost</source>
-        <target state="translated">Fantasma</target>
+        <target state="translated">Spettro</target>
         <note>Pokémon Type Ghost</note>
       </trans-unit>
       <trans-unit id="Ghosts pay half their max HP to hurt the target every turn. Others decrease Speed but raise Attack and Defense." xml:space="preserve">
@@ -1665,7 +1665,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Gives the user’s held item to the target." xml:space="preserve">
         <source>Gives the user’s held item to the target.</source>
-        <target state="translated">Fornisce l'oggetto trattenuto dell'utente al bersaglio.</target>
+        <target state="translated">Fornisce lo strumento tenuto dell'utente al bersaglio.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Gold" xml:space="preserve">
@@ -1931,7 +1931,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Has double power if the user has no held item." xml:space="preserve">
         <source>Has double power if the user has no held item.</source>
-        <target state="translated">Ha un potere doppio se l'utente non ha alcun oggetto trattenuto.</target>
+        <target state="translated">Ha un potere doppio se l'utente non ha alcun oggetto tenuto.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has double power if the user’s last move failed." xml:space="preserve">
@@ -2031,7 +2031,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Held Items" xml:space="preserve">
         <source>Held Items</source>
-        <target state="translated">Oggetti trattenuti</target>
+        <target state="translated">Strumenti tenuti</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Hello, world!" xml:space="preserve">
@@ -2142,19 +2142,19 @@ Pokémon Type Ground</note>
       <trans-unit id="I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. &#10;— Ben" xml:space="preserve">
         <source>I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. 
 — Ben</source>
-        <target state="translated">Apprezzo davvero la privacy dei miei clienti, motivo per cui non faccio alcun tracciamento personalizzato. L'unica cosa che mi interessa è assicurarmi che l'app funzioni bene.
+        <target state="translated">Ci tengo davvero alla privacy dei miei clienti, motivo per cui non faccio alcun tracciamento personalizzato. L'unica cosa che mi interessa è assicurarmi che l'app funzioni bene.
 
 — Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available." xml:space="preserve">
         <source>I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available.</source>
-        <target state="translated">Uso opere d'arte open-source, che non includono ogni forma di ogni creatura. Aggiungerò la grafica mancante non appena sarà disponibile.</target>
+        <target state="translated">Uso immagini open-source, che non includono ogni forma di ogni creatura. Aggiungerò le immagini mancanti non appena sarà disponibile.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ice" xml:space="preserve">
         <source>Ice</source>
-        <target state="translated">Gelato</target>
+        <target state="translated">Ghiaccio</target>
         <note>Pokémon Type Ice</note>
       </trans-unit>
       <trans-unit id="If target has a berry, inflicts double damage and uses the berry." xml:space="preserve">
@@ -2464,7 +2464,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Items" xml:space="preserve">
         <source>Items</source>
-        <target state="translated">Articoli</target>
+        <target state="translated">Strumenti</target>
         <note>Item Pocket
 Navigation item for items</note>
       </trans-unit>
@@ -2485,7 +2485,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years." xml:space="preserve">
         <source>I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years.</source>
-        <target state="translated">Sono un designer, sviluppatore e fotografo di 30 anni di Dublino, in Irlanda. Sono stato agganciato ai giochi Pokémon da quando ho avuto modo di giocare per la prima volta alla versione gialla su un Game Boy Color viola trasluscente. Spero che Ketchup aiuti gli allenatori di Pokémon di tutto il mondo a padroneggiare questi giochi che mi hanno portato tanta gioia nel corso degli anni.</target>
+        <target state="translated">Sono unə designer, sviluppatorə e fotografə di 30 anni di Dublino, in Irlanda. Sono patitə di giochi Pokémon da quando ho giocato per la prima volta alla versione Giallo su un Game Boy Color viola trasparente. Spero che Ketchup aiuti gli allenatori di Pokémon di tutto il mondo a padroneggiare questi giochi che mi hanno dato tanta gioia nel corso degli anni.</target>
         <note/>
       </trans-unit>
       <trans-unit id="I’m not eating the cat food, just so we’re clear" xml:space="preserve">
@@ -2826,7 +2826,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Missing Artwork" xml:space="preserve">
         <source>Missing Artwork</source>
-        <target state="translated">Grafica mancante</target>
+        <target state="translated">Immagini mancanti</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monster" xml:space="preserve">
@@ -2841,7 +2841,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Moves" xml:space="preserve">
         <source>Moves</source>
-        <target state="translated">Si muove</target>
+        <target state="translated">Mosse</target>
         <note>Navigation item for moves</note>
       </trans-unit>
       <trans-unit id="Moves have 100% accuracy against the target for three turns." xml:space="preserve">
@@ -2861,7 +2861,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Negates held items for five turns." xml:space="preserve">
         <source>Negates held items for five turns.</source>
-        <target state="translated">Nega gli oggetti trattenuti per cinque turni.</target>
+        <target state="translated">Nega gli strumenti tenuti per cinque turni.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Never misses." xml:space="preserve">
@@ -2947,7 +2947,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Not Shiny" xml:space="preserve">
         <source>Not Shiny</source>
-        <target state="translated">Non lucido</target>
+        <target state="translated">Non cromatico</target>
         <note>Filter Option for Not-Caught-Shiny Creatures</note>
       </trans-unit>
       <trans-unit id="Not very effective" xml:space="preserve">
@@ -3102,7 +3102,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Picnic Items" xml:space="preserve">
         <source>Picnic Items</source>
-        <target state="translated">Articoli da picnic</target>
+        <target state="translated">Strumenti per picnic</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Pin" xml:space="preserve">
@@ -3403,7 +3403,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Psychic" xml:space="preserve">
         <source>Psychic</source>
-        <target state="translated">Psichico</target>
+        <target state="translated">Psico</target>
         <note>Pokémon Type Psychic</note>
       </trans-unit>
       <trans-unit id="Pulse" xml:space="preserve">
@@ -3928,13 +3928,13 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Shiny" xml:space="preserve">
         <source>Shiny</source>
-        <target state="translated">Lucido</target>
+        <target state="translated">Cromatico</target>
         <note>Filter Option for Caught-Shiny Creatures
 The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Shiny Pokemon are very rare, and are highly valued among collectors." xml:space="preserve">
         <source>Shiny Pokemon are very rare, and are highly valued among collectors.</source>
-        <target state="translated">I Pokémon shiny sono molto rari e sono molto apprezzati tra i collezionisti.</target>
+        <target state="translated">I Pokémon cromatici sono molto rari e sono molto apprezzati tra i collezionisti.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Favorites" xml:space="preserve">
@@ -4009,7 +4009,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Special Balls" xml:space="preserve">
         <source>Special Balls</source>
-        <target state="translated">Palle speciali</target>
+        <target state="translated">Sfere speciali</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Special Thanks" xml:space="preserve">
@@ -4044,7 +4044,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Standard Balls" xml:space="preserve">
         <source>Standard Balls</source>
-        <target state="translated">Palle standard</target>
+        <target state="translated">Sfere standard</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Stat Boosts" xml:space="preserve">
@@ -4139,17 +4139,17 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="TM Materials" xml:space="preserve">
         <source>TM Materials</source>
-        <target state="translated">Materiali della MT</target>
+        <target state="translated">Materiali per MT</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="TM Moves" xml:space="preserve">
         <source>TM Moves</source>
-        <target state="translated">TM si muove</target>
+        <target state="translated">Mosse MT</target>
         <note>Creature Page TM Moves Section Header</note>
       </trans-unit>
       <trans-unit id="TMs and HMs" xml:space="preserve">
         <source>TMs and HMs</source>
-        <target state="translated">TM e HM</target>
+        <target state="translated">MT e MN</target>
         <note>Item Pocket</note>
       </trans-unit>
       <trans-unit id="Takes one turn to charge, then raises the user’s Special Attack, Special Defense, and Speed by two stages." xml:space="preserve">
@@ -4174,12 +4174,12 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Target cannot use held items." xml:space="preserve">
         <source>Target cannot use held items.</source>
-        <target state="translated">Il bersaglio non può utilizzare gli oggetti trattenuti.</target>
+        <target state="translated">Il bersaglio non può utilizzare gli strumenti tenuti.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target drops its held item." xml:space="preserve">
         <source>Target drops its held item.</source>
-        <target state="translated">Il bersaglio lascia cadere l'oggetto trattenuto.</target>
+        <target state="translated">Il bersaglio lascia cadere lo strumento tenuto.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user." xml:space="preserve">
@@ -4344,7 +4344,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Throws held item at the target, its power depends on the item." xml:space="preserve">
         <source>Throws held item at the target, its power depends on the item.</source>
-        <target state="translated">Lancia l'oggetto tenuto contro il bersaglio, la sua potenza dipende dall'oggetto.</target>
+        <target state="translated">Lancia lo strumento tenuto contro il bersaglio, la sua potenza dipende dall'oggetto.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Trading with an in-game character" xml:space="preserve">
@@ -4374,7 +4374,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Tutor Moves" xml:space="preserve">
         <source>Tutor Moves</source>
-        <target state="translated">Il tutor si muove</target>
+        <target state="translated">Mosse tutor</target>
         <note>Creature Page Tutor Moves Section Header</note>
       </trans-unit>
       <trans-unit id="Type Enhancement" xml:space="preserve">
@@ -4792,7 +4792,7 @@ Item Category
       </trans-unit>
       <trans-unit id="What’s Delta, and what are skins?" xml:space="preserve">
         <source>What’s Delta, and what are skins?</source>
-        <target state="translated">Cos'è Delta e cosa sono le pelli?</target>
+        <target state="translated">Cos'è Delta e cosa sono le skin?</target>
         <note/>
       </trans-unit>
       <trans-unit id="What’s the difference between the two prices for Ketchup+?" xml:space="preserve">
@@ -4808,7 +4808,7 @@ Item Category
       <trans-unit id="While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback. &#10;— Ben" xml:space="preserve">
         <source>While I do read every message, as I'm just one person, I’m not able to respond to every one. I hope you understand, and thanks for your feedback. 
 — Ben</source>
-        <target state="translated">Mentre leggo ogni messaggio, essendo solo una persona, non sono in grado di rispondere a tutti. Spero che tu capisca, e grazie per il tuo feedback.
+        <target state="translated">Leggo ogni messaggio, ma essendo una persona singola, non sono in grado di rispondere a tutti. Spero che tu capisca, e grazie per il tuo feedback.
 
 — Ben</target>
         <note/>
@@ -4970,7 +4970,7 @@ Item Category
       </trans-unit>
       <trans-unit id="You’ve caught every shiny!" xml:space="preserve">
         <source>You’ve caught every shiny!</source>
-        <target state="translated">Hai preso ogni lucido!</target>
+        <target state="translated">Hai preso ogni cromatico!</target>
         <note/>
       </trans-unit>
       <trans-unit id="You’ve caught them all, now your cause is to train them." xml:space="preserve">
