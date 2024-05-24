@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id=" can be caught in " xml:space="preserve">
         <source> can be caught in </source>
-        <target state="translated"> peut être pris dans </target>
+        <target state="translated"> peut être attrapé dans </target>
         <note>Catch Info can be caught</note>
       </trans-unit>
       <trans-unit id=" can be purchased in " xml:space="preserve">
