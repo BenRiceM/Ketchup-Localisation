@@ -44,17 +44,17 @@
       </trans-unit>
       <trans-unit id=" can be acquired as a gift in " xml:space="preserve">
         <source> can be acquired as a gift in </source>
-        <target state="translated"> peut être acheté en cadeau dans</target>
+        <target state="translated"> peut être acheté en cadeau dans </target>
         <note>Catch Info is gift</note>
       </trans-unit>
       <trans-unit id=" can be acquired in " xml:space="preserve">
         <source> can be acquired in </source>
-        <target state="translated"> peut être obtenu dans</target>
+        <target state="translated"> peut être obtenu dans </target>
         <note>Catch Info acquired in</note>
       </trans-unit>
       <trans-unit id=" can be acquired through breeding in " xml:space="preserve">
         <source> can be acquired through breeding in </source>
-        <target state="translated"> peut être obtenu par la reproduction dans</target>
+        <target state="translated"> peut être obtenu par la reproduction dans </target>
         <note>Catch Info via breeding</note>
       </trans-unit>
       <trans-unit id=" can be acquired through evolution in " xml:space="preserve">
@@ -64,17 +64,17 @@
       </trans-unit>
       <trans-unit id=" can be acquired using a PokeWalker accessory in " xml:space="preserve">
         <source> can be acquired using a PokeWalker accessory in </source>
-        <target state="translated"> peut être obtenu à l'aide d'un accessoire PokeWalker dans</target>
+        <target state="translated"> peut être obtenu à l'aide d'un accessoire PokeWalker dans </target>
         <note>Catch Info via Pokewalker</note>
       </trans-unit>
       <trans-unit id=" can be acquired via in-game trade " xml:space="preserve">
         <source> can be acquired via in-game trade </source>
-        <target state="translated"> peut être obtenu via le commerce en jeu</target>
+        <target state="translated"> peut être obtenu via le commerce en jeu </target>
         <note>Catch Info via in-game trade</note>
       </trans-unit>
       <trans-unit id=" can be acquired via the National Park " xml:space="preserve">
         <source> can be acquired via the National Park </source>
-        <target state="translated"> peut être obtenu via le parc national</target>
+        <target state="translated"> peut être obtenu via le parc national </target>
         <note>Catch Info via National Park</note>
       </trans-unit>
       <trans-unit id=" can be acquired via trade evolution in " xml:space="preserve">
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id=" can be transferred from Pokémon Go into" xml:space="preserve">
         <source> can be transferred from Pokémon Go into</source>
-        <target state="translated"> peut être transféré de Pokémon Go à </target>
+        <target state="translated"> peut être transféré de Pokémon Go à</target>
         <note>Catch Info via Pokemon Go</note>
       </trans-unit>
       <trans-unit id=" can be transferred from Pokémon Ranger into " xml:space="preserve">
@@ -194,7 +194,7 @@
       </trans-unit>
       <trans-unit id=" if happiness is at least " xml:space="preserve">
         <source> if happiness is at least </source>
-        <target state="translated"> si le bonheur est au moins</target>
+        <target state="translated"> si le bonheur est au moins </target>
         <note>high happiness evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if its attack is equal to its defence" xml:space="preserve">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id=" in " xml:space="preserve">
         <source> in </source>
-        <target state="translated"> dans</target>
+        <target state="translated"> dans </target>
         <note>_in_</note>
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id=" is incompatible with " xml:space="preserve">
         <source> is incompatible with </source>
-        <target state="translated"> est incompatible avec</target>
+        <target state="translated"> est incompatible avec </target>
         <note>Catch Info incompatible text</note>
       </trans-unit>
       <trans-unit id=" is one of the starter Pokémon in " xml:space="preserve">
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id=" while holding a specific item" xml:space="preserve">
         <source> while holding a specific item</source>
-        <target state="translated"> tout en tenant un objet spécifique </target>
+        <target state="translated"> tout en tenant un objet spécifique</target>
         <note>holding unknown item evolution requirement</note>
       </trans-unit>
       <trans-unit id=" while raining" xml:space="preserve">
@@ -856,7 +856,7 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Catch info is unavailble for " xml:space="preserve">
         <source>Catch info is unavailble for </source>
-        <target state="translated">Les informations de capture ne sont pas disponibles pour</target>
+        <target state="translated">Les informations de capture ne sont pas disponibles pour </target>
         <note/>
       </trans-unit>
       <trans-unit id="Catching" xml:space="preserve">
@@ -4991,7 +4991,7 @@ Item Category
       </trans-unit>
       <trans-unit id="a specific item" xml:space="preserve">
         <source>a specific item</source>
-        <target state="translated"> article spécifique</target>
+        <target state="translated">un article spécifique</target>
         <note>a specific item evolution text</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
@@ -5086,7 +5086,7 @@ Item Category
       </trans-unit>
       <trans-unit id="when exposed to a " xml:space="preserve">
         <source>when exposed to a </source>
-        <target state="translated">lorsqu'elle est exposée à un</target>
+        <target state="translated">lorsqu'elle est exposée à un </target>
         <note>when exposed to item evolution text</note>
       </trans-unit>
       <trans-unit id="when leveled up after losing at least 294 HP from recoil damage" xml:space="preserve">
