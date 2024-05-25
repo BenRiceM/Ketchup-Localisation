@@ -169,7 +169,7 @@
       </trans-unit>
       <trans-unit id=" if a specific creature is in the player’s party" xml:space="preserve">
         <source> if a specific creature is in the player’s party</source>
-        <target state="translated"> si une créature spécifique est dans la partie du joueur</target>
+        <target state="translated"> si une créature spécifique est dans l’équipe du joueur</target>
         <note>unknown specific creature in party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if affection is at least " xml:space="preserve">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
         <source> is in the player’s party</source>
-        <target state="translated"> est dans la fête du joueur</target>
+        <target state="translated"> est dans l'équipe du joueur</target>
         <note>creature in players party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" is incompatible with " xml:space="preserve">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id=" type creature is in the player’s party" xml:space="preserve">
         <source> type creature is in the player’s party</source>
-        <target state="translated"> la créature de type est dans la fête du joueur</target>
+        <target state="translated"> la créature de type est dans l’équipe du joueur</target>
         <note>in player party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" type move" xml:space="preserve">
