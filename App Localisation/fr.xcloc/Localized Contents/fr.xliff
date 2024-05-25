@@ -214,17 +214,17 @@
       </trans-unit>
       <trans-unit id=" if knowing " xml:space="preserve">
         <source> if knowing </source>
-        <target state="translated"> si je sais </target>
+        <target state="translated"> si connait </target>
         <note>evolution requirement knowing move condition text</note>
       </trans-unit>
       <trans-unit id=" if knowing a " xml:space="preserve">
         <source> if knowing a </source>
-        <target state="translated"> si je connais un </target>
+        <target state="translated"> si connait un </target>
         <note>evolution requirement knowing move condition text</note>
       </trans-unit>
       <trans-unit id=" if knowing a specific move" xml:space="preserve">
         <source> if knowing a specific move</source>
-        <target state="translated"> si vous connaissez un mouvement spécifique </target>
+        <target state="translated"> si connait une attaque spécifique</target>
         <note>unknown specific move evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if male" xml:space="preserve">
