@@ -4841,7 +4841,7 @@ Item Category
       </trans-unit>
       <trans-unit id="With " xml:space="preserve">
         <source>With </source>
-        <target state="translated">Avec</target>
+        <target state="translated">Avec </target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns." xml:space="preserve">
