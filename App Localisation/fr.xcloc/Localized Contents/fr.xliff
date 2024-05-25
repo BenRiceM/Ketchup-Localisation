@@ -2282,7 +2282,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="In App Purchase Unavailable" xml:space="preserve">
         <source>In App Purchase Unavailable</source>
-        <target state="translated">Achat dans l’application indisponible</target>
+        <target state="translated">Achat-intégré indisponible</target>
         <note/>
       </trans-unit>
       <trans-unit id="In a Pinch" xml:space="preserve">
