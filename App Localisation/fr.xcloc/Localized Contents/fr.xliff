@@ -299,22 +299,22 @@
       </trans-unit>
       <trans-unit id=" with a save file from Let’s Go Pikachu or Eevee on the same device." xml:space="preserve">
         <source> with a save file from Let’s Go Pikachu or Eevee on the same device.</source>
-        <target state="translated"> avec un fichier de sauvegarde de Let's Go Pikachu ou Eevee sur le même appareil.</target>
+        <target state="translated"> avec un fichier de sauvegarde de Let's Go Pikachu ou Évoli sur le même appareil.</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with a save file from Sword or Shield on the same device." xml:space="preserve">
         <source> with a save file from Sword or Shield on the same device.</source>
-        <target state="translated"> avec un fichier de sauvegarde de Sword ou Shield sur le même appareil.</target>
+        <target state="translated"> avec un fichier de sauvegarde de Épée ou Bouclier sur le même appareil.</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with either the Isle of Armor or Crown Tundra expansions." xml:space="preserve">
         <source> with either the Isle of Armor or Crown Tundra expansions.</source>
-        <target state="translated"> avec les extensions de l'Isle of Armor ou de la Crown Tundra.</target>
+        <target state="translated"> avec les extensions l’île solitaire de l’Armure ou les terres enneigées de la Couronne.</target>
         <note>Catch Info via Isle of Aemor or Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Crown Tundra expansion." xml:space="preserve">
         <source> with the Crown Tundra expansion.</source>
-        <target state="translated"> avec l'extension de la toundra de la couronne.</target>
+        <target state="translated"> avec l'extension les terres enneigées de la Couronne.</target>
         <note>Catch Info via Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Indigo Disk expansion." xml:space="preserve">
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id=" with the Isle of Armor expansion." xml:space="preserve">
         <source> with the Isle of Armor expansion.</source>
-        <target state="translated"> avec l'expansion de l'île d'armure.</target>
+        <target state="translated"> avec l'extension l’île solitaire de l’Armure.</target>
         <note>Catch Info via Isle of Armor</note>
       </trans-unit>
       <trans-unit id=" with the Teal Mask expansion." xml:space="preserve">
@@ -2523,12 +2523,12 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" xml:space="preserve">
         <source>Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters</source>
-        <target state="translated">Kubfu évolue en Rapid Strike Urshifu lorsqu'il est exposé au rouleau d'eau</target>
+        <target state="translated">Kubfu évolue en Rapid Strike Urshifu lorsqu'il est exposé au Rouleau de l’Eau</target>
         <note>Kubfu Rapid evolution text</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness" xml:space="preserve">
         <source>Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness</source>
-        <target state="translated">Kubfu évolue en Urshifu à frappe unique lorsqu'il est exposé au rouleau des ténèbres</target>
+        <target state="translated">Kubfu évolue en Urshifu à frappe unique lorsqu'il est exposé au Rouleau des Ténèbres</target>
         <note>Kubfu Single evolution text</note>
       </trans-unit>
       <trans-unit id="Leaf Green" xml:space="preserve">
