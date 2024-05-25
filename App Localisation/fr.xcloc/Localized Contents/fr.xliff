@@ -254,7 +254,7 @@
       </trans-unit>
       <trans-unit id=" is one of the starter Pokémon in " xml:space="preserve">
         <source> is one of the starter Pokémon in </source>
-        <target state="translated"> est l'un des Pokémon de départ dans </target>
+        <target state="translated"> est l'un des Pokémon starter </target>
         <note>Catch Info is starter</note>
       </trans-unit>
       <trans-unit id=" is received as a gift in " xml:space="preserve">
@@ -349,12 +349,12 @@
       </trans-unit>
       <trans-unit id="A Pokémon targeted by this move can use Mirror-Move to copy it." xml:space="preserve">
         <source>A Pokémon targeted by this move can use Mirror-Move to copy it.</source>
-        <target state="translated">Un Pokémon ciblé par ce mouvement peut utiliser Mirror-Move pour le copier.</target>
+        <target state="translated">Un Pokémon ciblé par cette attaque peut utiliser Mimique pour le copier.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A single " xml:space="preserve">
         <source>A single </source>
-        <target state="translated">Un célibataire</target>
+        <target state="translated">Un unique </target>
         <note>Catch Info a single</note>
       </trans-unit>
       <trans-unit id="ACC" xml:space="preserve">
@@ -680,7 +680,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Ball" xml:space="preserve">
         <source>Ball</source>
-        <target state="translated">Boule</target>
+        <target state="translated">Ball</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Ballistics" xml:space="preserve">
@@ -3982,7 +3982,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Sorry, better luck next time. It’s: " xml:space="preserve">
         <source>Sorry, better luck next time. It’s: </source>
-        <target state="translated">Désolé, meilleure chance la prochaine fois. C'est :</target>
+        <target state="translated">Désolé, vous ferez mieux la prochaine fois. C'est : </target>
         <note>Lose game text, shown before creature name</note>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
@@ -5006,12 +5006,12 @@ Item Category
       </trans-unit>
       <trans-unit id="at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" xml:space="preserve">
         <source>at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation</source>
-        <target state="translated">Au niveau 25 seulement lorsqu'il est nivelé dans une bataille. S'il n'apparaît pas dans la bataille, il n'y aura pas d'animation de l'évolution</target>
+        <target state="translated">Au niveau 25 seulement lorsqu'il monte de niveau pendant un combat. S'il n'apparaît pas dans la bataille, il n'y aura pas d'animation de l'évolution</target>
         <note>Maushold evolution text</note>
       </trans-unit>
       <trans-unit id="at level 38 when leveled up while connected with another player via the Union Circle" xml:space="preserve">
         <source>at level 38 when leveled up while connected with another player via the Union Circle</source>
-        <target state="translated">au niveau 38 lorsqu'il est nivelé tout en étant connecté à un autre joueur via l'Union Circle</target>
+        <target state="translated">au niveau 38 lorsqu'il augmente de niveau tout en étant connecté à un autre joueur via l'Union Circle</target>
         <note>Palafin evolution text</note>
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
@@ -5106,7 +5106,7 @@ Item Category
       </trans-unit>
       <trans-unit id="when levelled up" xml:space="preserve">
         <source>when levelled up</source>
-        <target state="translated">quand il est nivelé</target>
+        <target state="translated">quand il augmente de niveau</target>
         <note>text for creatures that evolve by levelling up</note>
       </trans-unit>
       <trans-unit id="when levelled up after defeating three Bisharp, each carrying a Leader’s Crest" xml:space="preserve">
@@ -5131,7 +5131,7 @@ Item Category
       </trans-unit>
       <trans-unit id="when traded" xml:space="preserve">
         <source>when traded</source>
-        <target state="translated">quand échangé</target>
+        <target state="translated">une fois échangé</target>
         <note>text for creatures that level up when traded</note>
       </trans-unit>
       <trans-unit id="when traded with " xml:space="preserve">
