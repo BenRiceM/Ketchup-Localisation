@@ -410,17 +410,17 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
         <source>Adds ghost to the target’s types.</source>
-        <target state="translated">Ajoute du fantôme aux types de la cible.</target>
+        <target state="translated">Ajoute fantôme aux types de la cible.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
         <source>Adds grass to the target’s types.</source>
-        <target state="translated">Ajoute de l'herbe aux types de la cible.</target>
+        <target state="translated">Ajoute herbe aux types de la cible.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
         <source>Afer defeating the Elite Four a second time.</source>
-        <target state="translated">Après avoir battu les Elite Four une deuxième fois.</target>
+        <target state="translated">Après avoir battu le Conseil 4 une deuxième fois.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
