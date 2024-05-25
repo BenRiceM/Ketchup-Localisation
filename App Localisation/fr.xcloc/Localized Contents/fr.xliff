@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id=" if female" xml:space="preserve">
         <source> if female</source>
-        <target state="translated"> si femme</target>
+        <target state="translated"> si femelle</target>
         <note>if female evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if genderless" xml:space="preserve">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id=" if male" xml:space="preserve">
         <source> if male</source>
-        <target state="translated"> si masculin</target>
+        <target state="translated"> si mâle</target>
         <note>if male evolution requirement   </note>
       </trans-unit>
       <trans-unit id=" in " xml:space="preserve">
