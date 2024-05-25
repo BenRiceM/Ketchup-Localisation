@@ -385,7 +385,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="About Ketchup" xml:space="preserve">
         <source>About Ketchup</source>
-        <target state="translated">À propos du Ketchup</target>
+        <target state="translated">À propos de Ketchup</target>
         <note/>
       </trans-unit>
       <trans-unit id="Accuracy" xml:space="preserve">
