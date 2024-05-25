@@ -1580,7 +1580,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
         <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
-        <target state="translated">Pendant des années, j'ai voulu construire une application Pokédex, mais je n'ai jamais pu trouver le temps ou l'angle unique pour la justifier. Au début de 2024, j'ai décidé d'y aller. J'ai eu une nouvelle idée pour un champ de recherche combiné, une barre d'onglets et une vue d'historique qui, selon moi, pourrait vraiment lier l'ensemble de l'application et rendre la navigation incroyablement rapide et fluide. J'espère que la combinaison de ce nouveau système de navigation et de toutes les informations de l'application plaira aux anciens et aux nouveaux fans des jeux Pokémon, autant que j'ai aimé y travailler.</target>
+        <target state="translated">Pendant des années, j'ai voulu construire une application Pokédex, mais je n'ai jamais pu trouver le temps ou l'angle unique pour la justifier. Au début de 2024, j'ai décidé de me lancer. J'ai eu une nouvelle idée pour un champ de recherche combiné, une barre d'onglets et une vue d'historique qui, selon moi, pourrait vraiment lier l'ensemble de l'application et rendre la navigation incroyablement rapide et fluide. J'espère que la combinaison de ce nouveau système de navigation et de toutes les informations de l'application plaira aux anciens et aux nouveaux fans des jeux Pokémon, autant que j'ai aimé y travailler.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
@@ -2142,7 +2142,7 @@ Pokémon Type Ground</note>
       <trans-unit id="I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. &#10;— Ben" xml:space="preserve">
         <source>I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. 
 — Ben</source>
-        <target state="translated">J'apprécie vraiment la vie privée de mes clients, c'est pourquoi je ne fais pas de suivi personnalisé. La seule chose qui m'intéresse est de m'assurer que l'application fonctionne bien. - Ben</target>
+        <target state="translated">J’accorde énormément d’importance au respect de la vie privée de mes utilisateurs. C’est pourquoi je ne fais pas de suivi personnalisé. La seule chose qui m'intéresse est de m'assurer que l'application fonctionne bien. - Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available." xml:space="preserve">
@@ -4242,7 +4242,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!" xml:space="preserve">
         <source>There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!</source>
-        <target state="translated">Il n’y a pas de différence dans ce que vous obtenez, Ketchup+ Gold est juste un moyen facile de laisser un pourboire supplémentaire si vous vous sentez généreux et que vous voulez montrer une appréciation supplémentaire pour l’application!</target>
+        <target state="translated">Il n’y a pas de différence dans ce que vous obtenez, Ketchup+ Gold est juste un moyen facile de laisser un pourboire supplémentaire si vous vous sentez généreux et que vous voulez d’avantage soutenir l’application!</target>
         <note/>
       </trans-unit>
       <trans-unit id="They’ll show up here after you’ve chosen some." xml:space="preserve">
