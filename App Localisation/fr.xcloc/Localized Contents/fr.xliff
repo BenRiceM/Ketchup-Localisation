@@ -395,17 +395,17 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Add DS Skin" xml:space="preserve">
         <source>Add DS Skin</source>
-        <target state="translated">Ajouter la Skin DS</target>
+        <target state="translated">Ajouter le Skin DS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add GBA Skin" xml:space="preserve">
         <source>Add GBA Skin</source>
-        <target state="translated">Ajouter la Skin GBA</target>
+        <target state="translated">Ajouter le Skin GBA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add GBC Skin" xml:space="preserve">
         <source>Add GBC Skin</source>
-        <target state="translated">Ajouter la Skin GBC</target>
+        <target state="translated">Ajouter le Skin GBC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
