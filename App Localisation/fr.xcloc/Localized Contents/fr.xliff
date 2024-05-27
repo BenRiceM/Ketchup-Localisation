@@ -44,52 +44,52 @@
       </trans-unit>
       <trans-unit id=" can be acquired as a gift in " xml:space="preserve">
         <source> can be acquired as a gift in </source>
-        <target state="translated"> peut être acheté en cadeau dans</target>
+        <target state="translated"> peut être acheté en cadeau dans </target>
         <note>Catch Info is gift</note>
       </trans-unit>
       <trans-unit id=" can be acquired in " xml:space="preserve">
         <source> can be acquired in </source>
-        <target state="translated"> peut être acquis dans</target>
+        <target state="translated"> peut être obtenu dans </target>
         <note>Catch Info acquired in</note>
       </trans-unit>
       <trans-unit id=" can be acquired through breeding in " xml:space="preserve">
         <source> can be acquired through breeding in </source>
-        <target state="translated"> peut être acquis par la reproduction dans</target>
+        <target state="translated"> peut être obtenu par la reproduction dans </target>
         <note>Catch Info via breeding</note>
       </trans-unit>
       <trans-unit id=" can be acquired through evolution in " xml:space="preserve">
         <source> can be acquired through evolution in </source>
-        <target state="translated"> peut être acquis par l'évolution dans </target>
+        <target state="translated"> peut être obtenu par l'évolution dans </target>
         <note>Catch Info via evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired using a PokeWalker accessory in " xml:space="preserve">
         <source> can be acquired using a PokeWalker accessory in </source>
-        <target state="translated"> peut être acquis à l'aide d'un accessoire PokeWalker dans</target>
+        <target state="translated"> peut être obtenu à l'aide d'un accessoire PokeWalker dans </target>
         <note>Catch Info via Pokewalker</note>
       </trans-unit>
       <trans-unit id=" can be acquired via in-game trade " xml:space="preserve">
         <source> can be acquired via in-game trade </source>
-        <target state="translated"> peut être acquis via le commerce en jeu</target>
+        <target state="translated"> peut être obtenu via le commerce en jeu </target>
         <note>Catch Info via in-game trade</note>
       </trans-unit>
       <trans-unit id=" can be acquired via the National Park " xml:space="preserve">
         <source> can be acquired via the National Park </source>
-        <target state="translated"> peut être acheté via le parc national</target>
+        <target state="translated"> peut être obtenu via le parc national </target>
         <note>Catch Info via National Park</note>
       </trans-unit>
       <trans-unit id=" can be acquired via trade evolution in " xml:space="preserve">
         <source> can be acquired via trade evolution in </source>
-        <target state="translated"> peut être acquis via l'évolution du commerce dans </target>
+        <target state="translated"> peut être obtenu via l'évolution du commerce dans </target>
         <note>Catch Info via trade evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired with a second cartridge inserted into the system in " xml:space="preserve">
         <source> can be acquired with a second cartridge inserted into the system in </source>
-        <target state="translated"> peut être acquis avec une deuxième cartouche insérée dans le système en </target>
+        <target state="translated"> peut être obtenu avec une deuxième cartouche insérée dans le système en </target>
         <note>Catch Info via second DS cartridge</note>
       </trans-unit>
       <trans-unit id=" can be caught in " xml:space="preserve">
         <source> can be caught in </source>
-        <target state="translated"> peut être pris dans </target>
+        <target state="translated"> peut être attrapé dans </target>
         <note>Catch Info can be caught</note>
       </trans-unit>
       <trans-unit id=" can be purchased in " xml:space="preserve">
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id=" can be transferred from Pokémon Go into" xml:space="preserve">
         <source> can be transferred from Pokémon Go into</source>
-        <target state="translated"> peut être transféré de Pokémon Go à </target>
+        <target state="translated"> peut être transféré de Pokémon Go à</target>
         <note>Catch Info via Pokemon Go</note>
       </trans-unit>
       <trans-unit id=" can be transferred from Pokémon Ranger into " xml:space="preserve">
@@ -169,7 +169,7 @@
       </trans-unit>
       <trans-unit id=" if a specific creature is in the player’s party" xml:space="preserve">
         <source> if a specific creature is in the player’s party</source>
-        <target state="translated"> si une créature spécifique est dans la partie du joueur</target>
+        <target state="translated"> si une créature spécifique est dans l’équipe du joueur</target>
         <note>unknown specific creature in party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if affection is at least " xml:space="preserve">
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id=" if female" xml:space="preserve">
         <source> if female</source>
-        <target state="translated"> si femme</target>
+        <target state="translated"> si femelle</target>
         <note>if female evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if genderless" xml:space="preserve">
@@ -194,7 +194,7 @@
       </trans-unit>
       <trans-unit id=" if happiness is at least " xml:space="preserve">
         <source> if happiness is at least </source>
-        <target state="translated"> si le bonheur est au moins</target>
+        <target state="translated"> si le bonheur est au moins </target>
         <note>high happiness evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if its attack is equal to its defence" xml:space="preserve">
@@ -214,27 +214,27 @@
       </trans-unit>
       <trans-unit id=" if knowing " xml:space="preserve">
         <source> if knowing </source>
-        <target state="translated"> si je sais </target>
+        <target state="translated"> si connait </target>
         <note>evolution requirement knowing move condition text</note>
       </trans-unit>
       <trans-unit id=" if knowing a " xml:space="preserve">
         <source> if knowing a </source>
-        <target state="translated"> si je connais un </target>
+        <target state="translated"> si connait un </target>
         <note>evolution requirement knowing move condition text</note>
       </trans-unit>
       <trans-unit id=" if knowing a specific move" xml:space="preserve">
         <source> if knowing a specific move</source>
-        <target state="translated"> si vous connaissez un mouvement spécifique </target>
+        <target state="translated"> si connait une attaque spécifique</target>
         <note>unknown specific move evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if male" xml:space="preserve">
         <source> if male</source>
-        <target state="translated"> si masculin</target>
+        <target state="translated"> si mâle</target>
         <note>if male evolution requirement   </note>
       </trans-unit>
       <trans-unit id=" in " xml:space="preserve">
         <source> in </source>
-        <target state="translated"> dans</target>
+        <target state="translated"> dans </target>
         <note>_in_</note>
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
@@ -244,17 +244,17 @@
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
         <source> is in the player’s party</source>
-        <target state="translated"> est dans la fête du joueur</target>
+        <target state="translated"> est dans l'équipe du joueur</target>
         <note>creature in players party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" is incompatible with " xml:space="preserve">
         <source> is incompatible with </source>
-        <target state="translated"> est incompatible avec</target>
+        <target state="translated"> est incompatible avec </target>
         <note>Catch Info incompatible text</note>
       </trans-unit>
       <trans-unit id=" is one of the starter Pokémon in " xml:space="preserve">
         <source> is one of the starter Pokémon in </source>
-        <target state="translated"> est l'un des Pokémon de départ dans </target>
+        <target state="translated"> est l'un des Pokémon starter </target>
         <note>Catch Info is starter</note>
       </trans-unit>
       <trans-unit id=" is received as a gift in " xml:space="preserve">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id=" type creature is in the player’s party" xml:space="preserve">
         <source> type creature is in the player’s party</source>
-        <target state="translated"> la créature de type est dans la fête du joueur</target>
+        <target state="translated"> la créature de type est dans l’équipe du joueur</target>
         <note>in player party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" type move" xml:space="preserve">
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id=" while holding a specific item" xml:space="preserve">
         <source> while holding a specific item</source>
-        <target state="translated"> tout en tenant un objet spécifique </target>
+        <target state="translated"> tout en tenant un objet spécifique</target>
         <note>holding unknown item evolution requirement</note>
       </trans-unit>
       <trans-unit id=" while raining" xml:space="preserve">
@@ -299,22 +299,22 @@
       </trans-unit>
       <trans-unit id=" with a save file from Let’s Go Pikachu or Eevee on the same device." xml:space="preserve">
         <source> with a save file from Let’s Go Pikachu or Eevee on the same device.</source>
-        <target state="translated"> avec un fichier de sauvegarde de Let's Go Pikachu ou Eevee sur le même appareil.</target>
+        <target state="translated"> avec un fichier de sauvegarde de Let's Go Pikachu ou Évoli sur le même appareil.</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with a save file from Sword or Shield on the same device." xml:space="preserve">
         <source> with a save file from Sword or Shield on the same device.</source>
-        <target state="translated"> avec un fichier de sauvegarde de Sword ou Shield sur le même appareil.</target>
+        <target state="translated"> avec un fichier de sauvegarde de Épée ou Bouclier sur le même appareil.</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with either the Isle of Armor or Crown Tundra expansions." xml:space="preserve">
         <source> with either the Isle of Armor or Crown Tundra expansions.</source>
-        <target state="translated"> avec les extensions de l'Isle of Armor ou de la Crown Tundra.</target>
+        <target state="translated"> avec les extensions l’île solitaire de l’Armure ou les terres enneigées de la Couronne.</target>
         <note>Catch Info via Isle of Aemor or Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Crown Tundra expansion." xml:space="preserve">
         <source> with the Crown Tundra expansion.</source>
-        <target state="translated"> avec l'extension de la toundra de la couronne.</target>
+        <target state="translated"> avec l'extension les terres enneigées de la Couronne.</target>
         <note>Catch Info via Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Indigo Disk expansion." xml:space="preserve">
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id=" with the Isle of Armor expansion." xml:space="preserve">
         <source> with the Isle of Armor expansion.</source>
-        <target state="translated"> avec l'expansion de l'île d'armure.</target>
+        <target state="translated"> avec l'extension l’île solitaire de l’Armure.</target>
         <note>Catch Info via Isle of Armor</note>
       </trans-unit>
       <trans-unit id=" with the Teal Mask expansion." xml:space="preserve">
@@ -349,12 +349,12 @@
       </trans-unit>
       <trans-unit id="A Pokémon targeted by this move can use Mirror-Move to copy it." xml:space="preserve">
         <source>A Pokémon targeted by this move can use Mirror-Move to copy it.</source>
-        <target state="translated">Un Pokémon ciblé par ce mouvement peut utiliser Mirror-Move pour le copier.</target>
+        <target state="translated">Un Pokémon ciblé par cette attaque peut utiliser Mimique pour le copier.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A single " xml:space="preserve">
         <source>A single </source>
-        <target state="translated">Un célibataire</target>
+        <target state="translated">Un unique </target>
         <note>Catch Info a single</note>
       </trans-unit>
       <trans-unit id="ACC" xml:space="preserve">
@@ -385,7 +385,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="About Ketchup" xml:space="preserve">
         <source>About Ketchup</source>
-        <target state="translated">À propos du Ketchup</target>
+        <target state="translated">À propos de Ketchup</target>
         <note/>
       </trans-unit>
       <trans-unit id="Accuracy" xml:space="preserve">
@@ -395,32 +395,32 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Add DS Skin" xml:space="preserve">
         <source>Add DS Skin</source>
-        <target state="translated">Ajouter la Skin DS</target>
+        <target state="translated">Ajouter le Skin DS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add GBA Skin" xml:space="preserve">
         <source>Add GBA Skin</source>
-        <target state="translated">Ajouter la Skin GBA</target>
+        <target state="translated">Ajouter le Skin GBA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add GBC Skin" xml:space="preserve">
         <source>Add GBC Skin</source>
-        <target state="translated">Ajouter la Skin GBC</target>
+        <target state="translated">Ajouter le Skin GBC</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
         <source>Adds ghost to the target’s types.</source>
-        <target state="translated">Ajoute du fantôme aux types de la cible.</target>
+        <target state="translated">Ajoute fantôme aux types de la cible.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
         <source>Adds grass to the target’s types.</source>
-        <target state="translated">Ajoute de l'herbe aux types de la cible.</target>
+        <target state="translated">Ajoute herbe aux types de la cible.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
         <source>Afer defeating the Elite Four a second time.</source>
-        <target state="translated">Après avoir battu les Elite Four une deuxième fois.</target>
+        <target state="translated">Après avoir battu le Conseil 4 une deuxième fois.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
@@ -680,7 +680,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Ball" xml:space="preserve">
         <source>Ball</source>
-        <target state="translated">Boule</target>
+        <target state="translated">Ball</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Ballistics" xml:space="preserve">
@@ -856,7 +856,7 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Catch info is unavailble for " xml:space="preserve">
         <source>Catch info is unavailble for </source>
-        <target state="translated">Les informations de capture ne sont pas disponibles pour</target>
+        <target state="translated">Les informations de capture ne sont pas disponibles pour </target>
         <note/>
       </trans-unit>
       <trans-unit id="Catching" xml:space="preserve">
@@ -1580,7 +1580,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
         <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
-        <target state="translated">Pendant des années, j'ai voulu construire une application Pokédex, mais je n'ai jamais pu trouver le temps ou l'angle unique pour la justifier. Au début de 2024, j'ai décidé d'y aller. J'ai eu une nouvelle idée pour un champ de recherche combiné, une barre d'onglets et une vue d'historique qui, selon moi, pourrait vraiment lier l'ensemble de l'application et rendre la navigation incroyablement rapide et fluide. J'espère que la combinaison de ce nouveau système de navigation et de toutes les informations de l'application plaira aux anciens et aux nouveaux fans des jeux Pokémon, autant que j'ai aimé y travailler.</target>
+        <target state="translated">Pendant des années, j'ai voulu construire une application Pokédex, mais je n'ai jamais pu trouver le temps ou l'angle unique pour la justifier. Au début de 2024, j'ai décidé de me lancer. J'ai eu une nouvelle idée pour un champ de recherche combiné, une barre d'onglets et une vue d'historique qui, selon moi, pourrait vraiment lier l'ensemble de l'application et rendre la navigation incroyablement rapide et fluide. J'espère que la combinaison de ce nouveau système de navigation et de toutes les informations de l'application plaira aux anciens et aux nouveaux fans des jeux Pokémon, autant que j'ai aimé y travailler.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
@@ -2142,7 +2142,7 @@ Pokémon Type Ground</note>
       <trans-unit id="I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. &#10;— Ben" xml:space="preserve">
         <source>I really value the privacy of my customers, which is why I don’t do any personalised tracking. The only thing I’m interested in is making sure the app works well. 
 — Ben</source>
-        <target state="translated">J'apprécie vraiment la vie privée de mes clients, c'est pourquoi je ne fais pas de suivi personnalisé. La seule chose qui m'intéresse est de m'assurer que l'application fonctionne bien. - Ben</target>
+        <target state="translated">J’accorde énormément d’importance au respect de la vie privée de mes utilisateurs. C’est pourquoi je ne fais pas de suivi personnalisé. La seule chose qui m'intéresse est de m'assurer que l'application fonctionne bien. - Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="I use open-source artwork, which doesn’t include every form of every creature. I’ll add missing artwork as it becomes available." xml:space="preserve">
@@ -2282,7 +2282,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="In App Purchase Unavailable" xml:space="preserve">
         <source>In App Purchase Unavailable</source>
-        <target state="translated">Achat dans l’application indisponible</target>
+        <target state="translated">Achat-intégré indisponible</target>
         <note/>
       </trans-unit>
       <trans-unit id="In a Pinch" xml:space="preserve">
@@ -2523,12 +2523,12 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters" xml:space="preserve">
         <source>Kubfu evolves into Rapid Strike Urshifu when exposed to the Scroll of Waters</source>
-        <target state="translated">Kubfu évolue en Rapid Strike Urshifu lorsqu'il est exposé au rouleau d'eau</target>
+        <target state="translated">Kubfu évolue en Rapid Strike Urshifu lorsqu'il est exposé au Rouleau de l’Eau</target>
         <note>Kubfu Rapid evolution text</note>
       </trans-unit>
       <trans-unit id="Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness" xml:space="preserve">
         <source>Kubfu evolves into Single Strike Urshifu when exposed to the Scroll of Darkness</source>
-        <target state="translated">Kubfu évolue en Urshifu à frappe unique lorsqu'il est exposé au rouleau des ténèbres</target>
+        <target state="translated">Kubfu évolue en Urshifu à frappe unique lorsqu'il est exposé au Rouleau des Ténèbres</target>
         <note>Kubfu Single evolution text</note>
       </trans-unit>
       <trans-unit id="Leaf Green" xml:space="preserve">
@@ -3982,7 +3982,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Sorry, better luck next time. It’s: " xml:space="preserve">
         <source>Sorry, better luck next time. It’s: </source>
-        <target state="translated">Désolé, meilleure chance la prochaine fois. C'est :</target>
+        <target state="translated">Désolé, vous ferez mieux la prochaine fois. C'est : </target>
         <note>Lose game text, shown before creature name</note>
       </trans-unit>
       <trans-unit id="Sort Order" xml:space="preserve">
@@ -4242,7 +4242,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!" xml:space="preserve">
         <source>There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!</source>
-        <target state="translated">Il n’y a pas de différence dans ce que vous obtenez, Ketchup+ Gold est juste un moyen facile de laisser un pourboire supplémentaire si vous vous sentez généreux et que vous voulez montrer une appréciation supplémentaire pour l’application!</target>
+        <target state="translated">Il n’y a pas de différence dans ce que vous obtenez, Ketchup+ Gold est juste un moyen facile de laisser un pourboire supplémentaire si vous vous sentez généreux et que vous voulez d’avantage soutenir l’application!</target>
         <note/>
       </trans-unit>
       <trans-unit id="They’ll show up here after you’ve chosen some." xml:space="preserve">
@@ -4841,7 +4841,7 @@ Item Category
       </trans-unit>
       <trans-unit id="With " xml:space="preserve">
         <source>With </source>
-        <target state="translated">Avec</target>
+        <target state="translated">Avec </target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns." xml:space="preserve">
@@ -4991,7 +4991,7 @@ Item Category
       </trans-unit>
       <trans-unit id="a specific item" xml:space="preserve">
         <source>a specific item</source>
-        <target state="translated"> article spécifique</target>
+        <target state="translated">un article spécifique</target>
         <note>a specific item evolution text</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
@@ -5006,12 +5006,12 @@ Item Category
       </trans-unit>
       <trans-unit id="at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" xml:space="preserve">
         <source>at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation</source>
-        <target state="translated">Au niveau 25 seulement lorsqu'il est nivelé dans une bataille. S'il n'apparaît pas dans la bataille, il n'y aura pas d'animation de l'évolution</target>
+        <target state="translated">Au niveau 25 seulement lorsqu'il monte de niveau pendant un combat. S'il n'apparaît pas dans la bataille, il n'y aura pas d'animation de l'évolution</target>
         <note>Maushold evolution text</note>
       </trans-unit>
       <trans-unit id="at level 38 when leveled up while connected with another player via the Union Circle" xml:space="preserve">
         <source>at level 38 when leveled up while connected with another player via the Union Circle</source>
-        <target state="translated">au niveau 38 lorsqu'il est nivelé tout en étant connecté à un autre joueur via l'Union Circle</target>
+        <target state="translated">au niveau 38 lorsqu'il augmente de niveau tout en étant connecté à un autre joueur via l'Union Circle</target>
         <note>Palafin evolution text</note>
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
@@ -5086,7 +5086,7 @@ Item Category
       </trans-unit>
       <trans-unit id="when exposed to a " xml:space="preserve">
         <source>when exposed to a </source>
-        <target state="translated">lorsqu'elle est exposée à un</target>
+        <target state="translated">lorsqu'elle est exposée à un </target>
         <note>when exposed to item evolution text</note>
       </trans-unit>
       <trans-unit id="when leveled up after losing at least 294 HP from recoil damage" xml:space="preserve">
@@ -5106,7 +5106,7 @@ Item Category
       </trans-unit>
       <trans-unit id="when levelled up" xml:space="preserve">
         <source>when levelled up</source>
-        <target state="translated">quand il est nivelé</target>
+        <target state="translated">quand il augmente de niveau</target>
         <note>text for creatures that evolve by levelling up</note>
       </trans-unit>
       <trans-unit id="when levelled up after defeating three Bisharp, each carrying a Leader’s Crest" xml:space="preserve">
@@ -5131,7 +5131,7 @@ Item Category
       </trans-unit>
       <trans-unit id="when traded" xml:space="preserve">
         <source>when traded</source>
-        <target state="translated">quand échangé</target>
+        <target state="translated">une fois échangé</target>
         <note>text for creatures that level up when traded</note>
       </trans-unit>
       <trans-unit id="when traded with " xml:space="preserve">
