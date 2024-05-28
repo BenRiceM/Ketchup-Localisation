@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="ATK" xml:space="preserve">
         <source>ATK</source>
-        <target state="translated">ATK</target>
+        <target state="translated">ATA</target>
         <note>Battle Stat: ATK (Attack)</note>
       </trans-unit>
       <trans-unit id="Abilities" xml:space="preserve">
@@ -755,7 +755,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Brilliant Diamond" xml:space="preserve">
         <source>Brilliant Diamond</source>
-        <target state="translated">Diamante brillante</target>
+        <target state="translated">Diamante Brillante</target>
         <note>Pokémon Brilliant Diamond</note>
       </trans-unit>
       <trans-unit id="Bug" xml:space="preserve">
@@ -1182,7 +1182,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Dex Completion" xml:space="preserve">
         <source>Dex Completion</source>
-        <target state="translated">Finalización de destreza</target>
+        <target state="translated">Completar Pokédex</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Diamond" xml:space="preserve">
@@ -1726,7 +1726,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="HP" xml:space="preserve">
         <source>HP</source>
-        <target state="translated">caballos de fuerza</target>
+        <target state="translated">PS</target>
         <note>Battle Stat: HP (Health Points)</note>
       </trans-unit>
       <trans-unit id="Halves HP of all Pokémon on the field. Must recharge" xml:space="preserve">
@@ -1946,7 +1946,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Hatch Counter" xml:space="preserve">
         <source>Hatch Counter</source>
-        <target state="translated">Contador de escotillas</target>
+        <target state="translated">Pasos para la eclosión</target>
         <note/>
       </trans-unit>
       <trans-unit id="Headbutting a high encounter rate tree" xml:space="preserve">
@@ -1981,7 +1981,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Healing" xml:space="preserve">
         <source>Healing</source>
-        <target state="translated">Cicatrización</target>
+        <target state="translated">Curación</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Heals the target for half its max HP." xml:space="preserve">
@@ -2021,7 +2021,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Heart Gold" xml:space="preserve">
         <source>HeartGold</source>
-        <target state="translated">Corazón de Oro</target>
+        <target state="translated">HeartGold</target>
         <note>Pokémon Heart Gold</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -2031,7 +2031,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Held Items" xml:space="preserve">
         <source>Held Items</source>
-        <target state="translated">Artículos retenidos</target>
+        <target state="translated">Artículos equipables</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Hello, world!" xml:space="preserve">
@@ -3786,7 +3786,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Revival" xml:space="preserve">
         <source>Revival</source>
-        <target state="translated">Renacimiento</target>
+        <target state="translated">Revivir</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Rock" xml:space="preserve">
@@ -3801,17 +3801,17 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="SPATK" xml:space="preserve">
         <source>SPATK</source>
-        <target state="translated">SPATK</target>
+        <target state="translated">ATA ES</target>
         <note>Battle Stat: SPATK (Special Attack)</note>
       </trans-unit>
       <trans-unit id="SPD" xml:space="preserve">
         <source>SPD</source>
-        <target state="translated">SPD</target>
+        <target state="translated">VEL</target>
         <note>Battle Stat: SPD (Speed)</note>
       </trans-unit>
       <trans-unit id="SPDEF" xml:space="preserve">
         <source>SPDEF</source>
-        <target state="translated">SPDEF</target>
+        <target state="translated">DEF ES</target>
         <note>Battle Stat: SPDEF (Special Defense)</note>
       </trans-unit>
       <trans-unit id="Sandwich Ingredients" xml:space="preserve">
@@ -3992,7 +3992,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Soul Silver" xml:space="preserve">
         <source>SoulSilver</source>
-        <target state="translated">Alma de plata</target>
+        <target state="translated">SoulSilver</target>
         <note>Pokémon Soul Silver</note>
       </trans-unit>
       <trans-unit id="Sound" xml:space="preserve">
@@ -4352,7 +4352,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Training" xml:space="preserve">
         <source>Training</source>
-        <target state="translated">Capacitación</target>
+        <target state="translated">Entrenamiento</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks." xml:space="preserve">
@@ -4705,7 +4705,7 @@ Item Category
       </trans-unit>
       <trans-unit id="Vitamins" xml:space="preserve">
         <source>Vitamins</source>
-        <target state="translated">vitaminas</target>
+        <target state="translated">Vitaminas</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Walking in bridge shadows" xml:space="preserve">
@@ -5073,7 +5073,7 @@ Item Category
       </trans-unit>
       <trans-unit id="starting at level " xml:space="preserve">
         <source>starting at level </source>
-        <target state="translated">empezando por el nivel </target>
+        <target state="translated">a partir del nivel </target>
         <note>text between evolution cretures and level</note>
       </trans-unit>
       <trans-unit id="to unlock all the great creatures and features" xml:space="preserve">
