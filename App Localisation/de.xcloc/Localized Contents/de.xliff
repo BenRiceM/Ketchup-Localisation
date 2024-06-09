@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
         <source> in the DS’s second slot.</source>
-        <target state="translated">im zweiten Steckplatz des DS.</target>
+        <target>im zweiten Steckplatz des DS.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
@@ -500,7 +500,7 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
         <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-        <target state="translated">Nachdem du Imitators Puppe an den Pokémon-Fanclub zurückgegeben hast.</target>
+        <target state="translated">Nachdem du Imitator Puppe an den Pokémon-Fanclub zurückgegeben hast.</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
@@ -897,7 +897,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Changes the target’s ability to Insomnia." xml:space="preserve">
         <source>Changes the target’s ability to Insomnia.</source>
-        <target state="translated">Ändert die Attacke des Ziels zu Munterkeit.</target>
+        <target state="translated">Ändert die Fähigkeit des Ziels zu Munterkeit.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the target’s ability to Simple." xml:space="preserve">
@@ -1182,7 +1182,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Dex Completion" xml:space="preserve">
         <source>Dex Completion</source>
-        <target state="translated">Dex-Vervollständigung</target>
+        <target state="translated">Dex Status</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Diamond" xml:space="preserve">
@@ -1328,12 +1328,12 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Effort Drop" xml:space="preserve">
         <source>Effort Drop</source>
-        <target state="translated">Aufwandsabfall</target>
+        <target state="translated">EV-Drop</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Effort Training" xml:space="preserve">
         <source>Effort Training</source>
-        <target state="translated">Anstrengungstraining</target>
+        <target state="translated">EV-Training</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Egg Group" xml:space="preserve">
@@ -1620,12 +1620,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" xml:space="preserve">
         <source>Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting</source>
-        <target state="translated">Galarian Yamask entwickelt sich zu Runerigus, wenn der Spieler unter dem großen Felsbogen in Dusty Bowl reist, nachdem Yamask mindestens 49 HP Schaden durch Angriffe ohne Ohnmacht erlitten hat</target>
+        <target state="translated">Galar-Makabaja entwickelt sich zu Oghnatoll, wenn die Spieler:in unter dem großen Felsbogen in Sandsturmkessel reist, nachdem Makabaja mindestens 49 KP Schaden durch Angriffe erlitten hat und nicht ohnmächtig ist.</target>
         <note>Galarian Yamask Evolution Text</note>
       </trans-unit>
       <trans-unit id="Gameplay" xml:space="preserve">
         <source>Gameplay</source>
-        <target state="translated">Spielweise</target>
+        <target state="translated">Gameplay</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Games" xml:space="preserve">
@@ -1645,12 +1645,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Get Ketchup+" xml:space="preserve">
         <source>Get Ketchup+</source>
-        <target state="translated">Holen Sie sich Ketchup+</target>
+        <target state="translated">Hol dir Ketchup+</target>
         <note/>
       </trans-unit>
       <trans-unit id="Get Ketchup+ to Unlock Filters" xml:space="preserve">
         <source>Get Ketchup+ to Unlock Filters</source>
-        <target state="translated">Holen Sie sich Ketchup+, um Filter freizuschalten</target>
+        <target state="translated">Hol dir Ketchup+ um Filter freizuschalten</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ghost" xml:space="preserve">
@@ -1665,7 +1665,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Gives the user’s held item to the target." xml:space="preserve">
         <source>Gives the user’s held item to the target.</source>
-        <target state="translated">Übergibt den vom Benutzer gehaltenen Gegenstand an das Ziel.</target>
+        <target state="translated">Übergibt den vom Anwender gehaltenen Gegenstand an das Ziel.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Gold" xml:space="preserve">
@@ -1675,12 +1675,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it." xml:space="preserve">
         <source>Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it.</source>
-        <target state="translated">Gewährt dem Benutzer für den Rest des Spielzugs Schutz und vergiftet jedes Pokémon, das versucht, eine Kontaktattacke auf es anzuwenden.</target>
+        <target state="translated">Gewährt dem Anwender für den Rest des Spielzugs Schutz und vergiftet jedes Pokémon, das versucht, eine Kontaktattacke auf es anzuwenden.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Grass" xml:space="preserve">
         <source>Grass</source>
-        <target state="translated">Gras</target>
+        <target state="translated">Pflanze</target>
         <note>Pokémon Type Grass</note>
       </trans-unit>
       <trans-unit id="Gravity" xml:space="preserve">
@@ -1696,7 +1696,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Grounds the target, and hits even Flying-type or levitating Pokémon." xml:space="preserve">
         <source>Grounds the target, and hits even Flying-type or levitating Pokémon.</source>
-        <target state="translated">Legt das Ziel auf den Boden und trifft sogar Pokémon vom Typ Flug oder schwebende Pokémon.</target>
+        <target state="translated">Zwingt das Ziel auf den Boden. Auch fliegende oder schwebende Pokémon werden getroffen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Growth Rate" xml:space="preserve">
@@ -1706,22 +1706,22 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Guarantees a critical hit with the user’s next move." xml:space="preserve">
         <source>Guarantees a critical hit with the user’s next move.</source>
-        <target state="translated">Garantiert einen kritischen Treffer beim nächsten Zug des Benutzers.</target>
+        <target state="translated">Garantiert einen kritischen Treffer beim nächsten Zug des Anwenders.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Guess 1" xml:space="preserve">
         <source>Guess 1</source>
-        <target state="translated">Rate mal 1</target>
+        <target state="translated">1. Versuch</target>
         <note>The first guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Guess 2" xml:space="preserve">
         <source>Guess 2</source>
-        <target state="translated">Rate mal 2</target>
+        <target state="translated">2. Versuch</target>
         <note>The second guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Guess 3" xml:space="preserve">
         <source>Guess 3</source>
-        <target state="translated">Rate mal 3</target>
+        <target state="translated">3. Versuch</target>
         <note>The third guess of the quiz</note>
       </trans-unit>
       <trans-unit id="HP" xml:space="preserve">
@@ -1736,37 +1736,37 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Halves all Electric-type damage." xml:space="preserve">
         <source>Halves all Electric-type damage.</source>
-        <target state="translated">Halbiert sämtlichen Schaden vom Typ Elektro.</target>
+        <target state="translated">Halbiert Elektro-Schaden.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Halves all Fire-type damage." xml:space="preserve">
         <source>Halves all Fire-type damage.</source>
-        <target state="translated">Halbiert sämtlichen Feuerschaden.</target>
+        <target state="translated">Halbiert Feuer-Schaden.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to badly poison the target." xml:space="preserve">
         <source>Has a chance to badly poison the target.</source>
-        <target state="translated">Es besteht die Chance, das Ziel schwer zu vergiften.</target>
+        <target state="translated">Hat die Chance, dass das Ziel schwer vergiftet wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn the target and a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to burn the target and a chance to make the target flinch.</source>
-        <target state="translated">Es besteht die Chance, dass das Ziel Verbrennungen erleidet und die Chance, dass das Ziel zusammenzuckt.</target>
+        <target state="translated">Hat die Chance, dass das Ziel Verbrennungen erleidet oder zusammenzuckt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn the target." xml:space="preserve">
         <source>Has a chance to burn the target.</source>
-        <target state="translated">Es besteht die Chance, das Ziel zu verbrennen.</target>
+        <target state="translated">Hat die Chance, dass das Ziel Verbrennungen erleidet.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn the target. Lets frozen Pokémon thaw themselves." xml:space="preserve">
         <source>Has a chance to burn the target. Lets frozen Pokémon thaw themselves.</source>
-        <target state="translated">Hat die Chance, das Ziel zu verbrennen. Lässt gefrorene Pokémon auftauen.</target>
+        <target state="translated">Hat die Chance, dass das Ziel Verbrennungen erleidet. Gefrorene Pokémon tauen auf.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to burn, freeze, or paralyze the target." xml:space="preserve">
         <source>Has a chance to burn, freeze, or paralyze the target.</source>
-        <target state="translated">Es besteht die Chance, das Ziel zu verbrennen, einzufrieren oder zu lähmen.</target>
+        <target state="translated">Hat die Chance, dass das Ziel Verbrennungen erleidet, einfriert oder gelähmt wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to confuse the target." xml:space="preserve">
@@ -1776,107 +1776,107 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Has a chance to freeze the target and a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to freeze the target and a chance to make the target flinch.</source>
-        <target state="translated">Es besteht die Chance, das Ziel einzufrieren, und die Chance, es zusammenzucken zu lassen.</target>
+        <target state="translated">Hat die Chance, dass das Ziel einfriert oder zusammenzuckt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to freeze the target." xml:space="preserve">
         <source>Has a chance to freeze the target.</source>
-        <target state="translated">Hat die Chance, das Ziel einzufrieren.</target>
+        <target state="translated">Hat die Chance, dass das Ziel einfriert.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to inflict a status effect which depends upon the terrain." xml:space="preserve">
         <source>Has a chance to inflict a status effect which depends upon the terrain.</source>
-        <target state="translated">Es besteht die Chance, einen Statuseffekt zu verursachen, der vom Gelände abhängt.</target>
+        <target state="translated">Hat die Chance einen Statuseffekt zu verursachen. Hängt vom Gelände ab.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Attack by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Attack by one stage.</source>
-        <target state="translated">Hat die Chance, den Angriff des Ziels um eine Stufe zu senken.</target>
+        <target state="translated">Hat die Chance, dass der Angriff des Ziels um eine Stufe verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Defense by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Defense by one stage.</source>
-        <target state="translated">Hat die Chance, die Verteidigung des Ziels um eine Stufe zu senken.</target>
+        <target state="translated">Hat die Chance, dass die Verteidigung des Ziels um eine Stufe verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Special Attack by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Special Attack by one stage.</source>
-        <target state="translated">Hat die Chance, den Spezialangriff des Ziels um eine Stufe zu senken.</target>
+        <target state="translated">Hat die Chance, dass der Spezial-Angriff des Ziels um eine Stufe verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Special Defense by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Special Defense by one stage.</source>
-        <target state="translated">Es besteht die Chance, die Spezialverteidigung des Ziels um eine Stufe zu senken.</target>
+        <target state="translated">Hat die Chance, dass die Spezial-Verteidigung des Ziels um eine Stufe verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Special Defense by two stages." xml:space="preserve">
         <source>Has a chance to lower the target’s Special Defense by two stages.</source>
-        <target state="translated">Es besteht die Chance, die Spezialverteidigung des Ziels um zwei Stufen zu senken.</target>
+        <target state="translated">Hat die Chance, dass die Spezial-Verteidigung des Ziels um zwei Stufen verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s Speed by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s Speed by one stage.</source>
-        <target state="translated">Hat die Chance, die Geschwindigkeit des Ziels um eine Stufe zu senken.</target>
+        <target state="translated">Hat die Chance, dass die Geschwindigkeit des Ziels um eine Stufe verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to lower the target’s accuracy by one stage." xml:space="preserve">
         <source>Has a chance to lower the target’s accuracy by one stage.</source>
-        <target state="translated">Es besteht die Chance, die Genauigkeit des Ziels um eine Stufe zu verringern.</target>
+        <target state="translated">Hat die Chance, dass die Genauigkeit des Ziels um eine Stufe verringert wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to make the target flinch.</source>
-        <target state="translated">Es besteht die Chance, dass das Ziel zusammenzuckt.</target>
+        <target state="translated">Hat die Chance, dass das Ziel zusammenzuckt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to make the target flinch. Only works if the user is sleeping." xml:space="preserve">
         <source>Has a chance to make the target flinch. Only works if the user is sleeping.</source>
-        <target state="translated">Es besteht die Chance, dass das Ziel zusammenzuckt. Funktioniert nur, wenn der Benutzer schläft.</target>
+        <target state="translated">Hat die Chance, dass das Ziel zusammenzuckt. Funktioniert nur, wenn der Anwender schläft.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to paralyze the target and a chance to make the target flinch." xml:space="preserve">
         <source>Has a chance to paralyze the target and a chance to make the target flinch.</source>
-        <target state="translated">Hat die Chance, das Ziel zu lähmen und die Chance, das Ziel zusammenzucken zu lassen.</target>
+        <target state="translated">Hat die Chance, dass das Zeil gelähmt wird oder zusammenzuckt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to paralyze the target." xml:space="preserve">
         <source>Has a chance to paralyze the target.</source>
-        <target state="translated">Hat die Chance, das Ziel zu lähmen.</target>
+        <target state="translated">Hat die Chance, dass das Zeil gelähmt wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to poison the target." xml:space="preserve">
         <source>Has a chance to poison the target.</source>
-        <target state="translated">Es besteht die Chance, das Ziel zu vergiften.</target>
+        <target state="translated">Hat die Chance, dass das Ziel vergiftet wird.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to put the target to sleep." xml:space="preserve">
         <source>Has a chance to put the target to sleep.</source>
-        <target state="translated">Hat die Chance, das Ziel einzuschläfern.</target>
+        <target state="translated">Hat die Chance, dass das Ziel einschläft.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise all of the user’s stats by one stage." xml:space="preserve">
         <source>Has a chance to raise all of the user’s stats by one stage.</source>
-        <target state="translated">Hat die Chance, alle Statistiken des Benutzers um eine Stufe zu erhöhen.</target>
+        <target state="translated">Hat die Chance, dass alle Statuswerte des Anwenders um eine Stufe steigen.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Attack by one stage." xml:space="preserve">
         <source>Has a chance to raise the user’s Attack by one stage.</source>
-        <target state="translated">Hat die Chance, den Angriff des Benutzers um eine Stufe zu erhöhen.</target>
+        <target state="translated">Hat die Chance, dass der Angriff des Anwenders um eine Stufe steigt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Defense by one stage." xml:space="preserve">
         <source>Has a chance to raise the user’s Defense by one stage.</source>
-        <target state="translated">Hat die Chance, die Verteidigung des Benutzers um eine Stufe zu erhöhen.</target>
+        <target state="translated">Hat die Chance, dass die Verteidigung des Anwenders um eine Stufe steigt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Defense by two stages for each target hit." xml:space="preserve">
         <source>Has a chance to raise the user’s Defense by two stages for each target hit.</source>
-        <target state="translated">Hat die Chance, die Verteidigung des Benutzers für jedes getroffene Ziel um zwei Stufen zu erhöhen.</target>
+        <target state="translated">Hat die Chance, dass die Verteidigung des Anwenders jedesmal um zwei Stufen steigt, wenn es ein Ziel trifft.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a chance to raise the user’s Special Attack by one stage." xml:space="preserve">
         <source>Has a chance to raise the user’s Special Attack by one stage.</source>
-        <target state="translated">Hat die Chance, den Spezialangriff des Benutzers um eine Stufe zu erhöhen.</target>
+        <target state="translated">Hat die Chance, dass der Spezial-Angriff des Anwenders um eine Stufe steigt.</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Has a higher chance to confuse the target when the recorded sound is louder." xml:space="preserve">
@@ -5017,7 +5017,7 @@ Item Category
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
         <source>change up your homescreen with some fresh app icons for Ketchup</source>
-        <target state="translated">ein neuer Look für deinen Homescreen danke neuer App-Icons</target>
+        <target state="translated">ein neuer Look für deinen Homescreen dank neuer App-Icons</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="drill down by type, catch state and more" xml:space="preserve">
@@ -5037,7 +5037,7 @@ Item Category
       </trans-unit>
       <trans-unit id="for these great features:" xml:space="preserve">
         <source>for these great features:</source>
-        <target state="translated">Für diese großartigen Funktionen:</target>
+        <target state="translated">für diese großartigen Funktionen:</target>
         <note/>
       </trans-unit>
       <trans-unit id="includes the original 151 Pokémon for free" xml:space="preserve">
