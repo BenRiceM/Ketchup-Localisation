@@ -1459,7 +1459,7 @@ Pokémon Type Fairy</note>
       </trans-unit>
       <trans-unit id="Fighting" xml:space="preserve">
         <source>Fighting</source>
-        <target state="translated">Peleas</target>
+        <target state="translated">Lucha</target>
         <note>Pokémon Type Fighting</note>
       </trans-unit>
       <trans-unit id="Filter" xml:space="preserve">
